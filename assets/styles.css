@@ -119,10 +119,7 @@ a:hover { text-decoration: underline; }
 .nav-all { display: inline-block; margin-top: .5rem; font-size: .82rem; color: var(--text-dim); }
 
 /* ---- hub ---------------------------------------------------------------- */
-.hub { max-width: 64rem; margin: 0 auto; }
-.hub-hero { padding: 2rem 0 2.5rem; }
-.hub-hero h1 { font-size: clamp(2rem, 5vw, 3rem); letter-spacing: -.03em; margin: 0 0 .5rem; }
-.hub-tagline { font-size: 1.15rem; color: var(--text-dim); margin: 0; }
+.hub { max-width: 64rem; margin: 0 auto; padding-top: 1rem; }
 .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr)); gap: 1.25rem; }
 .card {
   position: relative; display: flex; flex-direction: column; gap: .5rem; overflow: hidden;

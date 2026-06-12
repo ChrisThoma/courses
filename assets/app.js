@@ -93,7 +93,6 @@ const App = (() => {
     el.crumbs.innerHTML = '';
     document.documentElement.style.removeProperty('--accent');
 
-    const s = state.site.site || {};
     const cards = state.site.courses.map((c) => {
       const tags = (c.tags || []).map((t) => `<span class="tag">${h(t)}</span>`).join('');
       const accent = c.accent ? ` style="--card-accent:${h(c.accent)}"` : '';
@@ -110,10 +109,6 @@ const App = (() => {
 
     el.content.innerHTML = `
       <div class="hub">
-        <div class="hub-hero">
-          <h1>${h(s.title || 'Courses')}</h1>
-          <p class="hub-tagline">${h(s.tagline || '')}</p>
-        </div>
         <div class="card-grid">${cards}</div>
       </div>`;
     el.content.focus();
