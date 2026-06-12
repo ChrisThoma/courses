@@ -12,6 +12,14 @@
       "description": "Master the architecture of modern AI agent harnesses — the loop, tools, context, security, and evaluation — by building one from scratch and tearing down the production ones.",
       "tags": ["AI Agents", "LLMs", "Systems", "3 weeks"],
       "accent": "#6d5dfc"
+    },
+    {
+      "slug": "guitar-music-theory",
+      "title": "Applied Music Theory for Guitar",
+      "subtitle": "MUS-21G · A 3-week intensive",
+      "description": "Master practical music theory entirely on the fretboard — intervals, scales, chord construction, Roman numeral analysis, minor keys, blues, and modes — through daily lectures, drills, quizzes, and composition projects.",
+      "tags": ["Music Theory", "Guitar", "Ear Training", "3 weeks"],
+      "accent": "#d97706"
     }
   ]
 }

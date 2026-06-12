@@ -1,0 +1,49 @@
+{
+  "title": "Applied Music Theory for Guitar",
+  "subtitle": "MUS-21G · A 3-week intensive",
+  "description": "Everything a guitarist needs from music theory and nothing more — the fretboard as a map of intervals, scale and chord construction, Roman numeral analysis, minor keys, blues, and modes, taught entirely on the instrument through lectures, drills, quizzes, and composition projects.",
+  "accent": "#d97706",
+  "sections": [
+    {
+      "title": "Start Here",
+      "lessons": [
+        { "title": "Course Overview & How to Study", "path": "README.md" },
+        { "title": "Syllabus", "path": "SYLLABUS.md" },
+        { "title": "Mastery Rubric", "path": "RUBRIC.md" },
+        { "title": "Drill Menu", "path": "DRILLS.md" }
+      ]
+    },
+    {
+      "title": "Week 1 — Foundations",
+      "lessons": [
+        { "title": "Days 1–7: Notes, Intervals, Scales, Keys", "path": "week-1-foundations.md" }
+      ]
+    },
+    {
+      "title": "Week 2 — Harmony",
+      "lessons": [
+        { "title": "Days 8–14: Chords and Progressions", "path": "week-2-harmony.md" }
+      ]
+    },
+    {
+      "title": "Week 3 — Application",
+      "lessons": [
+        { "title": "Days 15–21: Minor, Blues, Modes, Real Music", "path": "week-3-application.md" }
+      ]
+    },
+    {
+      "title": "Supplement",
+      "lessons": [
+        { "title": "Rhythm & Meter for Guitarists", "path": "SUPPLEMENT-rhythm.md" }
+      ]
+    },
+    {
+      "title": "Assessments",
+      "lessons": [
+        { "title": "Projects (1–3 + Final)", "path": "PROJECTS.md" },
+        { "title": "Quizzes & Final Exam", "path": "QUIZZES.md" },
+        { "title": "Answer Keys", "path": "ANSWER-KEYS.md" }
+      ]
+    }
+  ]
+}
