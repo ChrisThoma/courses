@@ -25,6 +25,7 @@ const App = (() => {
     site: null,        // root courses.json
     course: null,      // current course.json
     courseSlug: null,
+    currentRoute: null,
   };
 
   const cache = new Map(); // url -> text
@@ -229,8 +230,19 @@ const App = (() => {
         `<a class="toc-${hd.tagName.toLowerCase()}" href="#${hd.id}">${h(hd.textContent)}</a>`
       ).join('');
 
-    // Scroll-spy.
     const links = [...el.toc.querySelectorAll('a')];
+    links.forEach((link) => {
+      link.addEventListener('click', (event) => {
+        event.preventDefault();
+        const target = document.getElementById(link.getAttribute('href').slice(1));
+        if (!target) return;
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        links.forEach((l) => l.classList.remove('active'));
+        link.classList.add('active');
+      });
+    });
+
+    // Scroll-spy.
     const obs = new IntersectionObserver((entries) => {
       entries.forEach((e) => {
         if (e.isIntersecting) {
@@ -263,6 +275,14 @@ const App = (() => {
 
   async function route() {
     const hash = location.hash || '#/';
+    if (!hash.startsWith('#/')) {
+      const target = document.getElementById(hash.slice(1));
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      if (state.currentRoute) history.replaceState(null, '', state.currentRoute);
+      return;
+    }
+    state.currentRoute = hash;
+
     const parts = hash.replace(/^#\/?/, '').split('/').filter(Boolean);
 
     try {
