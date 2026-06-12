@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>christhoma · Courses</title>
+  <meta name="description" content="Self-paced, deep-dive courses." />
+
+  <!-- Markdown rendering + syntax highlighting (CDN, no build step) -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/github-dark.min.css" id="hljs-theme" />
+  <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/highlight.min.js"></script>
+
+  <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+
+  <header class="topbar">
+    <button id="menuToggle" class="icon-btn" aria-label="Toggle navigation" title="Menu">☰</button>
+    <a class="brand" href="#/">christhoma<span class="brand-dot">·</span>courses</a>
+    <div class="topbar-spacer"></div>
+    <div id="crumbs" class="crumbs" aria-live="polite"></div>
+    <div class="topbar-spacer"></div>
+    <button id="themeToggle" class="icon-btn" aria-label="Toggle theme" title="Toggle light/dark">◑</button>
+  </header>
+
+  <div class="layout">
+    <aside id="sidebar" class="sidebar" aria-label="Course navigation"></aside>
+    <div id="scrim" class="scrim" hidden></div>
+
+    <main id="content" class="content" tabindex="-1">
+      <div class="loading">Loading…</div>
+    </main>
+
+    <nav id="toc" class="toc" aria-label="On this page"></nav>
+  </div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

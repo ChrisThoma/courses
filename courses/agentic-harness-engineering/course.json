@@ -1,0 +1,40 @@
+{
+  "title": "Agentic Harness Engineering",
+  "subtitle": "CS 2960 · A 3-week graduate-style intensive",
+  "description": "Master the architecture of modern AI agent harnesses by building one from scratch (Week 1), tearing down the production ones (Week 2), and shipping a production-grade harness with security, memory, and evals (Week 3).",
+  "accent": "#6d5dfc",
+  "sections": [
+    {
+      "title": "Start Here",
+      "lessons": [
+        { "title": "Syllabus & How to Study", "path": "README.md" },
+        { "title": "Mastery Rubric", "path": "RUBRIC.md" },
+        { "title": "Resources (Videos & Readings)", "path": "RESOURCES.md" }
+      ]
+    },
+    {
+      "title": "Week 1 — Foundations",
+      "lessons": [
+        { "title": "Lectures 1–5", "path": "week1/lectures.md" },
+        { "title": "Quiz 1", "path": "week1/quiz.md" },
+        { "title": "Project 1 — Minimal Harness", "path": "week1/project.md" }
+      ]
+    },
+    {
+      "title": "Week 2 — The Modern Landscape",
+      "lessons": [
+        { "title": "Lectures 6–10", "path": "week2/lectures.md" },
+        { "title": "Quiz 2", "path": "week2/quiz.md" },
+        { "title": "Project 2 & Midterm", "path": "week2/project.md" }
+      ]
+    },
+    {
+      "title": "Week 3 — Mastery",
+      "lessons": [
+        { "title": "Lectures 11–15", "path": "week3/lectures.md" },
+        { "title": "Final Exam", "path": "week3/quiz.md" },
+        { "title": "Capstone — prodharness", "path": "week3/capstone.md" }
+      ]
+    }
+  ]
+}
