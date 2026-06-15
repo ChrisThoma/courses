@@ -92,6 +92,7 @@ Fujifilm's in-camera color science is a genuine reason to enjoy JPEGs. Quick gui
 | Film sim | Character | Good for |
 |---|---|---|
 | **Provia / Standard** | balanced, neutral | default, anything |
+| **Reala Ace** | faithful color, firmer contrast (new to the X100VI) | a versatile everyday alternative to Provia |
 | **Astia / Soft** | soft contrast, gentle skin | portraits |
 | **Velvia / Vivid** | high saturation & contrast | landscapes, bold color |
 | **Classic Chrome** | muted, lower saturation, documentary | street, moody, editorial |
@@ -101,7 +102,7 @@ Fujifilm's in-camera color science is a genuine reason to enjoy JPEGs. Quick gui
 | **Monochrome** | basic B&W | B&W (Acros is better) |
 | **Eterna / Eterna Bleach Bypass** | cinematic, low saturation | video, muted stills |
 
-**Pro tip:** shoot **RAW+JPEG** so you get a finished film-sim JPEG *and* a flexible RAF. In Lightroom/Capture One you can also *start* a RAW edit from a film-sim profile (e.g., "Classic Chrome") and refine from there — best of both worlds. Fuji's free **X RAW Studio** develops RAFs on a computer using the camera's own engine.
+**Pro tip:** shoot **RAW+JPEG** so you get a finished film-sim JPEG *and* a flexible RAF. In Lightroom/Capture One you can also *start* a RAW edit from a film-sim profile (e.g., "Classic Chrome") and refine from there. Fuji's free **X RAW Studio** develops RAFs on a computer using the camera's own engine.
 
 ---
 
@@ -109,7 +110,7 @@ Fujifilm's in-camera color science is a genuine reason to enjoy JPEGs. Quick gui
 
 - **Use the EVF exposure preview while learning** — seeing the brightness before the shutter is the fastest way to internalize Week 1.
 - **Master the focus stick** so you place the AF point on the eye without lowering the camera.
-- **Learn zone focusing** (M + f/8 + ~2.5 m) — it turns the X100VI into the fastest point-and-shoot on earth for street.
+- **Learn zone focusing** (M + f/8 + ~2.5 m) — with no focus lag to wait on, it's about as fast as street shooting gets.
 - **Assign the ND filter and Film Sim to Fn buttons / the Q menu** for fast access.
-- **Embrace the single focal length.** Don't fight the 35mm view — *learn* it. Knowing exactly what your one lens sees, without raising the camera, is a superpower the zoom crowd never develops.
-- **Carry it everywhere.** The whole point of this camera is that it's small enough to always have. The best camera is the one you have, and the best practice is daily.
+- **Embrace the single focal length.** Don't fight the 35mm view — learn it. Once you can tell what your one lens will capture before you raise it to your eye, you compose faster and more deliberately than most zoom shooters ever bother to.
+- **Carry it everywhere.** This camera earns its keep by being small enough to always have on you. The best camera is the one in your hand, and the best practice is daily.

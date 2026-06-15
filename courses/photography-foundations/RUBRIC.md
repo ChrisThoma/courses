@@ -95,7 +95,7 @@ Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 | 3 | Has a repeatable RAW workflow: import → cull → tone → color → local → sharpen → export; edits don't look overdone |
 | 4 | Edits to a clear intent, uses local adjustments and the tone curve fluently, maintains a sane catalog, and knows exactly when to stop |
 
-**Test:** Take one RAW file from import to a finished export and write the 6-step recipe you used.
+**Test:** Take one RAW file from import to a finished export and write the 7-step recipe you used.
 
 ## Domain 9: Seeing & voice (the point of all of it)
 

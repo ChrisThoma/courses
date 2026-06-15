@@ -1,6 +1,6 @@
 # Week 1 — The Camera & Exposure
 
-> **The thesis of this week:** a photograph is just a measured amount of light, recorded. There are exactly three controls that decide how much light reaches the sensor and what that light looks like — aperture, shutter speed, and ISO. Master how those three trade against each other and you never "leave it on Auto and hope" again. Everything else in photography is light and seeing; this week is the machine.
+> **This week in one line:** a photograph is a measured amount of light, recorded. Three controls decide how much light reaches the sensor and what it looks like: aperture, shutter speed, and ISO. Once you understand how they trade against each other, you stop leaving the camera on Auto and hoping. The rest of photography is light and seeing. This week is the machine.
 
 Throughout this course, green boxes like the one below map a concept to the **Fujifilm X100VI**. If you shoot a different camera, skip them — the concept is identical, only the dials differ.
 
@@ -17,7 +17,7 @@ Throughout this course, green boxes like the one below map a concept to the **Fu
 
 ### Lecture
 
-**A camera is a light-tight box with a hole, a timer, and a recorder.** That's not a metaphor — it's the whole machine:
+**A camera is a light-tight box with a hole, a timer, and a recorder.** That's pretty much the whole machine:
 
 1. **Light** bounces off your subject and travels toward the camera.
 2. The **lens** gathers that light and bends it to form a sharp image on the sensor.
@@ -36,7 +36,7 @@ Throughout this course, green boxes like the one below map a concept to the **Fu
 | **Shutter speed** | how long the hole is open | **motion** (frozen vs. blurred) |
 | **ISO** | how much the signal is amplified | **noise** (grain in the shadows) |
 
-This is why photography is interesting and not just "make it brighter." Every exposure is a *negotiation* among three side effects. This week we take them one at a time (Days 2–4), then assemble the negotiation (Day 4–5).
+This is what keeps photography from being a simple "make it brighter" dial. Every exposure is a negotiation among three side effects. We take them one at a time (Days 2–4), then put the negotiation together (Days 4–5).
 
 **Sensor size matters, but less than the internet says.** Bigger sensors gather more light and blur backgrounds more easily for a given framing, but a smaller sensor in good hands beats a big one in bad hands every time. Know your sensor's size as context, not as an excuse.
 
@@ -99,7 +99,7 @@ Each move to the right ("stopping down") = **half** the light, i.e. **one stop**
 
 ### Shoot
 1. **(20 min) The aperture ladder.** Put the camera in **Aperture-priority** (the mode where you pick aperture and the camera handles shutter — see Day 5). Pick a subject ~2 m away with a background well behind it. Shoot the *same frame* at f/2 (or your widest), f/4, f/5.6, f/8, f/16. Keep everything else identical.
-2. **(15 min)** Review the ladder side by side. Watch the background sharpen as the f-number climbs. *This is the single most important visual lesson of the week.*
+2. **(15 min)** Review the ladder side by side. Watch the background sharpen as the f-number climbs. If one thing sticks from this week, make it this.
 3. ★ **(10 min)** Find the closest-focusing distance of your lens and shoot a small object at f/2. Notice how absurdly thin the focus is — that's focus distance shrinking DoF.
 
 ### Daily drill (start today)
@@ -193,7 +193,7 @@ Each step to the right doubles the open time = one stop *more* light. Notice the
 
 **Noise is not the disaster beginners fear.** A sharp, well-composed photo at ISO 6400 beats a clean, blurry one at ISO 200 every time. Modern sensors are excellent; a slightly noisy keeper is a keeper. *Underexposing* and brightening later makes noise *worse* than just using a higher ISO in the first place — so expose correctly at the higher ISO.
 
-**The Exposure Triangle.** Here it is, assembled:
+**The Exposure Triangle.** Put the three together and you get the picture every beginner photographer eventually meets:
 
 ```
               APERTURE
@@ -221,6 +221,8 @@ All three change brightness. Together they must add up to the *one* correct expo
 | f/8 | 1/60 | 50* | slower shutter, lower ISO → more motion blur risk, cleaner |
 | f/11 | 1/250 | 400 | stopped down 1, raised ISO 1 → deeper DoF, slightly noisier |
 
+*\*ISO 50 is a "pull"/extended setting on many cameras (base ISO is usually 100–200), so it may not be available on yours — the math is the point.*
+
 This is the move you make all day: *"I want a blurrier background, so I open up two stops — now I speed up the shutter two stops to compensate."* One stop given on one control must be taken back on another.
 
 > 🟩 **X100VI:** ISO is on the **dial nested under the shutter dial** — lift the outer ring and rotate, or assign ISO to the front command dial in the menu (many X100VI shooters prefer the command-dial method or **Auto-ISO**). Set up **Auto-ISO** (menu → ISO → choose a max ISO like 6400 and a minimum shutter speed like 1/125): now you set aperture and shutter creatively and the camera floats ISO to expose correctly without ever dropping below your shake/motion limit. This is the single best "set and forget" config for street and travel.
@@ -239,7 +241,7 @@ This is the move you make all day: *"I want a blurrier background, so I open up 
 ### Self-check
 1. What does raising ISO cost you?
 2. What's the rule for choosing ISO?
-3. You're at f/5.6, 1/250, ISO 400 and open up two stops to f/2.8... wait, that's one stop. Open *one* stop to f/4 — how do you keep brightness the same using shutter?
+3. You're at f/5.6, 1/250, ISO 400 and open one stop to f/4 — how do you keep brightness the same using shutter?
 4. Which control do you set *first*, and how do you decide?
 5. What does Auto-ISO with a minimum shutter speed buy you?
 
@@ -353,7 +355,7 @@ A perfectly exposed, beautifully composed photo that's *out of focus* is trash. 
 
 **Two pro techniques:**
 1. **Focus-and-recompose:** put the center point on your subject, half-press to lock focus (AF-S), then recompose and shoot. Fast, but inaccurate at very shallow DoF (recomposing shifts the focal plane).
-2. **Back-button focus (BBF):** move focus off the shutter button onto a rear button (often AF-ON). Now the shutter *only* takes the picture; you focus with your thumb. This separates focusing from shooting and is a game-changer once it clicks — focus once, recompose and shoot many frames without refocusing.
+2. **Back-button focus (BBF):** move focus off the shutter button onto a rear button (often AF-ON). Now the shutter *only* takes the picture; you focus with your thumb. Separating focusing from shooting takes a little getting used to, but once it clicks you can focus once and then recompose and shoot a dozen frames without refocusing.
 
 **When AF fails** (low light, low contrast, glass, bars, busy scenes): switch to **manual focus**. Use **focus peaking** (colored highlights on in-focus edges) and **magnified view** to nail it. Manual focus is also the reliable choice for pre-focusing on a spot where action will happen (zone focusing in street photography).
 

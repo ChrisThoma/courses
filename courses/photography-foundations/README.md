@@ -39,11 +39,11 @@ It deliberately **omits** what beginners rarely need on day one: studio strobe l
 
 1. Read `SYLLABUS.md` first, then `RUBRIC.md` so you know what mastery looks like.
 2. Each day, work the lesson in order: **Lecture → Look (study the examples) → Shoot (the day's assignment) → Self-check.**
-3. **Always with a camera in your hands.** Photography you only read about is trivia. Every concept here is learned by making frames, then looking at them critically.
-4. **Review your own shots ruthlessly.** The most important skill in this course is learning to see *why* a photo did or didn't work. Keep the failures.
+3. **Always with a camera in your hands.** Reading about photography without shooting is just collecting trivia. Every concept here is meant to be learned by making frames and then looking hard at them.
+4. **Review your own shots honestly.** Learning to see *why* a photo did or didn't work is the skill that carries the whole course. Don't throw out the failures.
 5. Take quizzes closed-book. Grade yourself honestly against `ANSWER-KEYS.md` and the rubric.
 6. Do the projects. They are where the learning actually consolidates.
 
 ## A note on pace
 
-Three weeks is enough to *understand* every fundamental and to use your camera deliberately instead of hoping. The "eye" — the instant, intuitive read of light and composition — keeps developing for years. What this course gives you is the vocabulary, the technical control, and a daily practice habit so that those years of seeing actually compound.
+Three weeks is enough to understand every fundamental and to start using your camera on purpose instead of hoping. The "eye" — that quick, intuitive read of light and composition — takes years, and it never really stops developing. What you get here is the vocabulary, the technical control, and a daily habit, so that all those later years of shooting actually add up to something.

@@ -1,6 +1,6 @@
 # Week 3 — Craft & Workflow
 
-> **The thesis of this week:** the photograph isn't finished when the shutter clicks. The RAW file is a *negative* — a faithful but flat record of the light — and the edit is where you *develop* it into the image you saw. This week you build a repeatable digital-darkroom workflow, learn the conventions of the major genres so you can choose your lane, and start the lifelong project of developing a point of view. By Friday you'll have a finished portfolio.
+> **This week in one line:** the photograph isn't finished when the shutter clicks. A RAW file is a negative — a faithful but flat record of the light — and the edit is where you develop it into the image you saw. This week you'll build a repeatable digital-darkroom workflow, learn the conventions of the major genres so you can pick a lane, and start the long project of finding a point of view. By the end of it you'll have a finished portfolio.
 
 > **Shoot RAW from today on.** Weeks 1–2 may have been JPEG so you could focus on the camera. From Day 15, switch to RAW (or RAW+JPEG) so the editing lessons have real data to work with.
 
@@ -95,7 +95,7 @@ Today is **tone** — the brightness and contrast structure of the image, the fo
 - Lifting the bottom-left corner creates a **"faded/matte" film look** (blacks become dark gray).
 - It gives you region-by-region control the sliders can't.
 
-**The cardinal rule of editing: restraint.** The mark of a beginner is the *overcooked* photo — slammed contrast, crushed blacks, HDR halos, neon saturation. Edit to *enhance what's there and serve your intent*, then **stop**. A good test: edit, walk away, come back later — you'll almost always pull it back. **Less is more**, again.
+**The cardinal rule of editing: restraint.** Nothing marks a beginner faster than an overcooked photo — slammed contrast, crushed blacks, HDR halos, neon saturation. Enhance what's there, serve your intent, then stop. A useful test: edit, walk away, come back an hour later. You'll almost always dial it back.
 
 **Non-destructive editing:** RAW editors don't change your file; they store a list of instructions. You can always reset to the original, make virtual copies for variations, and re-edit forever. Edit fearlessly — nothing is permanent until export.
 
@@ -333,4 +333,4 @@ Take the **Final Exam** (`QUIZZES.md`), closed-book, then grade against `ANSWER-
 - **Keep the practice alive.** The single habit that compounds: keep shooting deliberately and reviewing critically. Pick one ongoing personal **project** (a series with a theme). Re-edit old RAW files as your skills grow — your negatives keep giving. Keep the daily light-spotting and composition drills going; they never stop paying off.
 
 ### Closing thought
-You started three weeks ago leaving the camera on Auto. Now you can walk into any light, choose every setting on purpose, see and shape the light, compose with intent, develop the negative, and explain every decision. That's not a beginner anymore — that's a photographer. The technique is yours for good. The eye is now a habit you'll spend years deepening. Go make pictures.
+You started three weeks ago leaving the camera on Auto. Now you can walk into almost any light, choose every setting on purpose, see and shape that light, compose with intent, develop the negative, and explain the reasoning behind each decision. That's no longer a beginner — it's a photographer. The technique is yours to keep. The eye is a habit you'll spend years deepening. Go make pictures.

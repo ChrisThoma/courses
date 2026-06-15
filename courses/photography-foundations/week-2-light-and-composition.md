@@ -1,6 +1,6 @@
 # Week 2 — Light & Composition
 
-> **The thesis of this week:** the camera is now reflex; this week is about *seeing*. Photography literally means "drawing with light," and what separates a snapshot from a photograph is two things — the quality of the light you put your subject in, and the decisions you make about what to include in the frame and where. These are learnable. This week gives you the vocabulary and the rules; the rest of your life gives you the eye.
+> **This week in one line:** the camera should be close to reflex by now, so we turn to seeing. Photography means "drawing with light," and two things mostly separate a snapshot from a photograph: the quality of the light your subject sits in, and what you choose to put in the frame and where. Both are learnable. This week hands you the vocabulary and the rules. The eye itself comes later, with practice.
 
 ---
 
@@ -13,7 +13,7 @@
 
 ### Lecture
 
-Beginners think about *subjects*. Photographers think about *light*. The same face, the same building, the same street looks ordinary or extraordinary depending entirely on the light falling on it. You usually can't change the light — but you can choose **where to stand**, **when to shoot**, and **where to put your subject**. That's the whole game.
+Beginners think about *subjects*. Photographers think about *light*. The same face, the same building, the same street looks ordinary or extraordinary depending entirely on the light falling on it. You usually can't change the light itself, but you can choose where to stand, when to shoot, and where to put your subject. Most of photography lives in those three choices.
 
 Describe any light by three properties:
 
@@ -91,7 +91,7 @@ Light isn't just bright or dim — it has **color**, and our brains hide this fr
 
 **The RAW lifeline (preview of Week 3):** if you shoot **RAW**, white balance is **fully adjustable after the fact with zero quality loss** — the camera records the actual sensor data and WB is just a tag. So if you shoot RAW, WB in-camera matters far less (set it to taste for the preview). If you shoot **JPEG**, WB is baked in and must be right in-camera. This is one of the biggest reasons to shoot RAW.
 
-> 🟩 **X100VI:** White balance lives in the **IQ menu** (or assign to a Fn button / the Q menu). The X100VI's **Film Simulations** interact with color and mood — *Provia* (standard), *Astia* (soft), *Velvia* (punchy, saturated landscapes), *Classic Chrome* (muted, documentary), *Acros* (superb B&W), and the *Classic Neg* / *Nostalgic Neg* looks. These are Fujifilm's beloved JPEG color science. **Key workflow tip:** set the camera to **RAW + JPEG** — you get a gorgeous film-sim JPEG to enjoy immediately *and* a flexible RAW with adjustable WB to edit later. Best of both worlds, and very on-brand for the X100VI.
+> 🟩 **X100VI:** White balance lives in the **IQ menu** (or assign to a Fn button / the Q menu). The X100VI's **Film Simulations** interact with color and mood — *Provia* (standard), *Astia* (soft), *Velvia* (punchy, saturated landscapes), *Classic Chrome* (muted, documentary), *Acros* (superb B&W), and the *Classic Neg* / *Nostalgic Neg* looks. These are Fujifilm's beloved JPEG color science. **Key workflow tip:** set the camera to **RAW + JPEG** — you get a gorgeous film-sim JPEG to enjoy immediately *and* a flexible RAW with adjustable WB to edit later. You give up nothing, and it's very on-brand for the X100VI.
 
 ### Look
 - Find a photo shot under household bulbs with the wrong WB (orange) and one shot in shade left on Daylight (blue). Then find a sunset where the photographer *kept* the warmth vs. one where Auto WB neutralized it to a dull gray. Decide which you prefer — that's a WB judgment.
@@ -143,7 +143,7 @@ Placing your subject (or a horizon, or a person's eyes) **on a third-line or int
 
 **Rule 3: Balance and visual weight.** Every element has visual "weight" — bright things, faces, sharp things, and large things pull the eye. A photo feels balanced when weights are distributed, not all dumped on one side. A lone subject on the right can be balanced by **negative space** (empty area) on the left, which also gives a sense of calm or scale.
 
-**Rule 4: Negative space.** Empty, simple areas (sky, wall, water) aren't wasted — they isolate the subject, set mood, and give the eye rest. Beginners cram the frame; pros often *empty* it. Less is usually more.
+**Rule 4: Negative space.** Empty, simple areas (sky, wall, water) aren't wasted space — they isolate the subject, set a mood, and give the eye somewhere to rest. Beginners tend to cram the frame; experienced shooters often empty it out.
 
 **Rule 5: Control the background.** A great subject is ruined by a pole "growing" out of their head or a cluttered, bright background stealing attention. *Look at the whole frame, not just the subject,* before shooting. Fixes: move yourself (change the background angle), open the aperture (blur it, Week 1), or move the subject. **Check your edges** — what's touching or cut awkwardly by the four borders? Tidy the edges and half your frames improve.
 
@@ -309,7 +309,7 @@ You now know how to *describe* light (Day 8) and its *color* (Day 9). Today: the
 
 **Overcast = a giant softbox.** Beginners think gray days are bad; they're *ideal* for portraits, flowers, anything wanting soft, even, shadowless light. Just keep the (boring white) sky out of the frame or let it go bright.
 
-**Window light (indoors).** A window with no direct sun is a beautiful soft side light — the entire history of portrait painting in one free tool. Place the subject *beside* it; the further from the window, the more dramatic the shadow falloff. A white wall/card opposite the window acts as a **reflector**, filling shadows.
+**Window light (indoors).** A window with no direct sun gives you a soft, directional light for free — it's the light the old portrait painters worked by. Place the subject *beside* it; the further from the window, the more dramatic the shadow falloff. A white wall/card opposite the window acts as a **reflector**, filling shadows.
 
 **Low light.** As light drops: open up (wider aperture), then slow the shutter to your handheld limit (Day 3), then raise ISO (Day 4) — in that order — and accept that a sharp, slightly noisy frame beats a clean blurry one. Find and use *any* available light source (a lamp, a sign, a phone). Brace the camera. Consider Auto-ISO with a sensible max.
 
