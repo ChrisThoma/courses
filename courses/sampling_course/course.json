@@ -1,0 +1,40 @@
+{
+  "title": "The Art of Sampling in Ableton Live",
+  "subtitle": "MUS-44S · A 3-week production intensive",
+  "description": "Turn any sound into music. A hands-on, self-paced course on sample-based music production in Ableton Live — from chopping a drum break in Simpler to multisampling an instrument, designing sound with resampling chains, arranging loops into a finished track, mixing it, and clearing it legally. Daily lectures, labs, quizzes, and three production projects.",
+  "accent": "#db2777",
+  "sections": [
+    {
+      "title": "Start Here",
+      "lessons": [
+        { "title": "Syllabus & How to Study", "path": "README.md" },
+        { "title": "Mastery Rubric", "path": "RUBRIC.md" },
+        { "title": "Resources (Videos & Reading)", "path": "RESOURCES.md" }
+      ]
+    },
+    {
+      "title": "Week 1 — Foundations: The Sample & the Instrument",
+      "lessons": [
+        { "title": "Lectures 1–5", "path": "week1/lectures.md" },
+        { "title": "Quiz 1", "path": "week1/quiz.md" },
+        { "title": "Project 1 — The Flip", "path": "week1/project.md" }
+      ]
+    },
+    {
+      "title": "Week 2 — Construction: Building a Track",
+      "lessons": [
+        { "title": "Lectures 6–10", "path": "week2/lectures.md" },
+        { "title": "Quiz 2", "path": "week2/quiz.md" },
+        { "title": "Project 2 — The Beat", "path": "week2/project.md" }
+      ]
+    },
+    {
+      "title": "Week 3 — Production & Polish",
+      "lessons": [
+        { "title": "Lectures 11–15", "path": "week3/lectures.md" },
+        { "title": "Final Exam", "path": "week3/quiz.md" },
+        { "title": "Capstone — The Finished Track", "path": "week3/capstone.md" }
+      ]
+    }
+  ]
+}

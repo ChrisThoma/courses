@@ -28,6 +28,14 @@
       "description": "Go from Auto to intentional — the exposure triangle, focus, reading and using light, the grammar of composition, color, and a complete RAW editing workflow — through daily lectures, shooting assignments, quizzes, and projects. Tailored to the Fujifilm X100VI.",
       "tags": ["Photography", "Digital Camera", "Fujifilm X100VI", "3 weeks"],
       "accent": "#0ea5e9"
+    },
+    {
+      "slug": "sampling_course",
+      "title": "The Art of Sampling in Ableton Live",
+      "subtitle": "MUS-44S · A 3-week production intensive",
+      "description": "Turn any sound into music. A hands-on course in sample-based production in Ableton Live — chopping breaks, multisampling instruments, designing sound by resampling, arranging loops into a finished track, mixing it, and clearing it legally — through daily lectures, labs, quizzes, and three production projects.",
+      "tags": ["Music Production", "Ableton Live", "Sampling", "3 weeks"],
+      "accent": "#db2777"
     }
   ]
 }
