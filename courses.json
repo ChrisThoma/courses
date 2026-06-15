@@ -52,6 +52,22 @@
       "description": "Go from never having held a banjo to playing real old-time tunes with a steady, danceable groove — the clawhammer striking hand and bum-ditty, hammer-ons, pull-offs, slides, and drop-thumb, a working repertoire (Cripple Creek, Old Joe Clark, Shady Grove), learning tunes by ear, alternate tunings, and the music's African-to-Appalachian history — through daily lectures, slow practice, quizzes, and recorded projects.",
       "tags": ["Banjo", "Old-Time Music", "Clawhammer", "3 weeks"],
       "accent": "#b45309"
+    },
+    {
+      "slug": "spanish-foundations",
+      "title": "Spanish I: Foundations for Speaking",
+      "subtitle": "SPAN-10 · A 3-week intensive",
+      "description": "Go from zero to holding real, simple conversations in Spanish. A speaking-first foundations course built on the grammar that matters early: pronunciation and stress, gender and articles, ser vs. estar, the present tense of regular and key irregular verbs, questions, negation, and how Spanish sentences are put together, through daily lectures, handwritten conjugation and copywork, spaced repetition, speaking drills, quizzes, and projects.",
+      "tags": ["Spanish", "Grammar", "Conversation", "3 weeks"],
+      "accent": "#dc2626"
+    },
+    {
+      "slug": "spanish-intermediate",
+      "title": "Spanish II: Intermediate Conversation & Grammar",
+      "subtitle": "SPAN-20 · A 3-week intensive",
+      "description": "Move from simple present-tense sentences to talking about anything, in any time frame. An intermediate course in the structures that unlock fluency: the preterite and imperfect and choosing between them, object pronouns, reflexives, commands, the future and conditional, the perfect tenses, comparisons, por vs. para, and the present subjunctive, through daily lectures, handwritten conjugation and composition, spaced repetition, speaking drills, quizzes, and projects.",
+      "tags": ["Spanish", "Grammar", "Conversation", "3 weeks"],
+      "accent": "#b91c1c"
     }
   ]
 }

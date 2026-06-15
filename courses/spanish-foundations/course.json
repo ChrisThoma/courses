@@ -1,0 +1,49 @@
+{
+  "title": "Spanish I: Foundations for Speaking",
+  "subtitle": "SPAN-10 · A 3-week intensive",
+  "description": "Go from zero to holding real, simple conversations in Spanish. A speaking-first foundations course built on the grammar that actually matters early: pronunciation, gender and articles, ser vs. estar, the present tense of regular and key irregular verbs, questions, negation, and how Spanish sentences are put together. Built around daily lectures, handwritten conjugation and copywork, spaced repetition, speaking drills, quizzes, and projects.",
+  "accent": "#dc2626",
+  "sections": [
+    {
+      "title": "Start Here",
+      "lessons": [
+        { "title": "Course Overview & How to Study", "path": "README.md" },
+        { "title": "Syllabus", "path": "SYLLABUS.md" },
+        { "title": "Mastery Rubric", "path": "RUBRIC.md" },
+        { "title": "Reference: Pronunciation, Verb Tables & Vocabulary", "path": "SUPPLEMENT-reference-and-vocabulary.md" }
+      ]
+    },
+    {
+      "title": "Week 1: Sounds, People & the Verb To Be",
+      "lessons": [
+        { "title": "Days 1 to 7: Pronunciation, Greetings, Nouns, Pronouns, Ser & Estar, Numbers", "path": "week-1-sounds-and-being.md" }
+      ]
+    },
+    {
+      "title": "Week 2: Regular Verbs & Sentence Structure",
+      "lessons": [
+        { "title": "Days 8 to 14: -ar/-er/-ir Verbs, Questions, Negation, Adjectives, Tener, Ir", "path": "week-2-verbs-and-sentences.md" }
+      ]
+    },
+    {
+      "title": "Week 3: Everyday Communication",
+      "lessons": [
+        { "title": "Days 15 to 21: Stem-Changing Verbs, Gustar, Time & Weather, Practical Speech, Commands", "path": "week-3-everyday-communication.md" }
+      ]
+    },
+    {
+      "title": "Practice",
+      "lessons": [
+        { "title": "Practice Menu (Drills)", "path": "DRILLS.md" }
+      ]
+    },
+    {
+      "title": "Assessments",
+      "lessons": [
+        { "title": "Projects (1 to 3 + Final Conversation)", "path": "PROJECTS.md" },
+        { "title": "Quizzes & Final Exam", "path": "QUIZZES.md" },
+        { "title": "Answer Keys", "path": "ANSWER-KEYS.md" }
+      ]
+    }
+  ]
+}

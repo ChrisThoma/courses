@@ -1,0 +1,49 @@
+{
+  "title": "Spanish II: Intermediate Conversation & Grammar",
+  "subtitle": "SPAN-20 · A 3-week intensive",
+  "description": "Move from simple present-tense sentences to talking about anything, in any time frame. An intermediate course in the structures that unlock real fluency: the preterite and imperfect past tenses and how to choose between them, object pronouns, reflexive verbs, commands, the future and conditional, the perfect tenses, comparisons, the por/para distinction, and a working command of the present subjunctive. Built around daily lectures, handwritten conjugation and composition, spaced repetition, speaking drills, quizzes, and projects.",
+  "accent": "#b91c1c",
+  "sections": [
+    {
+      "title": "Start Here",
+      "lessons": [
+        { "title": "Course Overview & How to Study", "path": "README.md" },
+        { "title": "Syllabus", "path": "SYLLABUS.md" },
+        { "title": "Mastery Rubric", "path": "RUBRIC.md" },
+        { "title": "Reference: Verb Tables, Pronouns & Vocabulary", "path": "SUPPLEMENT-reference-and-vocabulary.md" }
+      ]
+    },
+    {
+      "title": "Week 1: Talking About the Past",
+      "lessons": [
+        { "title": "Days 1 to 7: Preterite, Imperfect, Preterite vs. Imperfect, Object Pronouns", "path": "week-1-the-past.md" }
+      ]
+    },
+    {
+      "title": "Week 2: Commands, the Future & More",
+      "lessons": [
+        { "title": "Days 8 to 14: Reflexives, Commands, Future, Conditional, Perfect Tenses, Comparisons, Por/Para", "path": "week-2-commands-and-future.md" }
+      ]
+    },
+    {
+      "title": "Week 3: The Subjunctive & Real Fluency",
+      "lessons": [
+        { "title": "Days 15 to 21: The Present Subjunctive, Its Triggers, Professional Register, Connected Speech", "path": "week-3-subjunctive-and-fluency.md" }
+      ]
+    },
+    {
+      "title": "Practice",
+      "lessons": [
+        { "title": "Practice Menu (Drills)", "path": "DRILLS.md" }
+      ]
+    },
+    {
+      "title": "Assessments",
+      "lessons": [
+        { "title": "Projects (1 to 3 + Final Interview)", "path": "PROJECTS.md" },
+        { "title": "Quizzes & Final Exam", "path": "QUIZZES.md" },
+        { "title": "Answer Keys", "path": "ANSWER-KEYS.md" }
+      ]
+    }
+  ]
+}
