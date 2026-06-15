@@ -99,7 +99,7 @@ Read these as assigned in the lectures; they are the canon of the field.
 - Yao et al., *ReAct: Synergizing Reasoning and Acting in Language Models* (2022) — the original agent loop
 - Yang et al., *SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering* (2024) — the ACI concept
 - Jimenez et al., *SWE-bench* (2023) and the SWE-bench Verified follow-up
-- *Confucius Code Agent* (Meta/Harvard, Feb 2026) — AX/UX/DX harness framing
+- *Confucius Code Agent* (Meta/Harvard, early 2026) — AX/UX/DX harness framing
 
 **Engineering essays (the real curriculum)**
 - Anthropic: *Building Effective Agents* · *Writing Tools for Agents* · *Effective Context Engineering for AI Agents* · *How we built our multi-agent research system* (anthropic.com/engineering)

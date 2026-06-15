@@ -4,7 +4,7 @@
 
 Throughout this course, green boxes like the one below map a concept to the **Fujifilm X100VI**. If you shoot a different camera, skip them — the concept is identical, only the dials differ.
 
-> 🟩 **X100VI:** Unlike most cameras, the X100VI puts the three exposure controls on dedicated physical dials: a **shutter-speed dial** on top, an **aperture ring** around the lens, and an **ISO dial** nested under the shutter dial (lift and turn). Each dial has an **A** position. Which dials are on A is what selects your "mode" — there is no PASM mode dial. We'll return to this on Day 5.
+> 🟩 **X100VI:** Unlike most cameras, the X100VI puts the three exposure controls on dedicated physical dials: a **shutter-speed dial** on top, an **aperture ring** around the lens, and an **ISO dial** nested under the shutter dial (lift and turn). Each dial has an **A** position. Which dials are on A is what selects your "mode"; there's no PASM mode dial. We'll return to this on Day 5.
 
 ---
 
@@ -13,7 +13,7 @@ Throughout this course, green boxes like the one below map a concept to the **Fu
 ### Objectives
 - Understand the chain that turns light into a digital image.
 - Know what the sensor, lens, aperture, and shutter each physically do.
-- Internalize the single idea the whole week rests on: **correct exposure = the right total amount of light.**
+- Lock in the idea that everything this week builds on: **correct exposure = the right total amount of light.**
 
 ### Lecture
 
@@ -24,9 +24,9 @@ Throughout this course, green boxes like the one below map a concept to the **Fu
 3. The **aperture** (a hole inside the lens that can change size) controls *how much* light passes through at once.
 4. The **shutter** opens for a set time and controls *how long* light is allowed to hit the sensor.
 5. The **sensor** is a grid of millions of light-sensitive sites (photosites/pixels) that count the photons that land on them. **ISO** sets how strongly that count is amplified.
-6. The camera's processor turns those counts into a picture (a JPEG, or a RAW file of the raw counts — more in Week 3).
+6. The camera's processor turns those counts into a picture (a JPEG, or a RAW file of the raw counts; more in Week 3).
 
-**Exposure** is the technical word for *how much total light* the sensor collected. Too much → a **blown-out**, too-bright image (highlights "clipped" to pure white, gone forever). Too little → a **muddy**, too-dark image (shadows "crushed" to black, noisy when you lift them). Correct exposure is the Goldilocks middle — and, crucially, *which* middle you want is partly a creative choice.
+**Exposure** is the technical word for *how much total light* the sensor collected. Too much → a **blown-out**, too-bright image (highlights "clipped" to pure white, gone forever). Too little → a **muddy**, too-dark image (shadows "crushed" to black, noisy when you lift them). Correct exposure is the Goldilocks middle, and which middle you want is itself partly a creative choice.
 
 **The key insight:** three controls all change the brightness of the image, but each one *also* changes something else:
 
@@ -40,10 +40,10 @@ This is what keeps photography from being a simple "make it brighter" dial. Ever
 
 **Sensor size matters, but less than the internet says.** Bigger sensors gather more light and blur backgrounds more easily for a given framing, but a smaller sensor in good hands beats a big one in bad hands every time. Know your sensor's size as context, not as an excuse.
 
-> 🟩 **X100VI:** Your sensor is **APS-C** (about 23.5 × 15.6 mm), 40 megapixels, behind a **fixed 23mm f/2 lens**. "Fixed" means it doesn't zoom and doesn't come off — a deliberate constraint that makes you move your feet and learn to *see*. A 23mm lens on APS-C frames like a **35mm lens** does on full-frame: the classic, slightly-wide "normal" view. We'll lean into this limitation all course; it is a feature.
+> 🟩 **X100VI:** Your sensor is **APS-C** (about 23.5 × 15.6 mm), 40 megapixels, behind a **fixed 23mm f/2 lens**. "Fixed" means it doesn't zoom and doesn't come off. That constraint is deliberate: it makes you move your feet and learn to *see*. A 23mm lens on APS-C frames like a **35mm lens** does on full-frame: the classic, slightly-wide "normal" view. We'll lean into the limitation all course, and by the end you'll be glad of it.
 
 ### Look — study these
-- Find any well-exposed photo and any obviously over- and under-exposed photo (your own camera roll has all three). Look at the brightest and darkest areas. In the blown-out one, notice there's *no detail* in the bright parts — just white. That's clipping. It is the one exposure error you cannot fix later.
+- Find any well-exposed photo and any obviously over- and under-exposed photo (your own camera roll has all three). Look at the brightest and darkest areas. In the blown-out one, notice there's *no detail* in the bright parts, just white. That's clipping, and it's the one exposure error you can't fix later.
 
 ### Shoot — today's assignment
 1. **(10 min)** Put your camera in full **Auto** for the last time this course. Take 10 photos of anything. Notice you made *no decisions*. This is your baseline.
@@ -69,7 +69,7 @@ This is what keeps photography from being a simple "make it brighter" dial. Ever
 
 **Aperture is the size of the hole inside the lens**, written as an **f-number** (or "f-stop"): f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16…
 
-**The scale feels backwards: a *smaller* f-number is a *bigger* hole** (more light), and a *bigger* f-number is a *smaller* hole (less light). That's because the f-number is a ratio (focal length ÷ hole diameter), so it's a fraction — f/2 is a bigger opening than f/16 the same way 1/2 is bigger than 1/16.
+**The scale feels backwards: a *smaller* f-number is a *bigger* hole** (more light), and a *bigger* f-number is a *smaller* hole (less light). That's because the f-number is a ratio (focal length ÷ hole diameter), so it behaves like a fraction: f/2 is a bigger opening than f/16 the same way 1/2 is bigger than 1/16.
 
 **Full stops.** The standard f-number sequence is spaced so each step halves or doubles the light:
 
@@ -78,21 +78,21 @@ f/1.4   f/2   f/2.8   f/4   f/5.6   f/8   f/11   f/16   f/22
  more light  ←——————————————————————————————→  less light
 ```
 
-Each move to the right ("stopping down") = **half** the light, i.e. **one stop** less. Each move left ("opening up") = double the light, one stop more. **"A stop"** is the universal unit of light in photography — a doubling or halving — and it applies to all three controls. Memorize the sequence; you'll use it constantly. (The odd numbers come from multiplying by √2 ≈ 1.4 each step.)
+Each move to the right ("stopping down") = **half** the light, i.e. **one stop** less. Each move left ("opening up") = double the light, one stop more. **"A stop"** is the universal unit of light in photography (a doubling or halving), and it applies to all three controls. Memorize the sequence; you'll use it constantly. (The odd numbers come from multiplying by √2 ≈ 1.4 each step.)
 
-**The side effect — depth of field (DoF):** the range of distance, front to back, that appears acceptably sharp.
+**The side effect, depth of field (DoF):** the range of distance, front to back, that appears acceptably sharp.
 
-- **Wide aperture (low f-number, e.g. f/2):** *shallow* DoF — a thin slice in focus, background melts into blur ("bokeh"). Great for isolating a subject: portraits, details.
-- **Narrow aperture (high f-number, e.g. f/11):** *deep* DoF — near and far both sharp. Great for landscapes, group shots, anything where you want everything crisp.
+- **Wide aperture (low f-number, e.g. f/2):** *shallow* DoF. A thin slice in focus, background melting into blur ("bokeh"). Great for isolating a subject: portraits, details.
+- **Narrow aperture (high f-number, e.g. f/11):** *deep* DoF. Near and far both sharp. Great for landscapes, group shots, anything you want crisp throughout.
 
 **Three things control DoF**, not just aperture:
-1. **Aperture** — wider = shallower.
-2. **Focus distance** — the closer you focus, the shallower the DoF. (This is why macro shots have paper-thin focus.)
-3. **Focal length / magnification** — longer lenses *appear* to give shallower DoF for the same framing.
+1. **Aperture:** wider = shallower.
+2. **Focus distance:** the closer you focus, the shallower the DoF. (This is why macro shots have paper-thin focus.)
+3. **Focal length / magnification:** longer lenses *appear* to give shallower DoF for the same framing.
 
-**The lens-sharpness footnote:** lenses are usually softest wide open (f/2) and at their tiny apertures (f/16, where *diffraction* softens everything). Most lenses are sharpest around **f/5.6–f/8** — the "sweet spot." Use it when you want maximum detail and don't need a specific DoF.
+**The lens-sharpness footnote:** lenses are usually softest wide open (f/2) and at their tiny apertures (f/16, where *diffraction* softens everything). Most lenses are sharpest around **f/5.6–f/8**, the "sweet spot." Use it when you want maximum detail and don't need a specific DoF.
 
-> 🟩 **X100VI:** Aperture lives on the **ring around the lens**, marked f/2 to f/16 (plus **A**). The X100VI opens to **f/2** — lovely for shallow-DoF portraits and low light — but at f/2 and very close focus it's slightly soft and focus is critical; stop to **f/4** if you want both subject isolation *and* crispness. For street scenes where you want everything sharp, **f/8** is the classic choice. Note the lens also has a built-in **4-stop ND filter** (toggle in the menu / Fn) for using f/2 in bright sun — more on Day 3.
+> 🟩 **X100VI:** Aperture lives on the **ring around the lens**, marked f/2 to f/16 (plus **A**). The X100VI opens to **f/2**, lovely for shallow-DoF portraits and low light, though at f/2 and very close focus it goes slightly soft and focus gets critical; stop to **f/4** if you want subject isolation *and* crispness. For street scenes where you want everything sharp, **f/8** is the classic choice. The lens also has a built-in **4-stop ND filter** (toggle in the menu / Fn) for using f/2 in bright sun, which we'll come back to on Day 3.
 
 ### Look
 - Find a portrait with a creamy blurred background and a landscape that's sharp front-to-back. The first was shot near f/1.4–f/2.8; the second near f/8–f/16. Train your eye to *guess the aperture* from any photo's background.
@@ -132,17 +132,17 @@ Each move to the right ("stopping down") = **half** the light, i.e. **one stop**
  less light, freezes motion ←——————→ more light, blurs motion
 ```
 
-Each step to the right doubles the open time = one stop *more* light. Notice the numbers roughly double — the camera rounds (1/60 → 1/125, not 1/120). On screen, fractions are often shown as just the denominator (`250` means 1/250); whole seconds get a quote mark (`2"` = 2 seconds).
+Each step to the right doubles the open time = one stop *more* light. Notice the numbers roughly double; the camera rounds (1/60 → 1/125, not 1/120). On screen, fractions are often shown as just the denominator (`250` means 1/250); whole seconds get a quote mark (`2"` = 2 seconds).
 
-**The side effect — motion:**
+**The side effect, motion:**
 - **Fast shutter (e.g. 1/1000):** *freezes* motion. Sports, kids, splashing water as frozen droplets.
 - **Slow shutter (e.g. 1/15 or slower):** *blurs* motion. Silky waterfalls, light trails, a sense of speed.
 
 **Two kinds of blur, don't confuse them:**
-1. **Subject motion blur** — the *subject* moved during the exposure. Sometimes you want this (creative), sometimes not (a blurry kid).
-2. **Camera shake** — *you* moved (handheld). Almost never wanted; it softens the *whole* frame.
+1. **Subject motion blur:** the *subject* moved during the exposure. Sometimes you want this (creative), sometimes not (a blurry kid).
+2. **Camera shake:** *you* moved (handheld). Almost never wanted; it softens the *whole* frame.
 
-**The hand-hold rule** (how slow you can go handheld without shake): shutter speed should be at least **1 / (equivalent focal length)**. With a 35mm-equivalent lens, that's about **1/30 s** minimum — but go faster if you've had coffee. Image stabilization buys you several extra stops; a moving *subject* does not care about stabilization (it only fixes *your* shake), so freeze subjects with speed, not IS.
+**The hand-hold rule** (how slow you can go handheld without shake): shutter speed should be at least **1 / (equivalent focal length)**. With a 35mm-equivalent lens, that's about **1/30 s** minimum, and faster if you've had coffee. Image stabilization buys you several extra stops, but a moving *subject* doesn't care about it (IS only fixes *your* shake), so freeze subjects with speed, not IS.
 
 **Rules of thumb for freezing subjects:**
 | Subject | Minimum shutter to freeze |
@@ -152,9 +152,9 @@ Each step to the right doubles the open time = one stop *more* light. Notice the
 | Kids, pets, running | 1/500 |
 | Sports, birds in flight | 1/1000–1/2000 |
 
-**Long exposure** (slow shutter, seconds long) requires a **tripod** — handholding is hopeless — and often a **neutral density (ND) filter** to cut light so the long time doesn't blow out the frame in daylight.
+**Long exposure** (slow shutter, seconds long) requires a **tripod** (handholding is hopeless) and often a **neutral density (ND) filter** to cut light so the long exposure doesn't blow out the frame in daylight.
 
-> 🟩 **X100VI:** The top **shutter-speed dial** runs in full stops (1/4000 down to 1s, plus **T** for fine/long control via the command dial, **B** for bulb, and **A**). For in-between speeds (e.g. 1/160), set the nearest dial value then fine-tune with the front command dial. The X100VI's leaf shutter is whisper-quiet and syncs flash at any speed. It has **in-body stabilization (~6 stops)**, so you can handhold surprisingly slow — but remember IS won't freeze a moving subject. The built-in **4-stop ND filter** is your tool for daytime slow-shutter (silky water at noon) and for shooting f/2 in bright sun.
+> 🟩 **X100VI:** The top **shutter-speed dial** runs in full stops (1/4000 down to 1s, plus **T** for fine/long control via the command dial, **B** for bulb, and **A**). For in-between speeds (e.g. 1/160), set the nearest dial value then fine-tune with the front command dial. The X100VI's leaf shutter is whisper-quiet and syncs flash at any speed. It has **in-body stabilization (~6 stops)**, so you can handhold surprisingly slow, but remember IS won't freeze a moving subject. The built-in **4-stop ND filter** is your tool for daytime slow-shutter (silky water at noon) and for shooting f/2 in bright sun.
 
 ### Look
 - Find a sports photo (frozen) and a silky-waterfall photo (blurred). The first is ~1/1000+; the second is ~1/2 s or longer on a tripod. Find a "sense of motion" panning shot — sharp subject, streaked background — and note it took a *moderately slow* speed (~1/30) plus moving the camera with the subject.
@@ -187,11 +187,11 @@ Each step to the right doubles the open time = one stop *more* light. Notice the
 
 **ISO is how much the camera amplifies the signal from the sensor.** Low ISO (100, 200) = little amplification, cleanest image. High ISO (3200, 6400, 12800) = lots of amplification, used to brighten shots in dark conditions.
 
-**The side effect — noise:** amplification also amplifies the random "static" in the signal, showing up as grain and color speckle, worst in the shadows. So the rule is: **use the lowest ISO that lets you get the shutter speed and aperture you need.** ISO is the control you raise *last*, only when aperture and shutter can't gather enough light on their own.
+**The side effect, noise:** amplification also amplifies the random "static" in the signal, showing up as grain and color speckle, worst in the shadows. So the rule is: **use the lowest ISO that lets you get the shutter speed and aperture you need.** ISO is the control you raise *last*, only when aperture and shutter can't gather enough light on their own.
 
 **ISO also counts in stops** — each doubling is one stop more light: 100 → 200 → 400 → 800 → 1600 → 3200…
 
-**Noise is not the disaster beginners fear.** A sharp, well-composed photo at ISO 6400 beats a clean, blurry one at ISO 200 every time. Modern sensors are excellent; a slightly noisy keeper is a keeper. *Underexposing* and brightening later makes noise *worse* than just using a higher ISO in the first place — so expose correctly at the higher ISO.
+**Noise is not the disaster beginners fear.** A sharp, well-composed photo at ISO 6400 beats a clean, blurry one at ISO 200 every time. Modern sensors are excellent; a slightly noisy keeper is a keeper. *Underexposing* and brightening later makes noise *worse* than just using a higher ISO in the first place, so expose correctly at the higher ISO.
 
 **The Exposure Triangle.** Put the three together and you get the picture every beginner photographer eventually meets:
 
@@ -223,9 +223,9 @@ All three change brightness. Together they must add up to the *one* correct expo
 
 *\*ISO 50 is a "pull"/extended setting on many cameras (base ISO is usually 100–200), so it may not be available on yours — the math is the point.*
 
-This is the move you make all day: *"I want a blurrier background, so I open up two stops — now I speed up the shutter two stops to compensate."* One stop given on one control must be taken back on another.
+This is the move you make all day: *"I want a blurrier background, so I open up two stops, then speed up the shutter two stops to compensate."* One stop given on one control has to be taken back on another.
 
-> 🟩 **X100VI:** ISO is on the **dial nested under the shutter dial** — lift the outer ring and rotate, or assign ISO to the front command dial in the menu (many X100VI shooters prefer the command-dial method or **Auto-ISO**). Set up **Auto-ISO** (menu → ISO → choose a max ISO like 6400 and a minimum shutter speed like 1/125): now you set aperture and shutter creatively and the camera floats ISO to expose correctly without ever dropping below your shake/motion limit. This is the single best "set and forget" config for street and travel.
+> 🟩 **X100VI:** ISO is on the **dial nested under the shutter dial** (lift the outer ring and rotate), or you can assign ISO to the front command dial in the menu. Many X100VI shooters prefer the command-dial method, or just **Auto-ISO**. Set up **Auto-ISO** (menu → ISO → choose a max ISO like 6400 and a minimum shutter speed like 1/125): now you set aperture and shutter creatively and the camera floats ISO to expose correctly without ever dropping below your shake/motion limit. For street and travel it's about the best "set and forget" config there is.
 
 ### Look
 - Find one of your own dim-light photos. Check its ISO (in the photo info). Zoom into the shadows and look for grain — that's noise. Then look at the *whole* photo from arm's length: probably looks fine. Noise matters less at viewing distance than it does at 100% zoom.
@@ -303,7 +303,7 @@ Most working photographers live in **A** (or M with Auto-ISO). You should be flu
 > - **Both on a number** → **Manual (M)**
 > - **Both on A** → **Program (P)**
 >
-> The **exposure-compensation dial** (top right) gives ±3 stops directly (more via a C setting + command dial). The X100VI's **electronic viewfinder shows a live histogram and a true preview of your exposure** (set "Preview Exp./WB in Manual" ON) — you literally see the photo's brightness before you press the shutter, which makes learning Manual far faster than on a DSLR. Use it.
+> The **exposure-compensation dial** (top right) gives ±3 stops directly (more via a C setting + command dial). The X100VI's **electronic viewfinder shows a live histogram and a true preview of your exposure** (set "Preview Exp./WB in Manual" ON), so you literally see the photo's brightness before you press the shutter. That makes learning Manual far faster than on a DSLR. Use it.
 
 ### Look
 - Pull up any snow or beach photo and any night photo. Look at the histograms (most cameras and editors show them). See how different — and how both are "correct." Find a backlit silhouette and understand it as a metering decision (the camera, or photographer, exposed for the bright background).
@@ -338,8 +338,8 @@ Most working photographers live in **A** (or M with Auto-ISO). You should be flu
 A perfectly exposed, beautifully composed photo that's *out of focus* is trash. Focus is non-negotiable.
 
 **Two autofocus (AF) modes** — match the mode to whether the subject moves:
-- **Single AF (AF-S / One-Shot):** focuses once when you half-press, then locks. For **static** subjects — portraits, landscapes, still life. The default.
-- **Continuous AF (AF-C / AI-Servo):** keeps refocusing as the subject moves while you hold the half-press. For **moving** subjects — kids, sports, wildlife.
+- **Single AF (AF-S / One-Shot):** focuses once when you half-press, then locks. For **static** subjects: portraits, landscapes, still life. The default.
+- **Continuous AF (AF-C / AI-Servo):** keeps refocusing as the subject moves while you hold the half-press. For **moving** subjects: kids, sports, wildlife.
 
 **AF area** (where in the frame the camera focuses):
 - **Single point:** *you* pick one small point; maximal control and precision. Best for deliberate work — put the point on the eye.
@@ -361,7 +361,7 @@ A perfectly exposed, beautifully composed photo that's *out of focus* is trash. 
 
 **Sharpness is not only focus.** A sharp photo needs: correct focus **+** a fast-enough shutter (no shake/motion, Day 3) **+** a decent aperture (not diffraction-soft at f/22) **+** a clean lens. If your shots are soft, diagnose *which* of these failed before blaming the lens.
 
-> 🟩 **X100VI:** Set AF mode with the side **focus-mode switch** (S / C / M). The AF point is moved with the **focus stick (joystick)** — learn to nudge it to the eye without taking the camera from your face. Enable **Face/Eye Detection** (AF/MF menu) for people. For street, many X100VI shooters use **zone focusing**: switch to **M**, set f/8, set focus distance to ~2–3 m using the **distance/DoF scale** in the EVF, and everything in that zone is sharp with zero focus lag — pure point-and-shoot speed. **Focus peaking** (set color/intensity in the menu) makes manual focus easy; the focus ring is by-wire and smooth.
+> 🟩 **X100VI:** Set AF mode with the side **focus-mode switch** (S / C / M). The AF point is moved with the **focus stick (joystick)**; learn to nudge it to the eye without taking the camera from your face. Enable **Face/Eye Detection** (AF/MF menu) for people. For street, many X100VI shooters use **zone focusing**: switch to **M**, set f/8, set focus distance to ~2–3 m using the **distance/DoF scale** in the EVF, and everything in that zone is sharp with zero focus lag, about as fast as shooting gets. **Focus peaking** (set color/intensity in the menu) makes manual focus easy; the focus ring is by-wire and smooth.
 
 ### Look
 - Open your best portrait. Zoom to 100% on the eye. Is it *critically* sharp, or just close? Train yourself to check the eye every time. Then check a soft shot and diagnose: was it focus (eye not sharp but something else is), shake (whole frame evenly soft), or motion (subject streaked, background sharp)?
@@ -392,7 +392,7 @@ Take **Quiz 1** now (see `QUIZZES.md`), closed-book. Grade against `ANSWER-KEYS.
 Today is consolidation, not new material. Three things:
 
 ### 1. Review the week
-Reread the self-checks for Days 1–6 and answer every one from memory. Anything you fumble, reread that lecture's relevant paragraph. Pay special attention to **reciprocity** (Day 4) and **reading the histogram** (Day 5) — these are the load-bearing skills.
+Reread the self-checks for Days 1–6 and answer every one from memory. Anything you fumble, reread that lecture's relevant paragraph. Pay special attention to **reciprocity** (Day 4) and **reading the histogram** (Day 5); the rest of the course leans on both.
 
 ### 2. The "settings reflex" drill (15 min)
 Walk to five different lighting situations (bright outdoors, shade, indoors by a window, a dim room, backlight). At each, *before* looking at the meter, say out loud the exposure you'd start with in Manual (f-stop, shutter, ISO). Then check against the meter/histogram. The goal of this whole week is for that guess to get close. It will, with reps.
@@ -401,4 +401,4 @@ Walk to five different lighting situations (bright outdoors, shade, indoors by a
 Begin **Project 1** (see `PROJECTS.md`). It asks you to demonstrate, with your own photographs, that you control each leg of the triangle and can trade them reciprocally. It's due end of Day 7 (or carry into the week-2 review day if needed — but don't fall behind).
 
 ### Looking ahead
-Week 1 was the machine: how to get a correct, intentional, sharp exposure. **Week 2 is the eye:** light and composition — the decisions that turn a technically correct frame into a photograph worth looking at. From here on, exposure should fade into reflex so your attention is free for *seeing*.
+Week 1 was the machine: how to get a correct, intentional, sharp exposure. **Week 2 is the eye:** light and composition, the decisions that turn a technically correct frame into a photograph worth looking at. From here on, exposure should fade into reflex so your attention is free for *seeing*.

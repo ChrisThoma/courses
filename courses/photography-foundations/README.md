@@ -40,7 +40,7 @@ It deliberately **omits** what beginners rarely need on day one: studio strobe l
 1. Read `SYLLABUS.md` first, then `RUBRIC.md` so you know what mastery looks like.
 2. Each day, work the lesson in order: **Lecture → Look (study the examples) → Shoot (the day's assignment) → Self-check.**
 3. **Always with a camera in your hands.** Reading about photography without shooting is just collecting trivia. Every concept here is meant to be learned by making frames and then looking hard at them.
-4. **Review your own shots honestly.** Learning to see *why* a photo did or didn't work is the skill that carries the whole course. Don't throw out the failures.
+4. **Review your own shots honestly.** Learning to see *why* a photo did or didn't work is the skill the rest of the course is built around. Don't throw out the failures.
 5. Take quizzes closed-book. Grade yourself honestly against `ANSWER-KEYS.md` and the rubric.
 6. Do the projects. They are where the learning actually consolidates.
 

@@ -112,5 +112,5 @@ Fujifilm's in-camera color science is a genuine reason to enjoy JPEGs. Quick gui
 - **Master the focus stick** so you place the AF point on the eye without lowering the camera.
 - **Learn zone focusing** (M + f/8 + ~2.5 m) — with no focus lag to wait on, it's about as fast as street shooting gets.
 - **Assign the ND filter and Film Sim to Fn buttons / the Q menu** for fast access.
-- **Embrace the single focal length.** Don't fight the 35mm view — learn it. Once you can tell what your one lens will capture before you raise it to your eye, you compose faster and more deliberately than most zoom shooters ever bother to.
+- **Embrace the single focal length.** Don't fight the 35mm view; learn it. Once you can tell what your one lens will capture before you raise it to your eye, you compose faster and more deliberately than most zoom shooters ever bother to.
 - **Carry it everywhere.** This camera earns its keep by being small enough to always have on you. The best camera is the one in your hand, and the best practice is daily.

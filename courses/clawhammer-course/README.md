@@ -4,7 +4,7 @@
 **Time commitment:** ~45–75 min/day, 6 days/week, 3 weeks (one "woodshed & jam" day per week)
 **Prerequisites:** A 5-string banjo (open-back is traditional, but any 5-string works), a way to tune it (a clip-on tuner or a tuner app), and the willingness to make ugly sounds for a few days. **No prior music-reading, no prior banjo, and no music theory required.** If you can clap a steady beat, you can do this.
 
-> **The promise of this course:** in three weeks you will go from never having held a banjo to playing real old-time tunes with a steady, danceable groove — and, more importantly, you'll have a daily practice habit and the ear to keep teaching yourself tunes for the rest of your life. This is not a theory course. It is a *playing* course. The goal is to have fun and get good.
+> **The promise of this course:** in three weeks you will go from never having held a banjo to playing real old-time tunes with a steady, danceable groove. More than that, you'll have a daily practice habit and the ear to keep teaching yourself tunes for the rest of your life. This is not a theory course. It is a *playing* course. The goal is to have fun and get good.
 
 ## What this course is (and isn't)
 
@@ -44,13 +44,13 @@ Old-time is an **aural tradition** — it was, and still is, passed person to pe
 1. Read `SYLLABUS.md` first, then `RUBRIC.md` so you know what "good" looks like. Then read the **Field Guide** section on tuning and reading tab before Day 1.
 2. Each day, work the lesson in order: **Listen → Lecture → Play (slowly) → Self-check.**
 3. **Always with the banjo in your hands.** Banjo you only read about is trivia. Every concept here is learned by *doing it badly, then a little less badly,* a few hundred times.
-4. **Slow is fast.** Nearly every beginner's single biggest mistake is playing too fast. A tune played cleanly and slowly in time beats the same tune played fast and sloppy, every time. Use a metronome.
+4. **Slow is fast.** The most common beginner mistake, by a mile, is playing too fast. A tune played cleanly and slowly in time beats the same tune played fast and sloppy, every time. Use a metronome.
 5. **Listen to a recording of every tune** before and while you learn it (the Field Guide tells you where). Get the melody stuck in your head; your hands are just chasing what your ear already knows.
 6. Take the quizzes closed-book and grade yourself honestly against `ANSWER-KEYS.md`. The "playing" portions are where the real grade lives.
 7. Do the projects. They're where the skills consolidate into actual *tunes you can play for someone.*
 
 ## A note on pace
 
-Three weeks is enough to build a **solid, correct clawhammer technique, a steady groove, and four tunes you can really play** — plus the method to learn tunes forever. The deep magic of old-time — endless variations, the perfect lazy drive of a Round Peak banjo, blending into a jam so the fiddle and banjo sound like one instrument — keeps unfolding for years. What this course gives you is correct fundamentals, a daily habit, and good ears, so those years actually compound instead of grooving in bad habits.
+Three weeks is enough to build a **solid, correct clawhammer technique, a steady groove, and four tunes you can really play** — plus the method to learn tunes forever. The deep magic of old-time keeps unfolding for years: endless variations, the perfect lazy drive of a Round Peak banjo, blending into a jam so the fiddle and banjo sound like one instrument. What this course gives you is correct fundamentals, a daily habit, and good ears, so those years actually compound instead of grooving in bad habits.
 
 Tune up. Let's frail.

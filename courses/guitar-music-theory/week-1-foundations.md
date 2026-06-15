@@ -1,6 +1,6 @@
 # Week 1 — Foundations: Notes, Intervals, Scales, Keys
 
-> **The thesis of this week:** the fretboard is not 138 random positions. It is one small pattern — 12 notes, repeating — viewed from six slightly different angles. Once you see the pattern, you never memorize a "shape" blind again.
+> **The thesis of this week:** the fretboard looks like 138 positions to memorize. Really it's one small pattern: 12 notes repeating, seen from six slightly different angles. Once you see the pattern, you stop memorizing "shapes" blind.
 
 ---
 
@@ -21,8 +21,8 @@ A  A#/Bb  B  C  C#/Db  D  D#/Eb  E  F  F#/Gb  G  G#/Ab  → back to A
 
 Two facts you must internalize today:
 
-1. **There is no note between B–C and no note between E–F.** Every other pair of natural letters has a sharp/flat between them. This single fact explains most of the "weirdness" you'll meet later (key signatures, why some scales need sharps, etc.).
-2. **A# and Bb are the same pitch** (enharmonic equivalents). Which name we use depends on context — you'll learn the rule on Day 4. For now, accept both names.
+1. **There is no note between B–C and no note between E–F.** Every other pair of natural letters has a sharp/flat between them. This one fact explains most of the "weirdness" you'll meet later (key signatures, why some scales need sharps, and so on).
+2. **A# and Bb are the same pitch** (enharmonic equivalents). Which name we use depends on context; you'll learn the rule on Day 4. For now, accept both names.
 
 **The fretboard is a chromatic ruler.** Each fret = one half step (semitone). So the low E string is just the alphabet starting from E:
 
@@ -47,7 +47,7 @@ String 6 (E):  F=1  G=3  A=5  B=7  C=8  D=10  E=12
 String 5 (A):  B=2  C=3  D=5  E=7  F=8  G=10  A=12
 ```
 
-Notice: notes fall on frets 1/3/5/7/8/10/12 (string 6) — the same frets most guitars mark with dots (3, 5, 7, 9, 12). Use the dots.
+Notice: notes fall on frets 1/3/5/7/8/10/12 (string 6), several of which line up with the inlay dots on your neck (3, 5, 7, 12). Use the dots.
 
 ### Examples — play these
 
@@ -186,7 +186,7 @@ Add 3 minutes of interval singing to your fretboard drill: play a note, name an 
 
 ### Lecture
 
-**The major scale is the reference for everything.** Chord formulas ("1-3-5"), mode names, the numbers in "sus4" and "maj7" and "add9" — all measured against the major scale. Master this and every later formula is one sentence long.
+**The major scale is the reference for everything.** Chord formulas ("1-3-5"), mode names, the numbers in "sus4" and "maj7" and "add9" are all measured against the major scale. Master this and every later formula is one sentence long.
 
 **The formula:** start anywhere and apply this sequence of whole steps (W = 2 frets) and half steps (H = 1 fret):
 
@@ -217,12 +217,13 @@ A|--3--5--7--8--10--12--14--15--
 **Example 3.2 — C major, open position:**
 
 ```
-e|------------------------0--1--
-B|--------------------1---------
-G|----------------0--2-----------     A|3 = C (1)
-D|------0--2--3------------------     ...up to B|1 = C (8)
+e|-------------------------------
+B|-----------------------0--1----     A|3 = C (1)
+G|----------------0--2-----------     ...up to B|1 = C (8)
+D|------0--2--3------------------
 A|--3----------------------------
 E|-------------------------------
+   C  D  E  F  G  A  B  C
 ```
 
 Say the **degree numbers** (1 2 3 4 5 6 7 1) as you play, not just note names.
@@ -281,7 +282,7 @@ Add: play one major scale position in a random key, saying degrees.
 
 ### Lecture
 
-**A key is a gravitational field.** "The key of G major" means: the notes of the G major scale are the default palette, and G is *home* — the note (and later, chord) where things feel resolved. A **key signature** is just the list of sharps or flats that scale needs.
+**A key is a gravitational field.** "The key of G major" means: the notes of the G major scale are the default palette, and G is *home*, the note (and later, chord) where things feel resolved. A **key signature** is just the list of sharps or flats that scale needs.
 
 **The circle of fifths.** Arrange keys so each step clockwise is a P5 up — each step adds exactly one sharp:
 
@@ -303,7 +304,7 @@ Add: play one major scale position in a random key, saying degrees.
 - *Flat keys:* the key is the **second-to-last flat**. Three flats = Bb Eb Ab → second-to-last = **Eb major**. (Exception to memorize: one flat = F major.)
 
 **Why guitarists care:**
-1. **Transposing:** moving a song from G to A means "everything moves up a whole step" — on guitar, often literally sliding shapes 2 frets (or moving a capo).
+1. **Transposing:** moving a song from G to A means "everything moves up a whole step," which on guitar often means literally sliding shapes 2 frets (or moving a capo).
 2. **Finding the key of a song from its chords** (Day 9 makes this rigorous).
 3. **Knowing which notes will sound "right"** before you play a single one.
 
@@ -313,7 +314,7 @@ Add: play one major scale position in a random key, saying degrees.
 
 **Example 4.1 — Derive A major from scratch.** A is 3 steps clockwise from C → 3 sharps → first three in sharp order: F# C# G#. So A major = A B C# D E F# G#. Verify with W-W-H-W-W-W-H. ✓
 
-**Example 4.2 — Neighbor keys share 6 of 7 notes.** Play C major then G major on one string. Only one note changes (F → F#). This is why songs commonly modulate to the IV or V key — it's the smallest possible move. Distance on the circle = harmonic distance.
+**Example 4.2 — Neighbor keys share 6 of 7 notes.** Play C major then G major on one string. Only one note changes (F → F#). This is why songs commonly modulate to the IV or V key; it's the smallest possible move. Distance on the circle = harmonic distance.
 
 ### Exercises (Lab)
 
@@ -346,7 +347,7 @@ This day converts Days 1–2 from paper knowledge to fretboard fluency. Two idea
 
 - **Strings 6→4 and 5→3:** up 2 strings, up 2 frets.
 - **Strings 4→2 and 3→1:** up 2 strings, up **3** frets (the B-string shift!).
-- **Strings 6→3:** up 3 strings, **down 3 frets** (rarely needed — you can always chain the two rules above instead: 6→4→2 or 5→3→1).
+- **Strings 6→3:** up 3 strings, **down 3 frets** (rarely needed; you can always chain the two rules above instead: 6→4→2 or 5→3→1).
 - **Strings 6→1 and 1→6:** same fret, two octaves apart (both are E strings).
 
 **Idea 2 — Intervals are shapes.** Here is the interval map from a root on **string 6 or 5** (no B-string involved). Numbers = frets relative to the root:
@@ -360,7 +361,7 @@ This day converts Days 1–2 from paper knowledge to fretboard fluency. Two idea
 | m7 | +10 | +5 (or: 2 strings up, same fret) |
 | Octave | +12 | 2 strings up, +2 |
 
-**When the upper note lands on the B string, add +1 fret to the "next string" offsets.** Drill this until it's automatic — it's the #1 source of wrong notes for self-taught players.
+**When the upper note lands on the B string, add +1 fret to the "next string" offsets.** Drill this until it's automatic; it's the #1 source of wrong notes for self-taught players.
 
 ### Examples — play these
 

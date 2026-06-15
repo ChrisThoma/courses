@@ -6,7 +6,7 @@ Projects are where understanding becomes ability. Each has a deliverable and a g
 
 ## Project 1 — The Fretboard Atlas *(Day 6 · 10% of grade)*
 
-**Goal:** produce, by hand and from memory, the master reference you will never need again — because making it installs it.
+**Goal:** produce, by hand and from memory, the master reference you'll never need again, because making it is what installs it.
 
 ### Deliverables
 1. **The map:** on paper (grid paper helps), draw the full fretboard, frets 0–12, all six strings, and fill in **every natural note** from memory. Then add the sharps/flats in a second color.
@@ -89,7 +89,7 @@ Compose an original piece with:
    - **Two different cadence types** across the piece
    - At least one voice-led passage (inversions/slash chords or string-set triads) — no "all open-position strumming"
 3. **Melody:** a singable or playable melody over one section, built consciously from the key's scale (or mode), with at least one phrase that targets chord tones on the changes.
-4. **The defense (the actual deliverable):** a written or spoken commentary covering — key and why; numerals for everything; what each non-diatonic chord is doing; why each cadence is where it is; what scale the melody uses and where it targets chord tones.
+4. **The defense (the actual deliverable):** a written or spoken commentary covering key and why; numerals for everything; what each non-diatonic chord is doing; why each cadence is where it is; and what scale the melody uses and where it targets chord tones.
 5. **Recording:** a performance of the piece (rough is fine; this is theory class, not production class).
 
 ### Rubric (25 pts)

@@ -8,7 +8,7 @@
 
 ## 11.1 Processing *is* sampling
 
-In Week 2 you transformed samples by *editing* them (chopping, pitching, stretching). The other half of transformation is *processing* — running them through effects until their character changes. With samples, processing isn't polish-at-the-end; it's a **source-generation tool.** The ugliest junk audio becomes the best element in the track after the right chain. This lecture is about building those chains and then *committing* them (resampling — Lecture 9 — pays off here constantly).
+In Week 2 you transformed samples by *editing* them (chopping, pitching, stretching). The other half of transformation is *processing*: running them through effects until their character changes. With samples, processing isn't polish-at-the-end; it's a **source-generation tool.** The ugliest junk audio becomes the best element in the track after the right chain. This lecture is about building those chains and then *committing* them (resampling, from Lecture 9, pays off here constantly).
 
 ## 11.2 The core effects, and what they're *for*
 
@@ -88,7 +88,7 @@ Sample-based tracks use a vocabulary you can hear in almost everything:
 | **Breakdown** | rest, contrast | strip to melody/texture; let ears recover so the next drop hits |
 | **Outro** | exit | reverse the intro; filter down; let a loop run out |
 
-The engine of arrangement is **contrast:** sections must *differ.* If every 8 bars sounds the same, there's no song — just a loop with a length. **Add and subtract elements** to create change; the single most reliable arrangement move is *dropping the drums out* and bringing them back.
+The engine of arrangement is **contrast:** sections must *differ.* If every 8 bars sounds the same, there's no song — just a loop with a length. **Add and subtract elements** to create change; the most reliable arrangement move, by far, is to *drop the drums out* and bring them back.
 
 ## 12.4 Tension and release (why arrangements feel good)
 
@@ -101,7 +101,7 @@ Music is anticipation managed over time. Tools:
 
 ## 12.5 Finishing discipline
 
-The course's core value (from the README) lands here: **finish it.** A finished 2:30 at 80% quality teaches you more than a perfect 8-bar loop. Set a length target, force every section to exist, and resist re-opening the beat to "improve the sound" — that's procrastination disguised as craft. Arrangement is a *decision* phase: commit.
+The course's core value (from the README) lands here: **finish it.** A finished 2:30 at 80% quality teaches you more than a perfect 8-bar loop. Set a length target, force every section to exist, and resist re-opening the beat to "improve the sound"; that's procrastination disguised as craft. Arrangement is a *decision* phase: commit.
 
 ## Listening & section questions
 
@@ -127,7 +127,7 @@ A mix is not "making it loud" — it's **giving every element its own space** so
 
 ## 13.2 Frequency: carving with EQ
 
-The number-one cause of muddy sample-based tracks: **everything occupies the low-mids.** A sampled chord, a bass, a kick, and vinyl noise all pile up around 200–500 Hz and turn to mush. The fix is **subtractive EQ — carve, don't boost:**
+The number-one cause of muddy sample-based tracks: **everything occupies the low-mids.** A sampled chord, a bass, a kick, and vinyl noise all pile up around 200–500 Hz and turn to mush. The fix is **subtractive EQ: carve, don't boost.**
 
 - **High-pass everything that isn't bass.** Roll off below ~100–300 Hz on melodic samples, pads, hats — anything that doesn't *need* lows. Instantly clears space for kick and bass.
 - **Complementary EQ ("EQ carving").** Where two elements fight (kick vs. bass), *cut* one where the other lives — dip the bass at the kick's punch frequency (~60–100 Hz) so they interlock instead of masking.
@@ -187,7 +187,7 @@ Two things stand between your mix and a "released" track: a final loudness/forma
 3. **Saturation (optional)** — a hair of harmonic glue/warmth.
 4. **Limiter** — the final ceiling. Set the ceiling to ~**−1 dBTP** (true peak) and push the gain *gently* for loudness. **Don't crush it** — squashing the master flat kills the dynamics that make sample-based music groove.
 
-**Loudness (LUFS).** Streaming platforms normalize to roughly **−14 LUFS (integrated)**; aim around there (−14 to −9 depending on genre — hip-hop/EDM run louder, lo-fi quieter). Live's **Utility** and external meters show LUFS; the point is *consistency,* not maximum loudness. Louder is not better — it just *seems* better for a few seconds (Lecture 4, one last time).
+**Loudness (LUFS).** Streaming platforms normalize to roughly **−14 LUFS (integrated)**; aim around there (−14 to −9 depending on genre; hip-hop/EDM run louder, lo-fi quieter). Live's **Utility** and external meters show LUFS; the point is *consistency,* not maximum loudness. Louder is not better; it just *seems* better for a few seconds (Lecture 4, one last time).
 
 ## 14.3 Exporting correctly
 

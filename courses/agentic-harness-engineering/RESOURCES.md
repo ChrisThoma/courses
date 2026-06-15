@@ -4,7 +4,7 @@ The lectures in this course are written as **self-contained lecture notes**: you
 
 **How to use this file**
 - Each lecture lists **▶ Watch** (video), **📄 Read** (article/paper/docs), and **💻 Code** (repos to read or run).
-- A ⭐ marks the single highest-value resource for that lecture — if you do nothing else, do that one.
+- A ⭐ marks the highest-value resource for that lecture — if you do nothing else, do that one.
 - **Before** the lecture: skim the ⭐. **After** the lecture: go deep on the rest.
 - Links were verified in June 2026. The web rots and products churn (see the currency note in the README) — if a link is dead, search the title; the *ideas* are stable.
 
@@ -14,7 +14,7 @@ The lectures in this course are written as **self-contained lecture notes**: you
 
 Skip if you already understand tokens, transformers, and what "function calling" is. Otherwise, spend a day here — every later lecture assumes this.
 
-- ⭐ ▶ **Andrej Karpathy — "Deep Dive into LLMs like ChatGPT"** (3.5 hrs, YouTube). The best single explanation of what an LLM *is* and isn't — pretraining, tokenization, fine-tuning, RLHF, hallucination, tool use. Watch the whole thing; it's the foundation for "the model is a stateless next-token predictor" that the entire course rests on. https://www.youtube.com/watch?v=7xTGNNLPyMI (search "Karpathy Deep Dive into LLMs" if the ID moved)
+- ⭐ ▶ **Andrej Karpathy — "Deep Dive into LLMs like ChatGPT"** (3.5 hrs, YouTube). The clearest explanation anywhere of what an LLM is and isn't: pretraining, tokenization, fine-tuning, RLHF, hallucination, tool use. Watch the whole thing; it's the foundation for "the model is a stateless next-token predictor" that the rest of the course builds on. https://www.youtube.com/watch?v=7xTGNNLPyMI (search "Karpathy Deep Dive into LLMs" if the ID moved)
 - ▶ **3Blue1Brown — "Attention in transformers, visually explained" (Chapter 6)**. Why a model has a finite *context window* and what "attention" means, visually. ~26 min. https://www.youtube.com/watch?v=eMlx5fFNoYc — and the surrounding Deep Learning series (Ch. 5–7) if you want the full picture: https://www.3blue1brown.com/topics/neural-networks
 - ⭐ ▶ **Andrej Karpathy — "Software Is Changing (Again)" (Software 3.0)** (YC AI Startup School, June 2025). The framing for *why* this whole field exists: natural language as a programming interface, and "building for agents" as a new consumer of software. https://www.youtube.com/watch?v=LCEmiRjPEtQ
 - 📄 **Anthropic — tool use / function calling docs**. The exact wire format the course's loop uses. https://docs.anthropic.com/en/docs/build-with-claude/tool-use
@@ -108,7 +108,7 @@ Read the actual source — that's the assignment.
 
 The products change monthly; these sources track the field so you don't have to guess:
 
-- **Anthropic Engineering blog** — https://www.anthropic.com/engineering (the single best signal)
+- **Anthropic Engineering blog** — https://www.anthropic.com/engineering (the best signal there is)
 - **Simon Willison's blog** — https://simonwillison.net (daily, especially on security & new tools)
 - **Latent Space** (podcast + newsletter) — https://www.latent.space (practitioner interviews, incl. the Karpathy Software 3.0 breakdown)
 - **The Changelog / Practical AI** podcasts — harness authors interviewed

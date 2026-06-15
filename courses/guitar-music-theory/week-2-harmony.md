@@ -35,9 +35,9 @@ A|--3--  C  (root)
 E|-----
 ```
 
-Five strings, but only **three distinct notes** — C, E, G, doubled. Every big strummed chord is a small triad wearing a coat.
+Five strings, but only **three distinct notes**: C, E, G, doubled. Every big strummed chord is a small triad wearing a coat.
 
-**Inversions.** A triad doesn't have to have the root on the bottom: root position (1-3-5), first inversion (3-5-1), second inversion (5-1-3). Same chord, different bottom note, different flavor. Guitarists use inversions constantly without knowing the word — today you learn the word.
+**Inversions.** A triad doesn't have to have the root on the bottom: root position (1-3-5), first inversion (3-5-1), second inversion (5-1-3). Same chord, different bottom note, different flavor. Guitarists use inversions constantly without knowing the word; today you learn the word.
 
 **One-note surgery.** Major→minor: lower the 3rd a half step. Major→aug: raise the 5th. Minor→dim: lower the 5th. Hearing what *one semitone* does to a chord is today's ear-training payload.
 
@@ -64,7 +64,7 @@ G|--9--   E  (3rd)             G|--8--   Eb (b3rd)
 D|--10--  C  (root)            D|--10--  C  (root)
 ```
 
-One fret of difference — the 3rd — flips the chord's entire mood.
+One fret of difference (the 3rd) flips the chord's entire mood.
 
 **Example 8.3 — Inversions of C major on strings 1–3.** Play these three grips and notice which chord tone is lowest in each:
 
@@ -101,7 +101,7 @@ Same chord, three neighborhoods. This is how you'll play "C" anywhere on the nec
 
 ### Lecture
 
-**This is the single highest-leverage day of the course.**
+**No day in this course pays off more than this one.**
 
 Build a triad on *every* degree of a major scale, using only scale notes. The qualities always come out in the same order:
 
@@ -111,21 +111,21 @@ Build a triad on *every* degree of a major scale, using only scale notes. The qu
 
 In C: **C · Dm · Em · F · G · Am · B°**. In G: **G · Am · Bm · C · D · Em · F#°**.
 
-Uppercase Roman numeral = major, lowercase = minor, ° = diminished. **The pattern never changes** — only the letter names do. This is why a song is "in a key": its chords are drawn from this family of seven.
+Uppercase Roman numeral = major, lowercase = minor, ° = diminished. **The pattern never changes**; only the letter names do. This is why a song is "in a key": its chords are drawn from this family of seven.
 
-**Roman numerals are the universal language.** "G–Em–C–D" is one song in one key. "I–vi–IV–V" is *ten thousand songs in every key* (the 1950s doo-wop progression). (Session players use the **Nashville Number System** — the same idea written with plain numbers, "1–6m–4–5"; if you ever see a Nashville chart, you already read it.) Numerals let you:
+**Roman numerals are the universal language.** "G–Em–C–D" is one song in one key. "I–vi–IV–V" is *ten thousand songs in every key* (the 1950s doo-wop progression). (Session players use the **Nashville Number System**, the same idea written with plain numbers, "1–6m–4–5"; if you ever see a Nashville chart, you already read it.) Numerals let you:
 - Transpose instantly (the numerals don't change, only the key).
 - Recognize that two songs are "the same song, harmonically."
 - Communicate with other musicians ("it's a one-four-five in E").
 
 **Functional families.** The seven chords cluster into three jobs:
-- **Tonic (home):** I, and its stand-ins vi, iii — stable, resolved.
-- **Subdominant (leaving home):** IV, ii — motion, "something's happening."
-- **Dominant (tension pointing home):** V, vii° — wants to resolve to I. The V chord contains the leading tone (degree 7), which is *why* it pulls home.
+- **Tonic (home):** I, and its stand-ins vi, iii. Stable, resolved.
+- **Subdominant (leaving home):** IV, ii. Motion, "something's happening."
+- **Dominant (tension pointing home):** V, vii°. Wants to resolve to I. The V chord contains the leading tone (degree 7), which is *why* it pulls home.
 
 Most progressions are some path through **home → away → tension → home**.
 
-**Finding a song's key from its chords.** Given Em–C–G–D: list candidates. G major's family is G Am Bm C D Em F#° — all four chords fit, and the music keeps gravitating to G... key of **G major** (this set is I-IV-V-vi rearranged: vi–IV–I–V, the most-used progression of the last 30 years). Heuristics: the key is usually the chord that feels like home (often first or last), and major-key songs usually show 2–3 major chords a 4th/5th apart (those are I, IV, V).
+**Finding a song's key from its chords.** Given Em–C–G–D: list candidates. G major's family is G Am Bm C D Em F#°, all four of your chords fit, and the music keeps gravitating to G... key of **G major** (this set is I-IV-V-vi rearranged: vi–IV–I–V, the most-used progression of the last 30 years). Heuristics: the key is usually the chord that feels like home (often first or last), and major-key songs usually show 2–3 major chords a 4th/5th apart (those are I, IV, V).
 
 ### Examples — play these
 
@@ -143,7 +143,7 @@ I    ii   iii  IV   V    vi   vii°   I
 - G: G–D–Em–C
 - D: D–A–Bm–G
 
-Sing any melody over one of them, then keep singing while you switch keys. Same song, different altitude — that's transposition.
+Sing any melody over one of them, then keep singing while you switch keys. Same song, different altitude. That's transposition.
 
 **Example 9.3 — Function swap.** Play I–IV–V–I in C (C–F–G–C). Now substitute the tonic's stand-in: vi–IV–V–I (Am–F–G–C). The "home" chord changed color but the *story* is intact.
 
@@ -176,7 +176,7 @@ Replace 3 minutes of your drill with: random key → recite its seven diatonic c
 
 ### Lecture
 
-**Add one more 3rd to a triad and you get a 7th chord** — four notes: 1, 3, 5, 7. The extra note adds sophistication (jazz, soul, R&B live here) and *function* (the 7th sharpens each chord's sense of direction).
+**Add one more 3rd to a triad and you get a 7th chord:** four notes, 1 3 5 7. The extra note adds sophistication (jazz, soul, R&B live here) and *function* (the 7th sharpens each chord's sense of direction).
 
 | Chord | Formula | Example (C root) | Character |
 |---|---|---|---|
@@ -186,7 +186,7 @@ Replace 3 minutes of your drill with: random key → recite its seven diatonic c
 | **Minor 7 flat 5** (Cm7b5, "half-diminished," Cø7) | 1 b3 b5 b7 | C Eb Gb Bb | anxious, leading |
 | **Diminished 7** (C°7) | 1 b3 b5 bb7 | C Eb Gb A | maximum tension, symmetrical |
 
-**Naming trap, resolved:** "C7" does *not* mean Cmaj7. Plain "7" always means **dominant 7** (major triad + *flatted* 7th). This convention exists because the dominant 7th is the oldest and most common 7th chord — it's the V chord's natural form.
+**Naming trap, resolved:** "C7" does *not* mean Cmaj7. Plain "7" always means **dominant 7** (major triad + *flatted* 7th). This convention exists because the dominant 7th is the oldest and most common 7th chord, the V chord's natural form.
 
 **Diatonic 7ths.** Harmonize the major scale in four-note stacks and the pattern is, always:
 
@@ -196,7 +196,7 @@ Imaj7   ii7   iii7   IVmaj7   V7   vi7   viiø7
 
 In C: Cmaj7 · Dm7 · Em7 · Fmaj7 · **G7** · Am7 · Bm7b5.
 
-Note what's special: **the dominant 7th occurs naturally only on V.** That's why hearing a "7" chord screams "we're about to go home to I" — and why a 7 chord *anywhere else* (like the I7 and IV7 in blues) instantly signals a non-classical, bluesy sound (Day 16).
+Note what's special: **the dominant 7th occurs naturally only on V.** That's why hearing a "7" chord screams "we're about to go home to I," and why a 7 chord *anywhere else* (like the I7 and IV7 in blues) instantly signals a non-classical, bluesy sound (Day 16).
 
 **The tritone engine.** Inside G7 (G B D F), the notes B and F are a tritone apart — the most unstable interval. B is C major's leading tone (pulls up to C); F is its 4th degree (pulls down to E). When G7 → C, both tensions resolve by a half step. That tiny double-resolution is the engine of Western harmony.
 
@@ -214,7 +214,7 @@ A|--x--        A|--x--        A|--x--        A|--x--
 E|--3--        E|--3--        E|--3--        E|--3--
 ```
 
-Play the row in order: you're lowering one note at a time (7→b7, 3→b3, 5→b5). Four chords, three semitone moves. *This* is how to memorize chords — as transformations, not as unrelated grips.
+Play the row in order: you're lowering one note at a time (7→b7, 3→b3, 5→b5). Four chords, three semitone moves. *This* is how to memorize chords: as transformations, not as unrelated grips.
 
 **Example 10.2 — Movable 7th shapes, root on string 5** (C root, fret 3):
 
@@ -270,16 +270,16 @@ E|--x--        E|--x--        E|--x--        E|--x--
 
 **The canon.** Learn these by numerals; you'll find you already know hundreds of songs that use them:
 
-1. **I–IV–V(–I)** — the bedrock: blues, rock 'n' roll, folk, punk.
-2. **I–V–vi–IV** — the modern pop anthem ("Let It Be," "No Woman No Cry," and a famous comedy medley of ~40 more).
-3. **vi–IV–I–V** — same four chords, minor-feeling rotation (the "sensitive" version).
-4. **I–vi–IV–V** — the '50s progression ("Stand By Me," "Every Breath You Take").
-5. **ii–V–I** — jazz's atom (Day 10).
-6. **I–bVII–IV(–I)** — the classic-rock move ("Sweet Child," "Sympathy for the Devil"); the bVII is *borrowed* — formally explained Day 19, enjoyed today.
+1. **I–IV–V(–I):** the bedrock of blues, rock 'n' roll, folk, and punk.
+2. **I–V–vi–IV:** the modern pop anthem ("Let It Be," "No Woman No Cry," and a famous comedy medley of ~40 more).
+3. **vi–IV–I–V:** same four chords, minor-feeling rotation (the "sensitive" version).
+4. **I–vi–IV–V:** the '50s progression ("Stand By Me," "Every Breath You Take").
+5. **ii–V–I:** jazz's atom (Day 10).
+6. **I–bVII–IV(–I):** the classic-rock move ("Sweet Child," "Sympathy for the Devil"); the bVII is *borrowed*, formally explained Day 19 and enjoyed today.
 
-**Root motion** — why some progressions feel inevitable: roots falling by 5ths (or rising by 4ths — same thing) is the strongest gravity in harmony: vi→ii→V→I is a chain of falling 5ths. Root motion by step (IV→V, V→vi) feels like walking; by 3rd (I→vi, I→iii) feels like a smooth slide because the chords share two notes.
+**Root motion** explains why some progressions feel inevitable. Roots falling by 5ths (rising by 4ths is the same thing) is the strongest gravity in harmony: vi→ii→V→I is a chain of falling 5ths. Root motion by step (IV→V, V→vi) feels like walking; by 3rd (I→vi, I→iii) feels like a smooth slide because the chords share two notes.
 
-**Voice leading for guitarists:** when changing chords, move each note as little as possible. C→Am shares C and E — keep them, move only G→A. This is why Day 8's inversions matter: nearby voicings beat jumping barre shapes across the neck. Smooth chord changes aren't (only) a fretting-hand skill; they're an *arranging* skill.
+**Voice leading for guitarists:** when changing chords, move each note as little as possible. C→Am shares C and E — keep them, move only G→A. This is why Day 8's inversions matter: nearby voicings beat jumping barre shapes across the neck. Smooth chord changes are as much an *arranging* skill as a fretting-hand one.
 
 ### Examples — play these
 
@@ -294,7 +294,7 @@ E|--x--        E|--x--        E|--x--        E|--x--
 - vi–IV–I–V: Em–C–G–D
 - I–vi–IV–V: G–Em–C–D
 
-Same four chords. The *order* — specifically, which chord gets the downbeat of the loop — completely changes the emotional center.
+Same four chords. The *order*, specifically which chord gets the downbeat of the loop, completely changes the emotional center.
 
 **Example 11.3 — Falling-5ths chain in C:** Am → Dm → G7 → C (vi–ii–V–I). Feel the inevitability. Then the jazz version with Day 10 grips: Am7 → Dm7 → G7 → Cmaj7.
 
@@ -333,7 +333,7 @@ Hear how the second version sounds like one instrument *breathing* instead of fo
 
 **The problem CAGED solves:** you can spell any chord (Day 8, 10) but you only *play* it in one or two places. CAGED is the map that turns "a chord" into "five neighborhoods on the neck."
 
-**The idea.** The five open major-chord shapes — **C, A, G, E, D** — are movable. Barre or partially fret them anywhere and they keep their structure, only the root changes. And they **tile**: for any one chord, the five shapes appear up the neck in CAGED order (cycling), each one starting where the last ends.
+**The idea.** The five open major-chord shapes (**C, A, G, E, D**) are movable. Barre or partially fret them anywhere and they keep their structure, only the root changes. And they **tile**: for any one chord, the five shapes appear up the neck in CAGED order (cycling), each one starting where the last ends.
 
 **C major, five ways:**
 
@@ -347,9 +347,9 @@ Hear how the second version sounds like one instrument *breathing* instead of fo
 
 …and at fret 12+ the C shape reappears. **C-A-G-E-D, then repeat.** The same works starting from any chord: an open E chord is the "E shape" at fret 0; move it up 3 frets with a barre and the same shape is G.
 
-**Why this is theory and not just grips:** each shape is the *same triad* (1-3-5) with the notes distributed differently across strings — they're big inversions/voicings of one chord. Within each shape live:
+**Why this is theory and not just grips:** each shape is the *same triad* (1-3-5) with the notes distributed differently across strings; they're big inversions/voicings of one chord. Within each shape live:
 - the **triads** of Day 8 (the top 3–4 strings of each shape),
-- a **major scale position** (Day 3's patterns sit *around* these shapes — the E-shape chord lives inside the root-6 scale position you already play),
+- a **major scale position** (Day 3's patterns sit *around* these shapes, and the E-shape chord lives inside the root-6 scale position you already play),
 - the **arpeggio** for soloing over that chord.
 
 CAGED is the index that binds chords, scales, and arpeggios to the same fret real estate. When someone says "target chord tones in your solo," they mean: see the CAGED shape under your scale and lean on its notes.
@@ -362,7 +362,7 @@ CAGED is the index that binds chords, scales, and arpeggios to the same fret rea
 
 **Example 12.2 — One shape, five chords.** Take only the A shape (barre) and play C (fret 3), D (5), E (7), F (8), G (10). Now take only the E shape: G(3), A(5), B(7), C(8), D(10). Two shapes already give you every major chord in two places each.
 
-**Example 12.3 — Shape-to-scale.** Play the E-shape G barre chord at fret 3. Hold it; now play Day 3's Example 3.3 G major scale at the same fret. The chord is *inside* the scale — find the 1, 3, 5 of the chord within the scale pattern.
+**Example 12.3 — Shape-to-scale.** Play the E-shape G barre chord at fret 3. Hold it; now play Day 3's Example 3.3 G major scale at the same fret. The chord is *inside* the scale; find the 1, 3, 5 of the chord within the scale pattern.
 
 **Example 12.4 — Progression in one neighborhood.** Play G–C–D–Em entirely within frets 3–7, choosing whichever CAGED shape of each chord lives there: G = E-shape at fret 3 · C = A-shape at fret 3 · D = A-shape at fret 5 · Em = Am-shape at fret 7 (x-7-9-9-8-7). This is Example 11.4's voice-leading idea at full-chord scale.
 
@@ -395,5 +395,5 @@ Add: random chord + random CAGED shape → play it. 2 minutes.
 
 Light day:
 1. Daily drill (rotate in fresh variants from `DRILLS.md` if the current ones feel stale).
-2. **Rhythm supplement, Part 2** (`SUPPLEMENT-rhythm.md`, ~45 min): syncopation, swing vs. straight, anticipation, and harmonic rhythm — you'll want all of these for Week 3's blues day and the Final Project.
-3. Revisit weak quiz areas. Recommended passive listening: pick any playlist and try to catch cadences in real time — just notice "that was a V going home" without analyzing the whole song.
+2. **Rhythm supplement, Part 2** (`SUPPLEMENT-rhythm.md`, ~45 min): syncopation, swing vs. straight, anticipation, and harmonic rhythm. You'll want all of these for Week 3's blues day and the Final Project.
+3. Revisit weak quiz areas. Recommended passive listening: pick any playlist and try to catch cadences in real time, just noticing "that was a V going home" without analyzing the whole song.

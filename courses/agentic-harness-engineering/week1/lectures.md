@@ -153,7 +153,7 @@ Strip any 2026 coding harness to its skeleton and you find a near-identical kit:
 | `grep` / `glob` | Why dedicated tools when bash has grep? (Answer: structured truncation, permission granularity, no shell-quoting failures) |
 | `web_fetch` / `web_search` | The #1 prompt-injection vector (Lecture 11) |
 
-A real tension to internalize: **bash is the universal escape hatch** (anything is possible) but the *worst* ACI (unstructured output, quoting hell, ungated side effects). Harness design is substantially the art of pulling high-frequency operations *out* of bash into purpose-built tools — note how this very harness's instructions tell the model to prefer dedicated file tools over `cat`/`sed`.
+A real tension to internalize: **bash is the universal escape hatch** (anything is possible) but the *worst* ACI (unstructured output, quoting hell, ungated side effects). Harness design is substantially the art of pulling high-frequency operations *out* of bash into purpose-built tools; note how this very harness's instructions tell the model to prefer dedicated file tools over `cat`/`sed`.
 
 ## 2.4 Tool-count economics
 
@@ -291,7 +291,7 @@ Implement all three edit formats as functions: `apply_whole_file`, `apply_unifie
 
 ## 5.1 The harness, restated
 
-You now have the four foundations: **the loop** (L1), **the tool surface** (L2), **the context economy** (L3), **the execution layer** (L4). Every feature you'll meet in Week 2 — hooks, subagents, MCP, plan modes, sandboxes — is one of these four, elaborated. When you read a new harness, ask four questions: How does it loop? What tools does it expose and how are they shaped? How does it manage the window? Where does code actually run?
+You now have the four foundations: **the loop** (L1), **the tool surface** (L2), **the context economy** (L3), **the execution layer** (L4). Every feature you'll meet in Week 2 (hooks, subagents, MCP, plan modes, sandboxes) is one of these four, elaborated. When you read a new harness, ask four questions: How does it loop? What tools does it expose and how are they shaped? How does it manage the window? Where does code actually run?
 
 ## 5.2 Today
 

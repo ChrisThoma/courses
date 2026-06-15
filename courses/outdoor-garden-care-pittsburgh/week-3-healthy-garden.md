@@ -13,17 +13,17 @@
 
 ### Lecture
 
-**A weed is just a plant where you don't want it.** There's nothing botanically special about a weed — it's a value judgment. But the plants we *call* weeds share traits that make them formidable: they grow fast, reproduce prolifically (thousands of seeds), spread by multiple means (seed, runners, roots), tolerate poor conditions, and colonize bare or disturbed ground first. To beat them you exploit their life cycle, the same vocabulary you learned for garden plants:
+**A weed is just a plant where you don't want it.** There's nothing botanically special about a weed; it's a value judgment. But the plants we *call* weeds share traits that make them formidable: they grow fast, reproduce prolifically (thousands of seeds), spread by multiple means (seed, runners, roots), tolerate poor conditions, and colonize bare or disturbed ground first. To beat them you exploit their life cycle, the same vocabulary you learned for garden plants:
 
 - **Annual weeds** (crabgrass, chickweed, purslane, lambsquarters, common groundsel) live one season and **reproduce only by seed** — so the entire battle is *stopping seeds*. Kill or smother them before they flower and set seed, and you win. Each plant left to seed, though, can drop *thousands*.
 - **Biennial weeds** (garlic mustard, common burdock, Queen Anne's lace) grow a leafy rosette year one, flower/seed year two. Pull or cut them in year one, or before they set seed in year two.
 - **Perennial weeds** (dandelion, ground ivy/creeping Charlie, Canada thistle, bindweed, Japanese knotweed, quackgrass) are the hard ones — they come back from **roots, rhizomes, or runners**, so cutting the top isn't enough. You must remove the whole root system or persistently exhaust the plant's energy reserves.
 
-**The seed bank — why weeding never "finishes."** Every soil holds a vast reservoir of dormant weed seeds — the **seed bank** — that can stay viable for *years to decades* (some for 50+ years). When you dig, till, or leave soil bare, you expose seeds to the light and air that trigger germination. Two profound consequences:
+**The seed bank: why weeding never "finishes."** Every soil holds a vast reservoir of dormant weed seeds (the **seed bank**) that can stay viable for *years to decades* (some for 50+ years). When you dig, till, or leave soil bare, you expose seeds to the light and air that trigger germination. Two profound consequences:
 1. **Don't dig more than you must.** Every cultivation brings up a fresh crop of weeds. "No-dig" gardening and heavy mulching keep the seed bank buried and asleep.
-2. **Never let a weed set seed.** "One year's seeding, seven years' weeding," as the old saying goes. Stopping seed production is the single highest-leverage weed action — it slowly *drains* the seed bank instead of refilling it.
+2. **Never let a weed set seed.** "One year's seeding, seven years' weeding," as the old saying goes. Stopping seed production is the highest-leverage weed action there is, and it slowly *drains* the seed bank instead of refilling it.
 
-**The Pittsburgh dozen — know your enemy.** Learn to recognize these on sight:
+**The Pittsburgh dozen, know your enemy.** Learn to recognize these on sight:
 
 | Weed | Type | Note |
 |---|---|---|
@@ -40,16 +40,16 @@
 | **Purslane / lambsquarters / chickweed** | Annuals | Fast summer/cool-season seeders; hoe young; all edible |
 | **Poison ivy** | Perennial **(hazard)** | Not just a weed — a health hazard. See below. |
 
-**Poison ivy — a safety lecture, not just a weed.** *"Leaves of three, let it be."* Poison ivy has compound leaves of **three leaflets** (the middle one on a longer stalk), grows as a ground plant, shrub, or hairy climbing vine, and turns red in fall with whitish berries. Every part, in every season — *including bare winter vines* — carries **urushiol**, the oil that causes the rash, and urushiol stays active for *years* on tools, gloves, and clothes. Rules:
+**Poison ivy: a safety lecture, not just a weed.** *"Leaves of three, let it be."* Poison ivy has compound leaves of **three leaflets** (the middle one on a longer stalk), grows as a ground plant, shrub, or hairy climbing vine, and turns red in fall with whitish berries. Every part, in every season (*including bare winter vines*), carries **urushiol**, the oil that causes the rash, and urushiol stays active for *years* on tools, gloves, and clothes. Rules:
 - **Never burn it** — inhaling the smoke is dangerous.
 - Remove only in long sleeves/gloves; **wash skin with dish soap and cool water within hours**, and wash everything that touched it.
 - For big infestations, careful herbicide or a pro. Don't weed-whack it (aerosolizes the oil).
 
 ### Examples
 
-**Example 15.1 — Life cycle dictates the tactic.** Crabgrass (annual) is beaten by *prevention*: a thick lawn and correctly-timed pre-emergent stop its seeds, and any plant that does sprout dies at first frost — so you never need to dig it out, just deny it seed and light. Dandelion (perennial) laughs at that approach; snap off the top and it regrows from the taproot. Same "weed," opposite strategy — because the life cycle differs.
+**Example 15.1 — Life cycle dictates the tactic.** Crabgrass (annual) is beaten by *prevention*: a thick lawn and correctly-timed pre-emergent stop its seeds, and any plant that does sprout dies at first frost, so you never need to dig it out, just deny it seed and light. Dandelion (perennial) laughs at that approach; snap off the top and it regrows from the taproot. Same "weed," opposite strategy, because the life cycle differs.
 
-**Example 15.2 — The seed bank in action.** A gardener rototills a weedy bed to "clean it up." Two weeks later it's a green carpet of seedlings — far worse than before, because tilling dredged up decades of buried seed into the light. The neighbor who instead smothered the same weeds under cardboard and mulch (Day 16) kept the seed bank buried and had almost nothing to pull. *Disturbance feeds weeds.*
+**Example 15.2 — The seed bank in action.** A gardener rototills a weedy bed to "clean it up." Two weeks later it's a green carpet of seedlings, far worse than before, because tilling dredged up decades of buried seed into the light. The neighbor who instead smothered the same weeds under cardboard and mulch (Day 16) kept the seed bank buried and had almost nothing to pull. *Disturbance feeds weeds.*
 
 ### Lab
 
@@ -76,10 +76,10 @@
 
 ### Lecture
 
-**Weed management is IPM for plants — escalate from least force.** The same philosophy as Day 12: prevention first, intervention targeted and minimal.
+**Weed management is IPM for plants: escalate from least force.** The same philosophy as Day 12: prevention first, intervention targeted and minimal.
 
 **1. Cultural / preventive controls (where the war is actually won):**
-- **Mulch, mulch, mulch.** A 2–3 inch organic mulch layer is the single most effective weed control for beds: it blocks the light weed seeds need to germinate and keeps the seed bank buried. This is why mulch appeared in Week 1 and never left.
+- **Mulch, mulch, mulch.** A 2–3 inch organic mulch layer is the most effective weed control for beds: it blocks the light weed seeds need to germinate and keeps the seed bank buried. This is why mulch appeared in Week 1 and never left.
 - **Dense planting / ground covers.** Bare soil is an invitation; a thickly planted bed or a living ground cover shades out weeds the way a thick lawn shades out crabgrass. Nature abhors bare ground — so cover it with *your* plants before weeds cover it for you.
 - **Don't till.** Recall the seed bank: cultivation dredges up new weeds. Disturb soil as little as possible.
 - **Healthy turf** (Day 17) outcompetes lawn weeds without chemicals.
@@ -94,7 +94,7 @@
 - **Spot-treat, never broadcast** what you don't need to. Protect desirable plants; never spray on windy days (drift) or before rain (runoff into our rivers).
 - **The label is the law** — rates, timing, protective equipment, and the legal use are all on it. Read it fully. When in doubt, the mechanical/cultural route is almost always sufficient for a home garden.
 
-**The invasive battle — Pittsburgh's special cases.** Invasives don't play by normal rules and need dedicated strategy:
+**The invasive battle: Pittsburgh's special cases.** Invasives don't play by normal rules and need dedicated strategy:
 
 - **Japanese knotweed** — the region's most notorious invasive. Bamboo-like, 6–10 ft, with deep, far-running rhizomes that can resprout from a fingernail-sized fragment and even push through pavement. **Do not dig and dump it** (you spread it) and **do not compost or put it in yard waste** (fragments root). Realistic control: **repeated cutting** through the season to exhaust reserves over *years*, and/or **carefully applied targeted herbicide in late summer/early fall** when the plant is moving resources down to the roots (the one window that actually reaches the rhizome). Large stands often need a professional and a multi-year commitment. Bag and trash (or follow local disposal rules) all cut material. Patience and persistence, not a single heroic effort.
 - **Garlic mustard** — biennial woodland invader that chemically suppresses native plants and tree seedlings. The good news: it's **shallow-rooted and pulls easily**, and it **reproduces only by seed**. **Hand-pull before it sets seed in spring** (year-two flowering plants first), **bag and trash it** (don't compost — seeds survive), and repeat for a few years to drain its seed bank. Entirely winnable with diligence.
@@ -102,7 +102,7 @@
 
 ### Examples
 
-**Example 16.1 — Reclaiming a weedy bed without chemicals.** Instead of spraying or tilling a weed-choked bed, the gardener mows it low, lays overlapping **cardboard**, tops it with 3–4 inches of **mulch/compost**, and waits a season. Light is occluded, existing weeds die, the seed bank stays buried, and the cardboard rots into the now-plantable bed. No herbicide, no tilling, no dredged-up seed bank — and the soil is *better* than before.
+**Example 16.1 — Reclaiming a weedy bed without chemicals.** Instead of spraying or tilling a weed-choked bed, the gardener mows it low, lays overlapping **cardboard**, tops it with 3–4 inches of **mulch/compost**, and waits a season. Light is occluded, existing weeds die, the seed bank stays buried, and the cardboard rots into the now-plantable bed. No herbicide, no tilling, no dredged-up seed bank, and the soil is *better* than before.
 
 **Example 16.2 — Knotweed reality check.** A homeowner cuts a knotweed stand to the ground and hauls the canes to the yard-waste pile, feeling victorious. Result: it resprouts in weeks, *and* the dumped fragments start a new colony at the compost site. The effective plan was unglamorous: cut it repeatedly all summer to starve the roots, treat the regrowth in early fall, **bag everything for the trash**, and expect to repeat next year. Invasives reward persistence, punish shortcuts.
 
@@ -131,7 +131,7 @@
 
 ### Lecture
 
-**Pittsburgh lawns are cool-season grass.** Our turf is **cool-season species** — Kentucky bluegrass, perennial ryegrass, and (best for our shade and clay) the **fescues**. They grow vigorously in the **cool, moist** weather of **spring and fall** and naturally slow or go dormant (brown) in summer heat — *that summer browning is usually dormancy, not death,* and the lawn greens back up with fall rains. This single fact reorders everything: **the lawn's important work happens in fall, not summer.**
+**Pittsburgh lawns are cool-season grass.** Our turf is **cool-season species**: Kentucky bluegrass, perennial ryegrass, and (best for our shade and clay) the **fescues**. They grow vigorously in the **cool, moist** weather of **spring and fall** and naturally slow or go dormant (brown) in summer heat. *That summer browning is usually dormancy, not death,* and the lawn greens back up with fall rains. That one fact reorders everything: **the lawn's important work happens in fall, not summer.**
 
 **The cool-season lawn calendar:**
 - **Fall = the most important season.** Cool air, warm soil, and rain make autumn the prime time to **seed/overseed, fertilize, aerate, and control broadleaf weeds.** A lawn renovated in **late August–September** establishes beautifully. If you do one thing for your lawn all year, do it in fall.
@@ -145,16 +145,16 @@
 
 **Aeration and overseeding** (the fall power move): core-aerate compacted clay to relieve compaction and let air/water/roots in, then overseed (especially with fescue) and topdress with a little compost. This is how a tired, weedy Pittsburgh lawn becomes thick and self-defending in a season or two.
 
-**Should you even have all this lawn?** Lawn is the highest-input, lowest-ecological-value part of most yards — thirsty, hungry, mowed weekly, and nearly useless to pollinators and wildlife. You don't have to abolish it, but consider **right-sizing** it:
+**Should you even have all this lawn?** Lawn is the highest-input, lowest-ecological-value part of most yards: thirsty, hungry, mowed weekly, and nearly useless to pollinators and wildlife. You don't have to abolish it, but consider **right-sizing** it:
 - **Keep lawn where you use it** (play, paths, gathering) and convert low-use areas to lower-input plantings.
 - **Lawn alternatives & reductions:** native planting beds and pollinator gardens (Day 18); ground covers for shade/slopes (where grass struggles anyway); a **"freedom lawn"** that welcomes clover and violets (less mowing, feeds bees, fixes nitrogen); or low-input fine-fescue/no-mow mixes. Slopes too steep to mow safely (common in Pittsburgh) are prime candidates for conversion.
 - **The payoff:** less mowing, watering, and fertilizing; fewer chemicals in our rivers; more birds and pollinators; and a more interesting yard.
 
 ### Examples
 
-**Example 17.1 — Two lawns, one summer.** Lawn A is mowed short and watered daily; it's shallow-rooted, weedy, and disease-prone, and browns anyway in a heat wave. Lawn B is mowed high (3.5 in) with clippings left, fed in fall, and largely left alone in summer; it's deep-rooted, dense, and shrugs off both drought and weeds. Same grass, opposite results — driven by **mowing height** and **timing**, not products.
+**Example 17.1 — Two lawns, one summer.** Lawn A is mowed short and watered daily; it's shallow-rooted, weedy, and disease-prone, and browns anyway in a heat wave. Lawn B is mowed high (3.5 in) with clippings left, fed in fall, and largely left alone in summer; it's deep-rooted, dense, and shrugs off both drought and weeds. Same grass, opposite results, driven by **mowing height** and **timing**, not products.
 
-**Example 17.2 — Right-sizing a slope.** A homeowner struggles to mow a steep, eroding, hard-to-water front slope. They convert it to a mass of native black-eyed Susans, asters, and little bluestem with a mulch base. Now it holds the soil, never needs mowing or watering, blooms half the year, and hums with bees — a maintenance headache turned into the best part of the yard.
+**Example 17.2 — Right-sizing a slope.** A homeowner struggles to mow a steep, eroding, hard-to-water front slope. They convert it to a mass of native black-eyed Susans, asters, and little bluestem with a mulch base. Now it holds the soil, never needs mowing or watering, blooms half the year, and hums with bees: a maintenance headache turned into the best part of the yard.
 
 ### Lab
 
@@ -181,11 +181,11 @@
 
 ### Lecture
 
-**A healthy garden is designed, not just planted.** Everything so far has been plant-by-plant; design is the system level, where good choices compound into a garden that resists pests, suppresses weeds, needs little water or fertilizer, and supports abundant life — largely on its own. The unifying idea: **work with nature, not against it.**
+**A healthy garden is designed, not just planted.** Everything so far has been plant-by-plant; design is the system level, where good choices compound into a garden that resists pests, suppresses weeds, needs little water or fertilizer, and supports abundant life, largely on its own. The unifying idea: **work with nature, not against it.**
 
-**Biodiversity is resilience.** A monoculture (one species, or all-lawn) is fragile — one pest or disease can wipe it out, and it offers nothing to the food web. A **diverse** planting (many species, varied families, mixed bloom times) is resilient: pests and diseases can't sweep through, beneficial insects and birds always have habitat, and if one plant fails, others fill in. **Diversity is the cheapest insurance in the garden** — and it's why every "usual suspect" pest in Day 12 was manageable: a diverse garden keeps its own predators employed.
+**Biodiversity is resilience.** A monoculture (one species, or all-lawn) is fragile: one pest or disease can wipe it out, and it offers nothing to the food web. A **diverse** planting (many species, varied families, mixed bloom times) is resilient: pests and diseases can't sweep through, beneficial insects and birds always have habitat, and if one plant fails, others fill in. **Diversity is the cheapest insurance in the garden**, and it's why every "usual suspect" pest in Day 12 was manageable: a diverse garden keeps its own predators employed.
 
-**Design for pollinators and the food web — the living garden.** Bees, butterflies, and other pollinators are in decline and are essential (a third of our food, most flowering plants). Build for them and you get a garden that is alive, productive, and self-regulating:
+**Design for pollinators and the food web: the living garden.** Bees, butterflies, and other pollinators are in decline and are essential (a third of our food, most flowering plants). Build for them and you get a garden that is alive, productive, and self-regulating:
 - **Plant natives** (Day 8) — local pollinators and the caterpillars that feed baby birds depend on the native plants they co-evolved with. Native plantings support vastly more insect and bird life than exotic ornamentals.
 - **Bloom spring through fall** — overlap species so there's always nectar/pollen: e.g., spring (serviceberry, wild columbine, redbud), summer (bee balm, coneflower, milkweed, mountain mint), fall (asters, goldenrod — critical late food before winter).
 - **Plant in drifts**, not onesies — clumps of the same plant are easier for pollinators to work and read better in design.
@@ -193,7 +193,7 @@
 - **Go (mostly) pesticide-free** — you can't have pollinators and broad-spectrum sprays. IPM (Day 12) exists precisely to protect this.
 - **Provide water and shelter** — a shallow water source, some leaf litter left over winter, a few "messy" corners, standing seedheads and hollow stems for overwintering insects.
 
-**Layering and plant communities — design like a natural landscape.** Nature doesn't plant in tidy isolated mounds surrounded by bare mulch; it fills space in **layers** and **communities**:
+**Layering and plant communities: design like a natural landscape.** Nature doesn't plant in tidy isolated mounds surrounded by bare mulch; it fills space in **layers** and **communities**:
 - **Vertical layers:** canopy tree → understory tree/large shrub → shrubs → perennials/grasses → ground covers. Each layer uses light and space others don't, and the ground layer of densely planted perennials and ground covers becomes a **living mulch** that shades out weeds (closing the loop with Days 15–16: the best weed control is leaving no bare ground).
 - **Plant communities / "right plant, right place" at scale:** group plants that want the *same* conditions and pair them so they cover the ground and the season together — a sunny dry community (coneflower + little bluestem + butterfly milkweed + aster), a moist-shade community (ferns + wild ginger + foamflower + bluebells). Matched communities need almost no intervention because every plant is in its place and the ground is fully occupied.
 
@@ -230,7 +230,7 @@
 
 ### Lecture
 
-**The secret to a healthy garden that isn't a burden: little and often, by the calendar.** A garden neglected for a month and then "fixed" in a frantic weekend is always behind. A garden touched a bit each week, with the right task in the right season, stays ahead with far less total work. The calendar is how you replace anxiety and guesswork with a routine. Below is the Pittsburgh (Zone 6b) year — adjust ±2 weeks for your microclimate and the actual weather.
+**The secret to a healthy garden that isn't a burden: little and often, by the calendar.** A garden neglected for a month and then "fixed" in a frantic weekend is always behind. A garden touched a bit each week, with the right task in the right season, stays ahead with far less total work. The calendar is how you replace anxiety and guesswork with a routine. Below is the Pittsburgh (Zone 6b) year; adjust ±2 weeks for your microclimate and the actual weather.
 
 **Late winter (Feb–early March):** the planning and pruning season.
 - Plan: order seeds, finalize designs, review last year's notes.
@@ -238,15 +238,15 @@
 - Start cool-season seeds indoors (e.g., 6–8 weeks before last frost for many).
 - Cut back ornamental grasses and last year's perennial stalks just before new growth (you left them for winter interest/birds — now's their time).
 
-**Spring (mid-March–May):** the wake-up and the big planting push — but mind the frost.
+**Spring (mid-March–May):** the wake-up and the big planting push, but mind the frost.
 - As soil is *workable* (not wet — Day 4): top-dress beds with compost, plant **cool-season** veggies and hardy perennials, divide overgrown perennials.
 - **Crabgrass pre-emergent** on the lawn as soil warms (forsythia bloom); overseed thin lawn.
-- **Refresh mulch** to 2–3 inches before weeds get going — your single biggest weed-prevention act.
+- **Refresh mulch** to 2–3 inches before weeds get going; nothing else prevents more weeds for less effort.
 - Prune **spring bloomers right after they finish** (Day 11).
 - **After last frost (~May 15):** plant tender crops/annuals; harden off transplants first.
 - Begin scouting for pests as growth takes off.
 
-**Summer (June–Aug):** the tending and watching season — mostly upkeep, not big projects.
+**Summer (June–Aug):** the tending and watching season, mostly upkeep, not big projects.
 - **Water deeply and infrequently** in dry spells (~1 in/week); finger-test first; morning, at the base.
 - **Weed little and often** — get them before they seed; keep mulch topped up.
 - **Deadhead** for rebloom; pinch where useful.
@@ -268,15 +268,15 @@
 - Drain and store hoses; clean, sharpen, and oil tools (Supplement Part 1); empty and store containers so clay pots don't crack.
 - Keep watering evergreens during dry, unfrozen spells.
 
-**Deep winter (Jan):** rest — for you and the garden.
+**Deep winter (Jan):** rest, for you and the garden.
 - Enjoy the structure (seedheads, bark, berries, snow). Read, plan, dream, take stock of what worked.
 - Knock heavy snow off shrubs gently; otherwise, **do nothing** — and that's correct. The off-season is real; honor it.
 
-**The meta-skill: keep a garden journal.** The single habit that compounds fastest. Record what you planted where and when, what bloomed, what failed, when pests appeared, your frost dates, your soil-test results. Next year you're not starting over — you're refining. Your own records, in your own microclimate, eventually beat any book.
+**The meta-skill: keep a garden journal.** It's the habit that compounds fastest. Record what you planted where and when, what bloomed, what failed, when pests appeared, your frost dates, your soil-test results. Next year you're not starting over; you're refining. Your own records, in your own microclimate, eventually beat any book.
 
 ### Examples
 
-**Example 19.1 — Same task, wrong season.** A gardener fertilizes the lawn heavily in spring and plants a tree in July. The spring nitrogen fuels weeds and a summer mowing marathon, and the July tree struggles in the heat all summer. Shift both by season — **light spring feed / heavy fall feed**, and **plant the tree in October** — and the *same actions* produce a thick lawn and a tree that establishes effortlessly. **Timing is most of gardening.**
+**Example 19.1 — Same task, wrong season.** A gardener fertilizes the lawn heavily in spring and plants a tree in July. The spring nitrogen fuels weeds and a summer mowing marathon, and the July tree struggles in the heat all summer. Shift both by season (**light spring feed / heavy fall feed**, and **plant the tree in October**) and the *same actions* produce a thick lawn and a tree that establishes effortlessly. **Timing is most of gardening.**
 
 **Example 19.2 — The journal pays off.** Year one, powdery mildew hits the bee balm every August and Japanese beetles find the roses in late June. Because it's written down, year two the gardener pre-empts: more spacing/airflow for the bee balm in spring, and a beetle-scouting reminder for mid-June. The problems shrink because the calendar *remembered* them. Memory is the amateur's weakness; the journal is the cure.
 

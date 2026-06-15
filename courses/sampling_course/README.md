@@ -7,7 +7,7 @@
 
 ## Course Description
 
-Almost every genre you love — hip-hop, house, jungle, lo-fi, pop, ambient — was built by people who took recorded sound and turned it into something new. That practice is **sampling**: treating audio as raw material rather than a finished performance. A two-second drum break becomes a rhythm section. A scratchy soul record becomes a chord progression. A field recording of rain becomes a pad. The skill is not "stealing a loop" — it is *hearing the music inside a sound that was never meant to be that music*, and having the tools and craft to extract it.
+Almost every genre you love — hip-hop, house, jungle, lo-fi, pop, ambient — was built by people who took recorded sound and turned it into something new. That practice is **sampling**: treating audio as raw material rather than a finished performance. A two-second drum break becomes a rhythm section. A scratchy soul record becomes a chord progression. A field recording of rain becomes a pad. The skill isn't really about stealing a loop. It's *hearing the music inside a sound that was never meant to be that music*, and having the tools and craft to extract it.
 
 This course teaches that craft from first principles, entirely inside **Ableton Live** — the DAW that more or less defines modern sample-based production. You will learn how Live thinks about audio (warping, the two views, the instruments), then build real material: you will flip a sample into a beat, slice a drum break, multisample an instrument, design sound by resampling, arrange loops into a finished song, mix it, and learn how to release it without getting sued.
 

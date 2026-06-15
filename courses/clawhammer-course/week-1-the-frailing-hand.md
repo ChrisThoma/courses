@@ -1,6 +1,6 @@
 # Week 1 — The Frailing Hand
 
-> **The thesis of this week:** clawhammer is, at its heart, *one rhythmic motion* of the striking hand — strike down, brush down, catch the drone — repeated until it's as automatic as walking. We call it the **bum-ditty**. Everything else in old-time banjo (melody, ornaments, tunes) is decoration hung on that steady frame. So Week 1 is almost entirely about the **right hand** (the striking hand) and building a groove that doesn't wobble. Get this week solid and the rest of the course is fun. Rush it and everything later collapses. Go slow.
+> **The thesis of this week:** clawhammer is, at its heart, *one rhythmic motion* of the striking hand (strike down, brush down, catch the drone) repeated until it's as automatic as walking. We call it the **bum-ditty**. Everything else in old-time banjo (melody, ornaments, tunes) is decoration hung on that steady frame. So Week 1 is almost entirely about the **right hand** (the striking hand) and building a groove that doesn't wobble. Get this week solid and the rest of the course is fun. Rush it and everything later collapses. Go slow.
 
 Throughout the course, tab examples use the notation from the [Field Guide](SUPPLEMENT-tab-tunings-and-resources.md) — read its "Reading tab" section before today if you haven't. Letters under the staff are the striking hand: **I** = index strike, **B** = brush, **T** = thumb.
 
@@ -17,7 +17,7 @@ Throughout the course, tab examples use the notation from the [Field Guide](SUPP
 - Know, in one paragraph, where this instrument comes from.
 
 ### Listen (5 min)
-Before you play a note, **listen.** Find a recording of a clawhammer banjo player — search "Tommy Jarrell banjo" or "clawhammer banjo old time" — and just listen for two minutes. Notice the *steady, rolling, slightly lazy groove* and the high ringing note (the 5th-string drone) pinging through everything. That sound is your destination.
+Before you play a note, **listen.** Find a recording of a clawhammer banjo player (search "Tommy Jarrell banjo" or "clawhammer banjo old time") and just listen for two minutes. Notice the *steady, rolling, slightly lazy groove* and the high ringing note (the 5th-string drone) pinging through everything. That sound is your destination.
 
 ### Lecture
 
@@ -28,7 +28,7 @@ Before you play a note, **listen.** Find a recording of a clawhammer banjo playe
 - The **4th string** is nearest the *ceiling* — the lowest.
 - The **5th string** is the short one with the peg sticking out of the neck. It's a high drone and it never gets fretted in most beginner playing.
 
-**Tuning — gDGBD ("open G").** From the 5th string down to the 1st: **g, D, G, B, D.** Strummed open, that's a G major chord. Clip on a tuner and bring each string to its letter (Field Guide §2 has the step-by-step and the octave warning). **You will tune every time you play.** An out-of-tune banjo trains your ear to accept wrong notes — non-negotiable.
+**Tuning — gDGBD ("open G").** From the 5th string down to the 1st: **g, D, G, B, D.** Strummed open, that's a G major chord. Clip on a tuner and bring each string to its letter (Field Guide §2 has the step-by-step and the octave warning). **You will tune every time you play.** An out-of-tune banjo trains your ear to accept wrong notes, and that's non-negotiable.
 
 **Posture (this prevents pain and bad tone):**
 - Sit forward on a chair, both feet flat. Rest the pot on your right thigh, neck angled up at maybe 30–45°.
@@ -36,7 +36,7 @@ Before you play a note, **listen.** Find a recording of a clawhammer banjo playe
 - A **strap is strongly recommended even sitting** — it stabilizes the banjo so both hands can stay loose.
 - Right forearm rests lightly on the rim, hand hovering over the head near the bridge — roughly an inch or two up the neck from the bridge is the clawhammer sweet spot for tone.
 
-**The one-paragraph history (the long version is in Field Guide §6 and we'll return to it all course):** the banjo is **African in origin** — descended from West African gourd lutes like the **akonting**, which is played with a *downstroke* and even has a short high *drone string*, exactly like clawhammer and the 5th string. Brought to the Americas by enslaved Africans, popularized (through the racist minstrel era) nationally, and rooted deep in **Appalachian old-time** dance music, it's now played around the world. You are joining a very old conversation.
+**The one-paragraph history (the long version is in Field Guide §6 and we'll return to it all course):** the banjo is **African in origin**, descended from West African gourd lutes like the **akonting**, which is played with a *downstroke* and even has a short high *drone string*, exactly like clawhammer and the 5th string. Brought to the Americas by enslaved Africans, popularized (through the racist minstrel era) nationally, and rooted deep in **Appalachian old-time** dance music, it's now played around the world. You are joining a very old conversation.
 
 ### Play — today's assignment
 1. **(10 min) Tune, and re-tune.** Tune to gDGBD. Detune one string on purpose and tune it back, by ear-and-tuner, three times. Get comfortable with the pegs and which way raises/lowers pitch.
@@ -60,7 +60,7 @@ Before you play a note, **listen.** Find a recording of a clawhammer banjo playe
 - Get a consistent, round tone on each of the four melody strings.
 
 ### Listen (3 min)
-Replay yesterday's clawhammer recording. Today, listen for the *individual struck notes* — the "bum" — under the busier brushing. Each one is a single string hit firmly with a nail.
+Replay yesterday's clawhammer recording. Today, listen for the *individual struck notes*, the "bum," under the busier brushing. Each one is a single string hit firmly with a nail.
 
 ### Lecture
 
@@ -77,9 +77,9 @@ Here is the one idea that separates clawhammer from every other way of playing a
 - Aim for **one string** cleanly. After striking, your hand naturally comes to rest with the finger having passed through.
 
 **Tone-killers to avoid:**
-- **Plucking up** with the fleshy fingertip (guitar habit) — wrong motion, thin sound. Down, with the nail.
-- **A tense, locked wrist** — kills tone and your forearm. Stay floppy.
-- **Hitting two strings when you mean one** — slow down and aim. Precision first, speed never.
+- **Plucking up** with the fleshy fingertip (guitar habit): wrong motion, thin sound. Down, with the nail.
+- **A tense, locked wrist:** it kills tone and tires your forearm. Stay floppy.
+- **Hitting two strings when you mean one:** slow down and aim. Precision first, speed never.
 
 > **Where to strike for tone:** about **1–2 inches up the neck from the bridge**, over the head. Right at the bridge is harsh; up near the fingerboard is soft and plunky (some old-time players love that). Experiment, but start in the middle.
 
@@ -164,14 +164,14 @@ One more focused listen. Now you can hear all three pieces: the struck note (**b
 
 ### Lecture
 
-Today we insert the **brush** between yesterday's strike and thumb. That completes the **bum-ditty** — the single most important pattern in the entire style.
+Today we insert the **brush** between yesterday's strike and thumb. That completes the **bum-ditty**, the pattern the whole style is built on.
 
 **The three motions, in one smooth roll of a loose hand:**
 1. **BUM (strike, "I"):** index/middle nail strikes *one* melody string, down.
 2. **DI (brush, "B"):** the same hand keeps moving down and the nail **brushes across 2–3 strings** (a little downward strum) — light and quick.
 3. **TY (thumb, "T"):** the thumb sounds the 5th-string drone.
 
-It is *one continuous downward motion of the hand* that happens to catch a single string, then a few strings, then the drone — not three separate jabs. Down… brush… thumb. Loose wrist throughout.
+It is *one continuous downward motion of the hand* that happens to catch a single string, then a few strings, then the drone, not three separate jabs. Down… brush… thumb. Loose wrist throughout.
 
 ```
         BUM         DI      TY          BUM         DI      TY
@@ -189,7 +189,7 @@ It is *one continuous downward motion of the hand* that happens to catch a singl
 
 > **1**-di-ty **2**-di-ty | **1**-di-ty **2**-di-ty …
 
-**The beginner failure mode (almost universal):** rushing the "di-ty" so it crowds up against the next "bum," making a lurching, galloping rhythm. **Fix:** slow way down, use a metronome, and deliberately *delay* the di-ty — let it breathe. Even is the goal, not fast.
+**The beginner failure mode (almost universal):** rushing the "di-ty" so it crowds up against the next "bum," making a lurching, galloping rhythm. **Fix:** slow way down, use a metronome, and deliberately *delay* the di-ty so it has room to breathe. Even is the goal, not fast.
 
 ### Play
 1. **(10 min) Air it out.** Without worrying about which strings, just do the *motion* — strike-brush-thumb — slowly, feeling it as one loose downward roll. Watch your hand stay relaxed.
@@ -219,11 +219,11 @@ Listen to **Boil Them Cabbage Down** (tomorrow's tune) — find a version online
 
 ### Lecture
 
-So far the left hand has done nothing — open strings only. Today it goes to work. The three chords below cover an enormous chunk of old-time. (Diagrams and notes are in [Field Guide §4](SUPPLEMENT-tab-tunings-and-resources.md).)
+So far the left hand has done nothing; it's been open strings only. Today it goes to work. The three chords below cover an enormous chunk of old-time. (Diagrams and notes are in [Field Guide §4](SUPPLEMENT-tab-tunings-and-resources.md).)
 
-- **G** — all strings open. Nothing to fret. Your home base.
-- **C** — 1st string/2nd fret, 2nd string/1st fret, 4th string/2nd fret (3rd open).
-- **D7** — 2nd string/1st fret, 3rd string/2nd fret (1st and 4th open). The easy everyday "D."
+- **G:** all strings open. Nothing to fret. Your home base.
+- **C:** 1st string/2nd fret, 2nd string/1st fret, 4th string/2nd fret (3rd open).
+- **D7:** 2nd string/1st fret, 3rd string/2nd fret (1st and 4th open). The easy everyday "D."
 
 **Fretting-hand fundamentals:**
 - Press the string down **just behind the fret** (on the bridge side of the fret wire), not on top of it and not far behind — that gives a clean note with the least effort.
@@ -263,7 +263,7 @@ Listen to **Boil Them Cabbage Down** twice through. Sing along until the melody 
 
 ### Lecture
 
-Here's the good news: your very first tune needs nothing new. **Boil Them Cabbage Down is a I–IV–V tune** — it uses only **G, C, and D7**, the three chords you learned yesterday — and you can play a completely legitimate, fun version by **frailing the chord changes with your steady bum-ditty while you sing the melody.** This is exactly how old-time players back up a song, and it's a real musical skill, not a training-wheels cheat.
+Here's the good news: your very first tune needs nothing new. **Boil Them Cabbage Down is a I–IV–V tune** that uses only **G, C, and D7**, the three chords you learned yesterday, and you can play a completely legitimate, fun version by **frailing the chord changes with your steady bum-ditty while you sing the melody.** This is exactly how old-time players back up a song, and it's a real musical skill, not a training-wheels cheat.
 
 **The chord map (one common version, in G):**
 
@@ -276,7 +276,7 @@ The only song that I can sing is boil them cabbage down.
 
 So your job: **keep a rock-steady bum-ditty going on G, change to C where the words "bake them hoecakes" land, back to G, then D7 on the last line, and home to G.** Sing the tune on top. Let the *singing* carry the melody while the banjo lays down the groove and the chords.
 
-> **Why start here?** Three reasons. (1) It cements chord changes *in time* — the Week-1 capstone skill. (2) It connects the banjo to a *song*, which is the whole point. (3) It's almost impossible to do badly enough not to enjoy it. Tomorrow's project and all of Week 2 build melodic playing on top of this rhythmic foundation.
+> **Why start here?** Three reasons. (1) It cements chord changes *in time*, the Week-1 capstone skill. (2) It connects the banjo to a *song*, which is the point of all this. (3) It's almost impossible to do badly enough not to enjoy it. Tomorrow's project and all of Week 2 build melodic playing on top of this rhythmic foundation.
 
 **If you don't want to sing:** hum it, or just play the changes and *hear* the melody in your head. But try singing — old-time banjo and the human voice grew up together, and nobody at a jam cares if you're a great singer.
 
@@ -302,7 +302,7 @@ Take **Quiz 1** now (see `QUIZZES.md`), closed-book. Grade against `ANSWER-KEYS.
 Today is consolidation, not new material. "Woodshedding" is the old musicians' word for shutting yourself away to drill something until it's solid. Three things:
 
 ### 1. Review the week
-Reread the self-checks for Days 1–6 and answer every one from memory. Anything you fumble, reread that lecture's relevant paragraph and play the example. The two load-bearing skills are the **even bum-ditty (Day 4)** and **changing chords without stopping (Day 5)** — spend the most time there.
+Reread the self-checks for Days 1–6 and answer every one from memory. Anything you fumble, reread that lecture's relevant paragraph and play the example. The two skills everything later rests on are the **even bum-ditty (Day 4)** and **changing chords without stopping (Day 5)**, so spend the most time there.
 
 ### 2. The "metronome ladder" drill (15 min)
 Bum-ditty on G. Find the fastest tempo at which it's still *perfectly even* (record and check). Then drop 10 bpm and hold it flawlessly for two minutes — building the groove into your body at a tempo you own. Resist the urge to play at your ragged top speed; that just rehearses raggedness.
@@ -311,4 +311,4 @@ Bum-ditty on G. Find the fastest tempo at which it's still *perfectly even* (rec
 Begin **Project 1** (see `PROJECTS.md`). It asks you to record a steady bum-ditty through a chord progression in time — the proof that Week 1's foundation is solid. It's due end of Day 7 (or carry into the Week-2 woodshed day if you genuinely need it — but don't let it slide; everything ahead stands on it).
 
 ### Looking ahead
-Week 1 was the **engine**: a steady frailing hand, a groove, and chords. Right now your banjo can lay down rhythm and back a song. **Week 2 is melody and drive** — the left-hand ornaments (hammer-ons, pull-offs, slides) and **drop-thumb** that turn that groove into actual *tunes* like Cripple Creek. From here on, the bum-ditty should fade into reflex so your attention is free for making melodies sing.
+Week 1 was the **engine**: a steady frailing hand, a groove, and chords. Right now your banjo can lay down rhythm and back a song. **Week 2 is melody and drive**: the left-hand ornaments (hammer-ons, pull-offs, slides) and **drop-thumb** that turn that groove into actual *tunes* like Cripple Creek. From here on, the bum-ditty should fade into reflex so your attention is free for making melodies sing.

@@ -44,7 +44,7 @@ Played open (no fretting), all five strings together sound a **G major chord** �
 
 > **Getting to Sawmill from gDGBD is one move:** raise the **2nd string from B up to C** (up one fret's worth of pitch). That single changed note removes the "major 3rd" and gives the spooky, open, modal sound old-time loves. Easy to do and undo — we'll practice it on Day 15.
 
-> **Getting to Double C:** from gDGBD, lower the **4th string D→C** and raise the **2nd string B→C** (so you have two C's — hence "Double C"); the 3rd stays G, 1st stays D, 5th stays g. (Many players then capo or spike up to "Double D" = aEAC#E for fiddle tunes in D.) We use Double C lightly; Sawmill is the priority.
+> **Getting to Double C:** from gDGBD, lower the **4th string D→C** and raise the **2nd string B→C** (so you have two C's — hence "Double C"); the 3rd stays G, 1st stays D, 5th stays g. (Many players then capo or spike up two frets to "Double D" = aDADE for fiddle tunes in D.) We use Double C lightly; Sawmill is the priority.
 
 Re-tune to alternates with your tuner the same way — just aim each string at its new letter. **Always re-tune back to gDGBD** when you're done, by ear or tuner.
 
@@ -97,7 +97,7 @@ Tablature ("tab") is a picture of the strings. **Five lines = the five strings.*
         I           B        T           I           B        T
 ```
 
-Read that as: **strike** the open 1st string (I) → **brush** strings 1-2-3 (B) → **thumb** the open 5th string (T) → and repeat. That's "bum-ditty bum-ditty," one measure. This is the single most important picture in the whole course; you'll have it under your fingers by the end of Week 1.
+Read that as: **strike** the open 1st string (I) → **brush** strings 1-2-3 (B) → **thumb** the open 5th string (T) → and repeat. That's "bum-ditty bum-ditty," one measure. If you take one picture from this whole course, take this one; you'll have it under your fingers by the end of Week 1.
 
 > **Timing note:** in clawhammer the "**bum**" (strike) is a longer note and the "**di-ty**" (brush-thumb) is the quicker pair that fills the rest of the beat — count it "**1**-and-uh" or say "**bum**-di-ty" out loud with the *bum* slightly stretched. Most beginners rush the di-ty; let it breathe.
 
@@ -109,7 +109,7 @@ Numbers are frets, top to bottom = strings 1→5. `0` = open, `x` = don't worry 
 
 ```
    G              C              D7             D (full)
-1 D | 0          1 D | 2        1 D | 0        1 D | 2
+1 D | 0          1 D | 2        1 D | 0        1 D | 4
 2 B | 0          2 B | 1        2 B | 1        2 B | 3
 3 G | 0          3 G | 0        3 G | 2        3 G | 2
 4 D | 0          4 D | 2        4 D | 0        4 D | 0
@@ -120,7 +120,7 @@ Numbers are frets, top to bottom = strings 1→5. `0` = open, `x` = don't worry 
 - **G** = everything open. The friendliest chord in music.
 - **C** = 1st string 2nd fret, 2nd string 1st fret, 4th string 2nd fret (3rd string open). Notes C–E–G.
 - **D7** = 2nd string 1st fret, 3rd string 2nd fret (1st and 4th open). The everyday old-time "D" — easy and it sounds right.
-- **D (full)** = 1st string 2nd fret, 2nd string 3rd fret, 3rd string 2nd fret. Use it when D7 sounds too "bluesy" for the tune.
+- **D (full)** = 1st string 4th fret, 2nd string 3rd fret, 3rd string 2nd fret (4th string open). Notes D–F#–A. Use it when D7 sounds too "bluesy" for the tune.
 
 Most beginner old-time tunes live on just **G, C, and D7**. Learn those three cold and you can play hundreds of tunes.
 

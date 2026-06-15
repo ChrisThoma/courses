@@ -1,6 +1,6 @@
 # Week 1 — Foundations: Site, Soil, Water, and How Plants Live
 
-> **The thesis of this week:** a garden is not a collection of plants — it is a place. Before you buy a single plant, you must know your light, your frost dates, your slope, and above all your soil. Ninety percent of "my plant died" in Pittsburgh traces back to a site-and-soil mismatch that was knowable in advance. This week you learn to know it.
+> **The thesis of this week:** a garden is a *place* before it's a collection of plants. Before you buy a single plant, you must know your light, your frost dates, your slope, and above all your soil. Ninety percent of "my plant died" in Pittsburgh traces back to a site-and-soil mismatch that was knowable in advance. This week you learn to know it.
 
 ---
 
@@ -13,7 +13,7 @@
 
 ### Lecture
 
-**The single most useful number: your hardiness zone.** The USDA Plant Hardiness Zone map divides the country by **average annual minimum winter temperature** — the coldest it typically gets. Pittsburgh and most of Allegheny County sit in **Zone 6b**, meaning average winter lows of **−5 °F to 0 °F**. The urban core and some sheltered river valleys, warmed by pavement and buildings (the "urban heat island"), behave like **Zone 7a** (0 to +5 °F). The 2023 update to the map nudged much of the region warmer than the old 6a designation many older books still cite.
+**The number to know first: your hardiness zone.** The USDA Plant Hardiness Zone map divides the country by **average annual minimum winter temperature**, the coldest it typically gets. Pittsburgh and most of Allegheny County sit in **Zone 6b**, meaning average winter lows of **−5 °F to 0 °F**. The urban core and some sheltered river valleys, warmed by pavement and buildings (the "urban heat island"), behave like **Zone 7a** (0 to +5 °F). The 2023 update to the map nudged much of the region warmer than the old 6a designation many older books still cite.
 
 What the zone tells you: **whether a perennial, shrub, or tree will survive your winter.** A plant rated "hardy to Zone 5" will sail through a Pittsburgh winter; one rated "Zone 7–10" (most "tropical" patio plants) will not survive outdoors and must be treated as an annual or brought inside.
 
@@ -27,7 +27,7 @@ First fall frost (average):    ~mid-October            (plan around OCT 15)
 Frost-free growing season:     ~155–180 days
 ```
 
-The practical rule every Pittsburgh gardener lives by: **do not put out frost-tender plants (tomatoes, peppers, basil, most annual flowers) until after Mother's Day / mid-May.** A warm spell in April is a trap — a single late frost will kill tender transplants overnight. Cool-season crops (peas, lettuce, spinach, pansies) are different; they *want* the cool weather and go out weeks earlier.
+The practical rule every Pittsburgh gardener lives by: **do not put out frost-tender plants (tomatoes, peppers, basil, most annual flowers) until after Mother's Day / mid-May.** A warm spell in April is a trap: a single late frost will kill tender transplants overnight. Cool-season crops (peas, lettuce, spinach, pansies) are different; they *want* the cool weather and go out weeks earlier.
 
 **Sun: the second site number.** Plants are sold by light requirement, defined by hours of direct sun:
 
@@ -77,7 +77,7 @@ Most vegetables and most flowering perennials want **full sun.** Pittsburgh comp
 ### Objectives
 - Identify soil texture (sand/silt/clay) by hand, and know why western PA clay behaves as it does.
 - Distinguish soil *texture* (fixed) from soil *structure* (improvable).
-- Understand the soil food web and why "feed the soil, not the plant" is the whole game.
+- Understand the soil food web and why "feed the soil, not the plant" is the idea everything else rests on.
 
 ### Lecture
 
@@ -91,7 +91,7 @@ Most vegetables and most flowering perennials want **full sun.** Pittsburgh comp
 | **Silt** | Medium, floury | Moderate everything; smooth when wet |
 | **Clay** | Tiny, sticky | Holds water and nutrients tightly, drains slowly, compacts easily |
 
-The blend is your **texture**, and it is essentially permanent — you cannot truck in enough sand to change a clay soil's class, and trying makes concrete. **Loam** (a balanced mix, ~40/40/20 sand/silt/clay) is the ideal, and the thing we build *toward* with organic matter, not by changing the mineral ratio.
+The blend is your **texture**, and it is essentially permanent: you can't truck in enough sand to change a clay soil's class, and trying just makes concrete. **Loam** (a balanced mix, ~40/40/20 sand/silt/clay) is the ideal, and the thing we build *toward* with organic matter, not by changing the mineral ratio.
 
 **The Pittsburgh reality: heavy clay.** Western Pennsylvania soils, weathered from shale and sandstone, are typically **clay-rich, dense, and slow-draining**, and urban lots add **compaction and construction fill** on top. Clay's tiny, flat particles pack together and squeeze out the air. The consequences you'll fight all course:
 - **Slow drainage** → soggy roots, root rot, and standing water after rain.
@@ -99,16 +99,16 @@ The blend is your **texture**, and it is essentially permanent — you cannot tr
 - **Late to warm** in spring (wet soil warms slowly) → don't rush spring planting.
 - **Bakes hard** in summer drought → cracks, then sheds water.
 
-But clay has a gift: it is **nutrient-rich.** Those same sticky particles hold onto plant nutrients (high "cation exchange capacity") that sandy soils let wash away. A well-managed clay soil is one of the most productive there is. The job is not to replace it — it's to improve its *structure*.
+But clay has a gift: it is **nutrient-rich.** Those same sticky particles hold onto plant nutrients (high "cation exchange capacity") that sandy soils let wash away. A well-managed clay soil is one of the most productive there is. The job is to improve its *structure*, not to replace it.
 
-**Structure vs. texture — the key distinction.** *Texture* is the particle sizes (fixed). *Structure* is how those particles clump into crumbs, with pore spaces between them for air and water. **Structure is what you can improve, and the tool is organic matter.** Decomposed organic matter (compost, leaf mold, aged manure) glues clay particles into crumbs, opening up pores. Good structure in clay means it drains yet still holds water, and roots can run through it. You will hear this again and again: **add organic matter.** It is the answer to almost every Pittsburgh soil problem.
+**Structure vs. texture, the key distinction.** *Texture* is the particle sizes (fixed). *Structure* is how those particles clump into crumbs, with pore spaces between them for air and water. **Structure is what you can improve, and the tool is organic matter.** Decomposed organic matter (compost, leaf mold, aged manure) glues clay particles into crumbs, opening up pores. Good structure in clay means it drains yet still holds water, and roots can run through it. You will hear this again and again: **add organic matter.** It is the answer to almost every Pittsburgh soil problem.
 
-**The soil food web: the living half of soil.** Healthy soil is alive — billions of bacteria, fungi, protozoa, nematodes, plus earthworms and arthropods, per handful. This web:
+**The soil food web: the living half of soil.** Healthy soil is alive: billions of bacteria, fungi, protozoa, nematodes, plus earthworms and arthropods, per handful. This web:
 - **Decomposes** organic matter into nutrients plants can absorb.
 - **Builds structure** (fungal threads and earthworm tunnels create pores; microbial glues form crumbs).
 - **Protects roots** (beneficial fungi — *mycorrhizae* — extend roots and trade nutrients for sugars; good microbes outcompete pathogens).
 
-This is why the gardener's mantra is **"feed the soil, not the plant."** Synthetic fertilizer feeds the plant directly but does nothing for — and overused, can harm — the food web. Organic matter feeds the web, and the web feeds the plant, builds structure, and stores water. Tend the living soil and it tends your plants.
+This is why the gardener's mantra is **"feed the soil, not the plant."** Synthetic fertilizer feeds the plant directly but does nothing for the food web, and overused it can harm it. Organic matter feeds the web, and the web feeds the plant, builds structure, and stores water. Tend the living soil and it tends your plants.
 
 ### Examples
 
@@ -145,7 +145,7 @@ This is why the gardener's mantra is **"feed the soil, not the plant."** Synthet
 
 ### Lecture
 
-**Stop guessing — test.** You cannot see pH or nutrient levels. A **soil test** is the cheapest, highest-leverage thing you can do; it turns soil care from superstition into prescription. Do **not** rely on cheap big-box probe meters (notoriously inaccurate). Use the **Penn State Extension soil test kit** — order it online or pick one up at the Allegheny County Extension office, mail in a sample, and get a lab report with pH, nutrient levels, and specific recommendations for what you're growing. Cost is modest (about the price of two plants) and it's good for ~3 years.
+**Stop guessing and test.** You cannot see pH or nutrient levels. A **soil test** is the cheapest, highest-leverage thing you can do; it turns soil care from superstition into prescription. Do **not** rely on cheap big-box probe meters (notoriously inaccurate). Use the **Penn State Extension soil test kit**: order it online or pick one up at the Allegheny County Extension office, mail in a sample, and get a lab report with pH, nutrient levels, and specific recommendations for what you're growing. Cost is modest (about the price of two plants) and it's good for ~3 years.
 
 **Taking a good sample** (garbage in, garbage out): with a clean trowel, take small slices 4–6 inches deep from 8–10 spots across the bed, mix them in a clean plastic bucket, and submit a cup of that blend. Sample lawns, veggie beds, and ornamental beds *separately* — they have different targets.
 
@@ -156,9 +156,9 @@ This is why the gardener's mantra is **"feed the soil, not the plant."** Synthet
 - **Too alkaline (high pH)?** Add **elemental sulfur** or organic matter to lower it (less common here, but happens near old concrete/foundations where lime leaches out).
 - A few plants *want* acid — **blueberries, rhododendrons, azaleas, hollies, mountain laurel** (Pennsylvania's state flower) thrive at pH 4.5–5.5, which is why they do so well in our region and why you acidify *for them* specifically.
 
-Change pH **slowly and by test** — lime takes months to act, and overshooting is worse than the original problem.
+Change pH **slowly and by test**, because lime takes months to act and overshooting is worse than the original problem.
 
-**N-P-K: the three macronutrients.** Fertilizer labels show three numbers, always in this order — **N-P-K**:
+**N-P-K: the three macronutrients.** Fertilizer labels show three numbers, always in this order, **N-P-K**:
 
 | Symbol | Nutrient | Drives | Deficiency sign |
 |---|---|---|---|
@@ -168,7 +168,7 @@ Change pH **slowly and by test** — lime takes months to act, and overshooting 
 
 So **10-10-10** is a balanced general fertilizer; **a "bloom" food** (e.g., 5-10-5) leans on phosphorus for flowers; **a lawn food** (e.g., 24-0-4) leans hard on nitrogen for leaf. Plus secondary nutrients (calcium, magnesium, sulfur) and micronutrients (iron, etc.) the test will flag if low. **Don't fertilize blind:** most established Pittsburgh clay is *not* short on phosphorus and potassium (clay holds them), so dumping balanced fertilizer can over-apply P, which pollutes our rivers. Test, then feed what's actually missing — usually just nitrogen and organic matter.
 
-**Urban-soil safety — read before growing food.** Pittsburgh's industrial history and old housing stock mean some city soils carry contaminants, chiefly **lead** (from pre-1978 lead paint near old houses and from a century of leaded gasoline near busy roads). Lead in soil is a real health concern for children and for root/leaf crops.
+**Urban-soil safety, read before growing food.** Pittsburgh's industrial history and old housing stock mean some city soils carry contaminants, chiefly **lead** (from pre-1978 lead paint near old houses and from a century of leaded gasoline near busy roads). Lead in soil is a real health concern for children and for root/leaf crops.
 - **Test for lead** (Penn State and other labs offer it as an add-on) if you'll grow vegetables, especially within ~10 ft of an old house's foundation/drip line, near old painted structures, or beside a busy road.
 - **If lead is elevated:** grow food in **raised beds with clean imported soil**, keep beds away from foundations, add organic matter (binds lead, lowers availability), mulch to stop dust, **wash produce well**, peel root crops, and favor fruiting crops (tomatoes, peppers, beans) over leafy/root crops in questionable ground. Always wash hands and garden in gloves.
 
@@ -203,14 +203,14 @@ So **10-10-10** is a balanced general fertilizer; **a "bloom" food** (e.g., 5-10
 
 ### Lecture
 
-**The water paradox of clay.** Plants need water *and* air at their roots. Clay holds tons of water but little air; when waterlogged, roots literally suffocate and rot. Yet the same clay, baked dry, sheds water and cracks. Both extremes kill. The target is a soil that is **moist but not soggy**, holding water in its crumbs while keeping air in its pores — which, you'll notice, is exactly what **good structure (organic matter)** delivers. Most of "watering" in Pittsburgh is really about *drainage and structure*, not about adding more water.
+**The water paradox of clay.** Plants need water *and* air at their roots. Clay holds tons of water but little air; when waterlogged, roots literally suffocate and rot. Yet the same clay, baked dry, sheds water and cracks. Both extremes kill. The target is a soil that is **moist but not soggy**, holding water in its crumbs while keeping air in its pores, which, you'll notice, is exactly what **good structure (organic matter)** delivers. Most of "watering" in Pittsburgh is really about *drainage and structure*, not about adding more water.
 
-**How water moves.** Rain or irrigation soaks down through pore spaces (infiltration). In sandy soil it races through; in compacted clay it barely enters and runs off the surface instead. Once in, water clings to particles; plants pull it from the crumbs. **"Well-drained" means excess water moves down and away within a few hours, leaving moist-but-aerated soil** — the condition the majority of plant tags demand and the one Pittsburgh clay fails by default.
+**How water moves.** Rain or irrigation soaks down through pore spaces (infiltration). In sandy soil it races through; in compacted clay it barely enters and runs off the surface instead. Once in, water clings to particles; plants pull it from the crumbs. **"Well-drained" means excess water moves down and away within a few hours, leaving moist-but-aerated soil** — the condition most plant tags demand, and the one Pittsburgh clay fails by default.
 
 **Diagnosing drainage — the perc test.** Dig a hole ~12 in deep and wide, fill with water, let it drain, fill again, and time the second drain:
-- Drains < 2 in/hr that's slow → typical compacted clay; amend heavily or choose tolerant plants / raised beds.
-- 2–6 in/hr → good.
-- > 6 in/hr → fast (sandy/raised); will need more frequent water.
+- **< 2 in/hr (slow):** typical compacted clay; amend heavily or choose tolerant plants / raised beds.
+- **2–6 in/hr:** good.
+- **> 6 in/hr (fast):** sandy or raised; will need more frequent water.
 
 **Fixing drainage in clay (in order of leverage):**
 1. **Organic matter, always.** Compost worked in, and especially used as a top layer year after year, is the durable fix — it builds the crumb structure that lets clay drain *and* hold water.
@@ -226,7 +226,7 @@ So **10-10-10** is a balanced general fertilizer; **a "bloom" food** (e.g., 5-10
 - **Water the soil, not the leaves, and water in the morning.** Wet foliage overnight breeds fungal disease (a big deal in our humid summers). Drip hoses and soaker hoses beat overhead sprinklers for exactly this reason.
 - **Check before you water:** push a finger 2 in into the soil. Moist? Don't water. Dry? Soak it. Your finger is a better sensor than the calendar.
 
-**Mulch: the highest-return habit in the garden.** A 2–3 inch layer of organic mulch (shredded leaves, wood chips, straw, bark) over the soil surface — but *not* piled against stems/trunks — does an astonishing amount of work at once:
+**Mulch: the highest-return habit in the garden.** A 2–3 inch layer of organic mulch (shredded leaves, wood chips, straw, bark) over the soil surface, kept *off* stems and trunks, does an astonishing amount of work at once:
 - **Conserves moisture** (cuts evaporation, so you water far less).
 - **Suppresses weeds** (blocks the light weed seeds need — your Week 3 ally).
 - **Moderates soil temperature** (cooler in summer, insulated in winter).
@@ -262,13 +262,13 @@ If you do only one thing from this course, mulch your beds.
 ### Objectives
 - Explain in plain terms how a plant feeds itself and what it needs from you.
 - Connect plant biology to the practical care you'll learn in Week 2.
-- State and apply the single most important principle in gardening: right plant, right place.
+- State and apply gardening's master principle: right plant, right place.
 
 ### Lecture
 
-**A plant is a solar-powered, self-feeding organism — it mostly needs you to get out of its way.** Understand the machinery and every care decision becomes obvious.
+**A plant is a solar-powered, self-feeding organism; mostly it just needs you to get out of its way.** Understand the machinery and every care decision becomes obvious.
 
-**Photosynthesis: plants make their own food.** Leaves capture **sunlight** and use it to combine **carbon dioxide** (from air) and **water** (from roots) into **sugars** — the plant's food — releasing oxygen. This is why **light is non-negotiable**: a sun plant in shade is a factory with the power cut, and no fertilizer can substitute. (Fertilizer is *not* plant food — the plant makes its own food from light; fertilizer just supplies a few mineral nutrients, like vitamins.) This single fact explains Day 1's obsession with sun mapping.
+**Photosynthesis: plants make their own food.** Leaves capture **sunlight** and use it to combine **carbon dioxide** (from air) and **water** (from roots) into **sugars** (the plant's food), releasing oxygen. This is why **light is non-negotiable**: a sun plant in shade is a factory with the power cut, and no fertilizer can substitute. (Fertilizer is *not* plant food: the plant makes its own food from light; fertilizer just supplies a few mineral nutrients, like vitamins.) That one fact explains Day 1's obsession with sun mapping.
 
 **The parts and their jobs:**
 - **Roots** anchor the plant and absorb water and dissolved nutrients. They need **air** as much as water (back to drainage). Most feeder roots are in the top 6–12 inches and spread out at least as wide as the plant — which is why you mulch and water *wide*, not just at the stem.
@@ -276,7 +276,7 @@ If you do only one thing from this course, mulch your beds.
 - **Stems** hold the leaves to the light and plumb water up and sugars down.
 - **Flowers** are the reproductive organs — and the pollinator magnet you'll build a whole garden around in Week 3. **Fruit and seed** follow pollination.
 
-**What a plant needs from you — the whole list:**
+**What a plant needs from you, the whole list:**
 1. **Light** appropriate to the species (you can't add it — you place the plant to get it).
 2. **Water** — moist, not soggy; deep and infrequent.
 3. **Air at the roots** — i.e., good drainage/structure.

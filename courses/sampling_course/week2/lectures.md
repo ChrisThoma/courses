@@ -8,7 +8,7 @@
 
 ## 6.1 The chop is the soul of sampling
 
-Last week you made your first chop. This week you make it a *voice.* Chopping is taking a continuous piece of audio, cutting it into fragments, and **re-sequencing** those fragments into something new. Done well, the source becomes unrecognizable yet musical — the same notes, a different song. Done poorly, it's just the original with hiccups. The difference is *intention about where you cut and how you re-order.*
+Last week you made your first chop. This week you make it a *voice.* Chopping is taking a continuous piece of audio, cutting it into fragments, and **re-sequencing** those fragments into something new. Done well, the source becomes unrecognizable yet musical: the same notes, a different song. Done poorly, it's just the original with hiccups. The difference is *intention about where you cut and how you re-order.*
 
 Two families of chopping, and you'll use both today:
 
@@ -44,7 +44,7 @@ You have two tools and they suit different jobs:
 | Per-slice processing | one device for all slices | **each pad is its own chain** — process hits individually |
 | Workflow | fast, fluid, playable | structured, mixable, layerable |
 
-For **melodic** chopping, Simpler Slice mode is often faster — you *play* the chops on a keyboard, improvising a new melody from the fragments. For **drums,** the Drum Rack wins because you can process each hit separately (compress just the snare, filter just the kick) and layer in Lecture 8.
+For **melodic** chopping, Simpler Slice mode is often faster, since you *play* the chops on a keyboard, improvising a new melody from the fragments. For **drums,** the Drum Rack wins because you can process each hit separately (compress just the snare, filter just the kick) and layer in Lecture 8.
 
 ## 6.5 Re-pitching chops — the secret weapon
 
@@ -81,7 +81,7 @@ In Lecture 3 you played one note across a whole keyboard. It works — but stret
 
 **Zones.** In Sampler's **Zone** tab you place each sample over a **key range** (which notes play it) and a **velocity range** (how hard you must hit to trigger it). Crossfade the edges so adjacent zones blend. A realistic piano might have dozens of zones; a usable sampled instrument might need only 3–4 (one per octave).
 
-**Velocity zones & round-robin** — map a *soft* recording to low velocities and a *hard* one to high velocities, and the instrument responds to your playing dynamics like the real thing. Round-robin (alternating samples on repeated notes) kills the "machine-gun" repetition of one sample retriggering.
+**Velocity zones & round-robin:** map a *soft* recording to low velocities and a *hard* one to high velocities, and the instrument responds to your playing dynamics like the real thing. Round-robin (alternating samples on repeated notes) kills the "machine-gun" repetition of one sample retriggering.
 
 ## 7.3 Modulation: making a sample expressive
 
@@ -89,7 +89,7 @@ A static sample is dead. Modulation makes it move. Sampler gives you:
 
 - **Multiple envelopes** — beyond the amp ADSR, route envelopes to the **filter** (so the tone evolves as a note sounds) and to **pitch** (for subtle attack bends).
 - **LFOs** — low-frequency oscillators that cyclically modulate a target: vibrato (LFO→pitch), tremolo (LFO→volume), filter wobble (LFO→cutoff, the dubstep staple), auto-pan (LFO→pan).
-- **Filter** — the single most musical processor; an envelope-driven low-pass turns a flat sample into something that *speaks.*
+- **Filter** — the most musical processor of the bunch; an envelope-driven low-pass turns a flat sample into something that *speaks.*
 
 The art: **route a little modulation to many destinations** rather than a lot to one. Subtle filter movement + a touch of pitch envelope + velocity→volume makes a sample feel *played* instead of *triggered.*
 
@@ -149,7 +149,7 @@ Perfectly quantized drums sound mechanical. Real grooves *breathe.* Three tools:
 - **Velocity.** Vary hit strength — ghost notes (quiet snares between the backbeats), accented downbeats. Flat velocity = lifeless; humanized velocity = alive.
 - **Micro-timing.** Nudge individual hits off the grid by a few ticks. A snare *barely* late drags the beat (laid-back); barely early pushes it (urgent). This is *feel,* and it's where taste (D8) lives.
 
-The goal isn't "correct" — it's **in the pocket.** A pocket is a groove that makes you nod before you think.
+The goal isn't "correct"; it's **in the pocket.** A pocket is a groove that makes you nod before you think.
 
 ## Listening & section questions
 
@@ -174,7 +174,7 @@ Warping (Lecture 2) got samples *onto* the grid. Now we use time and pitch *crea
 
 ## 9.2 Warp modes as sound design
 
-The warp mode isn't just "which is most accurate" — each *fails* in a characterful way you can exploit:
+The warp mode isn't just "which is most accurate." Each *fails* in a characterful way you can exploit:
 
 | Mode | Made for | Creative use / artifact |
 |---|---|---|
@@ -188,7 +188,7 @@ The warp mode isn't just "which is most accurate" — each *fails* in a characte
 
 ## 9.3 Extreme time-stretch: making pads from anything
 
-The single most magical sampling move:
+The most magical move in all of sampling:
 1. Take any short sound with harmonic content — a chord, a vocal note, even a snare.
 2. Load it as a clip, warp **on**, mode **Complex Pro** (or **Texture**).
 3. **Stretch it enormously** — set the clip to play over 4, 8, 16 bars (lower the Seg. BPM dramatically, or loop a tiny region over a long span).
@@ -209,7 +209,7 @@ Why it matters:
 
 ## 9.5 Granular thinking
 
-**Granular synthesis** chops a sample into tiny "grains" (milliseconds) and replays them — letting you freeze a moment, stretch infinitely, or scatter a sound into a cloud. Live's **Texture** warp mode is granular under the hood; Suite's **Granulator III** (a Max device) is a dedicated granular instrument. The mindset: *a sample is not a fixed timeline — it's a field of sound you can scan through at any speed, including stopped.* Freezing on one grain of a vocal gives an infinite, evolving drone from a single instant.
+**Granular synthesis** chops a sample into tiny "grains" (milliseconds) and replays them — letting you freeze a moment, stretch infinitely, or scatter a sound into a cloud. Live's **Texture** warp mode is granular under the hood; Suite's **Granulator III** (a Max device) is a dedicated granular instrument. The mindset: *think of a sample less as a fixed timeline and more as a field of sound you can scan through at any speed, including stopped.* Freezing on one grain of a vocal gives an infinite, evolving drone from a single instant.
 
 ## Listening & section questions
 

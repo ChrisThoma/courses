@@ -1,6 +1,6 @@
 # Week 3 — Repertoire & Voice
 
-> **The thesis of this week:** technique is now mostly in place; this week makes you *independent.* You'll open up the alternate tunings old-time lives in (so the spooky modal tunes are available to you), build a real method for learning tunes **by ear** (so you never *need* tab again), learn to **back up** a song and a singer, and start developing the thing no course can hand you — **your own sound.** The graduation requirement is simple and real: a short recording of yourself playing tunes you can actually play, with a groove someone would tap their foot to.
+> **The thesis of this week:** technique is now mostly in place; this week makes you *independent.* You'll open up the alternate tunings old-time lives in (so the spooky modal tunes are available to you), build a real method for learning tunes **by ear** (so you never *need* tab again), learn to **back up** a song and a singer, and start developing the thing no course can hand you: **your own sound.** The graduation requirement is simple and real: a short recording of yourself playing tunes you can actually play, with a groove someone would tap their foot to.
 
 Tab/notation key as before; tunings live in the [Field Guide](SUPPLEMENT-tab-tunings-and-resources.md) §2.
 
@@ -18,7 +18,7 @@ Listen to a Sawmill-tuning tune — **Shady Grove** or **Cluck Old Hen** (Field 
 
 ### Lecture
 
-Old-time banjo isn't one tuning — it's a family of them, and **players retune constantly** to suit a tune's key and mood. This surprises guitarists, but it's central to the style. Why retune instead of just fretting?
+Old-time banjo runs on a whole family of tunings, and **players retune constantly** to suit a tune's key and mood. This surprises guitarists, but it's central to the style. Why retune instead of just fretting?
 
 - **Open drone strings ring in the new key.** Each tuning makes a different set of open strings sound *good* together, so the drones and brushes reinforce the tune instead of clashing. A modal tune over gDGBD's bright major drones sounds wrong; in Sawmill it rings true.
 - **It changes the available easy melody notes** under your fingers, which shapes how a tune *wants* to be played.
@@ -63,7 +63,7 @@ Listen to **Shady Grove** several times — there are countless versions (it's o
 
 **Shady Grove** is *the* classic alternate-tuning tune for a beginner — a short, haunting, modal melody, usually played in **Sawmill (gDGCD)**, often as both a banjo tune and a sung ballad ("Shady Grove, my little love…"). It's the perfect Week-3 tune: it forces you to play *in* a new tuning, and its modal sound rewards you immediately.
 
-**Playing in a new tuning** means your map changed: the 2nd string is now a C, so melody notes and ornaments sit in slightly different places than your gDGBD reflexes expect. This is good for you — it stops the tuning from being a black box and makes you *think in the strings* again. Use the same tune-learning method:
+**Playing in a new tuning** means your map changed: the 2nd string is now a C, so melody notes and ornaments sit in slightly different places than your gDGBD reflexes expect. This is good for you: it stops the tuning from being a black box and makes you *think in the strings* again. Use the same tune-learning method:
 1. Hum it (required listening — done).
 2. Get a **Sawmill-tuning tab** for Shady Grove (Field Guide §5 sources; make sure the tab says gDGCD / Sawmill).
 3. Chunk it slowly, phrase by phrase.
@@ -143,7 +143,7 @@ Listen to **Tommy Jarrell** or **Fred Cockerham** (Round Peak, Field Guide §6).
 
 ### Lecture
 
-**Backup** is what banjo does most of the time in real old-time music: not playing the melody note-for-note, but laying down **chords and groove** so a fiddle, a singer, or another instrument can carry the tune. You already have the core skill — it's exactly the **"frail the changes and sing"** approach from Boil Them Cabbage Down (Day 6), now used behind *any* tune:
+**Backup** is what banjo does most of the time in real old-time music: not playing the melody note-for-note, but laying down **chords and groove** so a fiddle, a singer, or another instrument can carry the tune. You already have the core skill: it's exactly the **"frail the changes and sing"** approach from Boil Them Cabbage Down (Day 6), now used behind *any* tune:
 
 - **Know the chord changes** (G/C/D7 covers most beginner tunes), and frail a steady bum-ditty, changing chords where the tune wants them.
 - **Lock to the groove**, not to your own ego — backup's whole job is to make the *other* player sound good and keep the dance steady.
@@ -151,9 +151,9 @@ Listen to **Tommy Jarrell** or **Fred Cockerham** (Round Peak, Field Guide §6).
 
 **Singing while you play** is the most natural thing in old-time and worth pushing through the awkward phase. Strategy: get the banjo part on total autopilot (a simple backup groove) *first*, then add the voice on top — don't try to learn both at once. Start with tunes whose melody you know best.
 
-**The Round Peak style & finding your drive.** The most influential clawhammer sound comes from **Round Peak**, a community in Surry County, North Carolina, and its masters — **Tommy Jarrell, Fred Cockerham, and Kyle Creed.** Round Peak banjo is prized for its **driving, syncopated, relentlessly danceable groove** and heavy use of drop-thumb and brushing. You don't have to play Round Peak style, but you should **listen to the source players** — because the fastest way to develop drive and feel is to *steep your ears in great players* and let your hands chase that sound. Pick a player whose groove makes you want to move and listen to them constantly. ([What Is The Round Peak Style — Banjo Studio](https://www.banjostudio.com/blogs/blog/what-is-the-round-peak-style-of-clawhammer-banjo-playing))
+**The Round Peak style & finding your drive.** The most influential clawhammer sound comes from **Round Peak**, a community in Surry County, North Carolina, and its masters: **Tommy Jarrell, Fred Cockerham, and Kyle Creed.** Round Peak banjo is prized for its **driving, syncopated, relentlessly danceable groove** and heavy use of drop-thumb and brushing. You don't have to play Round Peak style, but you should **listen to the source players**, because the fastest way to develop drive and feel is to *steep your ears in great players* and let your hands chase that sound. Pick a player whose groove makes you want to move and listen to them constantly. ([What Is The Round Peak Style — Banjo Studio](https://www.banjostudio.com/blogs/blog/what-is-the-round-peak-style-of-clawhammer-banjo-playing))
 
-> **The single best thing you can do for your playing after this course:** find a **slow jam** — in person or online — and play with other people. Old-time is a *social* music; it was never meant to be played alone in a room. Backup and drive only fully click when you're locked in with someone else.
+> **The best thing you can do for your playing after this course:** find a **slow jam**, in person or online, and play with other people. Old-time is a *social* music; it was never meant to be played alone in a room. Backup and drive only fully click when you're locked in with someone else.
 
 ### Play
 1. **(15 min) Backup reps.** Pick a tune whose chords you know (Boil Them Cabbage Down, Cripple Creek) and play *only backup* — steady bum-ditty through the changes — along with a recording. Lock to *their* time, not yours.
@@ -183,7 +183,7 @@ Find **two different players** playing the *same* tune (e.g., two Cripple Creeks
 
 ### Lecture
 
-Once a tune is solid, the fun *really* starts: **variation.** Old-time players almost never play a tune the same way twice — they're constantly making small choices that become their personal voice. You have all the tools; now you use them as *expression*, not just execution.
+Once a tune is solid, the fun *really* starts: **variation.** Old-time players almost never play a tune the same way twice; they're constantly making small choices that become their personal voice. You have all the tools; now you use them as *expression*, not just execution.
 
 **Ways to vary a tune (try them one at a time):**
 - **Ornament choices:** play a melody note plain one time through, then with a slide, then a hammer-on, then a pull-off. Each gives a different feel.
@@ -196,7 +196,7 @@ Once a tune is solid, the fun *really* starts: **variation.** Old-time players a
 
 **Your "voice" emerges from thousands of these small choices** made over months and years — which ornaments you favor, how hard you drive, your tone, your tempo. You can't force it, but you *cultivate* it by (a) listening hard to players you love and stealing what moves you, and (b) constantly making little choices instead of playing on autopilot. By now you should have early flickers of preference — lean into them.
 
-> **The goal of this whole course, restated:** not to play tunes "correctly," but to *enjoy making music* and to keep getting better on your own. Variation and voice are where banjo stops being homework and becomes *yours.*
+> **The goal of this whole course, restated:** to *enjoy making music* and to keep getting better on your own, rather than just to play tunes "correctly." Variation and voice are where banjo stops being homework and becomes *yours.*
 
 ### Play
 1. **(15 min) One tune, five ways.** Take Cripple Creek (or any solid tune). Play it through five times, each time changing *one* thing — different ornament on a phrase, a drop-thumb fill, harder accents, brighter tone (strike near bridge), then plunkier (strike over the neck). Notice what you like.
@@ -243,13 +243,13 @@ This is your graduation (full spec in `PROJECTS.md`). Record a short "house conc
 > **Why record it:** because a recording is honest, because it's a milestone you'll treasure (your "before" that proves how far three weeks took you), and because performing — even to a phone — is a distinct skill from practicing. Save this file. In six months, re-record the same tunes and hear the difference.
 
 ### Where you are, and where to go next
-Three weeks ago you'd never held a banjo. Now you have a solid frailing hand, a real groove, ornaments, drop-thumb begun, four tunes, two extra tunings, a method for learning tunes by ear, and the history in your head. That is a genuine foundation — the hard part is *done.*
+Three weeks ago you'd never held a banjo. Now you have a solid frailing hand, a real groove, ornaments, drop-thumb begun, four tunes, two extra tunings, a method for learning tunes by ear, and the history in your head. That is a genuine foundation, and the hard part is *done.*
 
 **To keep growing (in priority order):**
 1. **Play with people.** Find a slow jam (in person or online). This is, by a wide margin, the most important thing. Old-time is social music.
 2. **Keep the daily habit** — even 15 minutes. Consistency beats marathon sessions.
 3. **Learn tunes by ear**, constantly. Aim for one new tune a week. The repertoire is how you grow.
 4. **Listen to source players** — Round Peak and beyond — and steal everything that moves you.
-5. **Deepen drop-thumb and drive** — the two long-game skills — over the coming months; they're what separate good from great.
+5. **Deepen drop-thumb and drive**, the two long-game skills, over the coming months; they're what separate good from great.
 
 You're a banjo player now. Go find a jam.

@@ -1,6 +1,6 @@
 # Drill Menu — MUS-21G
 
-The lessons prescribe a default 10-minute daily drill, but no single drill fits everyone every day. This is the full menu: **pick one drill per active skill, rotate every few days** so nothing goes stale. Variety isn't a luxury here — interleaving and randomness are what turn slow derivation into instant recall.
+The lessons prescribe a default 10-minute daily drill, but no single drill fits everyone every day. This is the full menu: **pick one drill per active skill, rotate every few days** so nothing goes stale. Variety isn't a luxury here; interleaving and randomness are what turn slow derivation into instant recall.
 
 **Building your 10 minutes:** 3–4 min from Skill A (fretboard) + 2–3 min from Skill B (intervals) + 2–3 min from whichever of C/D/E matches the current week + 1–2 min of F (ear) every single day.
 

@@ -1,6 +1,6 @@
 # Supplement — Rhythm and Meter for Guitarists
 
-**When to do this:** split across the two rest days — Part 1 on Day 7, Part 2 on Day 14 (~45 min each). It's a supplement, not a skip-it: harmony tells you *what* to play; rhythm is *when*, and "when" is half of music. This is everything a guitarist needs and nothing more — no standard-notation sight reading required.
+**When to do this:** split across the two rest days — Part 1 on Day 7, Part 2 on Day 14 (~45 min each). It's a supplement, not a skip-it: harmony tells you *what* to play; rhythm is *when*, and "when" is half of music. This covers everything a guitarist needs and nothing more; no standard-notation sight reading required.
 
 ---
 
@@ -58,7 +58,7 @@ Strum:  D       D   U       U   D   U
 
 ### Syncopation
 
-**Syncopation = emphasizing where the beat isn't** — accenting the "&"s (offbeats) instead of the numbers. Compare:
+**Syncopation = emphasizing where the beat isn't**, accenting the "&"s (offbeats) instead of the numbers. Compare:
 
 ```
 Square:      D   -   D   -   D   -   D   -     (all downbeats — marching band)
@@ -66,11 +66,11 @@ Syncopated:  D   -   -   U   -   U   D   -     (accents on &s — instantly funk
 Count:       1   &   2   &   3   &   4   &
 ```
 
-Almost all groove — funk, reggae (which accents *only* the offbeats), ska, R&B — is systematic syncopation. Tie an offbeat note *across* the barline and you get anticipation ("pushing" the chord change half a beat early), the single most common rhythm move in pop strumming.
+Almost all groove — funk, reggae (which accents *only* the offbeats), ska, R&B — is systematic syncopation. Tie an offbeat note *across* the barline and you get anticipation ("pushing" the chord change half a beat early), the most common rhythm move in pop strumming.
 
 ### Swing vs. straight
 
-Straight eighths divide the beat 50/50. **Swing** divides it long-short (~67/33, like the first and third notes of a triplet). Blues, jazz, and shuffle rock swing; most pop/rock plays straight. Same notes, completely different feel — your Day 16 twelve-bar should be played *shuffled* (try it both ways and hear why).
+Straight eighths divide the beat 50/50. **Swing** divides it long-short (~67/33, like the first and third notes of a triplet). Blues, jazz, and shuffle rock swing; most pop/rock plays straight. Same notes, completely different feel. Your Day 16 twelve-bar should be played *shuffled* (try it both ways and hear why).
 
 ### Rhythm in your analyses and compositions
 

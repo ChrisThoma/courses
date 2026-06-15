@@ -1,6 +1,6 @@
 # Week 2 — Plant Care: Choosing, Planting, Feeding, Pruning, Protecting
 
-> **The thesis of this week:** with the site understood and the soil improving, plant care becomes a small set of well-timed, well-aimed actions. Choose plants that fit (Day 8), get them in the ground correctly (Day 9), water and feed them as they actually need (Day 10), prune with intent (Day 11), and protect them with the least force necessary (Day 12). Skill here is mostly knowing *when* and *how much* — and, often, when to do nothing.
+> **The thesis of this week:** with the site understood and the soil improving, plant care becomes a small set of well-timed, well-aimed actions. Choose plants that fit (Day 8), get them in the ground correctly (Day 9), water and feed them as they actually need (Day 10), prune with intent (Day 11), and protect them with the least force necessary (Day 12). Skill here is mostly knowing *when* and *how much*, and often when to do nothing.
 
 ---
 
@@ -13,9 +13,9 @@
 
 ### Lecture
 
-**Plant selection is where the whole course pays off — or doesn't.** Every Week 1 assessment (zone, sun, soil, drainage, space) was preparation for this decision. Buy plants that fit your conditions and you've pre-solved most future problems; buy on impulse at the garden center and you'll spend the season nursing mismatches.
+**Plant selection is where the whole course pays off, or doesn't.** Every Week 1 assessment (zone, sun, soil, drainage, space) was preparation for this decision. Buy plants that fit your conditions and you've pre-solved most future problems; buy on impulse at the garden center and you'll spend the season nursing mismatches.
 
-**Bias toward perennials, shrubs, and trees for structure; use annuals for seasonal color.** Perennials are the low-maintenance backbone — plant once, enjoy for years, and they develop deep roots that shrug off our weather. Annuals (planted fresh each May after frost) give long, bright bloom but are more work and water. A healthy Pittsburgh garden is mostly perennial bones with annual accents.
+**Bias toward perennials, shrubs, and trees for structure; use annuals for seasonal color.** Perennials are the low-maintenance backbone: plant once, enjoy for years, and they develop deep roots that shrug off our weather. Annuals (planted fresh each May after frost) give long, bright bloom but are more work and water. A healthy Pittsburgh garden is mostly perennial bones with annual accents.
 
 **Why native plants are the smart default.** A "native" plant evolved in this region (western PA / the Appalachian foothills) over millennia. Natives are the highest-leverage choice you can make:
 - **Adapted to our exact conditions** — Zone 6b cold, clay soil, our rainfall and humidity — so they need *less* water, fertilizer, and fuss once established.
@@ -34,9 +34,9 @@ Reliable, beautiful natives for Pittsburgh gardens:
 
 (This isn't a memorization list — it's a shopping menu. Pick by your light and soil.)
 
-**A word on invasives — the anti-list.** Some popular nursery plants are ecological problems here and should be *avoided*: **burning bush, Japanese barberry, callery/Bradford pear, English ivy, Norway maple, butterfly bush, periwinkle (vinca), and miscanthus** can all escape into our woods and waterways. Pennsylvania has begun restricting several. When in doubt, choose the native alternative.
+**A word on invasives: the anti-list.** Some popular nursery plants are ecological problems here and should be *avoided*: **burning bush, Japanese barberry, callery/Bradford pear, English ivy, Norway maple, butterfly bush, periwinkle (vinca), and miscanthus** can all escape into our woods and waterways. Pennsylvania has begun restricting several. When in doubt, choose the native alternative.
 
-**Reading the plant tag — the full decode.** Every tag is a spec sheet. Before buying, confirm all of it against your site:
+**Reading the plant tag: the full decode.** Every tag is a spec sheet. Before buying, confirm all of it against your site:
 
 | Tag item | What to check |
 |---|---|
@@ -74,26 +74,26 @@ Reliable, beautiful natives for Pittsburgh gardens:
 
 ### Objectives
 - Plant at the right time of year for the right type of plant in Pittsburgh.
-- Plant correctly — the right hole, the right depth — so plants establish instead of struggling.
+- Plant correctly (the right hole, the right depth) so plants establish instead of struggling.
 - Harden off and transplant without shock.
 
 ### Lecture
 
 **Timing: plant with the calendar, not the impulse.** What you plant determines *when*:
 - **Cool-season vegetables & hardy annuals** (peas, lettuce, spinach, kale, pansies, onions): plant **early spring**, as soon as soil is workable (often late March–April here). They tolerate frost and bolt in summer heat.
-- **Warm-season / tender crops & annuals** (tomatoes, peppers, squash, basil, marigolds, impatiens): plant **after the last frost — mid-May / after Mother's Day.** Earlier is a gamble with the weather as the house.
-- **Perennials, shrubs, and trees:** plant in **spring or fall.** **Fall is often *best*** in Pittsburgh — warm soil and cool air let roots establish without heat stress, and fall rains do the watering. Aim to plant 6+ weeks before the ground freezes (so, by early-to-mid October). Spring is the close second. Avoid planting in the heat of midsummer if you can.
+- **Warm-season / tender crops & annuals** (tomatoes, peppers, squash, basil, marigolds, impatiens): plant **after the last frost, mid-May, after Mother's Day.** Earlier is a gamble with the weather as the house.
+- **Perennials, shrubs, and trees:** plant in **spring or fall.** **Fall is often *best*** in Pittsburgh: warm soil and cool air let roots establish without heat stress, and fall rains do the watering. Aim to plant 6+ weeks before the ground freezes (so, by early-to-mid October). Spring is the close second. Avoid planting in the heat of midsummer if you can.
 
-**The right hole — wide and shallow, not deep and narrow.** The old advice to dig a deep hole and backfill with rich compost actually *harms* trees and shrubs in clay (it makes a "bathtub" that fills with water, and roots circle in the cushy pocket rather than spreading). The modern, correct method:
+**The right hole: wide and shallow, not deep and narrow.** The old advice to dig a deep hole and backfill with rich compost actually *harms* trees and shrubs in clay (it makes a "bathtub" that fills with water, and roots circle in the cushy pocket rather than spreading). The modern, correct method:
 - **Dig the hole 2–3× as wide as the rootball but no deeper than the rootball is tall.** Roots spread *out*, not down; loosen the wide perimeter so they can run.
-- **Plant at the right depth: the top of the rootball level with (or slightly above) the surrounding soil.** Planting **too deep** is a top killer — it suffocates roots and rots stems/trunks. The trunk flare (where trunk widens into roots) must stay visible, never buried.
+- **Plant at the right depth: the top of the rootball level with (or slightly above) the surrounding soil.** Planting **too deep** is a top killer: it suffocates roots and rots stems/trunks. The trunk flare (where trunk widens into roots) must stay visible, never buried.
 - **Backfill with the native soil you dug out** (amend the whole *bed*, not the single hole). Firm it gently to remove air pockets; don't stomp clay into concrete.
 - **Tease apart circling/pot-bound roots** before planting, or score the rootball — otherwise roots keep strangling in their pot shape.
 - **Water deeply right away** to settle the soil, then **mulch** (2–3 in, off the stem).
 
-**Spacing — respect the tag.** Space plants by their *mature* width so air flows between them (disease prevention) and they don't compete. New beds look sparse; that's correct. Fill the temporary gaps with annuals or mulch, not with crowding.
+**Spacing: respect the tag.** Space plants by their *mature* width so air flows between them (disease prevention) and they don't compete. New beds look sparse; that's correct. Fill the temporary gaps with annuals or mulch, not with crowding.
 
-**Hardening off — don't shock your transplants.** Seedlings raised indoors (or fresh from a greenhouse) are tender and will be scorched or wind-burned if planted straight out. **Harden off over 7–10 days:** set them outside in shade/shelter for a couple hours, then lengthen the time and increase sun/wind exposure daily before planting. Same idea for any plant moving from sheltered to exposed conditions.
+**Hardening off: don't shock your transplants.** Seedlings raised indoors (or fresh from a greenhouse) are tender and will be scorched or wind-burned if planted straight out. **Harden off over 7–10 days:** set them outside in shade/shelter for a couple hours, then lengthen the time and increase sun/wind exposure daily before planting. Same idea for any plant moving from sheltered to exposed conditions.
 
 **Transplanting established plants** (moving a perennial): do it in the **cool, dormant shoulders** (early spring or fall), take as much rootball as you can, replant immediately at the same depth, water in, and expect a week or two of sulking. Cutting back top growth reduces the water demand while roots re-establish.
 
@@ -129,10 +129,10 @@ Reliable, beautiful natives for Pittsburgh gardens:
 ### Lecture
 
 **Watering, refined for living plants.** Day 4 gave the soil principle (deep and infrequent, ~1 in/week, finger-test first). Two refinements for plant care:
-- **New plantings are the exception** — they have tiny root systems and need consistent moisture for the first season while they establish. Water new trees/shrubs/perennials deeply 1–3× per week (more in heat) through their first summer, then taper to "only in drought." This first-year attention is the difference between a plant that establishes and one that limps.
-- **Containers are their own world** — limited soil dries fast; in summer heat a pot may need water *daily*. Water until it runs from the drainage holes. (No drainage holes = a drowned plant; never let a pot sit in a saucer of water.)
+- **New plantings are the exception:** they have tiny root systems and need consistent moisture for the first season while they establish. Water new trees/shrubs/perennials deeply 1–3× per week (more in heat) through their first summer, then taper to "only in drought." This first-year attention is the difference between a plant that establishes and one that limps.
+- **Containers are their own world:** limited soil dries fast, and in summer heat a pot may need water *daily*. Water until it runs from the drainage holes. (No drainage holes = a drowned plant; never let a pot sit in a saucer of water.)
 
-**The over/under-watering diagnosis — they look alike.** Both produce wilting and yellowing, which fools beginners into watering a *drowning* plant. Distinguish by checking the *soil*, not the leaves:
+**The over/under-watering diagnosis (they look alike).** Both produce wilting and yellowing, which fools beginners into watering a *drowning* plant. Distinguish by checking the *soil*, not the leaves:
 
 | Sign | Underwatered | Overwatered |
 |---|---|---|
@@ -148,9 +148,9 @@ In clay-heavy, well-watered Pittsburgh gardens, **overwatering and poor drainage
 2. **Supplement only where a crop is hungry or a test shows a deficiency** — chiefly **vegetables** (heavy feeders), annual flowers in pots, and lawns.
 3. **Match the fertilizer to the need** (Day 3's N-P-K): leafy growth/lawn → higher N; flowers/fruit → balanced or higher P; general → balanced like 10-10-10 or, better, compost.
 
-**Organic vs. synthetic, briefly:** *Organic* sources (compost, manure, blood/bone/feather meal, fish emulsion) release slowly, feed the soil web, and are hard to overdose — the better default for a healthy home garden. *Synthetic* (the bagged numbers) act fast and precisely, useful for a diagnosed deficiency or container plants, but do nothing for soil life and are easy to over-apply. **Always follow label rates — "more" is not "better" and frequently does harm.**
+**Organic vs. synthetic, briefly:** *Organic* sources (compost, manure, blood/bone/feather meal, fish emulsion) release slowly, feed the soil web, and are hard to overdose, the better default for a healthy home garden. *Synthetic* (the bagged numbers) act fast and precisely, useful for a diagnosed deficiency or container plants, but do nothing for soil life and are easy to over-apply. **Always follow label rates; "more" is not "better" and frequently does harm.**
 
-**Timing fertilizer:** feed in the **growing season** (spring into early summer). **Don't fertilize woody plants in late summer/fall** — you'll push tender new growth that winter kills. Let plants harden for winter.
+**Timing fertilizer:** feed in the **growing season** (spring into early summer). **Don't fertilize woody plants in late summer/fall:** you'll push tender new growth that winter kills. Let plants harden for winter.
 
 ### Examples
 
@@ -307,5 +307,5 @@ A handy mnemonic: *spring bloomers — prune after; summer bloomers — prune be
 
 Light day, three pieces:
 1. The recurring field practice (your garden walk + scouting). Notice what's changed since Week 1.
-2. **Supplement, Part 2 — Composting deep-dive** (`SUPPLEMENT-tools-and-compost.md`, ~45 min): how to turn your yard and kitchen "waste" into the single amendment this whole course keeps prescribing. This closes the loop — you've spent two weeks learning to *add organic matter*; now you learn to *make* it for free.
+2. **Supplement, Part 2 — Composting deep-dive** (`SUPPLEMENT-tools-and-compost.md`, ~45 min): how to turn your yard and kitchen "waste" into the one amendment this whole course keeps prescribing. This closes the loop: you've spent two weeks learning to *add organic matter*, and now you learn to *make* it for free.
 3. Re-do any quiz sections you missed and finish Project 2. Then spend time just tending — water something, deadhead something, pull a weed (a preview of Week 3).

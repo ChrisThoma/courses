@@ -1,6 +1,6 @@
 # Projects — PHOT-10
 
-Projects are where understanding becomes ability. Each has a deliverable and a grading rubric. Grade yourself honestly; "I basically did it" is a 70, not a 95. For every project, the work is the *photographs plus a short written reflection* — the writing is where you prove you made choices on purpose.
+Projects are where understanding becomes ability. Each has a deliverable and a grading rubric. Grade yourself honestly; "I basically did it" is a 70, not a 95. For every project, the work is the *photographs plus a short written reflection*. The writing is where you prove you made your choices on purpose.
 
 ---
 
@@ -28,7 +28,7 @@ Projects are where understanding becomes ability. Each has a deliverable and a g
 
 ## Project 2 — A Study in Light *(Day 14 · 15% of grade)*
 
-**Goal:** demonstrate that you can *see* and *use* light — that the light, not the subject or the gear, makes the photo. This is the Domain 5–6 test.
+**Goal:** demonstrate that you can *see* and *use* light: that the light, not the subject or the gear, makes the photo. This is the Domain 5–6 test.
 
 ### Deliverables
 1. **One subject, three lights:** photograph a *single* subject (a person, an object, a corner) made to look **three genuinely different ways** using only **light direction/quality/time** and **composition** — no editing tricks. For example: soft window side-light; hard backlight rim; golden-hour warm front-light. Label the light in each (direction + hardness + color).
@@ -72,14 +72,14 @@ Projects are where understanding becomes ability. Each has a deliverable and a g
 
 ## Final Portfolio — "Ten Frames" *(Days 20–21 · 25% of grade)*
 
-**Goal:** the capstone. Produce a small, coherent body of work with a recognizable point of view, edited consistently, and defend it. This is the Domain 9 test — and the real graduation requirement.
+**Goal:** the capstone. Produce a small, coherent body of work with a recognizable point of view, edited consistently, and defend it. This is the Domain 9 test, and the real graduation requirement.
 
 ### Specification
-1. **Ten edited photographs** unified by a **theme or thread** of your choosing (a subject, a place, a mood, a genre, an idea). Coherence beats variety — ten frames that belong together beat ten unrelated "greatest hits."
+1. **Ten edited photographs** unified by a **theme or thread** of your choosing (a subject, a place, a mood, a genre, an idea). Coherence beats variety: ten frames that belong together beat ten unrelated "greatest hits."
 2. **Technical floor (non-negotiable):** every frame is correctly and intentionally exposed, critically sharp where intended, and cleanly composed. A technically broken frame doesn't belong in a portfolio.
 3. **Craft on display:** across the ten, show command of light (good light, used on purpose), composition (variety of strong compositional choices), and editing (a *consistent* treatment that reads as a set).
-4. **Artist's statement (½–1 page):** state your theme; what you were trying to say or show; and — for at least three frames — walk through the choices (light, composition, settings, edit) and how they serve the idea. This is the *defense*; it's where you prove the photos are deliberate, not lucky.
-5. **Proper export:** sRGB JPEGs, sensibly sized, named/ordered as a sequence (the order of a set matters — open and close strong).
+4. **Artist's statement (½–1 page):** state your theme; what you were trying to say or show; and, for at least three frames, walk through the choices (light, composition, settings, edit) and how they serve the idea. This is the *defense*; it's where you prove the photos are deliberate, not lucky.
+5. **Proper export:** sRGB JPEGs, sensibly sized, named/ordered as a sequence (the order of a set matters, so open and close strong).
 
 ### Rubric (25 pts)
 | Pts | Criterion |

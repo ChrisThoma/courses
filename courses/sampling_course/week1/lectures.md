@@ -16,7 +16,7 @@ A **sample** is a piece of recorded audio used as raw material for new music. Th
 - a one-shot kick drum (the literal atom of electronic music),
 - a vinyl crackle, a vocal ad-lib, a cash register, your own voice, rain on a window.
 
-Sampling is **composing with recordings instead of with performances.** The instrument is the *editor* — the DAW. You are not playing notes in real time; you are sculpting captured sound into musical shape. This reframing is the entire mindset of the course: stop hearing a sound as "a finished thing someone else made" and start hearing it as *clay.*
+Sampling is **composing with recordings instead of with performances.** The instrument is the *editor*: the DAW. You are not playing notes in real time; you are sculpting captured sound into musical shape. This reframing is the entire mindset of the course: stop hearing a sound as "a finished thing someone else made" and start hearing it as *clay.*
 
 ## 1.2 A very short history (so the techniques make sense)
 
@@ -40,15 +40,15 @@ Beginners obsess over transformation ("how do I make it sound cool"). Working pr
 
 ## 1.4 The law, honestly, in one page
 
-You must understand this before you release anything. (Lecture 14 goes deeper; here's the load-bearing version.)
+You must understand this before you release anything. (Lecture 14 goes deeper; here's the version everything else rests on.)
 
 A commercial recording carries **two** copyrights:
 - the **composition** (the song — notes, melody, lyrics), and
 - the **master recording** (that specific recorded performance).
 
-Sampling a record uses *both.* Using either without permission is infringement **regardless of how short the sample is or how much you transformed it.** There is no legal "you can use 7 seconds" rule — that's a myth. Courts in major jurisdictions have held that even a fraction of a second, if recognizable as taken, can infringe (the *Bridgeport* line of cases in the US is the famous, if contested, example). "I changed the pitch and chopped it" is not a defense; "transformative use" / fair use is a narrow, fact-specific, expensive-to-litigate doctrine you should not rely on as a plan.
+Sampling a record uses *both.* Using either without permission is infringement **regardless of how short the sample is or how much you transformed it.** There is no legal "you can use 7 seconds" rule; that's a myth. Courts in major jurisdictions have held that even a fraction of a second, if recognizable as taken, can infringe (the *Bridgeport* line of cases in the US is the famous, if contested, example). "I changed the pitch and chopped it" is not a defense; "transformative use" / fair use is a narrow, fact-specific, expensive-to-litigate doctrine you should not rely on as a plan.
 
-What this means in practice — **none of which stops you from learning:**
+What this means in practice (none of which stops you from learning):
 
 | If you want to… | Do this |
 |---|---|
@@ -68,7 +68,7 @@ We'll use found material to *learn* the techniques (that's legal as practice), a
 ## Lab 1 — Build your library, train your ear
 
 1. **Gather sources.** Make a folder `samples/` with ~20 sounds: a few full songs you own, some one-shots, and **at least one drum break.** (Legal sources for breaks and packs are in `RESOURCES.md` — start there.) In Live, drag this folder into **Places** in the browser so it's one click away all course long.
-2. **ID five flips.** Use WhoSampled.com (linked in resources) to look up five famous sampled tracks. For each, listen to the *original* then the *flip* back to back. Write one sentence on what changed: pitch? chopped order? a loop vs. a chop? filtered? This is the single best ear-training exercise in Week 1.
+2. **ID five flips.** Use WhoSampled.com (linked in resources) to look up five famous sampled tracks. For each, listen to the *original* then the *flip* back to back. Write one sentence on what changed: pitch? chopped order? a loop vs. a chop? filtered? It's the best ear-training exercise in Week 1.
 3. **One honest source.** Record one 10-second sample of your own — hum a melody, tap a table, record the room. Put it in `samples/`. You'll use it later, and it's yours forever.
 
 ---
@@ -77,7 +77,7 @@ We'll use found material to *learn* the techniques (that's legal as practice), a
 
 ## 2.1 Why Live is the sampling DAW
 
-Every DAW can play audio. Live's difference is that it treats **every audio clip as elastic** — automatically analyzed and stretchable to any tempo without changing pitch (and vice versa). This feature is called **warping**, and it is the reason Live became the producer's sampler. In most DAWs, audio is a fixed lump you fight with; in Live, audio bends to the grid by default. Understanding warping (Lecture 2–3, and 9) *is* understanding Live.
+Every DAW can play audio. Live's difference is that it treats **every audio clip as elastic**: automatically analyzed and stretchable to any tempo without changing pitch (and vice versa). This feature is called **warping**, and it is the reason Live became the producer's sampler. In most DAWs, audio is a fixed lump you fight with; in Live, audio bends to the grid by default. Understanding warping (Lecture 2–3, and 9) *is* understanding Live.
 
 ## 2.2 The two views — and why there are two
 
@@ -86,7 +86,7 @@ Press **Tab** to flip between them. This trips up every beginner, so get it cold
 - **Session View** (a grid of clip "slots," columns = tracks, rows = **scenes**): a non-linear **sketchpad** for *looping and improvising.* You trigger clips live, try combinations, build the *parts* of a track. Nothing here has a fixed place in time. This is where sampling **ideas** are born.
 - **Arrangement View** (a left-to-right timeline): the linear **song.** Time flows left to right; this is where parts become a *structure* with a beginning, middle, and end. This is where tracks get **finished** (Week 3).
 
-The professional workflow, which this course follows: **sketch in Session, commit to Arrangement.** You'll live in Session for Weeks 1–2 and move to Arrangement in Week 3. You can record a Session performance straight into Arrangement (the round-record button) — bridging the two is a Week-3 skill.
+The professional workflow, which this course follows: **sketch in Session, commit to Arrangement.** You'll live in Session for Weeks 1–2 and move to Arrangement in Week 3. You can record a Session performance straight into Arrangement (the round-record button); bridging the two is a Week-3 skill.
 
 > **Move now:** Drag any audio file from the browser onto an empty Session slot. It becomes a **clip.** Click the slot's triangle to play it; click the square (or the track's Stop) to stop. Press Tab — see the same track in Arrangement. Tab back.
 
@@ -101,7 +101,7 @@ The left-hand **browser** is where everything lives: your samples (Places), Live
 
 Here is the mechanism, because everything in Week 1 depends on it.
 
-When you drop audio into Live, it **guesses** the tempo and lays down **Warp Markers** — anchors tying points in the *audio* to points on the *grid.* If the guess is right, the clip plays in sync at any project tempo. If it's wrong, the clip drifts, and you fix it.
+When you drop audio into Live, it **guesses** the tempo and lays down **Warp Markers**: anchors tying points in the *audio* to points on the *grid.* If the guess is right, the clip plays in sync at any project tempo. If it's wrong, the clip drifts, and you fix it.
 
 Open a clip's **Clip View** (double-click the clip) and find the **Warp** controls:
 
@@ -110,7 +110,7 @@ Open a clip's **Clip View** (double-click the clip) and find the **Warp** contro
 - **Warp Markers** — double-click the waveform's top to drop one; drag it to align a beat to a grid line. **Right-click → "Warp from here (straight)"** to re-grid the whole loop from a marker.
 - **Warp Mode** (Beats/Tones/Texture/Re-Pitch/Complex/Complex Pro) — *how* the stretch is computed. This deserves its own treatment (Lecture 3.4 and Lecture 9); for now: **Beats** for drums/loops, **Complex Pro** for melodic/full-mix material.
 
-The single most useful warping skill is the fastest one: **set the loop's downbeat.** Most clips just need their first transient dragged onto beat 1 and the right Seg. BPM. Master that and 80% of loops snap into place.
+The most useful warping skill is also the fastest: **set the loop's downbeat.** Most clips just need their first transient dragged onto beat 1 and the right Seg. BPM. Master that and 80% of loops snap into place.
 
 ## 2.5 Tempo and key: the two numbers that rule your set
 
@@ -137,9 +137,9 @@ Save this as `lab2_warp.als`.
 
 # Lecture 3 — Simpler: The Core Sampling Instrument
 
-## 3.1 Why Simpler is the whole game
+## 3.1 Why Simpler does almost everything
 
-**Simpler** ships in *every* edition of Live, and it does the overwhelming majority of real sampling work. Learn Simpler deeply and you can flip, chop, tune, and play any sample. (Its big sibling **Sampler** — Lecture 7 — adds multisampling and deeper modulation, but is a refinement, not a different concept.) Today is the most important hands-on lecture in Week 1. Do every move.
+**Simpler** ships in *every* edition of Live, and it does the overwhelming majority of real sampling work. Learn Simpler deeply and you can flip, chop, tune, and play any sample. (Its big sibling **Sampler**, covered in Lecture 7, adds multisampling and deeper modulation, but it's a refinement, not a different concept.) Today is the most important hands-on lecture in Week 1. Do every move.
 
 **Get a sample into Simpler:** drag any audio from the browser onto an empty MIDI track (Live wraps it in Simpler automatically), or drag it onto an existing Simpler. The waveform appears in the device.
 
@@ -186,7 +186,7 @@ Simpler has its own **Warp** toggle and mode (same family as the clip warp from 
 
 ## 4.1 You can't fix what you can't hear or measure
 
-Sampling means inheriting whatever was in the source recording — good and bad. To work with found audio you need a working model of what audio *is* and where it goes wrong. This is the least glamorous lecture and the one that most separates clean-sounding producers from muddy ones.
+Sampling means inheriting whatever was in the source recording, good and bad. To work with found audio you need a working model of what audio *is* and where it goes wrong. This is the least glamorous lecture and the one that most separates clean-sounding producers from muddy ones.
 
 ## 4.2 Sample rate and bit depth (what "digital audio" is)
 
@@ -199,7 +199,7 @@ You don't need the math. You need: keep rates consistent, work at 24-bit, and kn
 
 ## 4.3 Gain staging: the discipline that prevents 90% of mix problems
 
-**Gain** is just level — how loud a signal is at each point in the chain. **Gain staging** is keeping levels sane from input to output so nothing distorts unintentionally and you have headroom to work.
+**Gain** is just level: how loud a signal is at each point in the chain. **Gain staging** is keeping levels sane from input to output so nothing distorts unintentionally and you have headroom to work.
 
 The rules that matter for sampling:
 
@@ -234,7 +234,7 @@ Find or create three "problem" samples: one **too quiet**, one **clipped/harsh/t
 1. Diagnose the problem in one sentence (level? clipping? phase? transients?).
 2. Apply the minimum fix: Utility gain / mono-ing, a different warp mode, or choosing a better source.
 3. A/B before and after and write down what changed.
-Save as `lab4_repair.als`. The goal isn't perfection — it's *naming* what's wrong, which you can't fix until you can hear.
+Save as `lab4_repair.als`. The goal isn't perfection; it's *naming* what's wrong, which you can't fix until you can hear.
 
 ---
 

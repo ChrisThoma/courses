@@ -1,6 +1,6 @@
 # Week 3 — Craft & Workflow
 
-> **This week in one line:** the photograph isn't finished when the shutter clicks. A RAW file is a negative — a faithful but flat record of the light — and the edit is where you develop it into the image you saw. This week you'll build a repeatable digital-darkroom workflow, learn the conventions of the major genres so you can pick a lane, and start the long project of finding a point of view. By the end of it you'll have a finished portfolio.
+> **This week in one line:** the photograph isn't finished when the shutter clicks. A RAW file is a negative, a faithful but flat record of the light, and the edit is where you develop it into the image you saw. This week you'll build a repeatable digital-darkroom workflow, learn the conventions of the major genres so you can pick a lane, and start the long project of finding a point of view. By the end you'll have a finished portfolio.
 
 > **Shoot RAW from today on.** Weeks 1–2 may have been JPEG so you could focus on the camera. From Day 15, switch to RAW (or RAW+JPEG) so the editing lessons have real data to work with.
 
@@ -17,7 +17,7 @@
 
 **JPEG** is a *finished, processed* photo: the camera applies white balance, contrast, color, sharpening, and noise reduction, then **throws away most of the data** to make a small, ready-to-share file (8 bits per channel, ~16.7M colors, lossy compression). Looks great instantly; little room to change later.
 
-**RAW** is the *unprocessed sensor data* — every value the sensor recorded (12–14 bits, thousands of brightness levels per channel), with nothing baked in. It's bigger, looks flat/dull straight out of camera, and **must be developed** in software. In return you get enormous editing latitude:
+**RAW** is the *unprocessed sensor data*: every value the sensor recorded (12–14 bits, thousands of brightness levels per channel), with nothing baked in. It's bigger, looks flat and dull straight out of camera, and **must be developed** in software. In return you get enormous editing latitude:
 
 | | JPEG | RAW |
 |---|---|---|
@@ -28,13 +28,13 @@
 | Ready to share? | yes | no — must export |
 | Best for | speed, volume, when you nailed it in-camera | quality, control, tricky light, learning |
 
-**The mental model: RAW is a negative, JPEG is a print.** A negative holds all the information and can be printed many ways; a print is one interpretation, fixed. Serious work shoots RAW because the latitude to fix WB, recover highlights, and push shadows is exactly what saves real photos. **RAW + JPEG** gives you a shareable file now *and* the negative for later — the recommended default while learning.
+**The mental model: RAW is a negative, JPEG is a print.** A negative holds all the information and can be printed many ways; a print is one interpretation, fixed. Serious work shoots RAW because the latitude to fix WB, recover highlights, and push shadows is exactly what saves real photos. **RAW + JPEG** gives you a shareable file now *and* the negative for later, which is the default I'd recommend while you're learning.
 
-**The exposure habit RAW rewards:** protect your highlights (don't clip — they're gone even in RAW), and feel free to keep shadows a touch dark in-camera; you can lift them later. The histogram (Day 5) is how you watch the highlight edge.
+**The exposure habit RAW rewards:** protect your highlights (don't clip them; they're gone even in RAW), and feel free to keep shadows a touch dark in-camera, since you can lift them later. The histogram (Day 5) is how you watch the highlight edge.
 
 **File management — the boring skill that saves you.** A workflow you'll actually keep:
 1. **Import** to one organized location: folders by date or shoot (`2026/2026-06-14_street/`).
-2. **Back up immediately** — the 3-2-1 rule: **3** copies, on **2** kinds of media, **1** off-site (a cloud sync counts). A photo exists only if it exists twice. Cards fail; drives die.
+2. **Back up immediately**, the 3-2-1 rule: **3** copies, on **2** kinds of media, **1** off-site (a cloud sync counts). A photo exists only if it exists twice. Cards fail and drives die.
 3. **Cull** (next paragraph), then keep originals untouched.
 4. **Catalog** with a tool (Lightroom, Capture One, darktable, Apple Photos) so you can *find* images by date, rating, keyword.
 
@@ -44,7 +44,7 @@
 - Flag/star the genuine keepers (aim ruthless: 5–10% is normal). Edit only those.
 - Don't edit while culling; separate the *choosing* from the *developing*.
 
-> 🟩 **X100VI:** Set **Image Quality → RAW+JPEG (Fine)** (IQ menu). You get a Fujifilm film-sim JPEG to enjoy/share and a `.RAF` RAW to develop. Files are large (40MP) — use a fast, large card and back up often. **Adobe Lightroom/Camera Raw, Capture One, and the free RawTherapee/darktable all read `.RAF`**, and Lightroom/C1 even offer **Fujifilm film-simulation profiles** so you can start your RAW edit from "Classic Chrome" or "Acros" and go from there. Fuji's own **X RAW Studio** develops RAFs on a computer using the camera's processor — a neat, free option.
+> 🟩 **X100VI:** Set **Image Quality → RAW+JPEG (Fine)** (IQ menu). You get a Fujifilm film-sim JPEG to enjoy/share and a `.RAF` RAW to develop. Files are large (40MP), so use a fast, large card and back up often. **Adobe Lightroom/Camera Raw, Capture One, and the free RawTherapee/darktable all read `.RAF`**, and Lightroom/C1 even offer **Fujifilm film-simulation profiles** so you can start your RAW edit from "Classic Chrome" or "Acros" and go from there. Fuji's own **X RAW Studio** develops RAFs on a computer using the camera's processor, a neat free option.
 
 ### Look
 - Take one RAW (or RAW+JPEG) frame of a high-contrast scene (bright window, dark room). In an editor, pull the highlights down and the shadows up on the RAW and watch detail reappear that the JPEG simply doesn't contain. That recovered detail *is* the reason to shoot RAW.
@@ -79,27 +79,27 @@ A repeatable **edit order** keeps you from flailing. Use this every time:
 
 > **1. Crop/straighten → 2. White balance → 3. Tone (today) → 4. Color (Day 17) → 5. Local adjustments (Day 17) → 6. Detail: sharpen/noise → 7. Export.**
 
-Today is **tone** — the brightness and contrast structure of the image, the foundation everything else sits on. The global tone sliders (names vary slightly by app; these are Lightroom/Camera Raw's, and Capture One/darktable have equivalents):
+Today is **tone**: the brightness and contrast structure of the image, the foundation everything else sits on. The global tone sliders (names vary slightly by app; these are Lightroom/Camera Raw's, and Capture One/darktable have equivalents):
 
 - **Exposure:** overall brightness. Set this *first* in tone — get the image to the right general lightness.
 - **Contrast:** the spread between darks and lights. More = punchier; less = flatter/softer.
-- **Highlights:** the bright areas (not the brightest). Pull **down** to recover detail in skies, windows, bright skin. The single most useful slider for "rescuing" a too-bright sky.
-- **Shadows:** the dark areas (not the darkest). Push **up** to open up detail in shadows. (Don't overdo — fully lifted shadows look flat and get noisy.)
+- **Highlights:** the bright areas (not the brightest). Pull **down** to recover detail in skies, windows, bright skin. If one slider rescues a too-bright sky, it's this one.
+- **Shadows:** the dark areas (not the darkest). Push **up** to open up detail in shadows. (Don't overdo it; fully lifted shadows look flat and get noisy.)
 - **Whites:** the *brightest* point. Set where pure white begins.
 - **Blacks:** the *darkest* point. Set where true black begins.
 
-**The classic tonal move:** drop Highlights, lift Shadows → recovers a high-contrast scene into a balanced one. Then set Whites and Blacks to re-establish a full tonal range (a touch of true black and true white gives an image "snap"). Watch the **histogram** as you go (Day 5): you usually want data spanning most of the width without clipping piles at either edge — *unless* you're going for a deliberately dark (low-key) or bright (high-key) look.
+**The classic tonal move:** drop Highlights, lift Shadows → recovers a high-contrast scene into a balanced one. Then set Whites and Blacks to re-establish a full tonal range (a touch of true black and true white gives an image "snap"). Watch the **histogram** as you go (Day 5): you usually want data spanning most of the width without clipping piles at either edge, *unless* you're going for a deliberately dark (low-key) or bright (high-key) look.
 
-**The tone curve** — the most powerful tonal tool once you're comfortable. It's a graph mapping input brightness (x) to output brightness (y); drag points to remap tones:
-- An **S-curve** (lift the upper part, dip the lower) adds contrast with control — the bread-and-butter edit.
+**The tone curve** is the most powerful tonal tool once you're comfortable. It's a graph mapping input brightness (x) to output brightness (y); drag points to remap tones:
+- An **S-curve** (lift the upper part, dip the lower) adds contrast with control, and it's the bread-and-butter edit.
 - Lifting the bottom-left corner creates a **"faded/matte" film look** (blacks become dark gray).
 - It gives you region-by-region control the sliders can't.
 
-**The cardinal rule of editing: restraint.** Nothing marks a beginner faster than an overcooked photo — slammed contrast, crushed blacks, HDR halos, neon saturation. Enhance what's there, serve your intent, then stop. A useful test: edit, walk away, come back an hour later. You'll almost always dial it back.
+**The cardinal rule of editing: restraint.** Nothing marks a beginner faster than an overcooked photo: slammed contrast, crushed blacks, HDR halos, neon saturation. Enhance what's there, serve your intent, then stop. A useful test: edit, walk away, come back an hour later. You'll almost always dial it back.
 
-**Non-destructive editing:** RAW editors don't change your file; they store a list of instructions. You can always reset to the original, make virtual copies for variations, and re-edit forever. Edit fearlessly — nothing is permanent until export.
+**Non-destructive editing:** RAW editors don't change your file; they store a list of instructions. You can always reset to the original, make virtual copies for variations, and re-edit forever. Edit fearlessly, because nothing is permanent until export.
 
-> 🟩 **X100VI:** Starting a RAF edit from a **Fujifilm film-simulation profile** (set the "Profile" in Lightroom's Basic panel to e.g. *Provia/Standard*, *Classic Chrome*, or *Acros*) gives you Fuji's renowned tone/color as a *starting point*, then you apply today's tonal moves on top. Because the X100VI's 14-bit RAF holds deep shadow/highlight data, the drop-highlights/lift-shadows recovery is very forgiving — that bright-window interior from Day 15 will come back beautifully.
+> 🟩 **X100VI:** Starting a RAF edit from a **Fujifilm film-simulation profile** (set the "Profile" in Lightroom's Basic panel to e.g. *Provia/Standard*, *Classic Chrome*, or *Acros*) gives you Fuji's renowned tone/color as a *starting point*, then you apply today's tonal moves on top. Because the X100VI's 14-bit RAF holds deep shadow/highlight data, the drop-highlights/lift-shadows recovery is very forgiving, and that bright-window interior from Day 15 will come back beautifully.
 
 ### Look
 - Take your high-contrast Day-15 frame. Note the blown window and dark room. You're about to fix it.
@@ -135,31 +135,31 @@ Tone is set (Day 16). Now **color, local work, and detail** — steps 2/4/5/6 of
 
 **White balance, precisely.** You met WB in Day 9; in the editor it's two sliders:
 - **Temperature** (blue ↔ yellow) and **Tint** (green ↔ magenta).
-- Fastest method: the **white-balance eyedropper** — click something that should be neutral gray/white, and the editor neutralizes the cast. Then nudge to taste (a hair warm usually flatters people). On RAW this is free and lossless.
+- Fastest method: the **white-balance eyedropper**. Click something that should be neutral gray/white, and the editor neutralizes the cast. Then nudge to taste (a hair warm usually flatters people). On RAW this is free and lossless.
 
 **Color adjustments:**
-- **Vibrance vs. Saturation:** Saturation boosts *all* colors equally (easy to overdo, wrecks skin). **Vibrance** boosts the *less-saturated* colors more and protects skin tones — prefer Vibrance for a natural lift.
+- **Vibrance vs. Saturation:** Saturation boosts *all* colors equally (easy to overdo, wrecks skin). **Vibrance** boosts the *less-saturated* colors more and protects skin tones, so prefer Vibrance for a natural lift.
 - **HSL** (Hue/Saturation/Luminance per color): the precision tool. Make skies deeper blue (drop blue luminance), tame an over-orange skin tone, mute a distracting color. Per-color control is how pros fine-tune.
-- **Color grading** (tinting shadows/highlights different hues, e.g. warm highlights + cool shadows) sets mood — a teal-shadow/orange-highlight split is the modern "cinematic" look. Subtle is better.
+- **Color grading** (tinting shadows/highlights different hues, e.g. warm highlights + cool shadows) sets mood; a teal-shadow/orange-highlight split is the modern "cinematic" look. Subtle is better.
 
 **Local (masked) adjustments — directing the eye.** Global sliders affect everything; **local** adjustments affect only a selected area:
 - **Radial / brush masks:** brighten a face, darken a corner, add clarity to eyes.
 - **Linear gradient:** darken a bright sky from the top (digital grad-ND).
 - **AI subject/sky masks** (modern editors): select the sky or subject automatically, then adjust just that.
-- **The classic moves:** subtly **brighten the subject** and **darken/desaturate the background and edges** (a gentle **vignette**) to pull the eye exactly where you want. This — guiding attention — is what local edits are *for*.
+- **The classic moves:** subtly **brighten the subject** and **darken/desaturate the background and edges** (a gentle **vignette**) to pull the eye exactly where you want. Guiding attention like this is what local edits are *for*.
 
 **Detail — sharpening & noise (do last, at 100% view):**
-- **Sharpening** enhances edge contrast for crispness. Apply *modestly* — over-sharpening creates ugly halos and crunch. Use **masking** so you sharpen edges, not smooth skin/sky.
+- **Sharpening** enhances edge contrast for crispness. Apply it *modestly*; over-sharpening creates ugly halos and crunch. Use **masking** so you sharpen edges, not smooth skin/sky.
 - **Noise reduction** smooths the grain from high ISO (Day 4). There's a trade-off: too much NR turns detail to plastic mush. Balance against sharpening. Modern **AI denoise** is remarkably good for high-ISO RAW files.
 
 **Export.** Match the file to its destination:
-- **Web/screen/social:** JPEG, sRGB color space, long edge ~2048px, quality ~80%. (sRGB matters — wrong color space makes web colors look dull/wrong.)
+- **Web/screen/social:** JPEG, sRGB color space, long edge ~2048px, quality ~80%. (sRGB matters; the wrong color space makes web colors look dull or wrong.)
 - **Print:** higher resolution, often Adobe RGB/ProPhoto, minimal compression.
 - Keep your master (the RAW + edit instructions); export *copies* for sharing. Never overwrite the negative.
 
-**Black & white** deserves a mention: convert in the editor (not by desaturating — use a B&W mix so you can control how each *color* maps to a gray tone, e.g. darken a blue sky for drama). B&W lives or dies on **tone and contrast**, so it leans hard on Day 16 skills.
+**Black & white** deserves a mention: convert in the editor (not by desaturating; use a B&W mix so you can control how each *color* maps to a gray tone, e.g. darken a blue sky for drama). B&W lives or dies on **tone and contrast**, so it leans hard on Day 16 skills.
 
-> 🟩 **X100VI:** If you shot RAW+JPEG, you can audition Fuji's looks instantly — but for full control, edit the RAF: use the WB eyedropper on a neutral, lift with Vibrance not Saturation, mask the subject to brighten +/- the background, then a touch of sharpening with masking. For B&W, start from the **Acros** profile (its tonality is gorgeous) and refine with the B&W mix. Export sRGB JPEGs at ~2048px for sharing.
+> 🟩 **X100VI:** If you shot RAW+JPEG, you can audition Fuji's looks instantly, but for full control, edit the RAF: use the WB eyedropper on a neutral, lift with Vibrance not Saturation, mask the subject to brighten +/- the background, then a touch of sharpening with masking. For B&W, start from the **Acros** profile (its tonality is gorgeous) and refine with the B&W mix. Export sRGB JPEGs at ~2048px for sharing.
 
 ### Look
 - Take a finished-looking photo and identify *where your eye goes first*. Usually it's the brightest, sharpest, most saturated spot. That's what local adjustments control — verify on a pro image that the subject is subtly brighter/sharper than its surroundings.
@@ -191,33 +191,33 @@ Tone is set (Day 16). Now **color, local work, and detail** — steps 2/4/5/6 of
 
 ### Lecture
 
-The fundamentals are universal, but each **genre** has its own conventions, typical settings, and way of seeing. Knowing them lets you switch deliberately — and find your lane.
+The fundamentals are universal, but each **genre** has its own conventions, typical settings, and way of seeing. Knowing them lets you switch deliberately and find your lane.
 
-**Portraiture** — people, on purpose.
+**Portraiture: people, on purpose.**
 - *Light:* soft and directional (window, open shade, golden hour); side/short light flatters.
-- *Settings:* wide-ish aperture (f/1.4–f/4) for subject separation; **focus on the near eye**; flattering focal length (50–135mm equiv. — at 35mm, mind your distance to avoid nose distortion; shoot environmental portraits rather than tight headshots).
+- *Settings:* wide-ish aperture (f/1.4–f/4) for subject separation; **focus on the near eye**; flattering focal length (50–135mm equiv.; at 35mm, mind your distance to avoid nose distortion, and shoot environmental portraits rather than tight headshots).
 - *Mindset:* connection. Direct the subject, make them comfortable, watch the hands and expression. The eyes carry the photo.
 
-**Street / documentary** — life as it happens.
+**Street / documentary: life as it happens.**
 - *Light:* whatever's there; hard light and shadow are friends here.
 - *Settings:* **A or Auto-ISO**, f/5.6–f/8 for depth, fast-enough shutter (1/250+), often **zone focus** for instant capture. Anticipate the moment ("the decisive moment").
 - *Mindset:* be unobtrusive, patient, observant. 35mm equiv. is *the* street focal length — close enough to be present, wide enough for context. **The X100VI is a legendary street camera** for exactly this: small, quiet, quick.
 
-**Landscape / cityscape** — place and scale.
+**Landscape / cityscape: place and scale.**
 - *Light:* golden/blue hour; dramatic weather.
 - *Settings:* small aperture (f/8–f/11) for front-to-back sharpness; low ISO; **tripod** for slow shutters; focus ~1/3 in (hyperfocal). Strong foreground for depth (Day 11).
 - *Mindset:* patience and planning — scout, return for the right light. Composition and layers are everything.
 
-**Still life / product / food** — total control.
+**Still life / product / food: total control.**
 - *Light:* one soft source (a window!) + a reflector teaches you light better than anything; control every element.
 - *Settings:* moderate-to-small aperture for adequate DoF on a 3D object; tripod; deliberate composition.
-- *Mindset:* arrange, refine, perfect. The slow, controlled genre — superb for *practicing* light and composition at your own pace.
+- *Mindset:* arrange, refine, perfect. The slow, controlled genre, and superb for *practicing* light and composition at your own pace.
 
-**Macro, wildlife, sports, architecture, events** each have their own specialist gear and techniques (long lenses, fast AF tracking, tilt-shift, etc.) — beyond a fixed-lens beginner kit, but the same fundamentals underlie them.
+**Macro, wildlife, sports, architecture, events** each have their own specialist gear and techniques (long lenses, fast AF tracking, tilt-shift, etc.) that go beyond a fixed-lens beginner kit, but the same fundamentals underlie them.
 
 **The point:** you don't have to do all of these. Sample them this week, notice which ones *pull* you, and lean in. A photographer with a clear lane beats a jack-of-all-trades.
 
-> 🟩 **X100VI:** It's a *near-perfect* camera for **street, documentary, travel, environmental portraits, and everyday/family** photography — small, discreet, fast, beautiful files. It's *less* ideal for wildlife/sports (no long reach, fixed lens) and tight studio headshots (35mm equiv. means stepping back). Play to its strengths: it rewards the photographer who *walks among* their subjects. Use **zone focus + Auto-ISO + Classic Chrome** as a street default and you'll be ready for any moment on the sidewalk.
+> 🟩 **X100VI:** It's a *near-perfect* camera for **street, documentary, travel, environmental portraits, and everyday/family** photography: small, discreet, fast, beautiful files. It's *less* ideal for wildlife/sports (no long reach, fixed lens) and tight studio headshots (35mm equiv. means stepping back). Play to its strengths: it rewards the photographer who *walks among* their subjects. Use **zone focus + Auto-ISO + Classic Chrome** as a street default and you'll be ready for any moment on the sidewalk.
 
 ### Look
 - For each genre above, find two strong examples and note the light, aperture, and focal length used (often in the photo info or the photographer's notes). Build a mental template for each genre.
@@ -247,7 +247,7 @@ The fundamentals are universal, but each **genre** has its own conventions, typi
 
 ### Lecture
 
-**Style is not a preset.** It's the *consistent set of choices* a photographer makes across many photos — and it emerges from doing the work, not from copying a look. Its ingredients:
+**Real style has nothing to do with presets.** It's the *consistent set of choices* a photographer makes across many photos, and it emerges from doing the work rather than copying a look. Its ingredients:
 
 - **Subject matter:** what you're drawn to shoot (people? quiet corners? geometry? light itself?).
 - **Light:** do you gravitate to soft and warm, or hard and graphic, or moody and dark?
@@ -257,7 +257,7 @@ The fundamentals are universal, but each **genre** has its own conventions, typi
 - **Distance/perspective:** intimate and close, or detached and wide?
 
 **How style actually develops** (the honest version):
-1. **Imitate deliberately.** Find photographers you love, study *exactly* what they do (light, framing, color), and try to reproduce it. This isn't cheating — it's how everyone learns. You'll fail to copy them perfectly, and the *gap* is the seed of your own voice.
+1. **Imitate deliberately.** Find photographers you love, study *exactly* what they do (light, framing, color), and try to reproduce it. Far from cheating, that's how everyone learns. You'll fail to copy them perfectly, and the *gap* is the seed of your own voice.
 2. **Shoot a lot, then look for patterns.** Lay out your best 50 photos. What recurs? Those recurring choices *are* your emerging style. Lean into them.
 3. **Edit consistently.** A consistent editing/color treatment across a body of work is a huge part of perceived style. Develop a default look and refine it.
 4. **Make projects, not just photos.** A *series* on one subject/idea forces and reveals a point of view far faster than scattered one-offs.
@@ -270,7 +270,7 @@ The fundamentals are universal, but each **genre** has its own conventions, typi
 5. **How do the technical choices serve it?** (Aperture/DoF, shutter/motion, focus, exposure, color/tone — Weeks 1 & 3.)
 6. **Does it succeed? Why or why not?** (Does form serve content? What would you change?)
 
-Apply this to **great photos** (to learn what works) and to **your own** (to learn what to fix). The ability to articulate *why* a photo does or doesn't work is what turns random improvement into deliberate improvement — it's Domain 9 of the rubric and the real graduation requirement.
+Apply this to **great photos** (to learn what works) and to **your own** (to learn what to fix). The ability to articulate *why* a photo does or doesn't work is what turns random improvement into deliberate improvement. It's Domain 9 of the rubric and the real graduation requirement.
 
 **Critique etiquette (even self-critique):** be specific ("the bright doorway in the top-left pulls my eye off the subject"), tie observations to choices ("a smaller aperture would've kept the background readable as context"), and separate *taste* from *craft* (a photo can be technically flawless and not to your taste, or rough and deeply moving).
 
@@ -329,8 +329,8 @@ Cull to your strongest **ten frames**, edit them with a **consistent treatment**
 Take the **Final Exam** (`QUIZZES.md`), closed-book, then grade against `ANSWER-KEYS.md`. It's cumulative — exposure, light, composition, color, focus, workflow, and critique. **Pass = 90%.**
 
 ### 3. Final self-assessment & what's next
-- Fill in the **Week 3 (final) column** of the `RUBRIC.md` score sheet across all nine domains. Be honest. Note which domains hit Level 4 and which need ongoing reps (Domains 5, 6, and 9 — light, composition, seeing — are *expected* to keep maturing for months; that's the lifelong part).
-- **Keep the practice alive.** The single habit that compounds: keep shooting deliberately and reviewing critically. Pick one ongoing personal **project** (a series with a theme). Re-edit old RAW files as your skills grow — your negatives keep giving. Keep the daily light-spotting and composition drills going; they never stop paying off.
+- Fill in the **Week 3 (final) column** of the `RUBRIC.md` score sheet across all nine domains. Be honest. Note which domains hit Level 4 and which need ongoing reps (Domains 5, 6, and 9, which are light, composition, and seeing, are *expected* to keep maturing for months; that's the lifelong part).
+- **Keep the practice alive.** The habit that compounds: keep shooting deliberately and reviewing critically. Pick one ongoing personal **project** (a series with a theme). Re-edit old RAW files as your skills grow, since your negatives keep giving. Keep the daily light-spotting and composition drills going; they never stop paying off.
 
 ### Closing thought
-You started three weeks ago leaving the camera on Auto. Now you can walk into almost any light, choose every setting on purpose, see and shape that light, compose with intent, develop the negative, and explain the reasoning behind each decision. That's no longer a beginner — it's a photographer. The technique is yours to keep. The eye is a habit you'll spend years deepening. Go make pictures.
+You started three weeks ago leaving the camera on Auto. Now you can walk into almost any light, choose every setting on purpose, see and shape that light, compose with intent, develop the negative, and explain the reasoning behind each decision. That's the line between a beginner and a photographer, and you've crossed it. The technique is yours to keep. The eye is a habit you'll spend years deepening. Go make pictures.

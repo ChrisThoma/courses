@@ -2,7 +2,7 @@
 
 **Due:** end of Week 3 · **Weight:** 30% · **Rubric dimensions:** D6, D7, D8 (your *Artist* evidence) — built on everything from D1–D5
 
-This is the whole point of the course. Not a loop, not a beat — a **finished, mixed, exported, documented piece of music made from samples** that you would actually play for someone. Everything you've built (Project 1's flip, Project 2's beat, your Week-3 sound design, arrangement, and mix) converges here. The single most valuable thing this course can give you is the experience of *finishing,* and this is it.
+This is what the whole course has been building toward. Not a loop, not a beat, but a **finished, mixed, exported, documented piece of music made from samples** that you would actually play for someone. Everything you've built (Project 1's flip, Project 2's beat, your Week-3 sound design, arrangement, and mix) converges here. If this course gives you one thing, it's the experience of *finishing,* and this is where you get it.
 
 ---
 

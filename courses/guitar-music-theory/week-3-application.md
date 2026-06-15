@@ -1,6 +1,6 @@
 # Week 3 — Application: Minor, Blues, Modes, and Real Music
 
-> **The thesis of this week:** you now own the machine (intervals → scales → chords → progressions). This week you point it at the music guitarists actually play — minor keys, the blues, modal sounds — and at the two skills that make theory *yours*: hearing it and writing with it.
+> **The thesis of this week:** you now own the machine (intervals → scales → chords → progressions). This week you point it at the music guitarists actually play (minor keys, the blues, modal sounds) and at the two skills that make theory *yours*: hearing it and writing with it.
 
 ---
 
@@ -13,7 +13,7 @@
 
 ### Lecture
 
-**Natural minor is the major scale started from its 6th degree.** Play C major from A to A — A B C D E F G — and you get **A natural minor**. Same seven notes, different home. That pair is called **relative**: every major key has a relative minor (its 6th degree), sharing its key signature.
+**Natural minor is the major scale started from its 6th degree.** Play C major from A to A (A B C D E F G) and you get **A natural minor**. Same seven notes, different home. That pair is called **relative**: every major key has a relative minor (its 6th degree), sharing its key signature.
 
 ```
 Relative pairs: C↔Am  G↔Em  D↔Bm  A↔F#m  E↔C#m  F↔Dm  Bb↔Gm  Eb↔Cm
@@ -23,7 +23,7 @@ As a formula from the root: **natural minor = 1 2 b3 4 5 b6 b7** (W-H-W-W-H-W-W)
 
 **Parallel minor** is a different comparison: same *root*, different scale. C major vs. **C minor** (C D Eb F G Ab Bb). Relative = same notes/different home; parallel = same home/different notes. Both matter: relative for key signatures and fretboard economy (same patterns!), parallel for "borrowing" (Day 19).
 
-**Why three minors?** Natural minor has a problem: its 7th (b7) is a whole step below the tonic — no leading tone, so its v chord is *minor* and the pull home is weak. Composers fixed it:
+**Why three minors?** Natural minor has a problem: its 7th (b7) is a whole step below the tonic, so there's no leading tone, its v chord is *minor*, and the pull home is weak. Composers fixed it:
 
 | Scale | Formula | Fix | Cost |
 |---|---|---|---|
@@ -44,7 +44,7 @@ With the harmonic-minor 7th, **v becomes V (or V7)**: Am–Dm–**E7**–Am is t
 
 ### Examples — play these
 
-**Example 15.1 — Relative pair on one pattern.** Play Day 3's root-6 major pattern at fret 3 (G major). Now loop a low E drone (let the open 6th string ring, or record one) and play the *same pattern* over it, phrasing your lines to land on E — the 6th degree, found inside the pattern at string 5 fret 7 and string 4 fret 2. Same notes, but it *is* E minor now. Home is a decision made by the harmony, not a pattern.
+**Example 15.1 — Relative pair on one pattern.** Play Day 3's root-6 major pattern at fret 3 (G major). Now loop a low E drone (let the open 6th string ring, or record one) and play the *same pattern* over it, phrasing your lines to land on E, the 6th degree, found inside the pattern at string 5 fret 7 and string 4 fret 2. Same notes, but it *is* E minor now. Home is a decision made by the harmony, not a pattern.
 
 **Example 15.2 — A natural minor, open position:**
 
@@ -99,7 +99,7 @@ Melodic:   A|--0--2--3--5--7--9--11--12--   (F→F# and G→G#: almost major)
 - **Major pentatonic = 1 2 3 5 6** (major scale minus 4 and 7)
 - **Minor pentatonic = 1 b3 4 5 b7** (natural minor minus 2 and b6)
 
-They're relatives, just like their parent scales: **A minor pentatonic (A C D E G) = C major pentatonic (C D E G A)** — same five notes, different home. One physical pattern, two musical meanings, depending on the chord underneath.
+They're relatives, just like their parent scales: **A minor pentatonic (A C D E G) = C major pentatonic (C D E G A)**, the same five notes with a different home. One physical pattern, two musical meanings, depending on the chord underneath.
 
 **Box 1, the most-played scale shape in guitar history** (A minor pentatonic, fret 5):
 
@@ -112,11 +112,11 @@ A|--5--7--
 E|--5--8--
 ```
 
-Root markers: string 6 fret 5, string 4 fret 7, string 1 fret 5. The other four boxes are this same five-note loop entered at each of its notes — they connect like CAGED shapes (and in fact each pentatonic box nests inside a CAGED shape).
+Root markers: string 6 fret 5, string 4 fret 7, string 1 fret 5. The other four boxes are this same five-note loop entered at each of its notes, and they connect like CAGED shapes (in fact each pentatonic box nests inside a CAGED shape).
 
-**The blues scale** adds one outlaw note: **1 b3 4 b5 5 b7** — the b5 ("blue note"), used as a passing sting between 4 and 5, almost never sat on.
+**The blues scale** adds one outlaw note: **1 b3 4 b5 5 b7**. That added b5 (the "blue note") works as a passing sting between 4 and 5, almost never sat on.
 
-**The 12-bar blues** — the most important form in American music:
+**The 12-bar blues**, the most important form in American music:
 
 ```
 | I7  | I7  | I7  | I7  |
@@ -126,16 +126,16 @@ Root markers: string 6 fret 5, string 4 fret 7, string 1 fret 5. The other four 
 
 In A: A7 ×4 / D7 D7 A7 A7 / E7 D7 A7 E7.
 
-**Here's the theory scandal:** Day 10 told you dominant 7ths occur diatonically *only* on V — yet blues puts a 7 on **every** chord, and melodies use the *minor* pentatonic over *major*-quality chords (b3 against a natural 3!). That clash is not an error; it **is the blues**. Lesson: the diatonic system is a default, not a law. Blues established a parallel tradition with its own rules, and rock inherited both.
+**Here's the theory scandal:** Day 10 told you dominant 7ths occur diatonically *only* on V, yet blues puts a 7 on **every** chord, and melodies use the *minor* pentatonic over *major*-quality chords (b3 against a natural 3!). Far from an error, that clash **is the blues**. Lesson: the diatonic system is a default, not a law. Blues established a parallel tradition with its own rules, and rock inherited both.
 
 **Soloing rules of thumb** (the distilled, practical version):
-- Minor pentatonic of the key works over the whole 12-bar — the universal donor.
-- Major pentatonic of the key works too (brighter, country-flavored) — but avoid leaning on it over the IV7.
+- Minor pentatonic of the key works over the whole 12-bar: the universal donor.
+- Major pentatonic of the key works too (brighter, country-flavored), but avoid leaning on it over the IV7.
 - The pros mix both and target **chord tones** of the chord of the moment (your Day 12 CAGED skill).
 
 ### Examples — play these
 
-**Example 16.1 — One pattern, two souls.** Loop a low A drone; play Box 1 at fret 5 (A minor pentatonic — dark). Now loop a C drone; play the *exact same frets* (C major pentatonic — bright). Nothing changed but home.
+**Example 16.1 — One pattern, two souls.** Loop a low A drone; play Box 1 at fret 5 (A minor pentatonic, dark). Now loop a C drone; play the *exact same frets* (C major pentatonic, bright). Nothing changed but home.
 
 **Example 16.2 — Box 1 + blue note (A blues scale):**
 
@@ -199,7 +199,7 @@ Memory aid for the brightness spectrum, brightest → darkest: **Lydian, Ionian,
 
 **The crucial caveat that saves you from the classic modal trap:** a mode only exists if the *harmony/drone* establishes its home. Playing C major scale shapes over a C chord is Ionian no matter where on the neck you play, and no matter which note you start the run on. Mode is decided by **what's underneath**, not by your starting fret. Practice modes over drones or vamps, never in silence.
 
-**What guitarists actually use:** Dorian (minor funk/rock jams — think Santana, "Evil Ways" vamps), Mixolydian (dominant-chord rock and blues-major sounds), Aeolian and Ionian (already yours), Lydian and Phrygian as spices. Locrian: know why it's unstable (its "tonic" triad is diminished), then move on.
+**What guitarists actually use:** Dorian (minor funk/rock jams; think Santana, "Evil Ways" vamps), Mixolydian (dominant-chord rock and blues-major sounds), Aeolian and Ionian (already yours), Lydian and Phrygian as spices. Locrian: know why it's unstable (its "tonic" triad is diminished), then move on.
 
 ### Examples — play these
 
@@ -214,7 +214,7 @@ Land phrases on the drone's note. Same frets every time; three different worlds.
 - A Aeolian: A B C D E **F** G
 - A Dorian: A B C D E **F#** G
 
-One note (F vs F#) — play both and *feel* Dorian's cool lift. Then:
+One note, F vs F#: play both and *feel* Dorian's cool lift. Then:
 - A Ionian: A B C# D E F# **G#**
 - A Mixolydian: A B C# D E F# **G**
 
@@ -252,17 +252,17 @@ That G-natural is the entire sound of rock 'n' roll major.
 
 **Theory without ears is bookkeeping.** Today formalizes the ear work you've been doing in the margins all course.
 
-**The recognition stack** — train in this order, because each layer supports the next:
+**The recognition stack**, trained in this order because each layer supports the next:
 1. **Intervals** (Day 2 song cues → eventually raw recognition). Melodic first, then harmonic (both notes at once).
-2. **Chord quality** — maj / min / dim / aug, then maj7 / dom7 / m7 / m7b5.
-3. **Scale degree hearing** — over a key drone, identify which degree a note is. (This is the skill that makes melodies transcribable: "do–mi–re…" feelings, even if you never use solfège names.)
-4. **Progression hearing** — track the *bass* + the *function*: "home… away… tension… home." Most pop progressions are 4 chords from the Day 9 family; you're choosing from ~7 suspects, not infinity.
+2. **Chord quality:** maj / min / dim / aug, then maj7 / dom7 / m7 / m7b5.
+3. **Scale degree hearing:** over a key drone, identify which degree a note is. (This is the skill that makes melodies transcribable: "do–mi–re…" feelings, even if you never use solfège names.)
+4. **Progression hearing:** track the *bass* + the *function*: "home… away… tension… home." Most pop progressions are 4 chords from the Day 9 family; you're choosing from ~7 suspects, not infinity.
 
 **The transcription algorithm** (use it in today's lab):
 1. Find the key: locate the "home" chord by ear; hunt its root on string 6 or 5.
 2. Decide major or minor home.
 3. For each chord change: catch the **bass note** first (sing it, find it on string 6/5), then decide quality (maj/min), then assign the numeral.
-4. Sanity-check against the diatonic family. A chord outside the family is a *finding*, not a failure — name it (b VII? IV borrowed? V7-of-something? — Day 19 covers these).
+4. Sanity-check against the diatonic family. A chord outside the family is a *finding*, not a failure. Name it (bVII? IV borrowed? V7-of-something? Day 19 covers these).
 
 **Analysis = transcription + explanation.** A complete analysis of a song's section states: key · numerals · cadence type at each phrase end · anything non-diatonic, with its likely explanation. That's it. You now have every tool this requires.
 
@@ -275,7 +275,7 @@ Chords: Am–C–D–F–Am–C–E(7)–E(7) … Am–C–D–F–Am–**E7**�
 - Findings: the **IV is major** (D, not Dm — a Dorian flavor: that's the raised 6th, F#, inside D) and **V7 is major** (harmonic-minor move, Day 15). Cadence: authentic, V7→i.
 - One sentence: *A-minor song using the Dorian IV for color and the harmonic-minor V7 for its cadence.* You can now write sentences like this. That's mastery talking.
 
-**Example 18.2 — Degree hearing warm-up.** Loop a G drone. Play G major scale slowly; sing degree numbers. Then play random scale tones and name the degree by feel — 1 and 5 feel like pillars, 7 leans hard into 1, 4 leans down to 3.
+**Example 18.2 — Degree hearing warm-up.** Loop a G drone. Play G major scale slowly; sing degree numbers. Then play random scale tones and name the degree by feel: 1 and 5 feel like pillars, 7 leans hard into 1, 4 leans down to 3.
 
 ### Exercises (Lab) — today is all lab
 
@@ -299,7 +299,7 @@ Chords: Am–C–D–F–Am–C–E(7)–E(7) … Am–C–D–F–Am–**E7**�
 
 ### Objectives
 - Build and use sus2/sus4, add9, 6th, slash chords, and extensions (9, 11, 13) without fear.
-- Understand borrowed chords (modal interchange) and secondary dominants — the two most common "rule-breakers" in real songs.
+- Understand borrowed chords (modal interchange) and secondary dominants, the two most common "rule-breakers" in real songs.
 
 ### Lecture
 
@@ -315,7 +315,7 @@ You know the seven-chord family. Real songs constantly color outside it, in high
 | **9, 11, 13** | 7th chord + the extension (and implicitly those below it) | C9 = C7 + D. Quality of the *7th* carries through: Cmaj9 vs C9 vs Cm9 |
 | **slash (C/E)** | chord / bass note | "C over E" — usually an inversion (Day 8!) or a pedal bass. Walks bass lines: C → G/B → Am |
 
-Guitar reality check: with 6 strings you can't play every note of a 13th chord — and nobody does. **Keep root (or let the bass have it), 3rd, 7th, and the color note; drop the 5th first.** The 3rd and 7th define the chord; everything else is seasoning.
+Guitar reality check: with 6 strings you can't play every note of a 13th chord, and nobody does. **Keep root (or let the bass have it), 3rd, 7th, and the color note; drop the 5th first.** The 3rd and 7th define the chord; everything else is seasoning.
 
 **Idea 1 — Borrowed chords (modal interchange):** a song in a major key may *borrow* any chord from the **parallel minor** (Day 15 paying off). The big four in C major:
 
@@ -328,7 +328,7 @@ Guitar reality check: with 6 strings you can't play every note of a 13th chord �
 
 **Idea 2 — Secondary dominants:** any diatonic chord can be preceded by *its own* V7, as if it were briefly the tonic. Notation: **V7/x** ("five-seven of x"). In C: A7→Dm is **V7/ii**; D7→G is **V7/V**; E7→Am is **V7/vi** (you already met this inside "House of the Rising Sun"!). The recipe: want to highlight chord x? Play the dominant 7th rooted a P5 above x first. The temporary leading tone creates a mini-cadence into x.
 
-These two ideas + diatonic harmony cover the harmonic content of the overwhelming majority of popular music. (What's left — tritone subs, diminished passing chords, true modulation — are local applications of the same dominant logic; chase them after the course.)
+These two ideas + diatonic harmony cover the harmonic content of the overwhelming majority of popular music. (What's left is mostly local applications of the same dominant logic: tritone subs, diminished passing chords, true modulation. Chase them after the course.)
 
 ### Examples — play these
 
@@ -371,4 +371,4 @@ These two ideas + diatonic harmony cover the harmonic content of the overwhelmin
 3. **(15 min)** Final rubric self-assessment (`RUBRIC.md`, Week 3 column). Re-run the Day 18 ear sprints and compare scores.
 
 ### After the course
-Mastery of *understanding* is achievable in three weeks — you now have it. Mastery of *reflex* takes the 10-minute daily drill for another 4–8 weeks. Keep the drill, analyze one song a week, and write one progression a week. That's the entire maintenance program.
+Mastery of *understanding* is achievable in three weeks, and you now have it. Mastery of *reflex* takes the 10-minute daily drill for another 4–8 weeks. Keep the drill, analyze one song a week, and write one progression a week. That's the entire maintenance program.

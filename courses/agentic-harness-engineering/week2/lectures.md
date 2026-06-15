@@ -18,7 +18,7 @@ Three nested mechanisms:
 2. **Allowlist rules** — `settings.json` permissions like `Bash(git status:*)`, `Read(~/projects/**)`. Declarative, diffable, shareable per-project (`.claude/settings.json`).
 3. **Permission modes** — default / acceptEdits / plan (read-only analysis mode, no mutations) / bypass. Plan mode is a genuinely important pattern: *the harness can put the model in a provably-read-only state* while it designs, then ask the human to approve a plan before any mutation. Mode, not prompt — enforced by the harness, not requested of the model.
 
-**Design reading:** contrast with Codex CLI, which inverts the trade — sandbox by default (Docker-style isolation, network off) so it needs *fewer* per-action prompts. Claude Code trusts the human gate on a real machine; Codex trusts the wall. Per-action friction vs. environment friction. Neither is "right"; Week 3 threat-models both.
+**Design reading:** contrast with Codex CLI, which inverts the trade: sandbox by default (Docker-style isolation, network off) so it needs *fewer* per-action prompts. Claude Code trusts the human gate on a real machine; Codex trusts the wall. Per-action friction vs. environment friction. Neither is "right"; Week 3 threat-models both.
 
 ## 6.2 Hooks: deterministic control around a stochastic core
 
@@ -106,7 +106,7 @@ Pick **two** of the five and find, in actual source: (a) the agent loop, (b) the
 
 ## 8.1 The problem MCP solves
 
-Pre-2025: every harness × every integration = bespoke glue (M×N). The **Model Context Protocol** (Anthropic, Nov 2024; since adopted across the industry — OpenAI, Google, Microsoft) standardizes the *tool side*: write one MCP server for your internal API, and Claude Code, OpenCode, Cline, Goose, Cursor can all use it. M+N, not M×N. It is the USB-C of agent tooling, and in 2026 it's the single biggest piece of cross-vendor convergence.
+Pre-2025: every harness × every integration = bespoke glue (M×N). The **Model Context Protocol** (Anthropic, Nov 2024; since adopted across the industry — OpenAI, Google, Microsoft) standardizes the *tool side*: write one MCP server for your internal API, and Claude Code, OpenCode, Cline, Goose, Cursor can all use it. M+N, not M×N. It is the USB-C of agent tooling, and in 2026 it's the biggest piece of cross-vendor convergence going.
 
 ## 8.2 Architecture
 

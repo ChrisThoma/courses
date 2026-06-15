@@ -2,7 +2,7 @@
 
 Projects are where technique turns into *tunes you can actually play.* Each has a recorded deliverable and a grading rubric. **Record everything** — a phone is fine — and grade yourself by *listening back*, which is far more honest than judging while you play. "I basically played it" is a 70, not a 95. The standard everywhere is **steady, in time, and musical**, not fast or flawless.
 
-> **Why recordings?** Because a metronome and a microphone don't flatter you. Your timing in your head is always better than your timing on tape. Listening back is the single fastest way to improve — and the recordings become a priceless record of how far you came.
+> **Why recordings?** Because a metronome and a microphone don't flatter you. Your timing in your head is always better than your timing on tape. Listening back is the fastest way to improve, and the recordings become a priceless record of how far you've come.
 
 ---
 
@@ -78,7 +78,7 @@ A recording of **one tune of your choice** from the course repertoire (or anothe
 
 ## Final Project — The "House Concert" Recording *(Day 21 · 25% of grade)*
 
-**Goal:** the capstone — a short performance of the tunes you can really play, proving you ended the course an actual banjo *player.* This is the graduation requirement and the Domain 6–7 (+ 9) test.
+**Goal:** the capstone. A short performance of the tunes you can really play, proving you ended the course an actual banjo *player.* This is the graduation requirement and the Domain 6–7 (+ 9) test.
 
 ### Specification
 1. **Two to four tunes**, played from memory, that you can genuinely play — including **at least one in an alternate tuning** (Shady Grove in Sawmill counts) to show tuning range. Coherence and groove beat quantity — three solid tunes beat four shaky ones.
@@ -97,4 +97,4 @@ A recording of **one tune of your choice** from the course repertoire (or anothe
 | 3 | Musicality and personal feel — it sounds like *playing*, not reciting |
 | 3 | Spoken intros present + written reflection thoughtful and honest |
 
-**Graduation bar:** 23+/25, **and** a listener who knows nothing about banjo would enjoy listening to it and tap their foot the whole way through. If you hit that, you didn't just finish a course — you became a banjo player. Save the file; it's your "before."
+**Graduation bar:** 23+/25, **and** a listener who knows nothing about banjo would enjoy listening to it and tap their foot the whole way through. If you hit that, you didn't just finish a course; you became a banjo player. Save the file; it's your "before."

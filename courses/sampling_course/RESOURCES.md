@@ -4,11 +4,11 @@ The lectures are written as **self-contained studio sessions** — you can read 
 
 **How to use this file**
 - Each lecture lists **▶ Watch** (video), **📄 Read** (article/docs), **🔊 Listen** (ear training), and **⬇ Get** (sources/tools).
-- A ⭐ marks the single highest-value resource for that lecture — if you do nothing else, do that one.
+- A ⭐ marks the highest-value resource for that lecture — if you do nothing else, do that one.
 - **Before** the lecture: skim the ⭐. **After**: go deep on the rest.
 - Product UIs and links churn; if something moved, search the title — the *techniques* are stable. Verified June 2026.
 
-> **The one channel to bookmark:** Ableton's own **Learning Music** (learningmusic.ableton.com) and **Learning Synths** sites, and the **Ableton YouTube channel** (@Ableton). For sample-based production specifically, the producer-educators worth your time include **Andrew Huang**, **You Suck at Producing (Adam Neely-adjacent / ASDR)**, **In The Mix**, **Underbelly**, **busy works beats**, and **SeamlessR** — search a technique + their name and you'll find a focused tutorial.
+> **The one channel to bookmark:** Ableton's own **Learning Music** (learningmusic.ableton.com) and **Learning Synths** sites, and the **Ableton YouTube channel** (@Ableton). For sample-based production specifically, the producer-educators worth your time include **Andrew Huang**, **You Suck at Producing**, **In The Mix**, **Underbelly**, **busy works beats**, and **SeamlessR** — search a technique + their name and you'll find a focused tutorial.
 
 ---
 
@@ -40,7 +40,7 @@ The lectures are written as **self-contained studio sessions** — you can read 
 - ▶ **"How to make a melody from one sample in Simpler"** — search; this is Lecture 3.3 in video form.
 
 ### Lecture 4 — Audio Fundamentals for Samplers
-- ⭐ ▶ **"Gain staging explained"** (search — there are excellent 10-min versions). The single most useful non-obvious skill for clean tracks.
+- ⭐ ▶ **"Gain staging explained"** (search — there are excellent 10-min versions). The most useful non-obvious skill there is for clean tracks.
 - 📄 **"Sample rate and bit depth explained"** — the **Sound on Sound** and **iZotope Learn** explainers are clear and correct.
 - 🔊 **Transients:** find a "what is a transient / transient shaping" video and *watch the waveform* while you listen — train eye and ear together.
 

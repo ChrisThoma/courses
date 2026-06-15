@@ -1,6 +1,6 @@
 # Week 2 — Melody & Drive
 
-> **The thesis of this week:** a melody is just *which string you strike for the "bum."* Last week the bum was whatever-was-handy; this week it becomes a chosen melody note, dressed up with the three old-time ornaments (hammer-on, pull-off, slide) and — the big one — **drop-thumb**, which lets the thumb sound melody notes instead of always the drone. By Friday you'll be playing Cripple Creek and Old Joe Clark with real drive. The non-negotiable from Week 1 carries over and gets *more* important: **slow, even, in time.** A flashy ornament that breaks your groove is worse than no ornament.
+> **The thesis of this week:** a melody is just *which string you strike for the "bum."* Last week the bum was whatever-was-handy; this week it becomes a chosen melody note, dressed up with the three old-time ornaments (hammer-on, pull-off, slide) and, the big one, **drop-thumb**, which lets the thumb sound melody notes instead of always the drone. By Friday you'll be playing Cripple Creek and Old Joe Clark with real drive. The non-negotiable from Week 1 carries over and gets *more* important: **slow, even, in time.** A flashy ornament that breaks your groove is worse than no ornament.
 
 Tab notation reminder (full key in the [Field Guide](SUPPLEMENT-tab-tunings-and-resources.md)): under the staff, **I** = index strike, **B** = brush, **T** = thumb. Between fret numbers, **h** = hammer-on, **p** = pull-off, **/** = slide up, **\\** = slide down.
 
@@ -102,7 +102,7 @@ Fret the 2nd fret of the 3rd string, strike it (A), and slide up to the 4th fret
 - **Move from the arm/hand**, smoothly; the finger stays planted.
 - **Land on the target fret** in time — a slide is still rhythmic; it arrives *on a beat*, not whenever.
 
-**Hammer vs. slide — same notes, different feel:** you can get from the 2nd to the 4th fret with a slide (2/4, a smooth swoop) *or* by striking the 2nd and hammering... actually you'd hammer 2h4 only if you re-strike; more often it's the slide for that swoop. Old-time players choose by *feel* — slides are smooth and vocal, hammers are punchy. Having both in your hands is the point.
+**Hammer vs. slide, same notes, different feel:** you can get from the 2nd to the 4th fret with a slide (2/4, a smooth swoop) *or* by striking the 2nd and hammering... actually you'd hammer 2h4 only if you re-strike; more often it's the slide for that swoop. Old-time players choose by *feel*: slides are smooth and vocal, hammers are punchy. Having both in your hands is the point.
 
 **In the groove:** like the other ornaments, the slide lives on the "bum." Strike-and-slide, then brush, then thumb:
 
@@ -144,7 +144,7 @@ Listen to a melodic clawhammer player (Cripple Creek, or search "drop thumb claw
 
 ### Lecture
 
-Until now the thumb has played only the **5th string** (the "ty" drone). **Drop-thumb** (a.k.a. double-thumbing) is when the thumb **"drops" down to an inside string** — the 4th, 3rd, or 2nd — to sound a *melody* note instead of the drone. This roughly doubles how many melody notes you can fit, and it's what separates plain frailing from full melodic clawhammer.
+Until now the thumb has played only the **5th string** (the "ty" drone). **Drop-thumb** (a.k.a. double-thumbing) is when the thumb **"drops" down to an inside string** (the 4th, 3rd, or 2nd) to sound a *melody* note instead of the drone. This roughly doubles how many melody notes you can fit, and it's what separates plain frailing from full melodic clawhammer.
 
 **The motion:**
 - Same relaxed thumb, but instead of landing on the 5th string, it reaches over and **strikes-down on an inside string** (say the 2nd or 3rd), sounding a fretted or open note there.
@@ -257,7 +257,7 @@ Listen to a *driving* old-time banjo player — Round Peak players like **Tommy 
 
 ### Lecture
 
-You can play every note right and still sound bad — if the *time* is bad. And you can play a half-dozen notes with great time and sound wonderful. **Time and drive are the whole game in old-time.** Old-time is **dance music**; its job is to make bodies move. That demands a steady, propulsive groove.
+You can play every note right and still sound bad if the *time* is bad. And you can play a half-dozen notes with great time and sound wonderful. **In old-time, time and drive matter more than anything else.** Old-time is **dance music**; its job is to make bodies move. That demands a steady, propulsive groove.
 
 **Drive** is the sense of forward momentum in the groove. It comes from:
 - **Rock-steady tempo** — no rushing the easy parts or dragging the hard parts. This is 90% of it.
@@ -300,7 +300,7 @@ Listen to **Old Joe Clark** several times until you can hum both parts. Listen f
 
 **Old Joe Clark** is one of the most-played old-time tunes ever, and a perfect Week-2 capstone: it's a two-part AABB tune you can frail with everything you now own, and it introduces a new *sound*.
 
-**The flat-7 / Mixolydian flavor (no theory rabbit hole — just the sound):** most tunes you know are plain "major." Old Joe Clark has a **lowered ("flat") 7th note**, which gives it that slightly bluesy, ancient, twangy character instead of a bright sunny major sound. You don't need the theory; you need to *hear* it and let your fingers find that note (it sits naturally in the tune's shape). The takeaway: old-time isn't all vanilla major — many of its best tunes have this modal twang, and your *ear* is what catches it.
+**The flat-7 / Mixolydian flavor (no theory rabbit hole, just the sound):** most tunes you know are plain "major." Old Joe Clark has a **lowered ("flat") 7th note**, which gives it that slightly bluesy, ancient, twangy character instead of a bright sunny major sound. You don't need the theory; you need to *hear* it and let your fingers find that note (it sits naturally in the tune's shape). The takeaway: old-time isn't all vanilla major — many of its best tunes have this modal twang, and your *ear* is what catches it.
 
 > **A note on key:** Old Joe Clark is traditionally played in **A**. As a beginner in gDGBD you can (a) learn it in G-shaped positions to keep it easy, or (b) later use a **capo at the 2nd fret** (and spike/retune the 5th string up) to play your G shapes but sound in A so you can join others. For now, learn the melody and groove in whatever position your chosen tab uses; matching the jam's key comes later.
 
@@ -330,7 +330,7 @@ Take **Quiz 2** now (see `QUIZZES.md`), closed-book. It covers the ornaments, dr
 Consolidation day. Three things:
 
 ### 1. Review the week
-Answer every Day 8–13 self-check from memory; replay any lecture example you fumble. The load-bearing skills this week are **clean ornaments in time (Days 8–9)** and **steady drive (Day 12)** — drop-thumb (Day 10) is a long-game seed, so don't judge yourself harshly there.
+Answer every Day 8–13 self-check from memory; replay any lecture example you fumble. The skills that carry this week are **clean ornaments in time (Days 8–9)** and **steady drive (Day 12)**. Drop-thumb (Day 10) is a slower-burning seed, so don't judge yourself harshly there.
 
 ### 2. Finish your tunes
 Complete the **B parts** of Cripple Creek and Old Joe Clark, so you can play both tunes AABB, slowly, all the way through. "All the way through, in time, slow" beats "fast but falls apart in the B part."
