@@ -36,6 +36,14 @@
       "description": "Turn any sound into music. A hands-on course in sample-based production in Ableton Live — chopping breaks, multisampling instruments, designing sound by resampling, arranging loops into a finished track, mixing it, and clearing it legally — through daily lectures, labs, quizzes, and three production projects.",
       "tags": ["Music Production", "Ableton Live", "Sampling", "3 weeks"],
       "accent": "#db2777"
+    },
+    {
+      "slug": "outdoor-garden-care-pittsburgh",
+      "title": "The Home Garden — Pittsburgh",
+      "subtitle": "HORT E-15 · A 3-week intensive",
+      "description": "Build and keep a healthy home garden in Pittsburgh's Zone 6b — reading your site and clay soil, choosing and caring for plants, winning the war on weeds and invasives, and running a year-round maintenance system — through daily lectures, field labs, quizzes, and hands-on projects you can do in any season.",
+      "tags": ["Gardening", "Soil & Plants", "Pittsburgh / Zone 6b", "3 weeks"],
+      "accent": "#2f9e44"
     }
   ]
 }
