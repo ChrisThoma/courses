@@ -44,6 +44,14 @@
       "description": "Build and keep a healthy home garden in Pittsburgh's Zone 6b — reading your site and clay soil, choosing and caring for plants, winning the war on weeds and invasives, and running a year-round maintenance system — through daily lectures, field labs, quizzes, and hands-on projects you can do in any season.",
       "tags": ["Gardening", "Soil & Plants", "Pittsburgh / Zone 6b", "3 weeks"],
       "accent": "#2f9e44"
+    },
+    {
+      "slug": "clawhammer-course",
+      "title": "Clawhammer Banjo: Frailing, Tunes & the Old-Time Tradition",
+      "subtitle": "MUS-17 · A 3-week intensive",
+      "description": "Go from never having held a banjo to playing real old-time tunes with a steady, danceable groove — the clawhammer striking hand and bum-ditty, hammer-ons, pull-offs, slides, and drop-thumb, a working repertoire (Cripple Creek, Old Joe Clark, Shady Grove), learning tunes by ear, alternate tunings, and the music's African-to-Appalachian history — through daily lectures, slow practice, quizzes, and recorded projects.",
+      "tags": ["Banjo", "Old-Time Music", "Clawhammer", "3 weeks"],
+      "accent": "#b45309"
     }
   ]
 }
