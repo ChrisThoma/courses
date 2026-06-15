@@ -20,6 +20,14 @@
       "description": "Master practical music theory entirely on the fretboard — intervals, scales, chord construction, Roman numeral analysis, minor keys, blues, and modes — through daily lectures, drills, quizzes, and composition projects.",
       "tags": ["Music Theory", "Guitar", "Ear Training", "3 weeks"],
       "accent": "#d97706"
+    },
+    {
+      "slug": "photography-foundations",
+      "title": "Foundations of Photography & the Digital Camera",
+      "subtitle": "PHOT-10 · A 3-week intensive",
+      "description": "Go from Auto to intentional — the exposure triangle, focus, reading and using light, the grammar of composition, color, and a complete RAW editing workflow — through daily lectures, shooting assignments, quizzes, and projects. Tailored to the Fujifilm X100VI.",
+      "tags": ["Photography", "Digital Camera", "Fujifilm X100VI", "3 weeks"],
+      "accent": "#0ea5e9"
     }
   ]
 }
