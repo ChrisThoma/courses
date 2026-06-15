@@ -271,7 +271,7 @@ Everything in this course exists to let you do what happens below: a normal exch
 > B: Muy bien. Entonces, nos vemos mañana a las nueve.
 > A: Perfecto. Gracias por su ayuda. Que tenga un buen día.
 
-Read it again and label, in your notebook, where each structure comes from: ser and estar, present-tense verbs, tener que, ir a / nos vemos, gustar, a polite command (dígame), question words, time, and connectors. That single conversation touches almost every day of the course. That is the proof that you have a working system, not a pile of facts.
+Read it again and label, in your notebook, where each structure comes from: ser and estar, present-tense verbs, tener que, ir a / nos vemos, gustar, a polite command (dígame), question words, time, and connectors. That single conversation touches almost every day of the course. Once you can point to each piece, you can see that what you have is a working system, not a pile of separate facts.
 
 **Strategies when you get stuck mid-conversation**, which you will:
 - **Buy time:** *Un momento... / Pues... / A ver...* (Let's see...)

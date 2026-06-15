@@ -305,7 +305,7 @@ Reread the self-checks for Days 8 through 13 and answer every one aloud from mem
 From the [Practice Menu](DRILLS.md), do the "conjugation sprint": pick five verbs at random (mix regular and irregular), and write each one's full conjugation by hand as fast as you can while staying correct, saying each form aloud. Time yourself. Speed with accuracy is the goal; the forms should start to come without thinking.
 
 ### 3. Project 2: My Day in Writing
-Begin **Project 2** (see `PROJECTS.md`). You will write, by hand, a short paragraph describing a typical day (what you do, where you go, what you have to do, using present-tense verbs, tener que, and ir a), then read it aloud and record it. It is the proof that you can now build connected sentences, not just isolated forms.
+Begin **Project 2** (see `PROJECTS.md`). You will write, by hand, a short paragraph describing a typical day (what you do, where you go, what you have to do, using present-tense verbs, tener que, and ir a), then read it aloud and record it. This is where the isolated forms have to come together into connected sentences.
 
 ### Looking ahead
 Week 2 gave you the **verb engine**: regular verbs, questions, negation, agreement, and the two indispensable irregulars tener and ir. You can now say what people do, have, and are going to do, and ask about all of it. **Week 3 makes it sound human:** the irregular verbs you reach for constantly (querer, poder, hacer), the gustar pattern for likes and dislikes, time and weather and plans, and the practical, polite language of real everyday and workplace interaction.

@@ -321,7 +321,7 @@ Reread the self-checks for Days 1 through 6 and answer every one from memory, ou
 Set up the review system from the [Practice Menu](DRILLS.md): make your first batch of vocabulary cards (paper or app) from this week's words, each noun with its article, and do your first review pass. From now on, a few minutes of review every day is non-negotiable. This is what moves words from "I saw it" to "I know it."
 
 ### 3. Project 1: Introduce Yourself
-Begin **Project 1** (see `PROJECTS.md`). You will record a short spoken self-introduction and write it out by hand: greet, say your name, where you are from, your job, and a couple of true sentences using ser and estar. It is the proof that Week 1's foundation holds, and it is due at the end of today (or carry it into the Week 2 review day if you genuinely need to, but do not let it slide).
+Begin **Project 1** (see `PROJECTS.md`). You will record a short spoken self-introduction and write it out by hand: greet, say your name, where you are from, your job, and a couple of true sentences using ser and estar. This is where you find out whether Week 1 actually stuck. It is due at the end of today (or carry it into the Week 2 review day if you genuinely need to, but do not let it slide).
 
 ### Looking ahead
 Week 1 gave you the **sounds**, the **people words**, and the verb **to be**. You can already greet someone, introduce yourself, and describe who and where things are. **Week 2 is the engine of the language: regular verbs.** Once you can conjugate -ar, -er, and -ir verbs, you can say what you and anyone else does, and the number of sentences you can build jumps from dozens to thousands.

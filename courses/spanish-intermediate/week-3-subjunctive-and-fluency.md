@@ -1,6 +1,6 @@
 # Week 3: The Subjunctive & Real Fluency
 
-> **The thesis of this week:** the subjunctive is the last major structure between you and being able to say almost anything, and it is far less frightening than its reputation. It is a verb mood used in specific, learnable situations: when you express a wish, an emotion, a doubt, an opinion, or use certain conjunctions. We learn to form it, then walk into its uses one trigger at a time. The back half of the week shifts from grammar to fluency: professional register, softening, connectors, and the survival strategies that keep a real conversation moving. Speak everything out loud; this is the week it all has to come together in real time.
+> **The thesis of this week:** the subjunctive is the last major structure between you and being able to say almost anything, and it earns far less dread than it gets. It is a verb mood used in specific, learnable situations: when you express a wish, an emotion, a doubt, an opinion, or use certain conjunctions. We learn to form it, then walk into its uses one trigger at a time. The back half of the week shifts from grammar to fluency: professional register, softening, connectors, and the strategies that keep a real conversation moving. Speak everything out loud; this is the week it all has to come together in real time.
 
 The subjunctive conjugation tables and trigger lists are in the [Reference file](SUPPLEMENT-reference-and-vocabulary.md), sections 7 and 10.
 
@@ -17,7 +17,7 @@ Say the subjunctive of hablar and comer, twice: hable, hables, hable, hablemos, 
 
 ### Lecture
 
-First, what the subjunctive **is**. So far every verb you have used has been in the **indicative** mood, which states facts: what is, was, or will be. The **subjunctive** is a different mood, used not for facts but for things that are **wished, doubted, felt about, or hypothetical**, the things that live in someone's head rather than in the world. English barely has it ("I suggest that he *be* on time"), so it feels foreign, but Spanish uses it constantly.
+First, what the subjunctive **is**. So far every verb you have used has been in the **indicative** mood, which states facts: what is, was, or will be. The **subjunctive** is a different mood, used not for facts but for things that are wished, doubted, felt about, or hypothetical, the things that live in someone's head rather than out in the world. English still has a few traces of it ("I suggest that he *be* on time"), which is why it feels half-familiar and half-foreign; Spanish uses it constantly.
 
 Today is just the **forms**; tomorrow is when to use them. The formation is one you already met building usted commands (Reference section 7):
 
@@ -264,11 +264,11 @@ Everything in both courses exists to let you handle the kind of exchange below: 
 > A: Claro. Se lo mando esta tarde. Ojalá que todo salga bien.
 > B: Gracias. Quedo a su disposición si necesita algo.
 
-In that short exchange you can find: formal register and usted throughout, the preterite (terminamos, tuvimos, cambió) and imperfect (trabajábamos) working together, an object pronoun (se lo mando), the conditional for politeness (quería, sería, podría), the subjunctive after a recommendation and an impersonal expression and ojalá (que hablemos, que entienda, que salga), por/para, and connectors. That is the whole intermediate system in eight lines.
+Eight lines, and look at what is in them: formal register and usted throughout, the preterite (terminamos, tuvimos, cambió) and imperfect (trabajábamos) working together, an object pronoun (se lo mando), the conditional for politeness (quería, sería, podría), the subjunctive after a recommendation and an impersonal expression and ojalá (que hablemos, que entienda, que salga), por/para, and connectors. Almost the entire course is sitting in that one conversation.
 
-Read it again and label, in your notebook, each structure and which day it came from. That is the proof that you now have a working system across past, present, future, and the subjunctive.
+Read it again and label, in your notebook, each structure and which day it came from. Once you can see the parts, you can see that you have a working system across past, present, future, and the subjunctive, not a pile of separate rules.
 
-**When you stall in a real discussion** (and you will): use the Day 19 tools. Buy time with a filler, ask for a repeat or a rephrase, talk around the missing word, and keep the turn alive in Spanish. Fluency is not never getting stuck; it is getting unstuck without leaving the language.
+**When you stall in a real discussion** (and you will): use the Day 19 tools. Buy time with a filler, ask for a repeat or a rephrase, talk around the missing word, and keep the turn alive in Spanish. Fluency is not never getting stuck. It is getting unstuck without leaving the language.
 
 ### Write by hand (15 min)
 Write your own twelve-to-sixteen-line discussion, by hand, set in a real situation you face, that uses at least: one preterite and one imperfect, one object pronoun, one conditional softener, one subjunctive (after a wish, doubt, or impersonal expression), one por or para, and two connectors. Full accents and punctuation.
@@ -297,7 +297,7 @@ Record and submit the **Final Interview** (see `PROJECTS.md`): a sustained conve
 
 ### Where to go next
 You now have the full structural core of the language: every common tense, the object and reflexive pronouns, commands, and a working subjunctive. To turn this into real fluency:
-- **Use it constantly with real people.** At this level, real conversation does more than any exercise. If you regularly speak with Spanish speakers, push yourself to stay in Spanish through the hard moments, using the circumlocution and repair tools from Day 19. The stalls are where the growth is.
+- **Use it constantly with real people.** At this level, real conversation does more than any exercise. If you regularly speak with Spanish speakers, push yourself to stay in Spanish through the hard moments, using the circumlocution and repair tools from Day 19. The moments where you stall and recover are where most of the growth happens.
 - **Add input you enjoy.** Podcasts, shows, and reading at your level feed your ear and vocabulary far faster than drills alone.
 - **Keep a small daily habit.** Ten minutes of spaced-repetition review and one out-loud monologue keeps everything sharp between conversations.
 - **Continue toward advanced study:** the past subjunctive and conditional-sentence patterns ("si tuviera tiempo, iría"), the more literary tenses, and the regional varieties of the people you speak with most. You have the foundation to absorb all of it through use.

@@ -4,7 +4,7 @@
 **Time commitment:** about 60 to 90 minutes per day, 6 days per week, for 3 weeks (one lighter review day each week)
 **Prerequisites:** None. No prior Spanish, no grammar background, no language-learning experience required. You need a notebook and a pen (real paper, not a screen), a way to record and play back your own voice (any phone works), and the willingness to say words out loud badly for a few days.
 
-> **The promise of this course:** in three weeks you will go from zero to holding short, real conversations in Spanish: greeting someone, introducing yourself, asking and answering everyday questions, describing people and things, saying what you do and what you have, and making simple plans. More than that, you will own the grammar engine that the rest of Spanish is built on, and a daily study habit that keeps the language growing after the course ends.
+> **The promise of this course:** in three weeks you will go from zero to holding short, real conversations in Spanish: greeting someone, introducing yourself, asking and answering everyday questions, describing people and things, saying what you do and what you have, and making simple plans. You will also walk away with the grammar that the rest of Spanish is built on, and a daily study habit that keeps the language growing after the course ends.
 
 ## What this course is, and what it is not
 
@@ -21,11 +21,11 @@ It deliberately **leaves out** what a beginner does not need yet: the past tense
 
 ## How this language is actually learned
 
-Three forces do almost all the work, and this course is built on them:
+Three things do most of the work, and this course is built on them:
 
-1. **Speaking out loud, every day.** A language read silently is trivia. You learn to speak by speaking, including badly, from day one. Every lesson has you say things aloud and record yourself.
-2. **Writing by hand.** You will handwrite conjugations, copy correct sentences, and write your own. Writing by hand is slow on purpose. The slowness is where the learning happens: it forces you to notice every ending, accent, and agreement that your eye skips when you only read. **Handwritten work is a required, graded part of this course, not a suggestion.**
-3. **Spaced repetition.** You will review old vocabulary and verb forms on a schedule, not just when they are new. Forgetting and re-remembering is how things move into long-term memory. The Practice Menu gives you the system.
+1. **Speaking out loud, every day.** A language you only read silently stays trivia. You learn to speak by speaking, including badly, from day one. Every lesson has you say things aloud and record yourself.
+2. **Writing by hand.** You will handwrite conjugations, copy correct sentences, and write your own. Doing it by hand is slow, and that is the point: the slowness forces you to notice every ending, accent, and agreement that your eye skips when you only read. **Handwritten work is a required, graded part of this course, not a suggestion.**
+3. **Spaced repetition.** You will review old vocabulary and verb forms on a schedule, not only when they are new. Forgetting something and dragging it back is how it moves into long-term memory. The Practice Menu gives you the system.
 
 ## Course materials (all in this folder)
 
@@ -54,8 +54,8 @@ Three forces do almost all the work, and this course is built on them:
 
 ## A note on pace and on accents
 
-Three weeks is enough to build **correct pronunciation, the present-tense system, and the ability to hold a simple conversation**, plus the daily habit that keeps it growing. It is not enough to become fluent, and nobody expects that. What you build here is a correct foundation, so the months of speaking that follow compound instead of cementing bad habits.
+Three weeks is enough to build correct pronunciation, the present-tense system, and the ability to hold a simple conversation, plus the daily habit that keeps it growing. It will not make you fluent, and nobody expects it to. What it gives you is a clean foundation, so that the months of speaking that follow build on something solid instead of cementing bad habits.
 
-Spanish is spoken across more than twenty countries, and the accent and a few word choices differ from place to place. This course teaches a clear, widely understood Latin American standard, and it flags the main differences (for example, the **vosotros** form used in Spain, or the *th* sound for **z** and soft **c** there) so nothing surprises you later. Pick the variety spoken by the people you most want to talk with, and lean into it.
+Spanish is spoken across more than twenty countries, and the accent and a few word choices shift from place to place. This course teaches a clear, widely understood Latin American standard, and it flags the main differences (for example, the **vosotros** form used in Spain, or the *th* sound for **z** and soft **c** there) so nothing surprises you later. Pick the variety spoken by the people you most want to talk with, and lean into it.
 
 Abre el cuaderno. Empezamos. (Open the notebook. Let's begin.)

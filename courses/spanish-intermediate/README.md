@@ -4,7 +4,7 @@
 **Time commitment:** about 60 to 90 minutes per day, 6 days per week, for 3 weeks (one lighter review day each week)
 **Prerequisites:** A solid command of beginning Spanish, equivalent to **SPAN-10: Foundations for Speaking**. You should already be comfortable with pronunciation and stress, noun gender and agreement, ser vs. estar, the present tense of regular and common irregular verbs, questions and negation, gustar, and basic everyday conversation. If any of those are shaky, spend a few days in the SPAN-10 Reference file before starting. You also need a notebook and pen, a way to record and play back your voice, and a tolerance for getting tenses wrong out loud for a while.
 
-> **The promise of this course:** in three weeks you will move from "I can talk about now" to "I can talk about anything, in any time frame." You will narrate the past, give instructions, talk about the future and the hypothetical, compare things, and express wishes, doubts, and emotions with the subjunctive. More than that, you will sound less like a textbook and more like a person, because the back half of the course is about connected, natural, real-world speech.
+> **The promise of this course:** in three weeks you will move from "I can talk about now" to "I can talk about anything, in any time frame." You will narrate the past, give instructions, talk about the future and the hypothetical, compare things, and express wishes, doubts, and emotions with the subjunctive. And you will start to sound less like a textbook and more like a person, because the back half of the course is about connected, natural, real-world speech.
 
 ## What this course is, and what it is not
 
@@ -58,6 +58,6 @@ The same three forces from SPAN-10 still do the work, and they matter more now, 
 
 Three weeks is enough to **learn and begin using** the full intermediate system, including the subjunctive. It is not enough to make all of it automatic, and nobody expects that. The preterite/imperfect choice and the subjunctive in particular keep getting more natural for months of real use afterward. What this course gives you is correct rules, enough reps to start producing them, and the daily habit so that the months that follow compound.
 
-A word on the subjunctive specifically: many learners fear it. It is not as hard as its reputation. It is a verb mood you use in specific, learnable situations (wishes, doubts, emotions, certain conjunctions), and Week 3 walks you into it one trigger at a time. Treat it as the natural next step it is.
+A word on the subjunctive specifically: many learners dread it, and the dread is mostly unearned. It is a verb mood you use in a handful of specific, learnable situations (wishes, doubts, emotions, certain conjunctions), and Week 3 walks you into it one trigger at a time.
 
 Abre el cuaderno. Vamos a hablar de todo. (Open the notebook. Let's talk about everything.)
