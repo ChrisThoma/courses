@@ -1,7 +1,7 @@
 {
-  "title": "The Home Garden — Pittsburgh",
+  "title": "The Home Garden: Pittsburgh",
   "subtitle": "HORT E-15 · A 3-week intensive",
-  "description": "Everything a Pittsburgh homeowner needs to build and keep a healthy garden — reading your site and clay soil, choosing and caring for plants in Zone 6b, winning the war on weeds, and running a year-round maintenance system — taught through daily lectures, field labs, quizzes, and hands-on projects you can do in any season.",
+  "description": "Everything a Pittsburgh homeowner needs to build and keep a healthy garden: reading your site and clay soil, choosing and caring for plants in Zone 6b, winning the war on weeds, and running a year-round maintenance system, taught through daily lectures, field labs, quizzes, and hands-on projects you can do in any season.",
   "accent": "#2f9e44",
   "sections": [
     {
@@ -14,19 +14,19 @@
       ]
     },
     {
-      "title": "Week 1 — Foundations",
+      "title": "Week 1: Foundations",
       "lessons": [
         { "title": "Days 1–7: Site, Soil, Water, and How Plants Live", "path": "week-1-foundations.md" }
       ]
     },
     {
-      "title": "Week 2 — Plant Care",
+      "title": "Week 2: Plant Care",
       "lessons": [
         { "title": "Days 8–14: Choosing, Planting, Feeding, Pruning, Protecting", "path": "week-2-plant-care.md" }
       ]
     },
     {
-      "title": "Week 3 — The Healthy Garden",
+      "title": "Week 3: The Healthy Garden",
       "lessons": [
         { "title": "Days 15–21: Weeds, Lawn, Design, and the Seasonal Calendar", "path": "week-3-healthy-garden.md" }
       ]

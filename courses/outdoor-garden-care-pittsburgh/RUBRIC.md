@@ -1,11 +1,11 @@
-# Mastery Rubric — HORT E-15
+# Mastery Rubric: HORT E-15
 
 Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 
-- **1 — Novice:** Aware of the concept, can't apply it without references.
-- **2 — Developing:** Can apply it slowly with effort and frequent errors.
-- **3 — Proficient:** Can apply it reliably with brief thought; rare errors.
-- **4 — Master:** Instant, accurate, and can teach it / apply it to your own garden and to problems you've never seen.
+- **1 (Novice):** Aware of the concept, can't apply it without references.
+- **2 (Developing):** Can apply it slowly with effort and frequent errors.
+- **3 (Proficient):** Can apply it reliably with brief thought; rare errors.
+- **4 (Master):** Instant, accurate, and can teach it / apply it to your own garden and to problems you've never seen.
 
 ---
 
@@ -16,7 +16,7 @@ Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 | 1 | Has heard of hardiness zones; unsure of own zone |
 | 2 | Knows their zone and frost dates; can read sun requirements off a tag |
 | 3 | Maps sun/shade and slope/aspect of own site; identifies microclimates; respects the ~May 15 frost rule |
-| 4 | Reads any site fluently (zone, frost, sun, slope, drainage, microclimates) and matches plants to it without thinking — "right plant, right place" is automatic |
+| 4 | Reads any site fluently (zone, frost, sun, slope, drainage, microclimates) and matches plants to it without thinking; "right plant, right place" is automatic |
 
 **Test:** Walk a new yard and, in 10 minutes, describe its zone behavior, sun zones, microclimates, and what would and wouldn't grow there.
 
@@ -29,7 +29,7 @@ Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 | 3 | Determines texture by ribbon/jar test, interprets a soil test (pH, N-P-K), prescribes lime/amendments, distinguishes texture from structure |
 | 4 | Diagnoses any soil problem and prescribes the fix; handles urban-soil/lead safety; manages clay's drainage and structure confidently; "feed the soil" is instinct |
 
-**Test:** Given a soil report (pH 5.4, low N, optimum P/K) and a clay site, prescribe the correct action in under a minute — and explain what *not* to add.
+**Test:** Given a soil report (pH 5.4, low N, optimum P/K) and a clay site, prescribe the correct action in under a minute, and explain what *not* to add.
 
 ## Domain 3: Plant care
 
@@ -100,4 +100,4 @@ Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 | 6. Garden system | | | |
 | 7. Applied | | | |
 
-Expected trajectory: end of Week 1 → Domains 1–2 at Level 3. End of Week 2 → Domains 3–4 at Level 3, earlier domains 3–4. End of Week 3 → all domains Level 3–4 *on paper.* Domains 3, 4, and 7 reach a stable Level 4 only after you've carried the practices through a full growing season in your own garden — that's normal and expected. A garden teaches at the speed of seasons.
+Expected trajectory: end of Week 1 → Domains 1–2 at Level 3. End of Week 2 → Domains 3–4 at Level 3, earlier domains 3–4. End of Week 3 → all domains Level 3–4 *on paper.* Domains 3, 4, and 7 reach a stable Level 4 only after you've carried the practices through a full growing season in your own garden; that's normal and expected. A garden teaches at the speed of seasons.

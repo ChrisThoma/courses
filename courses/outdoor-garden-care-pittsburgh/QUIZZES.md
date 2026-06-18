@@ -1,12 +1,12 @@
-# Quizzes and Final Exam — HORT E-15
+# Quizzes and Final Exam: HORT E-15
 
-Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEYS.md`. Passing = 90%. These test understanding and judgment, not trivia — most answers are a sentence or two of reasoning.
+Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEYS.md`. Passing = 90%. These test understanding and judgment, not trivia; most answers are a sentence or two of reasoning.
 
 ---
 
-## Quiz 1 — Foundations *(Day 6 · 40 points · ~45 min)*
+## Quiz 1: Foundations *(Day 6 · 40 points · ~45 min)*
 
-### Part A — Site & climate (10 pts, 1 each)
+### Part A: Site & climate (10 pts, 1 each)
 1. What USDA hardiness zone is most of Pittsburgh, and what minimum temperature range does it mean?
 2. Why might the urban core behave like a warmer zone than the suburbs?
 3. What two anchor dates frame the Pittsburgh growing season, and roughly when are they?
@@ -18,7 +18,7 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 9. Hardiness zone tells you a plant will survive winter. Name two things it does *not* tell you.
 10. The bottom of a slope tends to be ____ and the area under the eaves tends to be ____.
 
-### Part B — Soil (12 pts, 1 each)
+### Part B: Soil (12 pts, 1 each)
 1. Name the three mineral particle sizes from largest to smallest.
 2. Which holds the most water and nutrients but drains slowest?
 3. What is the typical soil challenge in western Pennsylvania, and one consequence?
@@ -32,7 +32,7 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 11. Name two precautions for growing vegetables in possibly lead-contaminated urban soil.
 12. Why should you NOT rely on a cheap big-box probe meter for soil pH?
 
-### Part C — Water & mulch (10 pts, 1 each)
+### Part C: Water & mulch (10 pts, 1 each)
 1. Why can clay soil be simultaneously "too wet" and "too dry" for roots?
 2. What does "well-drained" actually mean?
 3. State the deep-and-infrequent watering rule and the weekly water target.
@@ -44,7 +44,7 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 9. Why shouldn't you dig or till clay when it's wet?
 10. Roughly how much rain does Pittsburgh get per year, and why does that make overwatering common?
 
-### Part D — How plants live (8 pts, 1 each)
+### Part D: How plants live (8 pts, 1 each)
 1. Where does a plant get its food, and what raw inputs does it use?
 2. Why is light non-negotiable, and why isn't fertilizer "plant food"?
 3. Why do roots need air as well as water?
@@ -56,9 +56,9 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 
 ---
 
-## Quiz 2 — Plant Care *(Day 13 · 40 points · ~45 min)*
+## Quiz 2: Plant Care *(Day 13 · 40 points · ~45 min)*
 
-### Part A — Choosing & planting (10 pts, 1 each)
+### Part A: Choosing & planting (10 pts, 1 each)
 1. Why are perennials the "backbone" and annuals the "accent" of a garden?
 2. Give three reasons native plants are lower-maintenance and better for the ecosystem here.
 3. Which line on a plant tag is most often ignored, and what goes wrong?
@@ -70,7 +70,7 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 9. Why should new beds look "sparse" when correctly planted?
 10. When is the best time to divide/transplant an established perennial, and why?
 
-### Part B — Watering & feeding (10 pts, 1 each)
+### Part B: Watering & feeding (10 pts, 1 each)
 1. How does watering a first-year planting differ from an established one?
 2. Why do containers need different watering than beds?
 3. Both over- and under-watered plants wilt and yellow. How do you tell them apart?
@@ -78,11 +78,11 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 5. What should you do *before* fertilizing, and why?
 6. Name three harms of over-fertilizing.
 7. Why is most established Pittsburgh clay NOT short on phosphorus and potassium?
-8. Organic vs. synthetic fertilizer — one advantage of each.
+8. Organic vs. synthetic fertilizer: one advantage of each.
 9. Why shouldn't you fertilize trees and shrubs in late summer/fall?
 10. A native perennial border in good soil may need how much fertilizer, and why?
 
-### Part C — Pruning (10 pts, 1 each)
+### Part C: Pruning (10 pts, 1 each)
 1. What are the "3 D's," and when may you remove them?
 2. State the spring-bloomer vs. summer-bloomer pruning rule.
 3. When do you prune a lilac, and what happens if you prune it in early spring?
@@ -94,7 +94,7 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 9. When should you NOT deadhead, and why?
 10. What is pinching, and what does it do?
 
-### Part D — Pests & disease / IPM (10 pts, 1 each)
+### Part D: Pests & disease / IPM (10 pts, 1 each)
 1. List the IPM ladder from least to most aggressive (at least 4 rungs).
 2. Why are broad-spectrum insecticides often counterproductive?
 3. What's the correct first response to Japanese beetles, and why are pheromone traps a mistake?
@@ -110,10 +110,10 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 
 ## Final Exam *(Day 21 · 60 points · ~60 min)*
 
-### Part A — Foundations recall (10 pts, 1 each — answer each briefly)
+### Part A: Foundations recall (10 pts, 1 each; answer each briefly)
 1. Pittsburgh's hardiness zone and its minimum-temperature range?
 2. The two growing-season anchor dates?
-3. Texture vs. structure — which can you change, and with what?
+3. Texture vs. structure: which can you change, and with what?
 4. The one-sentence meaning of "feed the soil, not the plant"?
 5. Most plants want what pH range?
 6. The deep-and-infrequent rule plus the weekly water target?
@@ -122,7 +122,7 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 9. Define perennial and give a local example.
 10. State "right plant, right place."
 
-### Part B — Plant care (10 pts, 1 each)
+### Part B: Plant care (10 pts, 1 each)
 1. Best season to plant a tree in Pittsburgh, and why?
 2. The correct planting hole, in one sentence?
 3. How do you distinguish over- from under-watering?
@@ -134,7 +134,7 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 9. What is hardening off?
 10. Why not fertilize woody plants in fall?
 
-### Part C — Weeds & invasives (12 pts, 1 each)
+### Part C: Weeds & invasives (12 pts, 1 each)
 1. Define "weed." Why isn't the definition botanical?
 2. How does control strategy differ for annual vs. perennial weeds?
 3. What is the seed bank, and what two practices does it imply?
@@ -142,13 +142,13 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 5. How do you identify poison ivy, and why must you never burn it?
 6. The single most effective cultural weed control in beds, and why it works?
 7. When should you hand-pull vs. hoe, and in what soil condition is hand-pulling best?
-8. Pre-emergent vs. post-emergent herbicide — define each.
-9. Selective vs. non-selective herbicide — define each.
+8. Pre-emergent vs. post-emergent herbicide: define each.
+9. Selective vs. non-selective herbicide: define each.
 10. Why must Japanese knotweed never go in compost or yard waste?
 11. When is herbicide most effective on knotweed, and why?
 12. How do you control garlic mustard, and why is it winnable?
 
-### Part D — The garden system (12 pts, 1 each)
+### Part D: The garden system (12 pts, 1 each)
 1. What grass type are Pittsburgh lawns, and what does summer browning usually mean?
 2. The most important lawn-care season, and why?
 3. The three practices that let turf outcompete weeds?
@@ -162,15 +162,15 @@ Rules: **closed book.** Write your answers on paper, then grade with `ANSWER-KEY
 11. The single compounding habit that improves your gardening every year?
 12. Walk through the healthy-garden virtuous cycle in one or two sentences.
 
-### Part E — Integrated diagnosis & planning (16 pts)
+### Part E: Integrated diagnosis & planning (16 pts)
 A homeowner in a hilly Pittsburgh neighborhood has: a 1925 house; a front yard that is a steep, hard-to-mow, weedy, eroding south-facing slope; a back bed of heavy clay that puddles after rain and grows tomatoes that come out tall, pale, and fruitless; a lilac that "never blooms"; and a stand of bamboo-like 8-ft canes along the back fence.
 
-1. (3) For the **tomatoes**, give the most likely diagnosis and the fix. (Consider both the puddling clay *and* the "tall, pale, fruitless" symptom — there may be two issues.)
+1. (3) For the **tomatoes**, give the most likely diagnosis and the fix. (Consider both the puddling clay *and* the "tall, pale, fruitless" symptom; there may be two issues.)
 2. (3) For the **front slope**, propose a better solution than fighting to mow it, and justify it ecologically and practically.
 3. (2) Why does the **lilac never bloom**, and what's the fix?
 4. (3) Identify the **back-fence canes** and give a realistic multi-season control + disposal plan.
 5. (2) Before growing food near the **1925 house foundation**, what should they check, and what's a safe workaround if there's a problem?
 6. (3) Give three high-leverage actions to improve the **heavy clay** over time.
 
-### Part F — Your plan (Final Project) *(separate · scored on its own rubric in `PROJECTS.md`)*
+### Part F: Your plan (Final Project) *(separate · scored on its own rubric in `PROJECTS.md`)*
 Your **Garden Master Plan** is the practical half of the final. Score it against its rubric there.
