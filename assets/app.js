@@ -217,8 +217,14 @@ const App = (() => {
   }
 
   function renderCourseHome() {
-    // Land on the first lesson of the course.
-    location.hash = `#/${state.courseSlug}/0/0`;
+    // Land on the first lesson of the course. Replace the bare-course history
+    // entry (#/<slug>) instead of pushing a new one — otherwise pressing Back
+    // returns to #/<slug>, which re-triggers this redirect and bounces the user
+    // forward again, never reaching the hub.
+    const target = `#/${state.courseSlug}/0/0`;
+    history.replaceState(null, '', target);
+    state.currentRoute = target;
+    return renderLesson(0, 0);
   }
 
   /* ---- table of contents (right rail) ----------------------------------- */
