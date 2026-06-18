@@ -329,10 +329,26 @@ const App = (() => {
     el.scrim.addEventListener('click', closeMobileNav);
   }
 
+  /* ---- version hint ------------------------------------------------------ *
+   * Zero-build site, so there's no commit baked in at deploy. Fetch the latest
+   * commit on main from the GitHub API and surface the short SHA in the brand's
+   * hover tooltip.                                                            */
+  async function showVersion() {
+    const node = document.getElementById('version');
+    if (!node) return;
+    try {
+      const data = await getJSON(
+        'https://api.github.com/repos/ChrisThoma/courses/commits?per_page=1');
+      const sha = data && data[0] && data[0].sha;
+      if (sha) node.textContent = `version ${sha.slice(0, 7)}`;
+    } catch (e) { /* offline / rate-limited — leave the hint empty */ }
+  }
+
   /* ---- boot -------------------------------------------------------------- */
   async function init() {
     initTheme();
     initNavToggles();
+    showVersion();
     try {
       state.site = await getJSON('courses.json');
       document.title = (state.site.site && state.site.site.title) || 'Courses';

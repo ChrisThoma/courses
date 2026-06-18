@@ -63,6 +63,15 @@ a:hover { text-decoration: underline; }
 .brand { font-weight: 800; letter-spacing: -.02em; color: var(--text); font-size: 1.05rem; }
 .brand:hover { text-decoration: none; }
 .brand-dot { color: var(--accent); margin: 0 .15rem; }
+.brand-wrap { position: relative; display: inline-flex; }
+.version-hint {
+  position: absolute; top: calc(100% + .4rem); left: 0; z-index: 50;
+  font-family: 'JetBrains Mono', monospace; font-size: .7rem; line-height: 1;
+  color: var(--text-dim); background: var(--bg);
+  border: 1px solid var(--border); border-radius: .4rem; padding: .25rem .45rem;
+  white-space: nowrap; opacity: 0; pointer-events: none; transition: opacity .12s ease;
+}
+.brand-wrap:hover .version-hint { opacity: 1; }
 .topbar-spacer { flex: 1; }
 .crumbs { font-size: .85rem; color: var(--text-dim); display: flex; gap: .4rem; align-items: center; overflow: hidden; white-space: nowrap; }
 .crumbs a { color: var(--text-dim); }
