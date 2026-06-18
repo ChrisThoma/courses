@@ -1,4 +1,4 @@
-# MUS-17: Clawhammer Banjo — Frailing, Tunes & the Old-Time Tradition — A 3-Week Intensive
+# MUS-17 Clawhammer Banjo: Frailing, Tunes & the Old-Time Tradition (A 3-Week Intensive)
 
 **Format:** Self-paced intensive, modeled on a college January-term studio/applied-music course
 **Time commitment:** ~45–75 min/day, 6 days/week, 3 weeks (one "woodshed & jam" day per week)
@@ -11,32 +11,32 @@
 This course covers **everything you need to play clawhammer banjo for your own enjoyment and nothing more**:
 
 - How the banjo works, how to tune it (gDGBD and a couple of old-time alternate tunings), and how to hold it
-- The clawhammer striking hand: the strike, the thumb, and the **bum-ditty** — the rhythmic engine the whole style is built on
-- The fretting hand: chords, and the three ornaments that give old-time its voice — **hammer-ons, pull-offs, and slides**
-- **Drop-thumb** — the technique that turns a strum into a melody
+- The clawhammer striking hand: the strike, the thumb, and the **bum-ditty**, the rhythmic engine the whole style is built on
+- The fretting hand: chords, and the three ornaments that give old-time its voice: **hammer-ons, pull-offs, and slides**
+- **Drop-thumb**: the technique that turns a strum into a melody
 - A working repertoire of beginner old-time tunes (Boil Them Cabbage Down, Cripple Creek, Old Joe Clark, Shady Grove) and a reliable method for learning the next hundred **by ear**
-- **Drive and timing** — the thing that makes old-time feel good and makes people want to dance
+- **Drive and timing**: the thing that makes old-time feel good and makes people want to dance
 - Where this music comes from: the banjo's African origins, the minstrel era, Appalachian old-time, and the players worth knowing
 
 It deliberately **omits** what a beginner playing for fun doesn't need yet: bluegrass three-finger (Scruggs) picking, music-notation literacy, deep music theory, melodic/up-the-neck soloing, and gear rabbit holes. We name those doors and leave them for later.
 
 ## A note on how old-time music is actually learned
 
-Old-time is an **aural tradition** — it was, and still is, passed person to person, ear to ear, around the fire and at the jam, not off the page. Tablature ("tab") is a helpful crutch, but **your ears are the real instrument.** Accordingly, this course teaches *technique* with precise tab you can trust, and teaches *tunes* the way the tradition does: by getting the sound in your ear first, then putting it under your fingers. For exact note-for-note tab and play-along audio of each tune, the course points you to excellent free sources (see the [Field Guide](SUPPLEMENT-tab-tunings-and-resources.md)) — **listening to a recording of every tune you learn is a required, non-optional part of this course**, not a nicety.
+Old-time is an **aural tradition**: it was, and still is, passed person to person, ear to ear, around the fire and at the jam, not off the page. Tablature ("tab") is a helpful crutch, but **your ears are the real instrument.** Accordingly, this course teaches *technique* with precise tab you can trust, and teaches *tunes* the way the tradition does: by getting the sound in your ear first, then putting it under your fingers. For exact note-for-note tab and play-along audio of each tune, the course points you to excellent free sources (see the [Field Guide](SUPPLEMENT-tab-tunings-and-resources.md)); **listening to a recording of every tune you learn is a required, non-optional part of this course**, not a nicety.
 
 ## Course materials (all in this folder)
 
 | File | Contents |
 |---|---|
 | [Syllabus](SYLLABUS.md) | Schedule, grading, daily structure, course policies |
-| [Mastery Rubric](RUBRIC.md) | The skills ladder — your definition of "done" |
-| [Week 1 — The Frailing Hand](week-1-the-frailing-hand.md) | Days 1–7: the banjo, the strike, the thumb, the bum-ditty, chords, your first tune |
-| [Week 2 — Melody & Drive](week-2-melody-and-drive.md) | Days 8–14: hammer-ons, pull-offs, slides, drop-thumb, real tunes, groove |
-| [Week 3 — Repertoire & Voice](week-3-repertoire-and-voice.md) | Days 15–21: alternate tunings, modal tunes, playing by ear, backup, your own sound |
+| [Mastery Rubric](RUBRIC.md) | The skills ladder: your definition of "done" |
+| [Week 1: The Frailing Hand](week-1-the-frailing-hand.md) | Days 1–7: the banjo, the strike, the thumb, the bum-ditty, chords, your first tune |
+| [Week 2: Melody & Drive](week-2-melody-and-drive.md) | Days 8–14: hammer-ons, pull-offs, slides, drop-thumb, real tunes, groove |
+| [Week 3: Repertoire & Voice](week-3-repertoire-and-voice.md) | Days 15–21: alternate tunings, modal tunes, playing by ear, backup, your own sound |
 | [Projects](PROJECTS.md) | The three graded projects + final "house concert" recording |
 | [Quizzes](QUIZZES.md) | Weekly quizzes + final exam (yes, even on a playing course) |
 | [Answer Keys](ANSWER-KEYS.md) | Answer keys for all quizzes and the final exam (no peeking) |
-| [Practice Menu](DRILLS.md) | The full drill menu — build your own daily 30-minute practice |
+| [Practice Menu](DRILLS.md) | The full drill menu; build your own daily 30-minute practice |
 | [Field Guide: Tab, Tunings & Resources](SUPPLEMENT-tab-tunings-and-resources.md) | How to read banjo tab, the tunings, chord shapes, and curated free tunes/audio/teachers |
 
 ## How to use this course
@@ -51,6 +51,6 @@ Old-time is an **aural tradition** — it was, and still is, passed person to pe
 
 ## A note on pace
 
-Three weeks is enough to build a **solid, correct clawhammer technique, a steady groove, and four tunes you can really play** — plus the method to learn tunes forever. The deep magic of old-time keeps unfolding for years: endless variations, the perfect lazy drive of a Round Peak banjo, blending into a jam so the fiddle and banjo sound like one instrument. What this course gives you is correct fundamentals, a daily habit, and good ears, so those years actually compound instead of grooving in bad habits.
+Three weeks is enough to build a **solid, correct clawhammer technique, a steady groove, and four tunes you can really play**, plus the method to learn tunes forever. The deep magic of old-time keeps unfolding for years: endless variations, the perfect lazy drive of a Round Peak banjo, blending into a jam so the fiddle and banjo sound like one instrument. What this course gives you is correct fundamentals, a daily habit, and good ears, so those years actually compound instead of grooving in bad habits.
 
 Tune up. Let's frail.

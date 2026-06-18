@@ -1,11 +1,11 @@
-# Mastery Rubric — PHOT-10
+# Mastery Rubric: PHOT-10
 
 Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 
-- **1 — Novice:** Aware of the concept, can't apply it without references or luck.
-- **2 — Developing:** Can apply it slowly with effort and frequent errors.
-- **3 — Proficient:** Can apply it reliably with brief thought; rare errors.
-- **4 — Master:** Instant, accurate, and can teach it / apply it under real shooting pressure.
+- **1 (Novice):** Aware of the concept, can't apply it without references or luck.
+- **2 (Developing):** Can apply it slowly with effort and frequent errors.
+- **3 (Proficient):** Can apply it reliably with brief thought; rare errors.
+- **4 (Master):** Instant, accurate, and can teach it / apply it under real shooting pressure.
 
 ---
 
@@ -70,7 +70,7 @@ Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 |---|---|
 | 1 | Centers everything; subject sometimes cut off |
 | 2 | Applies rule of thirds when reminded |
-| 3 | Composes with intent — clear subject, controlled background, deliberate use of line/balance/framing; explains choices |
+| 3 | Composes with intent: clear subject, controlled background, deliberate use of line/balance/framing; explains choices |
 | 4 | Composes fluidly and breaks "rules" knowingly for effect; controls the whole frame edge-to-edge; achieves depth and visual flow consistently |
 
 **Test:** Given a fixed subject, make five genuinely different strong compositions and articulate the idea behind each.
@@ -124,4 +124,4 @@ Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 | 8. Editing | | | |
 | 9. Seeing / voice | | | |
 
-Expected trajectory: end of Week 1 → Domains 1–4 at Level 3. End of Week 2 → Domains 5–7 at Level 3, technical domains climbing to 4. End of Week 3 → all technical domains at 3–4. Domains 5, 6, and 9 reach a stable Level 4 only with months of continued shooting after the course — that's normal and expected. The "eye" is a long game; the technique is what this course locks in.
+Expected trajectory: end of Week 1 → Domains 1–4 at Level 3. End of Week 2 → Domains 5–7 at Level 3, technical domains climbing to 4. End of Week 3 → all technical domains at 3–4. Domains 5, 6, and 9 reach a stable Level 4 only with months of continued shooting after the course; that's normal and expected. The "eye" is a long game; the technique is what this course locks in.

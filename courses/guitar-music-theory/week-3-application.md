@@ -1,10 +1,10 @@
-# Week 3 — Application: Minor, Blues, Modes, and Real Music
+# Week 3: Application (Minor, Blues, Modes, and Real Music)
 
 > **The thesis of this week:** you now own the machine (intervals → scales → chords → progressions). This week you point it at the music guitarists actually play (minor keys, the blues, modal sounds) and at the two skills that make theory *yours*: hearing it and writing with it.
 
 ---
 
-# Day 15 — Minor Keys: Three Flavors of Dark
+# Day 15: Minor Keys (Three Flavors of Dark)
 
 ### Objectives
 - Build natural, harmonic, and melodic minor from any root.
@@ -27,7 +27,7 @@ As a formula from the root: **natural minor = 1 2 b3 4 5 b6 b7** (W-H-W-W-H-W-W)
 
 | Scale | Formula | Fix | Cost |
 |---|---|---|---|
-| **Natural** | 1 2 b3 4 5 b6 b7 | — | weak cadence |
+| **Natural** | 1 2 b3 4 5 b6 b7 | – | weak cadence |
 | **Harmonic** | 1 2 b3 4 5 b6 **7** | raise 7 → real **V7** and leading tone | exotic 1½-step gap b6→7 |
 | **Melodic** | 1 2 b3 4 5 **6 7** | also raise 6 → smooth melody line | sounds almost major except b3 |
 
@@ -42,11 +42,11 @@ Am   B°     C       Dm    Em   F      G        (A minor)
 
 With the harmonic-minor 7th, **v becomes V (or V7)**: Am–Dm–**E7**–Am is the classic minor cadence (flamenco, klezmer, metal, "House of the Rising Sun" territory).
 
-### Examples — play these
+### Examples: play these
 
-**Example 15.1 — Relative pair on one pattern.** Play Day 3's root-6 major pattern at fret 3 (G major). Now loop a low E drone (let the open 6th string ring, or record one) and play the *same pattern* over it, phrasing your lines to land on E, the 6th degree, found inside the pattern at string 5 fret 7 and string 4 fret 2. Same notes, but it *is* E minor now. Home is a decision made by the harmony, not a pattern.
+**Example 15.1: Relative pair on one pattern.** Play Day 3's root-6 major pattern at fret 3 (G major). Now loop a low E drone (let the open 6th string ring, or record one) and play the *same pattern* over it, phrasing your lines to land on E, the 6th degree, found inside the pattern at string 5 fret 7 and string 4 fret 2. Same notes, but it *is* E minor now. Home is a decision made by the harmony, not a pattern.
 
-**Example 15.2 — A natural minor, open position:**
+**Example 15.2: A natural minor, open position:**
 
 ```
 e|--------------------------0--
@@ -59,7 +59,7 @@ E|------------------------------
    1  2  b3 4  5  b6 b7 1
 ```
 
-**Example 15.3 — The three minors from A, on the A string** (hear the differences):
+**Example 15.3: The three minors from A, on the A string** (hear the differences):
 
 ```
 Natural:   A|--0--2--3--5--7--8--10--12--
@@ -67,11 +67,11 @@ Harmonic:  A|--0--2--3--5--7--8--11--12--   (G→G#: hear the "snake-charmer" ga
 Melodic:   A|--0--2--3--5--7--9--11--12--   (F→F# and G→G#: almost major)
 ```
 
-**Example 15.4 — Why we raise the 7th.** Play Am–Dm–Em–Am (all natural minor: soft, modal). Now Am–Dm–**E7**–Am. The E7 (with its G#) yanks you home. One borrowed semitone, total change of gravity.
+**Example 15.4: Why we raise the 7th.** Play Am–Dm–Em–Am (all natural minor: soft, modal). Now Am–Dm–**E7**–Am. The E7 (with its G#) yanks you home. One borrowed semitone, total change of gravity.
 
 ### Exercises (Lab)
 
-1. **(10 min)** Instant relative-minor drill: relative minor of D? F? E? Bb? A? Relative *major* of C#m? Gm? Bm? (Answer from the circle of fifths — the minor shares the major's signature.)
+1. **(10 min)** Instant relative-minor drill: relative minor of D? F? E? Bb? A? Relative *major* of C#m? Gm? Bm? (Answer from the circle of fifths; the minor shares the major's signature.)
 2. **(15 min)** Spell on paper, then play on one string: E natural minor · E harmonic minor · D natural minor · B harmonic minor · G melodic minor.
 3. **(15 min)** Write the diatonic chords of E minor and of D minor (natural). Play each family. Then swap v→V7 and play i–iv–V7–i in both keys.
 4. **(15 min)** Composition: write an 8-bar minor-key progression that uses bVII and bVI (the "Stairway"/"All Along the Watchtower" flavor: i–bVII–bVI...), ending with a V7→i cadence. Label everything; play it.
@@ -85,7 +85,7 @@ Melodic:   A|--0--2--3--5--7--9--11--12--   (F→F# and G→G#: almost major)
 
 ---
 
-# Day 16 — Pentatonics and the Blues
+# Day 16: Pentatonics and the Blues
 
 ### Objectives
 - Build major and minor pentatonic scales; know their relationship to the full scales and to each other.
@@ -133,11 +133,11 @@ In A: A7 ×4 / D7 D7 A7 A7 / E7 D7 A7 E7.
 - Major pentatonic of the key works too (brighter, country-flavored), but avoid leaning on it over the IV7.
 - The pros mix both and target **chord tones** of the chord of the moment (your Day 12 CAGED skill).
 
-### Examples — play these
+### Examples: play these
 
-**Example 16.1 — One pattern, two souls.** Loop a low A drone; play Box 1 at fret 5 (A minor pentatonic, dark). Now loop a C drone; play the *exact same frets* (C major pentatonic, bright). Nothing changed but home.
+**Example 16.1: One pattern, two souls.** Loop a low A drone; play Box 1 at fret 5 (A minor pentatonic, dark). Now loop a C drone; play the *exact same frets* (C major pentatonic, bright). Nothing changed but home.
 
-**Example 16.2 — Box 1 + blue note (A blues scale):**
+**Example 16.2: Box 1 + blue note (A blues scale):**
 
 ```
 e|--5--8-----
@@ -150,9 +150,9 @@ E|--5--8-----
 
 Play 4–b5–5 (D–Eb–E) as a slide; that gesture is half of blues vocabulary.
 
-**Example 16.3 — The 12-bar in A.** Comp it with 7th-chord grips from Day 10 (A7 root-6 fret 5, D7 root-5 fret 5, E7 root-5 fret 7 — or open A7/D7/E7). Count bars out loud; the *form* must become bodily knowledge.
+**Example 16.3: The 12-bar in A.** Comp it with 7th-chord grips from Day 10 (A7 root-6 fret 5, D7 root-5 fret 5, E7 root-5 fret 7, or open A7/D7/E7). Count bars out loud; the *form* must become bodily knowledge.
 
-**Example 16.4 — Call and response.** Record (or loop) Example 16.3. Solo using only Box 1 with this constraint: 2-bar phrase, 2 bars of space, repeat. Phrasing beats note choice, today and forever.
+**Example 16.4: Call and response.** Record (or loop) Example 16.3. Solo using only Box 1 with this constraint: 2-bar phrase, 2 bars of space, repeat. Phrasing beats note choice, today and forever.
 
 ### Exercises (Lab)
 
@@ -170,7 +170,7 @@ Play 4–b5–5 (D–Eb–E) as a slide; that gesture is half of blues vocabular
 
 ---
 
-# Day 17 — Modes, Demystified
+# Day 17: Modes, Demystified
 
 ### Objectives
 - Understand modes as "the major scale with a different home" AND as standalone formulas.
@@ -183,7 +183,7 @@ Play 4–b5–5 (D–Eb–E) as a slide; that gesture is half of blues vocabular
 
 | Mode | Start on degree | Formula vs. major | Character note | Sound / reference |
 |---|---|---|---|---|
-| **Ionian** | 1 | — (it *is* major) | — | plain major |
+| **Ionian** | 1 | (it *is* major) | – | plain major |
 | **Dorian** | 2 | 1 2 b3 4 5 **6** b7 | natural 6 in a minor scale | cool minor: "So What," "Oye Como Va," "Scarborough Fair" |
 | **Phrygian** | 3 | 1 **b2** b3 4 5 b6 b7 | b2 | Spanish/metal darkness |
 | **Lydian** | 4 | 1 2 3 **#4** 5 6 7 | #4 | floating major: *The Simpsons* theme, film scores |
@@ -191,7 +191,7 @@ Play 4–b5–5 (D–Eb–E) as a slide; that gesture is half of blues vocabular
 | **Aeolian** | 6 | 1 2 b3 4 5 b6 b7 | b6 | = natural minor |
 | **Locrian** | 7 | 1 b2 b3 4 **b5** b6 b7 | b5 | unstable; theoretical curiosity (fits over m7b5) |
 
-Memory aid for the brightness spectrum, brightest → darkest: **Lydian, Ionian, Mixolydian, Dorian, Aeolian, Phrygian, Locrian** — each step flats exactly one more note.
+Memory aid for the brightness spectrum, brightest → darkest: **Lydian, Ionian, Mixolydian, Dorian, Aeolian, Phrygian, Locrian**; each step flats exactly one more note.
 
 **The two ways to think (you need both):**
 1. **Derivative:** "D Dorian = the C major pattern, with D as home." Cheap to compute; great for the fretboard (you already know the patterns).
@@ -201,16 +201,16 @@ Memory aid for the brightness spectrum, brightest → darkest: **Lydian, Ionian,
 
 **What guitarists actually use:** Dorian (minor funk/rock jams; think Santana, "Evil Ways" vamps), Mixolydian (dominant-chord rock and blues-major sounds), Aeolian and Ionian (already yours), Lydian and Phrygian as spices. Locrian: know why it's unstable (its "tonic" triad is diminished), then move on.
 
-### Examples — play these
+### Examples: play these
 
-**Example 17.1 — One pattern, three homes.** Use the open-position C-major note pool. Loop these drones (record or let a low string ring) and play the pool over each:
+**Example 17.1: One pattern, three homes.** Use the open-position C-major note pool. Loop these drones (record or let a low string ring) and play the pool over each:
 - C drone → Ionian (sunny)
 - D drone → Dorian (cool, funky minor)
 - G drone → Mixolydian (rock major)
 
 Land phrases on the drone's note. Same frets every time; three different worlds.
 
-**Example 17.2 — Parallel comparison, the ear-opener.** Over an A drone:
+**Example 17.2: Parallel comparison, the ear-opener.** Over an A drone:
 - A Aeolian: A B C D E **F** G
 - A Dorian: A B C D E **F#** G
 
@@ -220,8 +220,8 @@ One note, F vs F#: play both and *feel* Dorian's cool lift. Then:
 
 That G-natural is the entire sound of rock 'n' roll major.
 
-**Example 17.3 — Modal vamps.** Two-chord loops that lock in a mode (record and jam):
-- Dorian: **Am7 → D7** (over and over — "Oye Como Va")
+**Example 17.3: Modal vamps.** Two-chord loops that lock in a mode (record and jam):
+- Dorian: **Am7 → D7** (over and over, "Oye Como Va")
 - Mixolydian: **A → G/A** (or just A7 vamp)
 - Lydian: **C → D/C** (C Lydian)
 
@@ -241,7 +241,7 @@ That G-natural is the entire sound of rock 'n' roll major.
 
 ---
 
-# Day 18 — Ear Training and Song Analysis
+# Day 18: Ear Training and Song Analysis
 
 ### Objectives
 - Consolidate interval/chord-quality recognition into a repeatable practice system.
@@ -268,34 +268,34 @@ That G-natural is the entire sound of rock 'n' roll major.
 
 ### Examples
 
-**Example 18.1 — Worked analysis: "House of the Rising Sun" (verse).**
+**Example 18.1: Worked analysis of "House of the Rising Sun" (verse).**
 Chords: Am–C–D–F–Am–C–E(7)–E(7) … Am–C–D–F–Am–**E7**–Am.
 - Home is clearly Am → A minor.
 - Numerals: i–bIII–IV–bVI–i–bIII–V7.
-- Findings: the **IV is major** (D, not Dm — a Dorian flavor: that's the raised 6th, F#, inside D) and **V7 is major** (harmonic-minor move, Day 15). Cadence: authentic, V7→i.
+- Findings: the **IV is major** (D, not Dm; a Dorian flavor: that's the raised 6th, F#, inside D) and **V7 is major** (harmonic-minor move, Day 15). Cadence: authentic, V7→i.
 - One sentence: *A-minor song using the Dorian IV for color and the harmonic-minor V7 for its cadence.* You can now write sentences like this. That's mastery talking.
 
-**Example 18.2 — Degree hearing warm-up.** Loop a G drone. Play G major scale slowly; sing degree numbers. Then play random scale tones and name the degree by feel: 1 and 5 feel like pillars, 7 leans hard into 1, 4 leans down to 3.
+**Example 18.2: Degree hearing warm-up.** Loop a G drone. Play G major scale slowly; sing degree numbers. Then play random scale tones and name the degree by feel: 1 and 5 feel like pillars, 7 leans hard into 1, 4 leans down to 3.
 
-### Exercises (Lab) — today is all lab
+### Exercises (Lab): today is all lab
 
 1. **(15 min)** Interval ear sprint: 20 random intervals (self-played eyes-closed or via any ear-training app), melodic, within an octave. Log your score; you'll re-test on Day 21.
 2. **(10 min)** Chord-quality sprint: 16 random qualities from a fixed root. Log score.
 3. **(15 min)** Degree hearing: Example 18.2 in G, then in E.
-4. **(45 min)** Transcribe by ear, with the algorithm: one simple song you love (pick something strummy with ≤5 chords — pop, folk, country, classic rock). Write key + numerals. *Then* check published chords and reconcile every difference.
+4. **(45 min)** Transcribe by ear, with the algorithm: one simple song you love (pick something strummy with ≤5 chords: pop, folk, country, classic rock). Write key + numerals. *Then* check published chords and reconcile every difference.
 5. **(20 min)** Quick-analyze two more songs *from published chords* (no ear work): assign key, numerals, cadences, findings. These two + the transcription are the seed of Project 3.
 
-### Daily drill (final form — keep this after the course ends)
+### Daily drill (final form, keep this after the course ends)
 10 min: 3 min note-finding ▸ 2 min interval ear ▸ 2 min chord-quality ear ▸ 3 min "recite the key": random key → signature, diatonic triads, relative minor.
 
 ### Self-check
 1. What do you listen for *first* when transcribing a chord change?
-2. A chord outside the diatonic family — failure or finding?
+2. A chord outside the diatonic family: failure or finding?
 3. Which scale degrees feel like "pillars" and which feel like "leaners"?
 
 ---
 
-# Day 19 — Beyond Diatonic: The Color Palette
+# Day 19: Beyond Diatonic (The Color Palette)
 
 ### Objectives
 - Build and use sus2/sus4, add9, 6th, slash chords, and extensions (9, 11, 13) without fear.
@@ -313,11 +313,11 @@ You know the seven-chord family. Real songs constantly color outside it, in high
 | **add9** | triad + 9 (=2, an octave up) | keeps the 3rd (unlike sus2) |
 | **6** | triad + 6 | C6 = C E G A; mellow ending chord |
 | **9, 11, 13** | 7th chord + the extension (and implicitly those below it) | C9 = C7 + D. Quality of the *7th* carries through: Cmaj9 vs C9 vs Cm9 |
-| **slash (C/E)** | chord / bass note | "C over E" — usually an inversion (Day 8!) or a pedal bass. Walks bass lines: C → G/B → Am |
+| **slash (C/E)** | chord / bass note | "C over E", usually an inversion (Day 8!) or a pedal bass. Walks bass lines: C → G/B → Am |
 
 Guitar reality check: with 6 strings you can't play every note of a 13th chord, and nobody does. **Keep root (or let the bass have it), 3rd, 7th, and the color note; drop the 5th first.** The 3rd and 7th define the chord; everything else is seasoning.
 
-**Idea 1 — Borrowed chords (modal interchange):** a song in a major key may *borrow* any chord from the **parallel minor** (Day 15 paying off). The big four in C major:
+**Idea 1: Borrowed chords (modal interchange):** a song in a major key may *borrow* any chord from the **parallel minor** (Day 15 paying off). The big four in C major:
 
 | Borrowed | From C minor | Classic sound |
 |---|---|---|
@@ -326,21 +326,21 @@ Guitar reality check: with 6 strings you can't play every note of a 13th chord, 
 | **bVI** (Ab) | ✓ | epic lift: bVI–bVII–I (the "Mario ending" cadence) |
 | **bIII** (Eb) | ✓ | bold rock slab |
 
-**Idea 2 — Secondary dominants:** any diatonic chord can be preceded by *its own* V7, as if it were briefly the tonic. Notation: **V7/x** ("five-seven of x"). In C: A7→Dm is **V7/ii**; D7→G is **V7/V**; E7→Am is **V7/vi** (you already met this inside "House of the Rising Sun"!). The recipe: want to highlight chord x? Play the dominant 7th rooted a P5 above x first. The temporary leading tone creates a mini-cadence into x.
+**Idea 2: Secondary dominants:** any diatonic chord can be preceded by *its own* V7, as if it were briefly the tonic. Notation: **V7/x** ("five-seven of x"). In C: A7→Dm is **V7/ii**; D7→G is **V7/V**; E7→Am is **V7/vi** (you already met this inside "House of the Rising Sun"!). The recipe: want to highlight chord x? Play the dominant 7th rooted a P5 above x first. The temporary leading tone creates a mini-cadence into x.
 
 These two ideas + diatonic harmony cover the harmonic content of the overwhelming majority of popular music. (What's left is mostly local applications of the same dominant logic: tritone subs, diminished passing chords, true modulation. Chase them after the course.)
 
-### Examples — play these
+### Examples: play these
 
-**Example 19.1 — The sus cycle:** D → Dsus4 → D → Dsus2 → D (frets: x-x-0-2-3-2 → ...-3-3 → ...-3-2 → ...-3-0 → back). The 3rd leaves, aches, returns.
+**Example 19.1: The sus cycle:** D → Dsus4 → D → Dsus2 → D (frets: x-x-0-2-3-2 → ...-3-3 → ...-3-2 → ...-3-0 → back). The 3rd leaves, aches, returns.
 
-**Example 19.2 — Slash-chord bass walk:** C → G/B → Am → Am/G → F (x-3-2-0-1-0 → x-2-0-0-0-3 → x-0-2-2-1-0 → 3-x-2-2-1-0 → 1-3-3-2-1-1). The bass walks C-B-A-G-F. This is "Landslide"/"Dust in the Wind" country.
+**Example 19.2: Slash-chord bass walk:** C → G/B → Am → Am/G → F (x-3-2-0-1-0 → x-2-0-0-0-3 → x-0-2-2-1-0 → 3-x-2-2-1-0 → 1-3-3-2-1-1). The bass walks C-B-A-G-F. This is "Landslide"/"Dust in the Wind" country.
 
-**Example 19.3 — The borrowed-iv tearjerker:** C → F → **Fm** → C. Find Fm as fret-1 barre or x-x-3-1-1-1. One semitone (A→Ab) carries the entire emotion.
+**Example 19.3: The borrowed-iv tearjerker:** C → F → **Fm** → C. Find Fm as fret-1 barre or x-x-3-1-1-1. One semitone (A→Ab) carries the entire emotion.
 
-**Example 19.4 — Secondary dominant chain:** C → **A7** → Dm → **D7** → G7 → C  (I → V7/ii → ii → V7/V → V7 → I). Each dominant tips you into the next chord like dominoes.
+**Example 19.4: Secondary dominant chain:** C → **A7** → Dm → **D7** → G7 → C  (I → V7/ii → ii → V7/V → V7 → I). Each dominant tips you into the next chord like dominoes.
 
-**Example 19.5 — Extended-chord flavor:** play Dm7–G7–Cmaj7 (Day 10), then re-play as Dm9–G13–Cmaj9: Dm9 = x-5-3-5-5-x · G13 = 3-x-3-4-5-x · Cmaj9 = x-3-2-4-3-x. Same function, richer paint.
+**Example 19.5: Extended-chord flavor:** play Dm7–G7–Cmaj7 (Day 10), then re-play as Dm9–G13–Cmaj9: Dm9 = x-5-3-5-5-x · G13 = 3-x-3-4-5-x · Cmaj9 = x-3-2-4-3-x. Same function, richer paint.
 
 ### Exercises (Lab)
 
@@ -351,20 +351,20 @@ These two ideas + diatonic harmony cover the harmonic content of the overwhelmin
 5. ★ Re-voice Example 19.4 on strings 1–4 only with minimal motion (voice-leading capstone).
 
 ### Self-check
-1. sus2 vs add9 — what's the actual difference?
+1. sus2 vs add9: what's the actual difference?
 2. Where does a borrowed chord come from? Name the big four in a major key.
 3. Recipe for a secondary dominant targeting chord x?
 4. Which two chord tones are unskippable in an extended chord, and why?
 
 ---
 
-# Day 20 — Final Project Workshop + Project 3
+# Day 20: Final Project Workshop + Project 3
 
-1. **(45 min)** Complete and write up **Project 3 — Song Analysis Portfolio** (`PROJECTS.md`) using your Day 18 work.
+1. **(45 min)** Complete and write up **Project 3: Song Analysis Portfolio** (`PROJECTS.md`) using your Day 18 work.
 2. **(60+ min)** **Final Project workshop:** read the Final Project spec in `PROJECTS.md`; draft your progression and melody today. Use the full palette: diatonic core, one borrowed chord or secondary dominant, deliberate cadences, voice-led voicings.
 3. **(15 min)** Dress rehearsal for tomorrow's final exam: re-take any quiz section you scored below 90% on.
 
-# Day 21 — Final Exam + Final Project Due
+# Day 21: Final Exam + Final Project Due
 
 1. **(60 min)** Take the **Final Exam** in `QUIZZES.md`, closed book. Grade against `ANSWER-KEYS.md`.
 2. **(45 min)** Finish, record, and write up the **Final Project**.

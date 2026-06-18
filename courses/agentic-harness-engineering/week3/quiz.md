@@ -1,11 +1,11 @@
-# Final Exam — Comprehensive (Week 3)
+# Final Exam: Comprehensive (Week 3)
 
 Closed book except the design question (Part C). ~60 minutes.
 Part A: 8 MC · Part B: 5 short answer · Part C: 1 design question. Passing: 80%.
 
 ---
 
-## Part A — Multiple Choice (across all 3 weeks)
+## Part A: Multiple Choice (across all 3 weeks)
 
 **A1.** The single fact that makes prompt injection possible is:
 - A) Models have limited context
@@ -57,7 +57,7 @@ Part A: 8 MC · Part B: 5 short answer · Part C: 1 design question. Passing: 80
 
 ---
 
-## Part B — Short Answer
+## Part B: Short Answer
 
 **B1.** Give the four foundational layers of a harness and one production-grade concern each (the kind a demo skips but a shipped agent can't).
 
@@ -71,18 +71,18 @@ Part A: 8 MC · Part B: 5 short answer · Part C: 1 design question. Passing: 80
 
 ---
 
-## Part C — Design Question (open book, ~25 min, ~500 words)
+## Part C: Design Question (open book, ~25 min, ~500 words)
 
 You're tasked with building a **headless coding agent that runs in CI**: triggered by a new GitHub issue labeled `auto-fix`, it attempts a patch, opens a PR, and runs unattended with no human in the loop. The repo is private and contains secrets in environment config. Issues can be filed by *anyone* (it's an open-source project).
 
 Design the harness. Your answer must address, using course vocabulary:
 
-1. **The loop & limits** — turn/time/cost ceilings, retry policy, what "give up cleanly" looks like.
-2. **Tool surface** — which tools, scoped how; what you deliberately *don't* expose.
-3. **Security** — this is the heart. Identify the lethal-trifecta exposure precisely (note: attacker-controlled issue text + private repo + the ability to open PRs / make network calls), and design the mitigations. Which leg(s) do you cut and how? What's irreversible and how is it gated without a human?
-4. **Context** — how a possibly-long autonomous run manages its window (compaction/memory) without drifting from the goal.
-5. **Evaluation** — how you'd gain confidence to enable this on a real repo, and how you'd catch a regression after a harness change.
-6. **Observability** — what you log so that when it does something wrong at 3am, you can reconstruct exactly what happened.
+1. **The loop & limits:** turn/time/cost ceilings, retry policy, what "give up cleanly" looks like.
+2. **Tool surface:** which tools, scoped how; what you deliberately *don't* expose.
+3. **Security:** this is the heart. Identify the lethal-trifecta exposure precisely (note: attacker-controlled issue text + private repo + the ability to open PRs / make network calls), and design the mitigations. Which leg(s) do you cut and how? What's irreversible and how is it gated without a human?
+4. **Context:** how a possibly-long autonomous run manages its window (compaction/memory) without drifting from the goal.
+5. **Evaluation:** how you'd gain confidence to enable this on a real repo, and how you'd catch a regression after a harness change.
+6. **Observability:** what you log so that when it does something wrong at 3am, you can reconstruct exactly what happened.
 
 Grading favors *specific, mechanism-level* answers tied to named course concepts over generic "be careful" advice. A strong answer explicitly notes where it accepts residual risk and why.
 
@@ -95,15 +95,15 @@ Grading favors *specific, mechanism-level* answers tied to named course concepts
 
 **B1.** Loop (retry/backoff, turn+time+cost ceilings, idempotency on replay) · ACI/tools (truncation that survives no-human-reading, errors that teach) · Context (compaction + on-disk state so long runs don't drift or overflow) · Environment (sandboxing/egress control, since no human gates actions). Any sensible production concern per layer scores.
 
-**B2.** A system-prompt instruction is a *probabilistic* request — the model may forget, be distracted by a long context, or be overridden by injected content; it holds most of the time, not all. A `PostToolUse` hook is deterministic code the harness runs after every matching tool call, 100% of the time, independent of the model's state. Invariants belong in code; steering belongs in prompts.
+**B2.** A system-prompt instruction is a *probabilistic* request: the model may forget, be distracted by a long context, or be overridden by injected content; it holds most of the time, not all. A `PostToolUse` hook is deterministic code the harness runs after every matching tool call, 100% of the time, independent of the model's state. Invariants belong in code; steering belongs in prompts.
 
-**B3.** Not obviously — you've traded money for a marginal, possibly-noise score gain (Δ of one task out of ten is within variance; check pass@k / run multiple seeds). Before deciding: confirm the gain is real (more samples, not n=1), check *which* task flipped and whether it generalizes or you overfit, and weigh the doubled cost-per-solve against your budget. A one-task lift at 2× cost is usually a *regression* in production terms.
+**B3.** Not obviously; you've traded money for a marginal, possibly-noise score gain (Δ of one task out of ten is within variance; check pass@k / run multiple seeds). Before deciding: confirm the gain is real (more samples, not n=1), check *which* task flipped and whether it generalizes or you overfit, and weigh the doubled cost-per-solve against your budget. A one-task lift at 2× cost is usually a *regression* in production terms.
 
 **B4.** Private-data access → least-privilege tool scoping / read-only subagents. Untrusted content → don't auto-fetch arbitrary URLs, taint/segregate untrusted inputs. Exfiltration → network-egress allowlist / sandbox network-off / human gate on irreversible network actions. Defense-in-depth because no single leg-cut is reliable (humans get fatigued, allowlists have holes, scoping has gaps); breaking two independent legs means one failure isn't a breach.
 
-**B5.** The ACI tools (windowed viewer, lint-feedback edits) *did* help the models they were built for — that's measured, not refuted. The lesson is that the model/harness boundary *moves every generation*: capability the harness used to supply gets absorbed into the model, so scaffolding must continually re-justify itself against the current model. mini-SWE-agent shows 2026 models need *less* interface crutching than 2024 models — not that interface never mattered.
+**B5.** The ACI tools (windowed viewer, lint-feedback edits) *did* help the models they were built for; that's measured, not refuted. The lesson is that the model/harness boundary *moves every generation*: capability the harness used to supply gets absorbed into the model, so scaffolding must continually re-justify itself against the current model. mini-SWE-agent shows 2026 models need *less* interface crutching than 2024 models, not that interface never mattered.
 
-**Part C:** Graded against the six required elements. Strong-answer markers: cuts exfiltration *structurally* (egress allowlist + no auto-URL-fetch) rather than relying on a (absent) human gate; scopes the agent so issue text can't reach secrets (env config not in context / not readable by the agent's tools); treats PR-open as the gated irreversible step (open as draft, require CI+review before merge — the human re-enters at *review*, not mid-run); compaction preserves the issue goal + patch state; eval = shadow-run on closed historical issues with the real test suites as verifiers before enabling; observability = structured per-run trace of every tool call + tokens + cost via hooks. Auto-fail markers: "trust the model to not be fooled," no trifecta analysis, exposing unrestricted bash+network to attacker-influenced input with only a prompt as defense.
+**Part C:** Graded against the six required elements. Strong-answer markers: cuts exfiltration *structurally* (egress allowlist + no auto-URL-fetch) rather than relying on a (absent) human gate; scopes the agent so issue text can't reach secrets (env config not in context / not readable by the agent's tools); treats PR-open as the gated irreversible step (open as draft, require CI+review before merge; the human re-enters at *review*, not mid-run); compaction preserves the issue goal + patch state; eval = shadow-run on closed historical issues with the real test suites as verifiers before enabling; observability = structured per-run trace of every tool call + tokens + cost via hooks. Auto-fail markers: "trust the model to not be fooled," no trifecta analysis, exposing unrestricted bash+network to attacker-influenced input with only a prompt as defense.
 
 ### Scoring
 ≥80% with a Part-C answer that genuinely engages the trifecta: you've passed. Combine with your rubric self-assessment for the final mastery call.

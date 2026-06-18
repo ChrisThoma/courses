@@ -1,10 +1,10 @@
-# Week 2 — Light & Composition
+# Week 2: Light & Composition
 
 > **This week in one line:** the camera should be close to reflex by now, so we turn to seeing. Photography means "drawing with light," and two things mostly separate a snapshot from a photograph: the quality of the light your subject sits in, and what you choose to put in the frame and where. Both are learnable. This week hands you the vocabulary and the rules. The eye itself comes later, with practice.
 
 ---
 
-# Day 8 — The Qualities of Light
+# Day 8: The Qualities of Light
 
 ### Objectives
 - Describe any light by its three physical qualities: **direction, hardness, intensity.**
@@ -33,7 +33,7 @@ The trick: **a small source can be made soft by enlarging it.** Clouds turn the 
 
 **3. Intensity:** how bright. Mostly an exposure problem (Week 1), but it also drives mood: bright/high-key feels open and cheerful; dim/low-key feels intimate or somber. **Contrast** (the *range* from brightest to darkest) is the expressive cousin of intensity: high contrast = drama, low contrast = calm.
 
-**Reading a scene's light** becomes second nature: glance at the shadows. *Sharp, dark shadows?* Hard light — move your subject to shade or wait for a cloud. *Soft or no shadows?* Soft light — great, use it. *Which way do shadows point?* That tells you the direction; move so the light rakes across your subject for texture, or behind for glow.
+**Reading a scene's light** becomes second nature: glance at the shadows. *Sharp, dark shadows?* Hard light: move your subject to shade or wait for a cloud. *Soft or no shadows?* Soft light: great, use it. *Which way do shadows point?* That tells you the direction; move so the light rakes across your subject for texture, or behind for glow.
 
 > 🟩 **X100VI:** With a fixed 35mm-equivalent lens you can't zoom to flatter a face from across the room, which makes **light position even more important**: you'll move your feet and your subject constantly, which is exactly the skill this week builds. The X100VI's EVF previews exposure live, so you can *see* a backlit subject going to silhouette and dial +EV until the face reads, all before pressing the shutter. The little pop-up/clip-on flash, used as **fill**, can open up harsh shadows in a pinch, but available light is the focus this week.
 
@@ -57,7 +57,7 @@ The trick: **a small source can be made soft by enlarging it.** Clouds turn the 
 
 ---
 
-# Day 9 — Color of Light & White Balance
+# Day 9: Color of Light & White Balance
 
 ### Objectives
 - Understand color temperature and the Kelvin scale.
@@ -87,18 +87,18 @@ Light isn't only bright or dim. It has **color**, and our brains hide that from 
 - **Fluorescent:** counters green casts.
 - **Custom/Kelvin:** dial the exact value, or set off a gray/white card for perfect neutrality.
 
-**The creative twist:** WB is also a mood tool. Warming a sunset (Cloudy/Shade preset) intensifies the golden glow. Cooling a winter scene deepens the chill. "Correct" and "expressive" are different goals — choose on purpose.
+**The creative twist:** WB is also a mood tool. Warming a sunset (Cloudy/Shade preset) intensifies the golden glow. Cooling a winter scene deepens the chill. "Correct" and "expressive" are different goals, so choose on purpose.
 
 **The RAW lifeline (preview of Week 3):** if you shoot **RAW**, white balance is **fully adjustable after the fact with zero quality loss**: the camera records the actual sensor data and WB is just a tag. So if you shoot RAW, WB in-camera matters far less (set it to taste for the preview). If you shoot **JPEG**, WB is baked in and must be right in-camera. This is one of the biggest reasons to shoot RAW.
 
 > 🟩 **X100VI:** White balance lives in the **IQ menu** (or assign to a Fn button / the Q menu). The X100VI's **Film Simulations** interact with color and mood: *Provia* (standard), *Astia* (soft), *Velvia* (punchy, saturated landscapes), *Classic Chrome* (muted, documentary), *Acros* (superb B&W), and the *Classic Neg* / *Nostalgic Neg* looks. These are Fujifilm's beloved JPEG color science. **Key workflow tip:** set the camera to **RAW + JPEG**, and you get a gorgeous film-sim JPEG to enjoy immediately *and* a flexible RAW with adjustable WB to edit later. You give up nothing, and it's very on-brand for the X100VI.
 
 ### Look
-- Find a photo shot under household bulbs with the wrong WB (orange) and one shot in shade left on Daylight (blue). Then find a sunset where the photographer *kept* the warmth vs. one where Auto WB neutralized it to a dull gray. Decide which you prefer — that's a WB judgment.
+- Find a photo shot under household bulbs with the wrong WB (orange) and one shot in shade left on Daylight (blue). Then find a sunset where the photographer *kept* the warmth vs. one where Auto WB neutralized it to a dull gray. Decide which you prefer; that's a WB judgment.
 
 ### Shoot
 1. **(15 min) WB tour.** Indoors under artificial light, shoot the same scene on Auto, Daylight, Tungsten, Cloudy, and Shade. See the color swing from blue to orange. Identify which is actually neutral.
-2. **(15 min) Mixed light.** Find a scene with two light colors (a warm lamp near a cool window). Notice no single WB fixes both — one will always be off. This is why mixed light is hard; learn to choose which light to favor.
+2. **(15 min) Mixed light.** Find a scene with two light colors (a warm lamp near a cool window). Notice no single WB fixes both; one will always be off. This is why mixed light is hard; learn to choose which light to favor.
 3. **(10 min) Creative WB.** At golden hour (or with a warm lamp), deliberately set Cloudy/Shade to *exaggerate* the warmth. Make a cozy, warm frame on purpose.
 4. ★ If shooting RAW already: shoot one frame, then change its WB across the full range in your editor and watch quality stay perfect. That's the RAW advantage made visible.
 
@@ -108,13 +108,13 @@ Light isn't only bright or dim. It has **color**, and our brains hide that from 
 ### Self-check
 1. Low Kelvin = warm or cool?
 2. What does white balance do?
-3. You leave WB on Tungsten but shoot outdoors at noon — what happens to the color?
+3. You leave WB on Tungsten but shoot outdoors at noon: what happens to the color?
 4. Why does shooting RAW make in-camera WB less critical?
 5. Name one creative (non-corrective) use of white balance.
 
 ---
 
-# Day 10 — Composition I: The Frame & the Subject
+# Day 10: Composition I (The Frame & the Subject)
 
 ### Objectives
 - Identify and strengthen the subject of every frame.
@@ -143,7 +143,7 @@ Placing your subject (or a horizon, or a person's eyes) **on a third-line or int
 
 **Rule 3: Balance and visual weight.** Every element has visual "weight": bright things, faces, sharp things, and large things pull the eye. A photo feels balanced when those weights are distributed, not all dumped on one side. A lone subject on the right can be balanced by **negative space** (empty area) on the left, which also gives a sense of calm or scale.
 
-**Rule 4: Negative space.** Empty, simple areas (sky, wall, water) aren't wasted space — they isolate the subject, set a mood, and give the eye somewhere to rest. Beginners tend to cram the frame; experienced shooters often empty it out.
+**Rule 4: Negative space.** Empty, simple areas (sky, wall, water) aren't wasted space; they isolate the subject, set a mood, and give the eye somewhere to rest. Beginners tend to cram the frame; experienced shooters often empty it out.
 
 **Rule 5: Control the background.** A great subject is ruined by a pole "growing" out of their head or a cluttered, bright background stealing attention. *Look at the whole frame, not just the subject,* before shooting. Fixes: move yourself (change the background angle), open the aperture (blur it, Week 1), or move the subject. **Check your edges**: what's touching or cut awkwardly by the four borders? Tidy the edges and half your frames improve.
 
@@ -172,7 +172,7 @@ Placing your subject (or a horizon, or a person's eyes) **on a third-line or int
 
 ---
 
-# Day 11 — Composition II: Line, Shape, Depth & Perspective
+# Day 11: Composition II (Line, Shape, Depth & Perspective)
 
 ### Objectives
 - Use leading lines, shapes, and patterns to guide the eye.
@@ -186,12 +186,12 @@ Day 10 was *what to include and where*. Day 11 is *how to move the viewer's eye 
 **Leading lines.** The eye follows lines. Roads, fences, rivers, shadows, railings, a row of columns all *lead* the viewer's gaze. Point them **toward your subject** (or toward a vanishing point) and you create flow and depth. A line entering from a corner is especially strong. Diagonal lines feel dynamic; horizontals feel calm; verticals feel strong and stable.
 
 **Shape, form, pattern, texture.**
-- **Shape** (2D outline) dominates in flat/backlit light — think silhouettes.
+- **Shape** (2D outline) dominates in flat/backlit light; think silhouettes.
 - **Form** (3D volume) appears with side light and shadow (Day 8).
-- **Pattern** (repetition) is satisfying; a **break in a pattern** is even stronger — the odd one out becomes the subject.
+- **Pattern** (repetition) is satisfying; a **break in a pattern** is even stronger; the odd one out becomes the subject.
 - **Texture** is revealed by raking side light and invites a sense of touch.
 
-**Depth — making 3D from 2D.** A photo is flat; these tricks restore depth:
+**Depth: making 3D from 2D.** A photo is flat; these tricks restore depth:
 1. **Foreground / midground / background layers:** include something near, something middle, something far. Instant depth.
 2. **Leading lines** receding into the distance.
 3. **Overlap:** objects partly hiding others read as "in front," establishing space.
@@ -201,7 +201,7 @@ Day 10 was *what to include and where*. Day 11 is *how to move the viewer's eye 
 
 **Framing (the compositional kind).** Use foreground elements (a doorway, an arch, branches, a window) to **frame** your subject. It adds depth, directs attention, and gives context.
 
-**Perspective and camera height.** *Where you put the camera* changes the entire relationship of elements — and beginners almost always shoot from standing eye level, the most boring option.
+**Perspective and camera height.** *Where you put the camera* changes the entire relationship of elements, and beginners almost always shoot from standing eye level, the most boring option.
 - **Low angle** (camera low, looking up): makes subjects powerful, looming, heroic; great for kids/pets (get to their level), tall structures.
 - **High angle** (looking down): makes subjects smaller, vulnerable; good for overviews, flat-lays, patterns.
 - **Eye level of the subject:** the honest, connected view for portraits and animals. Kneel for the dog.
@@ -231,7 +231,7 @@ Day 10 was *what to include and where*. Day 11 is *how to move the viewer's eye 
 
 ---
 
-# Day 12 — Lenses, Focal Length & the Discipline of a Prime
+# Day 12: Lenses, Focal Length & the Discipline of a Prime
 
 ### Objectives
 - Understand focal length and how it changes framing and "look."
@@ -240,13 +240,13 @@ Day 10 was *what to include and where*. Day 11 is *how to move the viewer's eye 
 
 ### Lecture
 
-**Focal length** (in millimeters) determines a lens's **angle of view** — how much of the scene it captures — and thus how "zoomed in" it is. (Because angle of view depends on sensor size, we quote **full-frame-equivalent** focal lengths to compare across cameras.)
+**Focal length** (in millimeters) determines a lens's **angle of view** (how much of the scene it captures) and thus how "zoomed in" it is. (Because angle of view depends on sensor size, we quote **full-frame-equivalent** focal lengths to compare across cameras.)
 
 | Equivalent focal length | Type | Angle of view | Typical use |
 |---|---|---|---|
 | 14–24mm | Ultra-wide | very wide | dramatic landscapes, interiors, cramped spaces |
 | 24–35mm | Wide | wide | environmental, street, documentary, "you are there" |
-| **35mm** | Wide-normal | natural, slightly wide | **street, reportage, everyday — the X100VI** |
+| **35mm** | Wide-normal | natural, slightly wide | **street, reportage, everyday: the X100VI** |
 | 50mm | Normal | ~human central vision | classic, versatile, portraits + general |
 | 85–135mm | Short telephoto | narrow | portraits (flattering), isolation |
 | 200mm+ | Telephoto | very narrow | sports, wildlife, distant subjects |
@@ -264,13 +264,13 @@ So: **the focal length forces a distance, and the distance creates the perspecti
 
 **Prime vs. zoom.** A **prime** (one fixed focal length, like the X100VI's) is "limiting," and that's the point. You can't lazily zoom; you **zoom with your feet**, which forces you to consider perspective and composition actively. Primes are usually sharper, lighter, and faster (wider max aperture) for the money. Working within one focal length for the whole course will make you a *much* stronger composer than hopping around a zoom range, because you actually learn to *see* in 35mm.
 
-> 🟩 **X100VI:** You have one lens: **23mm f/2 = 35mm-equivalent.** Lean in. The X100VI also offers **Digital Teleconverter** modes (35mm / 50mm / 70mm equivalent) that crop the 40MP sensor — useful in a pinch and still high-resolution, but treat them as a crop, not a true zoom. Optional **conversion lenses** (WCL wider ~28mm, TCL tighter ~50mm) screw on if you ever need them. But the real lesson: **spend the course at native 35mm.** Constraint breeds creativity, and 35mm is about as versatile as a single focal length gets, which is part of why the X100 series is a cult classic.
+> 🟩 **X100VI:** You have one lens: **23mm f/2 = 35mm-equivalent.** Lean in. The X100VI also offers **Digital Teleconverter** modes (35mm / 50mm / 70mm equivalent) that crop the 40MP sensor, useful in a pinch and still high-resolution, but treat them as a crop, not a true zoom. Optional **conversion lenses** (WCL wider ~28mm, TCL tighter ~50mm) screw on if you ever need them. But the real lesson: **spend the course at native 35mm.** Constraint breeds creativity, and 35mm is about as versatile as a single focal length gets, which is part of why the X100 series is a cult classic.
 
 ### Look
 - Find two portraits, one shot wide-and-close (distorted, big nose, tiny background) and one shot long-and-far (flattering, big background). Then notice it's the *distance* doing it. Spend a few minutes looking at classic street photography shot on a 35mm lens to calibrate your eye to the focal length you're using.
 
 ### Shoot
-1. **(20 min) Distance ≠ lens, proven.** If you have a zoom, frame a friend's head the same size at the widest and a longer setting (changing your distance to keep head size constant). Compare nose size and background — that's perspective from distance. *If you only have the X100VI prime:* photograph a face from very close (filling frame) then from far back with the digital teleconverter at 50mm — same demonstration.
+1. **(20 min) Distance ≠ lens, proven.** If you have a zoom, frame a friend's head the same size at the widest and a longer setting (changing your distance to keep head size constant). Compare nose size and background; that's perspective from distance. *If you only have the X100VI prime:* photograph a face from very close (filling frame) then from far back with the digital teleconverter at 50mm for the same demonstration.
 2. **(20 min) See in 35mm.** Spend 20 minutes shooting only at your native focal length, *predicting the frame before you raise the camera.* The goal is to know what 35mm "sees" without looking.
 3. ★ **(10 min)** Make one photo where being forced to step back (no zoom) gave you a *better* composition than zooming would have. Note what including more context did.
 
@@ -278,7 +278,7 @@ So: **the focal length forces a distance, and the distance creates the perspecti
 **Focal-length call, 2 min:** for a flashed shot type, name the ideal equivalent focal length ("flattering head-and-shoulders portrait?" → 85–135mm; "tight interior?" → 16–24mm; "street?" → 35mm).
 
 ### Self-check
-1. What actually determines perspective — the lens or your distance?
+1. What actually determines perspective: the lens or your distance?
 2. Why do telephotos flatter faces?
 3. Why does an ultra-wide distort a close-up face?
 4. What does "zoom with your feet" force you to do?
@@ -286,7 +286,7 @@ So: **the focal length forces a distance, and the distance creates the perspecti
 
 ---
 
-# Day 13 — Working With Available Light, then Quiz 2
+# Day 13: Working With Available Light, then Quiz 2
 
 ### Objectives
 - Recognize and exploit the best natural-light windows of the day.
@@ -301,11 +301,11 @@ You now know how to *describe* light (Day 8) and its *color* (Day 9). Today: the
 
 **Blue hour** (the ~20–30 min before sunrise / after sunset, sun below horizon): soft, even, deep blue light. Magic for cityscapes (when sky and artificial lights balance) and moody scenes. It needs slower shutters and higher ISO, so bring support.
 
-**Midday sun (the hard case).** High, hard, top-down — harsh shadows, squinting subjects, raccoon eyes. Strategies:
-1. **Move to open shade** (under a tree, awning, building) — instantly soft, even light. The #1 fix.
-2. **Use backlight** — turn the subject so the sun is behind them (rim light), exposing for the face (+EV) or adding fill.
-3. **Embrace the hardness** — high-contrast, graphic, deep-shadow images *want* hard light (street, architecture, B&W).
-4. **Wait** — or shoot subjects that suit hard light (textures, patterns) until the light improves.
+**Midday sun (the hard case).** High, hard, and top-down: harsh shadows, squinting subjects, raccoon eyes. Strategies:
+1. **Move to open shade** (under a tree, awning, building): instantly soft, even light. The #1 fix.
+2. **Use backlight:** turn the subject so the sun is behind them (rim light), exposing for the face (+EV) or adding fill.
+3. **Embrace the hardness:** high-contrast, graphic, deep-shadow images *want* hard light (street, architecture, B&W).
+4. **Wait**, or shoot subjects that suit hard light (textures, patterns) until the light improves.
 
 **Overcast = a giant softbox.** Beginners think gray days are bad; they're *ideal* for portraits, flowers, anything wanting soft, even, shadowless light. Just keep the (boring white) sky out of the frame or let it go bright.
 
@@ -313,7 +313,7 @@ You now know how to *describe* light (Day 8) and its *color* (Day 9). Today: the
 
 **Low light.** As light drops: open up (wider aperture), then slow the shutter to your handheld limit (Day 3), then raise ISO (Day 4), in that order. Accept that a sharp, slightly noisy frame beats a clean blurry one. Find and use *any* available light source (a lamp, a sign, a phone). Brace the camera. Consider Auto-ISO with a sensible max.
 
-**Fill light.** When shadows are too deep (harsh sun, strong side light), *fill* them: a reflector (or white wall, or even a sheet of paper) bounces light back into the shadows; a touch of flash does the same. Fill reduces contrast to taste — you control how much shadow you keep.
+**Fill light.** When shadows are too deep (harsh sun, strong side light), *fill* them: a reflector (or white wall, or even a sheet of paper) bounces light back into the shadows; a touch of flash does the same. Fill reduces contrast to taste; you control how much shadow you keep.
 
 > 🟩 **X100VI:** A perfect golden-hour and street companion: pocketable, quiet, quick. Set **Auto-ISO (max ~6400, min shutter ~1/125)** for low light so you only think about aperture and moment. For backlit golden-hour portraits, use the **live EVF preview + exposure comp** to keep the face bright while preserving the rim glow. The **built-in ND filter** lets you shoot wide-open f/2 portraits in bright sun (shallow DoF without blowing out). The little **fill flash** (leaf shutter syncs at *any* speed) is great for a subtle shadow-fill in harsh midday. *Acros* film simulation turns harsh midday contrast into a feature for striking B&W.
 
@@ -322,7 +322,7 @@ You now know how to *describe* light (Day 8) and its *color* (Day 9). Today: the
 
 ### Shoot
 1. **(30 min) Golden hour.** Shoot at sunrise or sunset. Make one back-lit (rim/glow) frame, one side-lit (texture/long shadow) frame, and one frame using the warm color for mood. This is the headline shoot of the week.
-2. **(15 min) Tame midday** (do this on a separate bright day if needed): take a harsh-sun portrait, then fix it three ways — move to shade, turn to backlight, and add fill (reflector/paper/flash).
+2. **(15 min) Tame midday** (do this on a separate bright day if needed): take a harsh-sun portrait, then fix it three ways: move to shade, turn to backlight, and add fill (reflector/paper/flash).
 3. **(15 min) Window light.** Make a soft window-light portrait or still life indoors, with a white surface as a reflector on the shadow side. Move the subject nearer/farther from the window to control drama.
 
 ### Daily drill
@@ -333,14 +333,14 @@ Take **Quiz 2** now (`QUIZZES.md`), closed-book; grade against `ANSWER-KEYS.md`.
 
 ### Self-check
 1. Why is golden-hour light so flattering (three reasons)?
-2. Your only option is harsh midday sun — name three strategies.
+2. Your only option is harsh midday sun: name three strategies.
 3. Why are overcast days good for portraits?
 4. The correct order to fight low light with your three controls?
 5. What does fill light do, and name two cheap ways to add it?
 
 ---
 
-# Day 14 — Shoot / Review Day + Project 2
+# Day 14: Shoot / Review Day + Project 2
 
 Consolidation day. Three things:
 
@@ -350,7 +350,7 @@ Answer every Day 8–13 self-check from memory. The skills the rest of the cours
 ### 2. The "see it first" drill (15 min)
 Walk around for 15 minutes *without shooting*. Out loud, narrate potential photographs: "That's side light on a textured wall; I'd put a subject there, shoot from low, line leading in from the left." Training the eye to *compose before raising the camera* is what Week 2 is for.
 
-### 3. Project 2 — A Study in Light
+### 3. Project 2: A Study in Light
 Begin **Project 2** (`PROJECTS.md`): make one subject look three genuinely different ways using only light and composition (no editing tricks). Due end of Day 14.
 
 ### Looking ahead

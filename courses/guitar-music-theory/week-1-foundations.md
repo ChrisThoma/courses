@@ -1,10 +1,10 @@
-# Week 1 — Foundations: Notes, Intervals, Scales, Keys
+# Week 1: Foundations (Notes, Intervals, Scales, Keys)
 
 > **The thesis of this week:** the fretboard looks like 138 positions to memorize. Really it's one small pattern: 12 notes repeating, seen from six slightly different angles. Once you see the pattern, you stop memorizing "shapes" blind.
 
 ---
 
-# Day 1 — The Musical Alphabet and the Fretboard Map
+# Day 1: The Musical Alphabet and the Fretboard Map
 
 ### Objectives
 - Know the 12-note chromatic system cold, including sharps/flats and the two "missing" half steps.
@@ -34,13 +34,13 @@ A str:  A    A#   B    C    C#   D    D#   E    F    F#   G    G#   A
 
 **Fret 12 = the open string, one octave up.** The whole pattern repeats from fret 12. So you only ever need to learn frets 0–11.
 
-**Standard tuning, low to high: E A D G B E.** Each string is tuned a perfect 4th (5 frets) above the previous — *except* G→B, which is a major 3rd (4 frets). Memorize this exception now:
+**Standard tuning, low to high: E A D G B E.** Each string is tuned a perfect 4th (5 frets) above the previous, *except* G→B, which is a major 3rd (4 frets). Memorize this exception now:
 
 > **The B string is shifted one fret.** Every cross-string pattern you ever learn will bend by one fret when it crosses onto the B string.
 
-**Anchor strategy.** Don't memorize all 6 strings at once. Memorize strings 6 and 5 perfectly (and you get strings 1 and 6 together — both are E). Tomorrow's octave shapes will give you the rest *by derivation*, and derivation becomes recall with the daily drill.
+**Anchor strategy.** Don't memorize all 6 strings at once. Memorize strings 6 and 5 perfectly (and you get strings 1 and 6 together; both are E). Tomorrow's octave shapes will give you the rest *by derivation*, and derivation becomes recall with the daily drill.
 
-Landmarks to learn today on strings 6 and 5 — natural notes only:
+Landmarks to learn today on strings 6 and 5, natural notes only:
 
 ```
 String 6 (E):  F=1  G=3  A=5  B=7  C=8  D=10  E=12
@@ -49,9 +49,9 @@ String 5 (A):  B=2  C=3  D=5  E=7  F=8  G=10  A=12
 
 Notice: notes fall on frets 1/3/5/7/8/10/12 (string 6), several of which line up with the inlay dots on your neck (3, 5, 7, 12). Use the dots.
 
-### Examples — play these
+### Examples: play these
 
-**Example 1.1 — Say-and-play the E string.** Play every fret 0→12 on string 6, saying each note name aloud (use sharps going up, flats coming down):
+**Example 1.1: Say-and-play the E string.** Play every fret 0→12 on string 6, saying each note name aloud (use sharps going up, flats coming down):
 
 ```
 e|--------------------------------------------------
@@ -63,7 +63,7 @@ E|--0--1--2--3--4--5--6--7--8--9--10--11--12--------
    E  F  F# G  G# A  A# B  C  C# D   D#  E
 ```
 
-**Example 1.2 — Natural notes only, strings 6 and 5:**
+**Example 1.2: Natural notes only, strings 6 and 5:**
 
 ```
 E|--0--1--3--5--7--8--10--12--   (E F G A B C D E)
@@ -89,7 +89,7 @@ A|--0--2--3--5--7--8--10--12--   (A B C D E F G A)
 
 ---
 
-# Day 2 — Intervals: The Atoms of Music
+# Day 2: Intervals (The Atoms of Music)
 
 ### Objectives
 - Name all 12 intervals within an octave by semitone count and quality.
@@ -103,11 +103,11 @@ A|--0--2--3--5--7--8--10--12--   (A B C D E F G A)
 1. **Letter distance** (count both endpoints): C→E spans C-D-E = a "third."
 2. **Semitone distance** gives the *quality*: C→E is 4 semitones = **major** third; C→Eb is 3 semitones = **minor** third.
 
-The complete table — memorize it:
+The complete table (memorize it):
 
 | Semitones | Name | Abbrev. | Song cue (ascending) |
 |---|---|---|---|
-| 0 | Unison | P1 | — |
+| 0 | Unison | P1 | – |
 | 1 | Minor 2nd | m2 | *Jaws* theme |
 | 2 | Major 2nd | M2 | "Happy Birthday" (first two notes) |
 | 3 | Minor 3rd | m3 | "Smoke on the Water" riff (first two chords' roots), "Greensleeves" |
@@ -125,13 +125,13 @@ The complete table — memorize it:
 
 **Why intervals matter more than note names:** every chord formula, every scale formula, every "shape" on the guitar is just a stack of intervals. The guitar's gift is that **an interval is the same physical shape everywhere on the neck** (modulo the B-string shift). Learn 12 shapes and you know them in all keys.
 
-**Computing intervals — the two-step method.** "Major 6th above E?"
+**Computing intervals: the two-step method.** "Major 6th above E?"
 1. Letters: a 6th above E → count E-F-G-A-B-C → some kind of **C**.
 2. Semitones: M6 = 9. E + 9 semitones = C#. Answer: **C#**.
 
-### Examples — play these
+### Examples: play these
 
-**Example 2.1 — All 12 intervals from C (A string, fret 3), played on one string.** One string = pure semitone counting:
+**Example 2.1: All 12 intervals from C (A string, fret 3), played on one string.** One string = pure semitone counting:
 
 ```
 A|--3--4--|--3--5--|--3--6--|--3--7--|--3--8--|--3--9--|--3--10--|
@@ -143,7 +143,7 @@ A|--3--11--|--3--12--|--3--13--|--3--14--|--3--15--|
 
 Play each pair, say its name, and *sing* the second note before you play it.
 
-**Example 2.2 — The two most important cross-string shapes.** From a root on string 6:
+**Example 2.2: The two most important cross-string shapes.** From a root on string 6:
 
 ```
 Perfect 5th ("power chord")        Major 3rd
@@ -159,9 +159,9 @@ Root G (string 6 fret 3): the P5 (D) is one string up, two frets up. The M3 (B) 
 
 ### Exercises (Lab)
 
-1. **(15 min)** Interval math reps — answer on paper, then check on the fretboard by counting frets:
+1. **(15 min)** Interval math reps: answer on paper, then check on the fretboard by counting frets:
    - M3 above D · P5 above B · m3 above F# · P4 above E · M6 above G · m7 above A · M2 above Bb · TT above C
-2. **(10 min)** Reverse: name the interval — C→A · E→G · G→F# · D→Ab · A→E · B→D
+2. **(10 min)** Reverse: name the interval: C→A · E→G · G→F# · D→Ab · A→E · B→D
 3. **(15 min)** Ear lab: play Example 2.1 with eyes closed, in random order (use the paper-scrap method), and guess the interval before opening your eyes.
 4. **(10 min)** Find the P5 and M3 shapes from five different roots on strings 6 and 5. **Watch for the B-string shift** when the upper note lands on string 2.
 5. ★ Learn descending song cues: m2 = *Für Elise*, M2 = "Mary Had a Little Lamb", m3 = "Hey Jude" ("Hey Jude"), P4 = "O Come All Ye Faithful", P5 = "Flintstones."
@@ -177,7 +177,7 @@ Add 3 minutes of interval singing to your fretboard drill: play a note, name an 
 
 ---
 
-# Day 3 — The Major Scale: The Master Pattern
+# Day 3: The Major Scale (The Master Pattern)
 
 ### Objectives
 - Build the major scale from the W-W-H-W-W-W-H formula in any key, on paper and on one string.
@@ -195,7 +195,7 @@ W  W  H  W  W  W  H
 ```
 
 C major: C →(W) D →(W) E →(H) F →(W) G →(W) A →(W) B →(H) C.
-That's why C major has no sharps/flats — the two natural half steps (E–F, B–C) land exactly where the formula wants them.
+That's why C major has no sharps/flats: the two natural half steps (E–F, B–C) land exactly where the formula wants them.
 
 G major: G A B C D E **F#** G. The formula *forces* the F#: E→F is only a half step but the formula demands a whole step there.
 
@@ -205,16 +205,16 @@ G major: G A B C D E **F#** G. The formula *forces* the F#: E→F is only a half
 
 **On the fretboard.** First on one string (this is the formula made visible), then in positions (this is how you'll actually play).
 
-### Examples — play these
+### Examples: play these
 
-**Example 3.1 — C major on the A string alone.** Watch the 2-2-1-2-2-2-1 fret gaps:
+**Example 3.1: C major on the A string alone.** Watch the 2-2-1-2-2-2-1 fret gaps:
 
 ```
 A|--3--5--7--8--10--12--14--15--
    C  D  E  F  G   A   B   C
 ```
 
-**Example 3.2 — C major, open position:**
+**Example 3.2: C major, open position:**
 
 ```
 e|-------------------------------
@@ -228,7 +228,7 @@ E|-------------------------------
 
 Say the **degree numbers** (1 2 3 4 5 6 7 1) as you play, not just note names.
 
-**Example 3.3 — The movable "Position 1" pattern, root on string 6.** Shown in G major (root = fret 3). Slide it anywhere and it's that key's major scale:
+**Example 3.3: The movable "Position 1" pattern, root on string 6.** Shown in G major (root = fret 3). Slide it anywhere and it's that key's major scale:
 
 ```
 e|--------------------------------2--3--
@@ -240,7 +240,7 @@ E|--3--5--------------------------------
    1  2  3  4  5  6  7  1 ...        7  1  (= G, two octaves up at e|3)
 ```
 
-**Example 3.4 — Movable pattern, root on string 5.** Shown in C major (root = A string fret 3):
+**Example 3.4: Movable pattern, root on string 5.** Shown in C major (root = A string fret 3):
 
 ```
 e|--------------------------------
@@ -254,13 +254,13 @@ E|--------------------------------
 
 ### Exercises (Lab)
 
-1. **(15 min)** Spell on paper, then play on one string: D major · A major · E major · F major (F major needs one flat — Bb. Work out why a flat and not A#.)
+1. **(15 min)** Spell on paper, then play on one string: D major · A major · E major · F major (F major needs one flat, Bb. Work out why a flat and not A#.)
 2. **(15 min)** Play Example 3.3 in G, A (fret 5), C (fret 8), and E (open/fret 12). Say degrees aloud.
 3. **(10 min)** Play Example 3.4 in C, D (fret 5), G (fret 10).
 4. **(10 min)** Melody by numbers: in G major Position 1, play these degree sequences and name the tunes:
-   - 1-1-5-5-6-6-5 — 4-4-3-3-2-2-1 (*Twinkle Twinkle*)
+   - 1-1-5-5-6-6-5, 4-4-3-3-2-2-1 (*Twinkle Twinkle*)
    - 3-2-1-2-3-3-3 (*Mary Had a Little Lamb*)
-5. ★ **(10 min)** Compose a 4-bar melody using only degrees of C major; end on 1. Notice how ending on 7 or 2 feels "unfinished" — that's tension and resolution, the engine of all harmony.
+5. ★ **(10 min)** Compose a 4-bar melody using only degrees of C major; end on 1. Notice how ending on 7 or 2 feels "unfinished"; that's tension and resolution, the engine of all harmony.
 
 ### Daily drill
 Add: play one major scale position in a random key, saying degrees.
@@ -273,7 +273,7 @@ Add: play one major scale position in a random key, saying degrees.
 
 ---
 
-# Day 4 — Keys, Key Signatures, and the Circle of Fifths
+# Day 4: Keys, Key Signatures, and the Circle of Fifths
 
 ### Objectives
 - Derive any key signature using the circle of fifths.
@@ -284,7 +284,7 @@ Add: play one major scale position in a random key, saying degrees.
 
 **A key is a gravitational field.** "The key of G major" means: the notes of the G major scale are the default palette, and G is *home*, the note (and later, chord) where things feel resolved. A **key signature** is just the list of sharps or flats that scale needs.
 
-**The circle of fifths.** Arrange keys so each step clockwise is a P5 up — each step adds exactly one sharp:
+**The circle of fifths.** Arrange keys so each step clockwise is a P5 up; each step adds exactly one sharp:
 
 ```
         C (0)
@@ -312,9 +312,9 @@ Add: play one major scale position in a random key, saying degrees.
 
 ### Examples
 
-**Example 4.1 — Derive A major from scratch.** A is 3 steps clockwise from C → 3 sharps → first three in sharp order: F# C# G#. So A major = A B C# D E F# G#. Verify with W-W-H-W-W-W-H. ✓
+**Example 4.1: Derive A major from scratch.** A is 3 steps clockwise from C → 3 sharps → first three in sharp order: F# C# G#. So A major = A B C# D E F# G#. Verify with W-W-H-W-W-W-H. ✓
 
-**Example 4.2 — Neighbor keys share 6 of 7 notes.** Play C major then G major on one string. Only one note changes (F → F#). This is why songs commonly modulate to the IV or V key; it's the smallest possible move. Distance on the circle = harmonic distance.
+**Example 4.2: Neighbor keys share 6 of 7 notes.** Play C major then G major on one string. Only one note changes (F → F#). This is why songs commonly modulate to the IV or V key; it's the smallest possible move. Distance on the circle = harmonic distance.
 
 ### Exercises (Lab)
 
@@ -327,12 +327,12 @@ Add: play one major scale position in a random key, saying degrees.
 ### Self-check
 1. Sharp order? Flat order?
 2. Key signature of E major? Of Ab major?
-3. Five sharps — what key?
+3. Five sharps: what key?
 4. A song's notes are all natural except every F is sharp. What key is it probably in?
 
 ---
 
-# Day 5 — Intervals and Octaves on the Fretboard
+# Day 5: Intervals and Octaves on the Fretboard
 
 ### Objectives
 - Use octave shapes to find any note on any string instantly.
@@ -343,14 +343,14 @@ Add: play one major scale position in a random key, saying degrees.
 
 This day converts Days 1–2 from paper knowledge to fretboard fluency. Two ideas:
 
-**Idea 1 — Octave shapes unlock the whole neck.** You memorized strings 6 and 5. Octave shapes give you everything else by reflex:
+**Idea 1: Octave shapes unlock the whole neck.** You memorized strings 6 and 5. Octave shapes give you everything else by reflex:
 
 - **Strings 6→4 and 5→3:** up 2 strings, up 2 frets.
 - **Strings 4→2 and 3→1:** up 2 strings, up **3** frets (the B-string shift!).
 - **Strings 6→3:** up 3 strings, **down 3 frets** (rarely needed; you can always chain the two rules above instead: 6→4→2 or 5→3→1).
 - **Strings 6→1 and 1→6:** same fret, two octaves apart (both are E strings).
 
-**Idea 2 — Intervals are shapes.** Here is the interval map from a root on **string 6 or 5** (no B-string involved). Numbers = frets relative to the root:
+**Idea 2: Intervals are shapes.** Here is the interval map from a root on **string 6 or 5** (no B-string involved). Numbers = frets relative to the root:
 
 | Interval | Same string | Next string up |
 |---|---|---|
@@ -363,9 +363,9 @@ This day converts Days 1–2 from paper knowledge to fretboard fluency. Two idea
 
 **When the upper note lands on the B string, add +1 fret to the "next string" offsets.** Drill this until it's automatic; it's the #1 source of wrong notes for self-taught players.
 
-### Examples — play these
+### Examples: play these
 
-**Example 5.1 — Octave chains.** Find every C on the neck starting from string 6 fret 8:
+**Example 5.1: Octave chains.** Find every C on the neck starting from string 6 fret 8:
 
 ```
 e|---------------------8---   (string 1 = string 6: fret 8)
@@ -378,12 +378,12 @@ E|--8----------------------
 
 Six C's (the B string has it at both fret 13 and fret 1). Do the same for G, then E, then F#.
 
-**Example 5.2 — Interval shapes from G (string 6, fret 3).** Play root-then-interval for each: m3 (Bb: string 5 fret 1), M3 (B: string 5 fret 2), P4 (C: string 5 fret 3), P5 (D: string 5 fret 5), octave (G: string 4 fret 5).
+**Example 5.2: Interval shapes from G (string 6, fret 3).** Play root-then-interval for each: m3 (Bb: string 5 fret 1), M3 (B: string 5 fret 2), P4 (C: string 5 fret 3), P5 (D: string 5 fret 5), octave (G: string 4 fret 5).
 
-**Example 5.3 — The same shapes with the B-string shift.** Root D (string 3, fret 7). Now the "next string up" is the B string, so everything is +1:
+**Example 5.3: The same shapes with the B-string shift.** Root D (string 3, fret 7). Now the "next string up" is the B string, so everything is +1:
 
 ```
-M3 (F#):  B string fret 7  (would be 6 by the normal rule — shifted to 7)
+M3 (F#):  B string fret 7  (would be 6 by the normal rule, shifted to 7)
 P4 (G):   B string fret 8
 P5 (A):   B string fret 10
 Octave:   e string fret 10
@@ -403,19 +403,19 @@ Your 10-minute drill is now: 4 min note-finding (all strings via octaves) + 3 mi
 ### Self-check
 1. Octave from string 5 to string 3: how many frets up?
 2. Octave from string 4 to string 2: how many frets up? Why the difference?
-3. P5 above the note at string 3 fret 5 — which string/fret (two answers)?
+3. P5 above the note at string 3 fret 5: which string/fret (two answers)?
 
 ---
 
-# Day 6 — Quiz 1 + Project 1
+# Day 6: Quiz 1 + Project 1
 
 1. **(45 min)** Take **Quiz 1** in `QUIZZES.md`, closed book. Grade with `ANSWER-KEYS.md`. Below 90% → schedule targeted review for Day 7.
-2. **(60+ min)** Complete **Project 1 — The Fretboard Atlas** (`PROJECTS.md`).
+2. **(60+ min)** Complete **Project 1: The Fretboard Atlas** (`PROJECTS.md`).
 3. **(10 min)** Fill in the Week 1 column of the rubric score sheet.
 
-# Day 7 — Rest / Review + Rhythm, Part 1
+# Day 7: Rest / Review + Rhythm, Part 1
 
 Light day, three pieces:
 1. The 10-minute daily drill (this is also a good day to browse `DRILLS.md` and swap in drill variants that suit you better).
 2. **Rhythm supplement, Part 1** (`SUPPLEMENT-rhythm.md`, ~45 min): note values, time signatures, counting, and strumming as rhythm notation. Harmony is *what*; this is *when*.
-3. Re-do any quiz sections you missed. Then play music for fun and notice — without forcing it — when you recognize an interval or can name the notes in a riff. That noticing *is* the skill forming.
+3. Re-do any quiz sections you missed. Then play music for fun and notice (without forcing it) when you recognize an interval or can name the notes in a riff. That noticing *is* the skill forming.

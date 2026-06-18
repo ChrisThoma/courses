@@ -1,10 +1,10 @@
-# Projects — MUS-21G
+# Projects: MUS-21G
 
 Projects are where understanding becomes ability. Each has a deliverable and a grading rubric. Grade yourself honestly; "I basically did it" is a 70, not a 95.
 
 ---
 
-## Project 1 — The Fretboard Atlas *(Day 6 · 10% of grade)*
+## Project 1: The Fretboard Atlas *(Day 6 · 10% of grade)*
 
 **Goal:** produce, by hand and from memory, the master reference you'll never need again, because making it is what installs it.
 
@@ -24,12 +24,12 @@ Projects are where understanding becomes ability. Each has a deliverable and a g
 
 ---
 
-## Project 2 — The Songwriter's Toolkit *(Day 13 · 15% of grade)*
+## Project 2: The Songwriter's Toolkit *(Day 13 · 15% of grade)*
 
 **Goal:** demonstrate command of diatonic harmony by building, transposing, and voice-leading original progressions.
 
 ### Deliverables
-1. **The grid:** write out the complete diatonic chord sets (triads *and* 7ths, with Roman numerals) for four keys of your choice — two sharp keys, two flat keys — from memory.
+1. **The grid:** write out the complete diatonic chord sets (triads *and* 7ths, with Roman numerals) for four keys of your choice (two sharp keys, two flat keys) from memory.
 2. **Three original progressions**, each 8 bars, each in a different key from your grid:
    - (a) one ending in an **authentic cadence**,
    - (b) one ending in a **deceptive cadence**,
@@ -37,7 +37,7 @@ Projects are where understanding becomes ability. Each has a deliverable and a g
    Notate each as: key, numerals, chord names, and the cadence/device labeled.
 3. **The transposition proof:** take progression (a) and rewrite + play it in two more keys, including one that forces barre/CAGED shapes (e.g., Eb or B).
 4. **The voice-leading arrangement:** arrange any one progression on strings 1–3 (or 2–4) triads only, staying within a 5-fret window. Tab it out.
-5. **Recording (3–5 min):** play all three progressions and the voice-led arrangement. Before each, *say* the key and numerals out loud (yes, really — explaining is part of mastery).
+5. **Recording (3–5 min):** play all three progressions and the voice-led arrangement. Before each, *say* the key and numerals out loud (yes, really; explaining is part of mastery).
 
 ### Rubric (15 pts)
 | Pts | Criterion |
@@ -50,12 +50,12 @@ Projects are where understanding becomes ability. Each has a deliverable and a g
 
 ---
 
-## Project 3 — Song Analysis Portfolio *(Day 20 · 15% of grade)*
+## Project 3: Song Analysis Portfolio *(Day 20 · 15% of grade)*
 
 **Goal:** prove you can read real music with theory eyes.
 
-### Deliverables — analyze three real songs:
-1. **One transcribed fully by ear** (Day 18 lab work counts) — your write-up must note where your ear was wrong and why, after checking published chords.
+### Deliverables (analyze three real songs):
+1. **One transcribed fully by ear** (Day 18 lab work counts): your write-up must note where your ear was wrong and why, after checking published chords.
 2. **One diatonic song** (analyzed from published chords is fine).
 3. **One song containing at least one non-diatonic event** (borrowed chord, secondary dominant, mode mixture, or a key change).
 
@@ -76,7 +76,7 @@ For each song, the write-up is one page max:
 
 ---
 
-## Final Project — Original Composition with Defense *(Days 20–21 · 25% of grade)*
+## Final Project: Original Composition with Defense *(Days 20–21 · 25% of grade)*
 
 **Goal:** the capstone. Write a short original piece and defend every harmonic choice. This is the Domain-7 rubric test.
 
@@ -87,7 +87,7 @@ Compose an original piece with:
    - A diatonic core you can defend functionally (home → away → tension → home)
    - At least **one** of: borrowed chord, secondary dominant, or modal vamp
    - **Two different cadence types** across the piece
-   - At least one voice-led passage (inversions/slash chords or string-set triads) — no "all open-position strumming"
+   - At least one voice-led passage (inversions/slash chords or string-set triads); no "all open-position strumming"
 3. **Melody:** a singable or playable melody over one section, built consciously from the key's scale (or mode), with at least one phrase that targets chord tones on the changes.
 4. **The defense (the actual deliverable):** a written or spoken commentary covering key and why; numerals for everything; what each non-diatonic chord is doing; why each cadence is where it is; and what scale the melody uses and where it targets chord tones.
 5. **Recording:** a performance of the piece (rough is fine; this is theory class, not production class).
@@ -96,8 +96,8 @@ Compose an original piece with:
 | Pts | Criterion |
 |---|---|
 | 5 | All required elements present and correctly labeled |
-| 6 | The defense is *correct* — every claim about the harmony is true |
-| 5 | The defense shows *intent* — choices are explained by desired effect, not just named |
+| 6 | The defense is *correct*: every claim about the harmony is true |
+| 5 | The defense shows *intent*: choices are explained by desired effect, not just named |
 | 4 | Melody genuinely fits and targets chord tones where claimed |
 | 3 | Voice-leading passage works as described |
 | 2 | Performance is recognizable and in time |

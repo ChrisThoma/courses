@@ -1,7 +1,7 @@
 {
   "title": "Applied Music Theory for Guitar",
   "subtitle": "MUS-21G · A 3-week intensive",
-  "description": "Everything a guitarist needs from music theory and nothing more — the fretboard as a map of intervals, scale and chord construction, Roman numeral analysis, minor keys, blues, and modes, taught entirely on the instrument through lectures, drills, quizzes, and composition projects.",
+  "description": "Everything a guitarist needs from music theory and nothing more: the fretboard as a map of intervals, scale and chord construction, Roman numeral analysis, minor keys, blues, and modes, taught entirely on the instrument through lectures, drills, quizzes, and composition projects.",
   "accent": "#d97706",
   "sections": [
     {
@@ -14,19 +14,19 @@
       ]
     },
     {
-      "title": "Week 1 — Foundations",
+      "title": "Week 1: Foundations",
       "lessons": [
         { "title": "Days 1–7: Notes, Intervals, Scales, Keys", "path": "week-1-foundations.md" }
       ]
     },
     {
-      "title": "Week 2 — Harmony",
+      "title": "Week 2: Harmony",
       "lessons": [
         { "title": "Days 8–14: Chords and Progressions", "path": "week-2-harmony.md" }
       ]
     },
     {
-      "title": "Week 3 — Application",
+      "title": "Week 3: Application",
       "lessons": [
         { "title": "Days 15–21: Minor, Blues, Modes, Real Music", "path": "week-3-application.md" }
       ]

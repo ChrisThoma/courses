@@ -1,8 +1,8 @@
-# MUS-21G: Applied Music Theory for Guitar — A 3-Week Intensive
+# MUS-21G: Applied Music Theory for Guitar (A 3-Week Intensive)
 
 **Format:** Self-paced intensive, modeled on a college January-term course
 **Time commitment:** ~2 hours/day, 6 days/week, 3 weeks (one rest/review day per week)
-**Prerequisites:** You can fret notes and strum basic open chords. No reading of standard notation required — this course uses tab, chord diagrams, and note names.
+**Prerequisites:** You can fret notes and strum basic open chords. No reading of standard notation required; this course uses tab, chord diagrams, and note names.
 
 ## What this course is (and isn't)
 
@@ -12,7 +12,7 @@ This course covers **everything a guitarist needs from music theory and nothing 
 - How scales and keys actually work
 - How chords are built and why progressions sound the way they do
 - How to analyze any song and write your own
-- Pentatonics, blues, minor keys, and modes — demystified
+- Pentatonics, blues, minor keys, and modes, demystified
 - Ear training tied directly to the fretboard
 
 It deliberately **omits** what guitarists rarely need: sight-reading standard notation, species counterpoint, four-part voice-leading rules, orchestration, and figured bass.
@@ -22,15 +22,15 @@ It deliberately **omits** what guitarists rarely need: sight-reading standard no
 | File | Contents |
 |---|---|
 | [Syllabus](SYLLABUS.md) | Schedule, grading, daily structure, course policies |
-| [Rubric](RUBRIC.md) | The mastery rubric — your definition of "done" |
-| [Week 1 — Foundations](week-1-foundations.md) | Days 1–7: fretboard, intervals, major scale, keys |
-| [Week 2 — Harmony](week-2-harmony.md) | Days 8–14: triads, diatonic harmony, 7ths, progressions, CAGED |
-| [Week 3 — Application](week-3-application.md) | Days 15–21: minor keys, pentatonics/blues, modes, ear training, advanced chords |
+| [Rubric](RUBRIC.md) | The mastery rubric: your definition of "done" |
+| [Week 1: Foundations](week-1-foundations.md) | Days 1–7: fretboard, intervals, major scale, keys |
+| [Week 2: Harmony](week-2-harmony.md) | Days 8–14: triads, diatonic harmony, 7ths, progressions, CAGED |
+| [Week 3: Application](week-3-application.md) | Days 15–21: minor keys, pentatonics/blues, modes, ear training, advanced chords |
 | [Projects](PROJECTS.md) | The three graded projects + final project spec |
 | [Quizzes](QUIZZES.md) | Weekly quizzes + final exam |
 | [Answer Keys](ANSWER-KEYS.md) | Answer keys for all quizzes and the final exam (no peeking) |
-| [Drill Menu](DRILLS.md) | The full drill menu — multiple options per skill; build your own 10-minute daily routine |
-| [Rhythm Supplement](SUPPLEMENT-rhythm.md) | Rhythm & meter for guitarists — done in two parts on the rest days (Days 7 and 14) |
+| [Drill Menu](DRILLS.md) | The full drill menu: multiple options per skill; build your own 10-minute daily routine |
+| [Rhythm Supplement](SUPPLEMENT-rhythm.md) | Rhythm & meter for guitarists, done in two parts on the rest days (Days 7 and 14) |
 
 ## How to use this course
 
@@ -42,4 +42,4 @@ It deliberately **omits** what guitarists rarely need: sight-reading standard no
 
 ## A note on pace
 
-Three weeks is enough to *understand* all of this and to have it under your fingers in first-draft form. Fluency (instant recall anywhere on the neck) comes from the 5–10 minute daily drills prescribed in each lesson — keep those going after the course ends.
+Three weeks is enough to *understand* all of this and to have it under your fingers in first-draft form. Fluency (instant recall anywhere on the neck) comes from the 5–10 minute daily drills prescribed in each lesson; keep those going after the course ends.

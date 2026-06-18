@@ -1,7 +1,7 @@
 {
   "title": "Clawhammer Banjo: Frailing, Tunes & the Old-Time Tradition",
   "subtitle": "MUS-17 · A 3-week intensive",
-  "description": "Go from never having held a banjo to playing real old-time tunes with a steady, danceable groove. A playing-first course in clawhammer (frailing) technique — the strike, the thumb, the bum-ditty, hammer-ons, pull-offs, slides, and drop-thumb — built into a working repertoire (Boil Them Cabbage Down, Cripple Creek, Old Joe Clark, Shady Grove), a reliable method for learning tunes by ear, and the history of where this music comes from. Taught through daily listening, lectures, slow practice, quizzes, and projects.",
+  "description": "Go from never having held a banjo to playing real old-time tunes with a steady, danceable groove. A playing-first course in clawhammer (frailing) technique: the strike, the thumb, the bum-ditty, hammer-ons, pull-offs, slides, and drop-thumb, built into a working repertoire (Boil Them Cabbage Down, Cripple Creek, Old Joe Clark, Shady Grove), a reliable method for learning tunes by ear, and the history of where this music comes from. Taught through daily listening, lectures, slow practice, quizzes, and projects.",
   "accent": "#b45309",
   "sections": [
     {
@@ -14,19 +14,19 @@
       ]
     },
     {
-      "title": "Week 1 — The Frailing Hand",
+      "title": "Week 1: The Frailing Hand",
       "lessons": [
         { "title": "Days 1–7: The Banjo, the Strike, the Thumb, the Bum-Ditty, Chords", "path": "week-1-the-frailing-hand.md" }
       ]
     },
     {
-      "title": "Week 2 — Melody & Drive",
+      "title": "Week 2: Melody & Drive",
       "lessons": [
         { "title": "Days 8–14: Hammer-ons, Pull-offs, Slides, Drop-Thumb, Tunes & Groove", "path": "week-2-melody-and-drive.md" }
       ]
     },
     {
-      "title": "Week 3 — Repertoire & Voice",
+      "title": "Week 3: Repertoire & Voice",
       "lessons": [
         { "title": "Days 15–21: Alternate Tunings, Modal Tunes, Playing by Ear, Your Own Sound", "path": "week-3-repertoire-and-voice.md" }
       ]

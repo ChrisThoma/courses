@@ -1,20 +1,20 @@
-# Answer Keys — PHOT-10
+# Answer Keys: PHOT-10
 
-Grade honestly. For "name N things" questions, award partial credit per correct item. For the shot/applied parts, grade against the stated criteria — the standard is *deliberate and correct*, not "looks nice."
+Grade honestly. For "name N things" questions, award partial credit per correct item. For the shot/applied parts, grade against the stated criteria; the standard is *deliberate and correct*, not "looks nice."
 
 ---
 
-## Quiz 1 — The Camera & Exposure
+## Quiz 1: The Camera & Exposure
 
 ### Part A
 1. Aperture, shutter speed, ISO.
 2. The size of the hole the light passes through (the diaphragm opening).
-3. The brightest areas hit pure white with no recorded detail — that data is gone.
+3. The brightest areas hit pure white with no recorded detail; that data is gone.
 4. Over-exposure of the highlights (clipping) is unrecoverable; crushed shadows can be lifted somewhat.
 5. Aperture → depth of field.
 6. Shutter → motion (freeze vs. blur).
 7. ISO → noise (grain).
-8. A doubling or halving of light — the universal unit, applies to all three controls.
+8. A doubling or halving of light, the universal unit, applies to all three controls.
 
 ### Part B
 1. f/2.8.
@@ -29,20 +29,20 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 ### Part C
 1. Noise (grain), worst in shadows.
 2. Use the lowest ISO that still gives the shutter speed and aperture you need.
-3. False — using the higher ISO and exposing correctly is cleaner.
+3. False; using the higher ISO and exposing correctly is cleaner.
 4. 1/500 (one stop faster to cancel the one stop more light from opening up).
 5. Any one of: stop down one stop (aperture), or use a one-stop-faster shutter.
-6. Aperture if you care about depth of field, shutter if you care about motion — set the creatively-critical control first, based on what the photo needs.
+6. Aperture if you care about depth of field, shutter if you care about motion; set the creatively-critical control first, based on what the photo needs.
 7. Because each stop is a doubling/halving, you can trade light between the three controls and keep the same total exposure.
 8. The camera floats ISO to expose correctly while never dropping below your chosen shutter speed (so no shake/motion blur), freeing you to set aperture and shoot.
 
 ### Part D
 1. Middle gray (~18% reflectance).
-2. **+** (brighter); the meter wants to make the white scene gray, so it underexposes — you add light back.
+2. **+** (brighter); the meter wants to make the white scene gray, so it underexposes, and you add light back.
 3. **−** (darker).
 4. Add +1 to +2 stops exposure compensation, or meter/expose off the subject (or add fill / a flash).
 5. Blown/clipped highlights (lost to pure white).
-6. No — the right shape depends on the scene (snow piles right, night piles left); you only watch for *unwanted* clipping at the edges.
+6. No; the right shape depends on the scene (snow piles right, night piles left), and you only watch for *unwanted* clipping at the edges.
 7. Shutter speed (you set aperture + ISO).
 8. Shutter speed (you set it; camera sets aperture).
 9. AF-C (continuous).
@@ -58,7 +58,7 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 
 ---
 
-## Quiz 2 — Light & Composition
+## Quiz 2: Light & Composition
 
 ### Part A
 1. Side light.
@@ -67,7 +67,7 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 4. It's overhead/top light → harsh shadows under brows, nose, chin (raccoon eyes).
 5. Any two: enlarge it (diffuser/cloud/curtain), move it closer (bigger relative size), bounce it off a large surface.
 6. Rim/halo light, glow, or silhouettes.
-7. It's flat — hides texture, form, and depth.
+7. It's flat, hiding texture, form, and depth.
 8. The range from the brightest to the darkest tone in the scene (high contrast = dramatic, low = calm).
 
 ### Part B
@@ -78,7 +78,7 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 5. RAW stores the actual sensor data; WB is just a tag changed losslessly after the fact.
 6. Any: warm a sunset for glow, cool a scene for chill/mood.
 7. Custom/Kelvin set off a gray or white reference card.
-8. No single WB fits two different light colors — one will always be left with a cast.
+8. No single WB fits two different light colors; one will always be left with a cast.
 
 ### Part C
 1. "What is this a photo of?" (Is there a clear subject?)
@@ -90,7 +90,7 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 7. Any three: fore/mid/background layers, leading lines, overlap, atmospheric perspective, selective focus, scale cues, framing.
 8. The subject (the odd one out).
 9. Powerful, looming, heroic.
-10. It's the default/lazy viewpoint — least considered, least dynamic.
+10. It's the default/lazy viewpoint: least considered, least dynamic.
 11. Using foreground elements (doorway, arch, branches) to surround/frame the subject for depth and attention.
 12. Anything cut awkwardly or "growing out of" the subject; distracting bright/cluttered elements touching the borders.
 
@@ -98,7 +98,7 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 1. Your distance (where you stand), not the lens.
 2. You shoot from farther away, which flattens facial features pleasingly.
 3. You must get very close to fill the frame, exaggerating the nearest features (nose looms).
-4. Street/documentary/everyday — natural, slightly-wide "you are there" view.
+4. Street/documentary/everyday: natural, slightly-wide "you are there" view.
 5. The sun is low (side/back light, texture), soft (filtered through atmosphere), and warm (golden color).
 6. Any two: move to open shade, use backlight (+EV/fill), embrace hard contrast, add fill, or wait.
 7. Open aperture → slow shutter to your handheld limit → raise ISO (in that order).
@@ -119,11 +119,11 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 
 ### Part B
 1. Aperture (depth of field), shutter speed (motion), ISO (noise).
-2. e.g., f/11 (stop down 1 for deeper DoF), ISO 400 (raise 1 stop) at 1/250 — or slow shutter to 1/125 if no motion. Trade: deeper DoF for more noise (or motion-blur risk).
-3. e.g., f/4 (open 2), 1/1000 (faster 2), ISO 200 — faster shutter freezes motion; traded shallower DoF. (Any correct compensation accepted.)
+2. e.g., f/11 (stop down 1 for deeper DoF), ISO 400 (raise 1 stop) at 1/250, or slow shutter to 1/125 if no motion. Trade: deeper DoF for more noise (or motion-blur risk).
+3. e.g., f/4 (open 2), 1/1000 (faster 2), ISO 200: faster shutter freezes motion; traded shallower DoF. (Any correct compensation accepted.)
 4. ETTR captures the cleanest data (least shadow noise) by collecting maximum light; you must not clip the highlights while doing it.
 5. (a) +1 to +2; (b) −1 to −2; (c) +1 to +2 (or expose for the subject / add fill).
-6. A stop = a doubling or halving of light. Each control measures light in the same doubling/halving units, so one stop of one equals one stop of any other for brightness — they're interchangeable for exposure (only the side effects differ).
+6. A stop = a doubling or halving of light. Each control measures light in the same doubling/halving units, so one stop of one equals one stop of any other for brightness; they're interchangeable for exposure (only the side effects differ).
 
 ### Part C
 1. Apparent size of the source relative to the subject.
@@ -135,7 +135,7 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 7. The color cast of the light source (so neutrals render neutral).
 8. Warm a sunset, cool a scene for mood (any reasonable answer).
 9. Bounces light back into the shadows, reducing contrast/opening shadow detail.
-10. It's a large (soft), directional source that's free and indoors — flattering, controllable falloff.
+10. It's a large (soft), directional source that's free and indoors: flattering, controllable falloff.
 
 ### Part D
 1. "What is this a photo of?" / is there a clear subject.
@@ -146,7 +146,7 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 6. Any three: layers, leading lines, overlap, atmospheric perspective, selective focus, scale cues, framing.
 7. Your shooting distance (where you stand).
 8. Telephotos force a far distance (features flatten/flatter); wides force a close distance (nearest features loom/distort).
-9. Move your feet — actively consider distance, perspective, and composition.
+9. Move your feet: actively consider distance, perspective, and composition.
 10. Powerful, looming, heroic.
 
 ### Part E
@@ -155,11 +155,11 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 3. Crop/straighten → white balance → tone → color → local adjustments → detail (sharpen/noise) → export.
 4. Highlights (pulled down).
 5. Adds contrast with control (lift the highs, dip the lows), or a faded look by lifting the black point.
-6. Vibrance — it boosts the *less-saturated* colors more and protects already-saturated skin tones.
+6. Vibrance: it boosts the *less-saturated* colors more and protects already-saturated skin tones.
 7. Any two: brush/radial mask to brighten subject, vignette/darken edges, gradient to darken a bright sky, sky/subject AI mask.
 8. To judge true edge sharpness without halos; masking sharpens edges only, not smooth skin/sky.
 9. sRGB, long edge ~2048 px.
-10. Overcooking — slammed contrast/saturation, crushed blacks, HDR halos.
+10. Overcooking: slammed contrast/saturation, crushed blacks, HDR halos.
 11. Any four of: What is it of? What's it about? How does the light work? How does the composition work? How do the technical choices serve it? Does it succeed and why?
 12. The consistent set of choices (subject, light, composition, color, mood, distance) a photographer makes across a body of work.
 

@@ -1,10 +1,10 @@
-# Week 2 — Harmony: Chords and Progressions
+# Week 2: Harmony (Chords and Progressions)
 
 > **The thesis of this week:** every chord you have ever played is a stack of 3rds taken from a scale, and every progression you have ever loved is a conversation between tension and home. This week you stop memorizing chords and start *constructing* them.
 
 ---
 
-# Day 8 — Triads: Building Chords from Scales
+# Day 8: Triads (Building Chords from Scales)
 
 ### Objectives
 - Build all four triad types (major, minor, diminished, augmented) from formulas, from any root.
@@ -41,9 +41,9 @@ Five strings, but only **three distinct notes**: C, E, G, doubled. Every big str
 
 **One-note surgery.** Major→minor: lower the 3rd a half step. Major→aug: raise the 5th. Minor→dim: lower the 5th. Hearing what *one semitone* does to a chord is today's ear-training payload.
 
-### Examples — play these
+### Examples: play these
 
-**Example 8.1 — Triad surgery on one shape.** Movable triad on strings 1–3, root on string 1 (shown at the 3rd fret = G root... here root G on string 1 fret 3):
+**Example 8.1: Triad surgery on one shape.** Movable triad on strings 1–3, root on string 1 (shown at the 3rd fret = G root... here root G on string 1 fret 3):
 
 ```
         G major     G minor     G dim       G aug
@@ -55,7 +55,7 @@ G|--4--      G|--3--      G|--3--      G|--4--
 
 Play the four in a row. Say what changed. Close your eyes and repeat.
 
-**Example 8.2 — Triads on strings 2–4, root position (root on string 4).** Root C = string 4, fret 10:
+**Example 8.2: Triads on strings 2–4, root position (root on string 4).** Root C = string 4, fret 10:
 
 ```
    C major                       C minor
@@ -66,7 +66,7 @@ D|--10--  C  (root)            D|--10--  C  (root)
 
 One fret of difference (the 3rd) flips the chord's entire mood.
 
-**Example 8.3 — Inversions of C major on strings 1–3.** Play these three grips and notice which chord tone is lowest in each:
+**Example 8.3: Inversions of C major on strings 1–3.** Play these three grips and notice which chord tone is lowest in each:
 
 ```
 Shape A: G|--5--  B|--5--  e|--3--   notes C–E–G  → root position
@@ -79,10 +79,10 @@ Same chord, three neighborhoods. This is how you'll play "C" anywhere on the nec
 ### Exercises (Lab)
 
 1. **(15 min)** Spell on paper (then find on any string set): D major · F# minor · B diminished · E augmented · Bb major · C# minor · G# diminished.
-2. **(15 min)** Play Example 8.3's three grips for G major and D major (move the shapes; recompute the frets from the note names — that's the exercise).
-3. **(10 min)** Open-chord autopsy: for open G, D, E, Em, Am — write out which note each string sounds and label it 1, 3/b3, or 5.
+2. **(15 min)** Play Example 8.3's three grips for G major and D major (move the shapes; recompute the frets from the note names: that's the exercise).
+3. **(10 min)** Open-chord autopsy: for open G, D, E, Em, Am, write out which note each string sounds and label it 1, 3/b3, or 5.
 4. **(10 min)** Ear: have a friend (or recording of yourself) play major/minor/dim/aug in random order on one shape; identify by ear. 12 trials.
-5. ★ Find the augmented triad's party trick: play E aug, then move the *whole shape* up 4 frets. Same chord! (Why? Its notes are all M3 apart — it's symmetrical.)
+5. ★ Find the augmented triad's party trick: play E aug, then move the *whole shape* up 4 frets. Same chord! (Why? Its notes are all M3 apart; it's symmetrical.)
 
 ### Self-check
 1. Formula for a minor triad? Diminished?
@@ -92,7 +92,7 @@ Same chord, three neighborhoods. This is how you'll play "C" anywhere on the nec
 
 ---
 
-# Day 9 — Diatonic Harmony: The Chords of a Key
+# Day 9: Diatonic Harmony (The Chords of a Key)
 
 ### Objectives
 - Derive the seven diatonic triads of any major key.
@@ -127,9 +127,9 @@ Most progressions are some path through **home → away → tension → home**.
 
 **Finding a song's key from its chords.** Given Em–C–G–D: list candidates. G major's family is G Am Bm C D Em F#°, all four of your chords fit, and the music keeps gravitating to G... key of **G major** (this set is I-IV-V-vi rearranged: vi–IV–I–V, the most-used progression of the last 30 years). Heuristics: the key is usually the chord that feels like home (often first or last), and major-key songs usually show 2–3 major chords a 4th/5th apart (those are I, IV, V).
 
-### Examples — play these
+### Examples: play these
 
-**Example 9.1 — The harmonized G major scale, open/low position:**
+**Example 9.1: The harmonized G major scale, open/low position:**
 
 ```
 G    Am   Bm   C    D    Em   F#°    G
@@ -138,23 +138,23 @@ I    ii   iii  IV   V    vi   vii°   I
 
 (Use open G, Am, C, D, Em; Bm as barre at 2nd fret or just strings 1–4: 4-3-2 = 4-4-3... use x-2-4-4-3-2; F#° strings 4–2: 4-3-1... grip: x-x-4-2-1-2.) Play up the family in order, saying numerals. Feel which chords are restful and which are restless.
 
-**Example 9.2 — One progression, three keys.** Play I–V–vi–IV in:
+**Example 9.2: One progression, three keys.** Play I–V–vi–IV in:
 - C: C–G–Am–F
 - G: G–D–Em–C
 - D: D–A–Bm–G
 
 Sing any melody over one of them, then keep singing while you switch keys. Same song, different altitude. That's transposition.
 
-**Example 9.3 — Function swap.** Play I–IV–V–I in C (C–F–G–C). Now substitute the tonic's stand-in: vi–IV–V–I (Am–F–G–C). The "home" chord changed color but the *story* is intact.
+**Example 9.3: Function swap.** Play I–IV–V–I in C (C–F–G–C). Now substitute the tonic's stand-in: vi–IV–V–I (Am–F–G–C). The "home" chord changed color but the *story* is intact.
 
 ### Exercises (Lab)
 
 1. **(15 min)** On paper: write the seven diatonic triads (with numerals) of D, A, E, F, and Bb major. Then play each family using any voicings.
-2. **(15 min)** Key detective — name the key and numerals:
+2. **(15 min)** Key detective, name the key and numerals:
    - C–Am–F–G  ·  D–Bm–G–A  ·  E–A–B  ·  Am–F–C–G  ·  F–Bb–C  ·  G–C–D–C
 3. **(15 min)** Write your own: compose one 4-chord progression that goes home→away→tension→home, in two different keys. Play them. Label everything.
 4. **(10 min)** Ear: record (or play from memory) I–IV–V–I vs I–vi–IV–V vs vi–IV–I–V in the same key; learn to tell them apart by ear.
-5. ★ Harmonize the scale on strings 1–3 only, using Day 8's triad grips, walking up the neck: G(355h? ...) — derive the grips yourself; every step uses only G-major notes.
+5. ★ Harmonize the scale on strings 1–3 only, using Day 8's triad grips, walking up the neck: G(355h? ...): derive the grips yourself; every step uses only G-major notes.
 
 ### Daily drill (updated)
 Replace 3 minutes of your drill with: random key → recite its seven diatonic chords aloud in under 15 seconds.
@@ -167,7 +167,7 @@ Replace 3 minutes of your drill with: random key → recite its seven diatonic c
 
 ---
 
-# Day 10 — Seventh Chords
+# Day 10: Seventh Chords
 
 ### Objectives
 - Build the five common 7th-chord types from formulas.
@@ -198,11 +198,11 @@ In C: Cmaj7 · Dm7 · Em7 · Fmaj7 · **G7** · Am7 · Bm7b5.
 
 Note what's special: **the dominant 7th occurs naturally only on V.** That's why hearing a "7" chord screams "we're about to go home to I," and why a 7 chord *anywhere else* (like the I7 and IV7 in blues) instantly signals a non-classical, bluesy sound (Day 16).
 
-**The tritone engine.** Inside G7 (G B D F), the notes B and F are a tritone apart — the most unstable interval. B is C major's leading tone (pulls up to C); F is its 4th degree (pulls down to E). When G7 → C, both tensions resolve by a half step. That tiny double-resolution is the engine of Western harmony.
+**The tritone engine.** Inside G7 (G B D F), the notes B and F are a tritone apart, the most unstable interval. B is C major's leading tone (pulls up to C); F is its 4th degree (pulls down to E). When G7 → C, both tensions resolve by a half step. That tiny double-resolution is the engine of Western harmony.
 
-### Examples — play these
+### Examples: play these
 
-**Example 10.1 — Movable 7th shapes, root on string 6** (shown with G root, fret 3; mute strings marked x):
+**Example 10.1: Movable 7th shapes, root on string 6** (shown with G root, fret 3; mute strings marked x):
 
 ```
         Gmaj7        G7           Gm7          Gm7b5
@@ -216,7 +216,7 @@ E|--3--        E|--3--        E|--3--        E|--3--
 
 Play the row in order: you're lowering one note at a time (7→b7, 3→b3, 5→b5). Four chords, three semitone moves. *This* is how to memorize chords: as transformations, not as unrelated grips.
 
-**Example 10.2 — Movable 7th shapes, root on string 5** (C root, fret 3):
+**Example 10.2: Movable 7th shapes, root on string 5** (C root, fret 3):
 
 ```
         Cmaj7        C7           Cm7          Cm7b5
@@ -228,27 +228,27 @@ A|--3--        A|--3--        A|--3--        A|--3--
 E|--x--        E|--x--        E|--x--        E|--x--
 ```
 
-**Example 10.3 — Feel the V7 pull.** Play Cmaj7 … G7 … and *stop on the G7*. Sit in the discomfort. Then resolve to C. Then play G (plain triad) → C and compare: the 7th made the pull stronger.
+**Example 10.3: Feel the V7 pull.** Play Cmaj7 … G7 … and *stop on the G7*. Sit in the discomfort. Then resolve to C. Then play G (plain triad) → C and compare: the 7th made the pull stronger.
 
-**Example 10.4 — The ii–V–I**, the most important cell in jazz and the smoothest "away→tension→home" in any genre. In C: **Dm7 → G7 → Cmaj7** (use the grips above: Dm7 root 5 fret 5; G7 root 6 fret 3; Cmaj7 root 5 fret 3).
+**Example 10.4: The ii–V–I**, the most important cell in jazz and the smoothest "away→tension→home" in any genre. In C: **Dm7 → G7 → Cmaj7** (use the grips above: Dm7 root 5 fret 5; G7 root 6 fret 3; Cmaj7 root 5 fret 3).
 
 ### Exercises (Lab)
 
 1. **(15 min)** Spell on paper: Amaj7 · E7 · Bm7 · F#m7b5 · Dmaj7 · Bb7 · Gm7 · C#m7b5.
 2. **(10 min)** Write the diatonic 7ths of G major and of F major; play each family with the movable grips.
-3. **(15 min)** Play ii–V–I in C, G, D, F, and A using only Examples 10.1–10.2 grips (choose roots to minimize hand travel — staying inside a 4-fret window is the real skill).
+3. **(15 min)** Play ii–V–I in C, G, D, F, and A using only Examples 10.1–10.2 grips (choose roots to minimize hand travel; staying inside a 4-fret window is the real skill).
 4. **(10 min)** Ear: maj7 vs dom7 vs m7 vs m7b5 on the same root, random order, eyes closed. 12 trials.
-5. ★ Spell C°7 and notice the stack is all minor 3rds — like the augmented triad, it's symmetrical: every note can be the root. File this away for fancy passing chords later.
+5. ★ Spell C°7 and notice the stack is all minor 3rds; like the augmented triad, it's symmetrical: every note can be the root. File this away for fancy passing chords later.
 
 ### Self-check
-1. "C7" — which 7th chord is that, exactly?
+1. "C7": which 7th chord is that, exactly?
 2. Formula for m7b5?
 3. On which scale degree does the dominant 7th occur diatonically, and what does that imply when you hear one?
 4. Which two notes inside G7 form a tritone, and where does each want to go?
 
 ---
 
-# Day 11 — Progressions and Cadences: Why Chords Move
+# Day 11: Progressions and Cadences (Why Chords Move)
 
 ### Objectives
 - Know the canonical progressions (I–IV–V, I–V–vi–IV, vi–IV–I–V, ii–V–I, 12-bar blues preview, I–vi–IV–V).
@@ -259,14 +259,14 @@ E|--x--        E|--x--        E|--x--        E|--x--
 
 **Chord progressions are sentences.** Chords are words; cadences are punctuation. Yesterday you learned the words; today, grammar.
 
-**Cadences — the punctuation marks:**
+**Cadences, the punctuation marks:**
 
 | Cadence | Motion | Feels like |
 |---|---|---|
 | **Authentic** | V (or V7) → I | Period. Strongest "the end." |
 | **Plagal** | IV → I | "Amen." Softer arrival. |
-| **Half** | anything → V, stop | Comma — pause on tension |
-| **Deceptive** | V → vi (instead of I) | Plot twist — promised home, delivered its stand-in |
+| **Half** | anything → V, stop | Comma (a pause on tension) |
+| **Deceptive** | V → vi (instead of I) | Plot twist: promised home, delivered its stand-in |
 
 **The canon.** Learn these by numerals; you'll find you already know hundreds of songs that use them:
 
@@ -279,26 +279,26 @@ E|--x--        E|--x--        E|--x--        E|--x--
 
 **Root motion** explains why some progressions feel inevitable. Roots falling by 5ths (rising by 4ths is the same thing) is the strongest gravity in harmony: vi→ii→V→I is a chain of falling 5ths. Root motion by step (IV→V, V→vi) feels like walking; by 3rd (I→vi, I→iii) feels like a smooth slide because the chords share two notes.
 
-**Voice leading for guitarists:** when changing chords, move each note as little as possible. C→Am shares C and E — keep them, move only G→A. This is why Day 8's inversions matter: nearby voicings beat jumping barre shapes across the neck. Smooth chord changes are as much an *arranging* skill as a fretting-hand one.
+**Voice leading for guitarists:** when changing chords, move each note as little as possible. C→Am shares C and E; keep them, move only G→A. This is why Day 8's inversions matter: nearby voicings beat jumping barre shapes across the neck. Smooth chord changes are as much an *arranging* skill as a fretting-hand one.
 
-### Examples — play these
+### Examples: play these
 
-**Example 11.1 — Four cadences in C.** Play and name the feeling:
+**Example 11.1: Four cadences in C.** Play and name the feeling:
 - G7 → C (authentic: done)
 - F → C (plagal: gentle amen)
 - C → F → G *stop* (half: held breath)
 - C → F → G7 → **Am** (deceptive: the twist)
 
-**Example 11.2 — The pop progressions back-to-back, all in G:**
+**Example 11.2: The pop progressions back-to-back, all in G:**
 - I–V–vi–IV: G–D–Em–C
 - vi–IV–I–V: Em–C–G–D
 - I–vi–IV–V: G–Em–C–D
 
 Same four chords. The *order*, specifically which chord gets the downbeat of the loop, completely changes the emotional center.
 
-**Example 11.3 — Falling-5ths chain in C:** Am → Dm → G7 → C (vi–ii–V–I). Feel the inevitability. Then the jazz version with Day 10 grips: Am7 → Dm7 → G7 → Cmaj7.
+**Example 11.3: Falling-5ths chain in C:** Am → Dm → G7 → C (vi–ii–V–I). Feel the inevitability. Then the jazz version with Day 10 grips: Am7 → Dm7 → G7 → Cmaj7.
 
-**Example 11.4 — Voice-leading lab.** Play C→Am→F→G using open chords (big jumps), then using only strings 1–3 triads within frets 5–10 (tiny moves):
+**Example 11.4: Voice-leading lab.** Play C→Am→F→G using open chords (big jumps), then using only strings 1–3 triads within frets 5–10 (tiny moves):
 
 ```
 C:  G|5 B|5 e|3     Am: G|5 B|5 e|5     F:  G|5 B|6 e|5     G:  G|7 B|8 e|7
@@ -322,7 +322,7 @@ Hear how the second version sounds like one instrument *breathing* instead of fo
 
 ---
 
-# Day 12 — The CAGED System: The Whole Neck, Organized
+# Day 12: The CAGED System (The Whole Neck, Organized)
 
 ### Objectives
 - Understand CAGED: five open shapes tile the entire fretboard for any chord.
@@ -356,15 +356,15 @@ CAGED is the index that binds chords, scales, and arpeggios to the same fret rea
 
 **Minor CAGED:** same idea with the open minor shapes; in practice guitarists use mainly **Em, Am, Dm** shapes (movable Cm and Gm shapes are awkward). Three neighborhoods is plenty.
 
-### Examples — play these
+### Examples: play these
 
-**Example 12.1 — C major five ways** (table above). Play them low to high, then descend. Locate the root inside each shape and say which string it's on.
+**Example 12.1: C major five ways** (table above). Play them low to high, then descend. Locate the root inside each shape and say which string it's on.
 
-**Example 12.2 — One shape, five chords.** Take only the A shape (barre) and play C (fret 3), D (5), E (7), F (8), G (10). Now take only the E shape: G(3), A(5), B(7), C(8), D(10). Two shapes already give you every major chord in two places each.
+**Example 12.2: One shape, five chords.** Take only the A shape (barre) and play C (fret 3), D (5), E (7), F (8), G (10). Now take only the E shape: G(3), A(5), B(7), C(8), D(10). Two shapes already give you every major chord in two places each.
 
-**Example 12.3 — Shape-to-scale.** Play the E-shape G barre chord at fret 3. Hold it; now play Day 3's Example 3.3 G major scale at the same fret. The chord is *inside* the scale; find the 1, 3, 5 of the chord within the scale pattern.
+**Example 12.3: Shape-to-scale.** Play the E-shape G barre chord at fret 3. Hold it; now play Day 3's Example 3.3 G major scale at the same fret. The chord is *inside* the scale; find the 1, 3, 5 of the chord within the scale pattern.
 
-**Example 12.4 — Progression in one neighborhood.** Play G–C–D–Em entirely within frets 3–7, choosing whichever CAGED shape of each chord lives there: G = E-shape at fret 3 · C = A-shape at fret 3 · D = A-shape at fret 5 · Em = Am-shape at fret 7 (x-7-9-9-8-7). This is Example 11.4's voice-leading idea at full-chord scale.
+**Example 12.4: Progression in one neighborhood.** Play G–C–D–Em entirely within frets 3–7, choosing whichever CAGED shape of each chord lives there: G = E-shape at fret 3 · C = A-shape at fret 3 · D = A-shape at fret 5 · Em = Am-shape at fret 7 (x-7-9-9-8-7). This is Example 11.4's voice-leading idea at full-chord scale.
 
 ### Exercises (Lab)
 
@@ -380,18 +380,18 @@ Add: random chord + random CAGED shape → play it. 2 minutes.
 ### Self-check
 1. What does each letter of CAGED refer to?
 2. Where's the root in the E shape? The A shape? The D shape?
-3. C major using the G shape — what fret region?
+3. C major using the G shape: what fret region?
 4. In one sentence: why is CAGED more than a chord-grip catalog?
 
 ---
 
-# Day 13 — Quiz 2 + Project 2
+# Day 13: Quiz 2 + Project 2
 
 1. **(45 min)** Take **Quiz 2** in `QUIZZES.md`, closed book. Grade against `ANSWER-KEYS.md`.
-2. **(75+ min)** Complete **Project 2 — The Songwriter's Toolkit** (`PROJECTS.md`).
+2. **(75+ min)** Complete **Project 2: The Songwriter's Toolkit** (`PROJECTS.md`).
 3. **(10 min)** Update the rubric score sheet (Week 2 column).
 
-# Day 14 — Rest / Review + Rhythm, Part 2
+# Day 14: Rest / Review + Rhythm, Part 2
 
 Light day:
 1. Daily drill (rotate in fresh variants from `DRILLS.md` if the current ones feel stale).

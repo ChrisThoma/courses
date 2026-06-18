@@ -1,7 +1,7 @@
 {
   "title": "Foundations of Photography & the Digital Camera",
   "subtitle": "PHOT-10 · A 3-week intensive",
-  "description": "Everything a beginner needs to make deliberate photographs and nothing more — the exposure triangle, focus, reading and using light, the grammar of composition, color and white balance, and a complete RAW-to-export editing workflow — taught through daily lectures, shooting assignments, quizzes, and projects, and mapped control-for-control to the Fujifilm X100VI.",
+  "description": "Everything a beginner needs to make deliberate photographs and nothing more: the exposure triangle, focus, reading and using light, the grammar of composition, color and white balance, and a complete RAW-to-export editing workflow, taught through daily lectures, shooting assignments, quizzes, and projects, and mapped control-for-control to the Fujifilm X100VI.",
   "accent": "#0ea5e9",
   "sections": [
     {
@@ -14,19 +14,19 @@
       ]
     },
     {
-      "title": "Week 1 — The Camera & Exposure",
+      "title": "Week 1: The Camera & Exposure",
       "lessons": [
         { "title": "Days 1–7: How a Camera Sees, the Exposure Triangle, Focus", "path": "week-1-camera-and-exposure.md" }
       ]
     },
     {
-      "title": "Week 2 — Light & Composition",
+      "title": "Week 2: Light & Composition",
       "lessons": [
         { "title": "Days 8–14: Reading Light, Composition, Color & Lenses", "path": "week-2-light-and-composition.md" }
       ]
     },
     {
-      "title": "Week 3 — Craft & Workflow",
+      "title": "Week 3: Craft & Workflow",
       "lessons": [
         { "title": "Days 15–21: RAW, Editing, Genres & Personal Style", "path": "week-3-craft-and-workflow.md" }
       ]

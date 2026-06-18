@@ -1,11 +1,11 @@
-# Mastery Rubric — MUS-17
+# Mastery Rubric: MUS-17
 
 Grade yourself in each domain. **Mastery = Level 4 in every technical domain.** The honest test for almost every domain is the same: *record yourself and listen back against a metronome.* Levels:
 
-- **1 — Novice:** Aware of the concept, can't do it without stopping, looking, and luck.
-- **2 — Developing:** Can do it slowly with effort, frequent flubs, and breaks in the rhythm.
-- **3 — Proficient:** Can do it reliably and *in time* at a moderate tempo; rare errors.
-- **4 — Solid:** Automatic, in time, relaxed, and musical — you can do it while thinking about something else (the melody, the singer, the dancers).
+- **1 (Novice):** Aware of the concept, can't do it without stopping, looking, and luck.
+- **2 (Developing):** Can do it slowly with effort, frequent flubs, and breaks in the rhythm.
+- **3 (Proficient):** Can do it reliably and *in time* at a moderate tempo; rare errors.
+- **4 (Solid):** Automatic, in time, relaxed, and musical; you can do it while thinking about something else (the melody, the singer, the dancers).
 
 ---
 
@@ -38,7 +38,7 @@ Grade yourself in each domain. **Mastery = Level 4 in every technical domain.** 
 | 1 | Can form one chord slowly; notes buzz or are muted |
 | 2 | Forms G, C, and D7 but must stop the groove to change |
 | 3 | Changes G↔C↔D7 in time without stopping the bum-ditty; chords ring clean |
-| 4 | Chord changes are invisible — no hitch in the groove, no looking at the hand |
+| 4 | Chord changes are invisible: no hitch in the groove, no looking at the hand |
 
 **Test:** Play the G–C–G–D7–G changes of Boil Them Cabbage Down in tempo with a steady bum-ditty, twice through, no breaks.
 
@@ -49,7 +49,7 @@ Grade yourself in each domain. **Mastery = Level 4 in every technical domain.** 
 | 1 | Knows the names; the ornament note doesn't sound |
 | 2 | Can produce each ornament in isolation, slowly, when not also keeping time |
 | 3 | Executes all three cleanly *inside* a bum-ditty without breaking rhythm |
-| 4 | Ornaments are in time, in tune, and expressive — used by choice for feel, not just where the tab says |
+| 4 | Ornaments are in time, in tune, and expressive: used by choice for feel, not just where the tab says |
 
 **Test:** Inside a steady frailing groove, land a hammer-on, a pull-off, and a 2→4 slide, each clearly audible and on the beat.
 
@@ -82,7 +82,7 @@ Grade yourself in each domain. **Mastery = Level 4 in every technical domain.** 
 | 1 | Tempo wanders; rushes the hard parts, drags the easy parts |
 | 2 | Stays roughly in time at one slow tempo with concentration |
 | 3 | Holds steady time with a metronome across a whole tune; the groove feels good |
-| 4 | Plays with *drive* — a propulsive, danceable feel — and locks in with a recording or another player |
+| 4 | Plays with *drive* (a propulsive, danceable feel) and locks in with a recording or another player |
 
 **Test:** Play a full tune with a metronome at a danceable tempo with no rushing/dragging, then play it along with a recording and stay locked in.
 
@@ -136,4 +136,4 @@ Grade yourself in each domain. **Mastery = Level 4 in every technical domain.** 
 | 9. Tunings | | | |
 | 10. History | | | |
 
-Expected trajectory: end of Week 1 → Domains 1–3 at Level 3. End of Week 2 → Domains 4–5 at Level 3, Domains 1–2 climbing to 4. End of Week 3 → all technical domains at 3–4, Domain 6 (repertoire) at 3+. Domains 7 (drive) and 8 (the ear) reach a stable Level 4 only with months of continued playing and jamming after the course — that's normal and expected. Drive and the ear are the long game; the technique and the daily habit are what this course locks in.
+Expected trajectory: end of Week 1 → Domains 1–3 at Level 3. End of Week 2 → Domains 4–5 at Level 3, Domains 1–2 climbing to 4. End of Week 3 → all technical domains at 3–4, Domain 6 (repertoire) at 3+. Domains 7 (drive) and 8 (the ear) reach a stable Level 4 only with months of continued playing and jamming after the course; that's normal and expected. Drive and the ear are the long game; the technique and the daily habit are what this course locks in.

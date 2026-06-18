@@ -1,4 +1,4 @@
-# Capstone — "prodharness": A Production-Grade Coding Harness
+# Capstone: "prodharness" (A Production-Grade Coding Harness)
 
 **Due:** end of Week 3 · **Weight:** 30% · **Rubric dimensions:** D1, D3, D6, D7, D8 (your Master evidence)
 
@@ -8,25 +8,25 @@ Take tinyharness from Project 1 and turn it into something another developer wou
 
 ## What you're building
 
-A coding agent harness that runs both **interactively** and **headless**, with the five production pillars wired in and *demonstrated*, not just present. You may build on tinyharness or any open harness you forked in Week 2 — but you must have written the five pillars yourself.
+A coding agent harness that runs both **interactively** and **headless**, with the five production pillars wired in and *demonstrated*, not just present. You may build on tinyharness or any open harness you forked in Week 2, but you must have written the five pillars yourself.
 
 ## Required components
 
 ### 1. Permission & safety layer (D6)
-- A permission gate on mutating/dangerous tools (`bash`, `edit_file`, `write_file`, network) with: a declarative allowlist (config file), per-action approval in interactive mode, and a policy for headless mode (auto-deny-and-report, or a pre-approved allowlist — your choice, documented).
-- **At least one trifecta leg cut structurally** — e.g., a network-egress allowlist in the `bash`/fetch tool. Carry over and harden your Lab-11 defense.
+- A permission gate on mutating/dangerous tools (`bash`, `edit_file`, `write_file`, network) with: a declarative allowlist (config file), per-action approval in interactive mode, and a policy for headless mode (auto-deny-and-report, or a pre-approved allowlist; your choice, documented).
+- **At least one trifecta leg cut structurally**, e.g., a network-egress allowlist in the `bash`/fetch tool. Carry over and harden your Lab-11 defense.
 - Confirmation (or refusal) on the irreversible class: force-push, `rm -rf`, destructive SQL, secret-file reads.
 
 ### 2. Context management (D3)
 - Compaction at a configurable window threshold that provably preserves goal + decisions + state + recent-N verbatim (your Lab-13 work). Print before/after token counts on every compaction.
-- A `.notes`/scratchpad file the agent writes progress to and re-reads — on-disk state, not just chat history.
+- A `.notes`/scratchpad file the agent writes progress to and re-reads: on-disk state, not just chat history.
 
 ### 3. Memory & persistence (D3)
 - Session persistence (`--resume`) and a cross-session memory file the agent reads at start and appends durable facts to.
 
 ### 4. Headless / observability (D1, production)
 - `--headless "<task>"` mode: no TTY, JSON-structured result on stdout, meaningful exit code.
-- Structured logging of every tool call (name, input, result-status), per-run token + dollar totals, wall time. Hooks-style or inline — your call.
+- Structured logging of every tool call (name, input, result-status), per-run token + dollar totals, wall time. Hooks-style or inline, your call.
 - Retry-with-backoff on API errors; turn + time + cost ceilings with a clean "budget exhausted" stop.
 
 ### 5. Evaluation (D7)
@@ -55,9 +55,9 @@ prodharness/
 ```
 
 ### The three demo transcripts (DEMO.md)
-1. **Long task that triggers compaction** — show the goal surviving (quote the post-compaction context).
-2. **The security demo** — your Lab-11 attack re-run against prodharness, now *failing*, with the blocked action in the log.
-3. **A headless run** — the JSON output, exit code, and the structured log it produced.
+1. **Long task that triggers compaction:** show the goal surviving (quote the post-compaction context).
+2. **The security demo:** your Lab-11 attack re-run against prodharness, now *failing*, with the blocked action in the log.
+3. **A headless run:** the JSON output, exit code, and the structured log it produced.
 
 ## Grading rubric
 
@@ -74,4 +74,4 @@ prodharness/
 
 ## A closing note
 
-The capstone is deliberately not "add more tools." Every component here exists because a real agent *failed without it* — drifted after compaction, leaked a secret, burned $40 on one task, passed a demo then broke in CI. Building these is the difference between someone who can make an agent *go* and someone who can make an agent *trustworthy*. That second person is what this course was for.
+The capstone is deliberately not "add more tools." Every component here exists because a real agent *failed without it*: drifted after compaction, leaked a secret, burned $40 on one task, passed a demo then broke in CI. Building these is the difference between someone who can make an agent *go* and someone who can make an agent *trustworthy*. That second person is what this course was for.

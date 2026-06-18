@@ -1,19 +1,19 @@
-# Projects — PHOT-10
+# Projects: PHOT-10
 
 Projects are where understanding becomes ability. Each has a deliverable and a grading rubric. Grade yourself honestly; "I basically did it" is a 70, not a 95. For every project, the work is the *photographs plus a short written reflection*. The writing is where you prove you made your choices on purpose.
 
 ---
 
-## Project 1 — Exposure Triangle Study *(Day 7 · 10% of grade)*
+## Project 1: Exposure Triangle Study *(Day 7 · 10% of grade)*
 
 **Goal:** prove you control each leg of the exposure triangle independently and can trade them reciprocally. This is the Domain 1–3 test.
 
 ### Deliverables
-1. **Aperture series:** the *same* subject (with a background well behind it) at f/2 (or your widest), f/4, f/5.6, f/8, f/16 — everything else compensated to keep brightness equal. Label each with its settings.
+1. **Aperture series:** the *same* subject (with a background well behind it) at f/2 (or your widest), f/4, f/5.6, f/8, f/16; everything else compensated to keep brightness equal. Label each with its settings.
 2. **Shutter series:** one frozen-motion frame (≥1/500) and one motion-blur frame (≤1/15) of the same moving subject, each on purpose. Label settings.
 3. **ISO series:** the same dim-light frame at three ISOs spanning your range (e.g., 200 / 1600 / 12800), labeled, with a one-line note on where noise starts bothering *you*.
 4. **Reciprocity proof:** four photographs of one scene that are *all equally bright* but achieved with four different settings combinations (trading stops). Label all four and name what each trade changed (DoF / motion / noise).
-5. **Reflection (½ page):** for one real photo you took this week, explain why you chose its specific aperture, shutter, and ISO — what the photo *needed*.
+5. **Reflection (½ page):** for one real photo you took this week, explain why you chose its specific aperture, shutter, and ISO: what the photo *needed*.
 
 ### Rubric (10 pts)
 | Pts | Criterion |
@@ -26,15 +26,15 @@ Projects are where understanding becomes ability. Each has a deliverable and a g
 
 ---
 
-## Project 2 — A Study in Light *(Day 14 · 15% of grade)*
+## Project 2: A Study in Light *(Day 14 · 15% of grade)*
 
 **Goal:** demonstrate that you can *see* and *use* light: that the light, not the subject or the gear, makes the photo. This is the Domain 5–6 test.
 
 ### Deliverables
-1. **One subject, three lights:** photograph a *single* subject (a person, an object, a corner) made to look **three genuinely different ways** using only **light direction/quality/time** and **composition** — no editing tricks. For example: soft window side-light; hard backlight rim; golden-hour warm front-light. Label the light in each (direction + hardness + color).
+1. **One subject, three lights:** photograph a *single* subject (a person, an object, a corner) made to look **three genuinely different ways** using only **light direction/quality/time** and **composition**, no editing tricks. For example: soft window side-light; hard backlight rim; golden-hour warm front-light. Label the light in each (direction + hardness + color).
 2. **The golden-hour frame:** one strong photograph made during golden or blue hour that *depends* on that light. Note the time and what the light gave you.
-3. **The hard-light rescue:** one harsh-midday subject shown two ways — straight (harsh) and fixed (moved to shade / turned to backlight / filled). Note the fix.
-4. **Composition set:** five photographs, each demonstrating a *different* compositional tool deliberately — e.g., (a) rule-of-thirds placement, (b) negative space, (c) leading lines, (d) foreground/midground/background depth, (e) a non-eye-level angle. Label the tool in each.
+3. **The hard-light rescue:** one harsh-midday subject shown two ways: straight (harsh) and fixed (moved to shade / turned to backlight / filled). Note the fix.
+4. **Composition set:** five photographs, each demonstrating a *different* compositional tool deliberately, e.g., (a) rule-of-thirds placement, (b) negative space, (c) leading lines, (d) foreground/midground/background depth, (e) a non-eye-level angle. Label the tool in each.
 5. **Reflection (½ page):** which light and which composition you found most effective and why, in craft vocabulary.
 
 ### Rubric (15 pts)
@@ -48,14 +48,14 @@ Projects are where understanding becomes ability. Each has a deliverable and a g
 
 ---
 
-## Project 3 — Edit From the Negative *(Day 20 · 15% of grade)*
+## Project 3: Edit From the Negative *(Day 20 · 15% of grade)*
 
 **Goal:** prove you can develop a RAW file through a complete, repeatable workflow without overcooking it. This is the Domain 7–8 test.
 
 ### Deliverables
 1. **Before/after pair:** one RAW file shown as the flat straight-out-of-camera version *and* your finished export.
-2. **The recipe:** your edit written as the **7-step workflow**, one line per step — crop/straighten, white balance, tone, color, local adjustments, detail, export — saying *what you did and why* at each.
-3. **A tonal recovery:** demonstrate recovering a high-contrast frame (bright + dark areas both holding detail) — show the histogram before and after if your editor allows.
+2. **The recipe:** your edit written as the **7-step workflow**, one line per step (crop/straighten, white balance, tone, color, local adjustments, detail, export), saying *what you did and why* at each.
+3. **A tonal recovery:** demonstrate recovering a high-contrast frame (bright + dark areas both holding detail); show the histogram before and after if your editor allows.
 4. **A local-adjustment demonstration:** one frame where masking visibly directs the eye (brightened subject and/or darkened/vignetted surroundings). Note the mask(s) used.
 5. **Restraint check:** one sentence on how you decided the edit was *done* (what you pulled back).
 
@@ -70,7 +70,7 @@ Projects are where understanding becomes ability. Each has a deliverable and a g
 
 ---
 
-## Final Portfolio — "Ten Frames" *(Days 20–21 · 25% of grade)*
+## Final Portfolio: "Ten Frames" *(Days 20–21 · 25% of grade)*
 
 **Goal:** the capstone. Produce a small, coherent body of work with a recognizable point of view, edited consistently, and defend it. This is the Domain 9 test, and the real graduation requirement.
 

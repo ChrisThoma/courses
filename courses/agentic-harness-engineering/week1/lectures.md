@@ -1,14 +1,14 @@
-# Week 1 Lectures — Foundations: Anatomy of a Harness
+# Week 1 Lectures: Foundations (Anatomy of a Harness)
 
 > **Companion resources:** each lecture below has matched videos/papers/blogs in `../RESOURCES.md`. New to LLMs? Do **Week 0** in that file first. The ⭐ items there are worth doing *before* each lecture.
 
 ---
 
-# Lecture 1 — What Is a Harness? The Agent Loop
+# Lecture 1: What Is a Harness? The Agent Loop
 
 ## 1.1 The central claim of this course
 
-A modern LLM API does exactly one thing: given a list of messages and a list of tool definitions, it returns either **text** or **a request to call tools**. That's it. It cannot read files, run commands, or remember yesterday. Everything else — everything that makes Claude Code feel like a colleague rather than a chatbot — is the **harness**:
+A modern LLM API does exactly one thing: given a list of messages and a list of tool definitions, it returns either **text** or **a request to call tools**. That's it. It cannot read files, run commands, or remember yesterday. Everything else (everything that makes Claude Code feel like a colleague rather than a chatbot) is the **harness**:
 
 ```
 ┌─────────────────────────── HARNESS ───────────────────────────┐
@@ -29,11 +29,11 @@ In 2026 the industry consensus is explicit: across Claude Code, Codex CLI, OpenC
 
 ## 1.2 A short history, so the design choices make sense
 
-- **2022 — ReAct** (Yao et al.): interleave *reasoning* ("Thought: I should search…") with *actions* (tool call) and *observations* (result) in one text loop. Tool calls were parsed out of free text with regex. Fragile, but the loop shape was born — and it's still the dominant shape today.
-- **2023 — native function calling**: OpenAI then Anthropic moved tool calls into the API as structured JSON. No more regex parsing; the model is trained to emit `tool_use` blocks.
-- **2024 — agentic coding**: SWE-agent showed the *interface* mattered as much as the model (ACI — Lecture 2). Aider, Devin, OpenHands made "agent edits your repo" real.
-- **2025 — the harness era**: Claude Code, Codex CLI, Gemini CLI, OpenCode, Cline. MCP standardized tool extensibility. Models trained *specifically* to be good in harnesses (long-horizon RL on agentic tasks).
-- **2026 — harness engineering as a discipline**: the term shows up in job titles. Google retires Gemini CLI for Antigravity CLI; OpenCode passes 150k stars; the Confucius Code Agent paper (Meta/Harvard) formalizes harness design around AX (agent experience), UX, and DX.
+- **2022, ReAct** (Yao et al.): interleave *reasoning* ("Thought: I should search…") with *actions* (tool call) and *observations* (result) in one text loop. Tool calls were parsed out of free text with regex. Fragile, but the loop shape was born, and it's still the dominant shape today.
+- **2023, native function calling**: OpenAI then Anthropic moved tool calls into the API as structured JSON. No more regex parsing; the model is trained to emit `tool_use` blocks.
+- **2024, agentic coding**: SWE-agent showed the *interface* mattered as much as the model (ACI, Lecture 2). Aider, Devin, OpenHands made "agent edits your repo" real.
+- **2025, the harness era**: Claude Code, Codex CLI, Gemini CLI, OpenCode, Cline. MCP standardized tool extensibility. Models trained *specifically* to be good in harnesses (long-horizon RL on agentic tasks).
+- **2026, harness engineering as a discipline**: the term shows up in job titles. Google retires Gemini CLI for Antigravity CLI; OpenCode passes 150k stars; the Confucius Code Agent paper (Meta/Harvard) formalizes harness design around AX (agent experience), UX, and DX.
 
 ## 1.3 The loop, in real code
 
@@ -53,7 +53,7 @@ while True:
         tools=TOOLS,                   # JSON-schema tool definitions
         messages=messages,
     )
-    # Append the assistant turn verbatim (preserves cache prefix — Lecture 3)
+    # Append the assistant turn verbatim (preserves cache prefix, Lecture 3)
     messages.append({"role": "assistant", "content": response.content})
 
     if response.stop_reason != "tool_use":
@@ -75,9 +75,9 @@ while True:
 Five facts to memorize:
 
 1. **The model never executes anything.** It *asks*; the harness executes. Every security property of an agent lives in `execute_tool`.
-2. **Tool results are just user messages.** The model can't distinguish a tool result from user input except by structure — this is why prompt injection via tool results works (Lecture 11).
+2. **Tool results are just user messages.** The model can't distinguish a tool result from user input except by structure; this is why prompt injection via tool results works (Lecture 11).
 3. **One response may request many tools.** Handle them all, return all results together.
-4. **Errors are observations.** A failed command isn't an exception to crash on — stderr goes back as a tool result and the model adapts. This error-feedback loop is *the* reason agents feel smart.
+4. **Errors are observations.** A failed command isn't an exception to crash on; stderr goes back as a tool result and the model adapts. This error-feedback loop is *the* reason agents feel smart.
 5. **`stop_reason` drives everything.** `tool_use` → keep looping; `end_turn` → done; `max_tokens` → you have a decision to make (continue? truncate?).
 
 ## 1.4 Harness taxonomy (the map you'll fill in during Week 2)
@@ -98,15 +98,15 @@ Five facts to memorize:
 
 ## Lab 1
 
-Write a script that calls the Anthropic API with one tool (`get_weather`, faked) and **manually** walk one full loop iteration: print the raw `tool_use` block, hand-construct the `tool_result` message, send it back. No loop abstraction — feel the wire format. Then read Thorsten Ball's *How to Build an Agent* (ampcode.com).
+Write a script that calls the Anthropic API with one tool (`get_weather`, faked) and **manually** walk one full loop iteration: print the raw `tool_use` block, hand-construct the `tool_result` message, send it back. No loop abstraction; feel the wire format. Then read Thorsten Ball's *How to Build an Agent* (ampcode.com).
 
 ---
 
-# Lecture 2 — Tool Use & the Agent-Computer Interface (ACI)
+# Lecture 2: Tool Use & the Agent-Computer Interface (ACI)
 
 ## 2.1 Tool definitions are prompts
 
-A tool definition has three parts — name, description, JSON-schema input — and the model reads *all of it, every turn*. The description field is the most underrated prompt surface in agent engineering. Compare:
+A tool definition has three parts (name, description, JSON-schema input) and the model reads *all of it, every turn*. The description field is the most underrated prompt surface in agent engineering. Compare:
 
 ```json
 {"name": "search", "description": "Searches files."}
@@ -115,7 +115,7 @@ A tool definition has three parts — name, description, JSON-schema input — a
 ```json
 {
   "name": "grep_repo",
-  "description": "Search file contents in the repository with a regex. Returns at most 50 matching lines as `path:line: text`. Use this to FIND code; use read_file to view full context around a match. Prefer specific patterns — `def process_` over `process` — to avoid truncated results.",
+  "description": "Search file contents in the repository with a regex. Returns at most 50 matching lines as `path:line: text`. Use this to FIND code; use read_file to view full context around a match. Prefer specific patterns (`def process_` over `process`) to avoid truncated results.",
   "input_schema": {
     "type": "object",
     "properties": {
@@ -134,8 +134,8 @@ The second tells the model *when* to use it, *what comes back*, *how it relates 
 SWE-agent's key result: agents fail not because models are dumb but because the **interface** is hostile. Humans tolerate bad interfaces by improvising; models don't. Their fixes, now standard everywhere:
 
 - **A file viewer that shows 100 lines with line numbers**, not `cat` (full files blow context; no numbers means no addressing).
-- **Edit commands with built-in lint feedback** — if an edit produced a syntax error, say so *immediately* in the tool result, so the model fixes it while the intent is fresh.
-- **Guardrails in the tools themselves**: e.g., search that refuses to dump 5,000 results and instead says "873 matches — narrow your pattern."
+- **Edit commands with built-in lint feedback**: if an edit produced a syntax error, say so *immediately* in the tool result, so the model fixes it while the intent is fresh.
+- **Guardrails in the tools themselves**: e.g., search that refuses to dump 5,000 results and instead says "873 matches. Narrow your pattern."
 - **Compact, consistent output formats.** Every token of tool output competes with reasoning for context.
 
 > **Design principle:** when an agent misbehaves, your first suspect is the tool surface, not the model. "Engineer it so the agent never makes that mistake again."
@@ -148,7 +148,7 @@ Strip any 2026 coding harness to its skeleton and you find a near-identical kit:
 |---|---|
 | `bash` / `shell` | Persistent session or per-call? Timeout? Output truncation (head/tail of huge output)? Background processes? |
 | `read_file` | Whole file or windowed? Line numbers? Binary/image handling? |
-| `edit_file` | **The deepest design problem in coding agents** — see Lecture 4 |
+| `edit_file` | **The deepest design problem in coding agents** (see Lecture 4) |
 | `write_file` | Overwrite protection? Require prior read? |
 | `grep` / `glob` | Why dedicated tools when bash has grep? (Answer: structured truncation, permission granularity, no shell-quoting failures) |
 | `web_fetch` / `web_search` | The #1 prompt-injection vector (Lecture 11) |
@@ -157,21 +157,21 @@ A real tension to internalize: **bash is the universal escape hatch** (anything 
 
 ## 2.4 Tool-count economics
 
-Every tool definition costs tokens on *every* API call, and beyond ~20–30 tools, selection accuracy degrades. Hence: few, composable, high-leverage tools beat many narrow ones. This is also the standard critique of naive MCP usage — installing five MCP servers can silently add 10k tokens of tool definitions per turn (Lecture 8).
+Every tool definition costs tokens on *every* API call, and beyond ~20–30 tools, selection accuracy degrades. Hence: few, composable, high-leverage tools beat many narrow ones. This is also the standard critique of naive MCP usage: installing five MCP servers can silently add 10k tokens of tool definitions per turn (Lecture 8).
 
 ## Section questions
 
-1. Rewrite this real-world-bad description into a good one: `{"name": "db", "description": "Runs database stuff."}` — invent reasonable semantics.
+1. Rewrite this real-world-bad description into a good one: `{"name": "db", "description": "Runs database stuff."}`; invent reasonable semantics.
 2. Why does an edit tool that returns "edit applied, but file now fails `python -m py_compile`: line 84 unexpected indent" outperform one that just says "OK"? Tie it to the loop from Lecture 1.
 3. Your agent keeps calling `read_file` on 8,000-line files and drowning. List three ACI-level fixes, no model change allowed.
 
 ## Lab 2
 
-Take your Lab-1 script. Add `read_file` and `list_files` with deliberately terrible descriptions ("reads a file", "lists files") and no truncation. Give it a task in a real repo; log every tool call. Then fix the ACI (descriptions, line numbers, truncation, result counts) and rerun. Write down the behavioral diff — this is your first taste of harness iteration.
+Take your Lab-1 script. Add `read_file` and `list_files` with deliberately terrible descriptions ("reads a file", "lists files") and no truncation. Give it a task in a real repo; log every tool call. Then fix the ACI (descriptions, line numbers, truncation, result counts) and rerun. Write down the behavioral diff; this is your first taste of harness iteration.
 
 ---
 
-# Lecture 3 — Context Engineering I: Prompts, Caching, Window Economics
+# Lecture 3: Context Engineering I (Prompts, Caching, Window Economics)
 
 ## 3.1 The context window is the agent's RAM
 
@@ -187,8 +187,8 @@ This single fact explains several otherwise-mysterious harness conventions (the 
 
 - System prompts **never** include the current time-of-day at second precision (a timestamp busts the cache every turn; harnesses inject dates once, in a stable place).
 - History is **append-only** during a session; nothing is edited in place.
-- Tool definitions don't change mid-session (dynamically toggling tools busts cache — which is why "deferred tools" get loaded via a *tool call* rather than by mutating the tool list silently).
-- Compaction is a *discrete, rare* event, not continuous rewriting — every compaction deliberately pays one full-price turn to buy a smaller window.
+- Tool definitions don't change mid-session (dynamically toggling tools busts cache, which is why "deferred tools" get loaded via a *tool call* rather than by mutating the tool list silently).
+- Compaction is a *discrete, rare* event, not continuous rewriting; every compaction deliberately pays one full-price turn to buy a smaller window.
 
 **Do the math once and you'll never forget it:** 40-turn session, 80k average context, no caching ≈ 3.2M input tokens. With caching ≈ 80k fresh + ~3.1M at 10%. Harnesses that ignore caching are ~5–10× more expensive.
 
@@ -196,11 +196,11 @@ This single fact explains several otherwise-mysterious harness conventions (the 
 
 Read real ones (Claude Code's is studied in Lecture 6; OpenCode's and Aider's are in their repos). Common anatomy:
 
-1. **Identity & tone** — terse, terminal-appropriate output rules
-2. **Tool-use policy** — when to prefer which tool, parallelism encouragement
-3. **Safety rails** — confirm destructive actions, never push to main, etc.
-4. **Environment block** — cwd, OS, repo status, date (stable per session!)
-5. **Steering-file injection** — CLAUDE.md / AGENTS.md contents: *user-controlled* system prompt extension. This convention (a markdown file in the repo that every harness reads) is one of 2025–26's quiet standardizations.
+1. **Identity & tone:** terse, terminal-appropriate output rules
+2. **Tool-use policy:** when to prefer which tool, parallelism encouragement
+3. **Safety rails:** confirm destructive actions, never push to main, etc.
+4. **Environment block:** cwd, OS, repo status, date (stable per session!)
+5. **Steering-file injection:** CLAUDE.md / AGENTS.md contents: *user-controlled* system prompt extension. This convention (a markdown file in the repo that every harness reads) is one of 2025–26's quiet standardizations.
 
 ## 3.4 What goes where: the context placement decision
 
@@ -214,12 +214,12 @@ A master harness engineer's checklist for any piece of information:
 | Memory/notes on disk | Must outlive the session | "User prefers tabs" |
 | Nowhere (recompute) | Cheaper to re-derive than to carry | Directory listings |
 
-The failure mode of novices is shoving everything into the system prompt; context is a budget, and irrelevant text doesn't just cost money — it measurably degrades attention on what matters ("context rot").
+The failure mode of novices is shoving everything into the system prompt; context is a budget, and irrelevant text doesn't just cost money; it measurably degrades attention on what matters ("context rot").
 
 ## Section questions
 
 1. Your harness puts `Current time: 14:32:07` at the top of the system prompt. What does this cost, concretely, in a 30-turn session?
-2. Why do compaction designs summarize *old* turns but keep *recent* turns verbatim? (Two distinct reasons — one about caching, one about task fidelity.)
+2. Why do compaction designs summarize *old* turns but keep *recent* turns verbatim? (Two distinct reasons: one about caching, one about task fidelity.)
 3. CLAUDE.md exists. Why also have per-session memory files? When does each win?
 
 ## Lab 3
@@ -228,21 +228,21 @@ Using your script, run the same 5-turn session twice and read `usage` off each r
 
 ---
 
-# Lecture 4 — The Execution Environment: Shell, Files, and Edit Formats
+# Lecture 4: The Execution Environment (Shell, Files, and Edit Formats)
 
 ## 4.1 The harness owns a machine, not just an API
 
 The execution layer decides: *where* commands run (host vs. container vs. remote VM), *what state persists* between calls (working directory? env vars? background processes?), and *what comes back* (truncation policy, exit codes, timing). Three production answers, previewing Week 2:
 
 - **Claude Code:** host machine, per-action permission gate + allowlists; persistent-cwd shell; optional sandbox modes.
-- **Codex CLI:** Docker-style sandbox *by default* — network off, writes confined; permissions traded for isolation.
-- **OpenHands:** a full Docker runtime per session with an event-stream architecture — every action and observation is an event in a log, which buys replayability and clean headless operation.
+- **Codex CLI:** Docker-style sandbox *by default*: network off, writes confined; permissions traded for isolation.
+- **OpenHands:** a full Docker runtime per session with an event-stream architecture: every action and observation is an event in a log, which buys replayability and clean headless operation.
 
 There is no free lunch: host execution is maximally capable and maximally dangerous; sandboxes are safe and constantly annoying (need a package? network's off). Week 3 treats this properly.
 
 ## 4.2 Edit formats: the hardest small problem in agentic coding
 
-How does a model — which can only emit text — modify a file? Aider's maintainer benchmarked this exhaustively (aider.chat/docs, required reading); it's the clearest case study of "the harness is the product." The contenders:
+How does a model, which can only emit text, modify a file? Aider's maintainer benchmarked this exhaustively (aider.chat/docs, required reading); it's the clearest case study of "the harness is the product." The contenders:
 
 **A. Whole-file rewrite.** Model re-emits the entire file.
 ✓ trivially reliable to apply ✗ slow and expensive on big files ✗ models *truncate or subtly mangle* distant unchanged lines.
@@ -250,7 +250,7 @@ How does a model — which can only emit text — modify a file? Aider's maintai
 **B. Unified diff.** Model emits `diff -u` patches.
 ✓ compact ✗ models are bad at line numbers and context-line bookkeeping; apply failures common (though improving with diff-trained models).
 
-**C. Search/replace blocks (Aider's classic, and the dominant 2026 pattern — it's what Claude Code's Edit tool uses).** Model emits the exact old text and the new text:
+**C. Search/replace blocks (Aider's classic, and the dominant 2026 pattern; it's what Claude Code's Edit tool uses).** Model emits the exact old text and the new text:
 
 ```
 <<<<<<< SEARCH
@@ -271,7 +271,7 @@ def total(items):
 A fresh agent in a 500k-line repo is a tourist without a map. Standard techniques:
 
 - **Aider's repo map:** a PageRank-ranked summary of files/symbols (built from tree-sitter parses), token-budgeted, injected into context. Elegant pre-agentic-search design.
-- **Agentic search (the 2026 default):** give grep/glob/read and let the model explore — burns turns but scales and self-corrects.
+- **Agentic search (the 2026 default):** give grep/glob/read and let the model explore; burns turns but scales and self-corrects.
 - **Steering files** (CLAUDE.md/AGENTS.md): human-curated map.
 - **Subagent exploration** (Lecture 9): send a cheap scout, keep only its report.
 
@@ -283,11 +283,11 @@ A fresh agent in a 500k-line repo is a tourist without a map. Standard technique
 
 ## Lab 4 (Problem Set 1 core)
 
-Implement all three edit formats as functions: `apply_whole_file`, `apply_unified_diff`, `apply_search_replace`. Write 10 adversarial test cases (whitespace drift, non-unique match, overlapping hunks, trailing-newline traps). Score each format on apply-success and corruption-on-failure. Keep `apply_search_replace` — it goes into Project 1.
+Implement all three edit formats as functions: `apply_whole_file`, `apply_unified_diff`, `apply_search_replace`. Write 10 adversarial test cases (whitespace drift, non-unique match, overlapping hunks, trailing-newline traps). Score each format on apply-success and corruption-on-failure. Keep `apply_search_replace`; it goes into Project 1.
 
 ---
 
-# Lecture 5 — Synthesis + Lab Day
+# Lecture 5: Synthesis + Lab Day
 
 ## 5.1 The harness, restated
 
@@ -295,10 +295,10 @@ You now have the four foundations: **the loop** (L1), **the tool surface** (L2),
 
 ## 5.2 Today
 
-1. **Quiz 1** (`week1/quiz.md`) — closed book, then self-grade.
-2. **Finish Project 1** (`week1/project.md`) — your minimal harness, due tonight.
-3. **Rubric checkpoint** — evidence paragraphs for D1–D3 (target: Competent).
+1. **Quiz 1** (`week1/quiz.md`): closed book, then self-grade.
+2. **Finish Project 1** (`week1/project.md`): your minimal harness, due tonight.
+3. **Rubric checkpoint:** evidence paragraphs for D1–D3 (target: Competent).
 
 ## 5.3 Looking ahead
 
-Week 2 is comparative anatomy: you'll read production source code and instrument real harnesses. Tonight, install/clone: OpenCode, Aider, OpenHands, SWE-agent. Skim Anthropic's *Building Effective Agents* — note its insistence that you *don't* need frameworks, just the patterns you built this week.
+Week 2 is comparative anatomy: you'll read production source code and instrument real harnesses. Tonight, install/clone: OpenCode, Aider, OpenHands, SWE-agent. Skim Anthropic's *Building Effective Agents*; note its insistence that you *don't* need frameworks, just the patterns you built this week.

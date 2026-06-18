@@ -1,11 +1,11 @@
-# Mastery Rubric — MUS-21G
+# Mastery Rubric: MUS-21G
 
 Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 
-- **1 — Novice:** Aware of the concept, can't apply it without references.
-- **2 — Developing:** Can apply it slowly with effort, frequent errors.
-- **3 — Proficient:** Can apply it reliably with brief thought; rare errors.
-- **4 — Master:** Instant, accurate, and can teach it / apply it in real musical contexts.
+- **1 (Novice):** Aware of the concept, can't apply it without references.
+- **2 (Developing):** Can apply it slowly with effort, frequent errors.
+- **3 (Proficient):** Can apply it reliably with brief thought; rare errors.
+- **4 (Master):** Instant, accurate, and can teach it / apply it in real musical contexts.
 
 ---
 
@@ -29,7 +29,7 @@ Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 | 3 | Names any interval between two notes; knows fretboard shapes for all intervals within an octave |
 | 4 | Instantly names/plays any interval from any note, ascending or descending; recognizes m2–P8 by ear (melodic) |
 
-**Test:** (a) "Major 6th above E?" — answer in 3 s. (b) Play 10 random intervals; identify 9+ by ear.
+**Test:** (a) "Major 6th above E?": answer in 3 s. (b) Play 10 random intervals; identify 9+ by ear.
 
 ## Domain 3: Scales and keys
 
@@ -40,7 +40,7 @@ Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 | 3 | Spells any major or natural minor scale in any key; knows key signatures via circle of fifths; plays 3+ positions; knows relative major/minor pairs |
 | 4 | Spells all major, natural/harmonic/melodic minor, both pentatonics, blues scale, and all modes from any root; plays them across the whole neck; identifies a song's key from its chords |
 
-**Test:** "Spell F# harmonic minor" — answer in 15 s. "Key with 3 flats?" — instant.
+**Test:** "Spell F# harmonic minor": answer in 15 s. "Key with 3 flats?": instant.
 
 ## Domain 4: Chord construction
 
@@ -51,7 +51,7 @@ Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 | 3 | Spells all four triad types and all common 7th chords from any root; can find a voicing for any spelled chord |
 | 4 | Spells any chord through 13ths incl. sus/add/slash; plays 2+ voicings anywhere on the neck; identifies a chord's quality from its notes; hears maj/min/dim/dom7/maj7/min7 quality |
 
-**Test:** "Spell Ab maj7. Now play it two ways, one above the 5th fret." — under 20 s total.
+**Test:** "Spell Ab maj7. Now play it two ways, one above the 5th fret." (Under 20 s total.)
 
 ## Domain 5: Diatonic harmony & progressions
 
@@ -100,4 +100,4 @@ Grade yourself in each domain. **Mastery = Level 4 in every domain.** Levels:
 | 6. Ear | | | |
 | 7. Applied | | | |
 
-Expected trajectory: end of Week 1 → Domains 1–3 at Level 3. End of Week 2 → Domains 4–5 at Level 3, earlier domains at 3–4. End of Week 3 → all domains Level 3–4. Domains 1, 2, and 6 reach a stable Level 4 only with continued daily drills for 4–8 weeks after the course — that's normal and expected.
+Expected trajectory: end of Week 1 → Domains 1–3 at Level 3. End of Week 2 → Domains 4–5 at Level 3, earlier domains at 3–4. End of Week 3 → all domains Level 3–4. Domains 1, 2, and 6 reach a stable Level 4 only with continued daily drills for 4–8 weeks after the course; that's normal and expected.

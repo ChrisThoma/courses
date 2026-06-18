@@ -1,10 +1,10 @@
-# Supplement — Rhythm and Meter for Guitarists
+# Supplement: Rhythm and Meter for Guitarists
 
-**When to do this:** split across the two rest days — Part 1 on Day 7, Part 2 on Day 14 (~45 min each). It's a supplement, not a skip-it: harmony tells you *what* to play; rhythm is *when*, and "when" is half of music. This covers everything a guitarist needs and nothing more; no standard-notation sight reading required.
+**When to do this:** split across the two rest days: Part 1 on Day 7, Part 2 on Day 14 (~45 min each). It's a supplement, not a skip-it: harmony tells you *what* to play; rhythm is *when*, and "when" is half of music. This covers everything a guitarist needs and nothing more; no standard-notation sight reading required.
 
 ---
 
-## Part 1 (Day 7) — Note values, meter, and counting
+## Part 1 (Day 7): Note values, meter, and counting
 
 ### Note values: the duration alphabet
 
@@ -29,11 +29,11 @@ The top number = beats per measure; the bottom = which value gets the beat.
 | Meter | Feel | You know it from |
 |---|---|---|
 | **4/4** | the default ("common time") | ~90% of rock/pop/blues |
-| **3/4** | waltz — ONE two three | "Amazing Grace," country waltzes |
-| **6/8** | two big beats, each split in 3 — ONE-two-three FOUR-five-six | "House of the Rising Sun," ballads, jigs |
+| **3/4** | waltz: ONE two three | "Amazing Grace," country waltzes |
+| **6/8** | two big beats, each split in 3: ONE-two-three FOUR-five-six | "House of the Rising Sun," ballads, jigs |
 | **2/4** | march | polkas, train beats |
 
-6/8 vs 3/4, the classic confusion: both have six eighth notes available, but 3/4 groups them 2+2+2 (three beats) and 6/8 groups them 3+3 (two beats). Clap along to where your foot wants to tap — that's the grouping.
+6/8 vs 3/4, the classic confusion: both have six eighth notes available, but 3/4 groups them 2+2+2 (three beats) and 6/8 groups them 3+3 (two beats). Clap along to where your foot wants to tap; that's the grouping.
 
 ### Downbeats, upbeats, and strumming
 
@@ -44,29 +44,29 @@ Count:  1   &   2   &   3   &   4   &
 Strum:  D       D   U       U   D   U
 ```
 
-(The "&-of-2 to &-of-3" gap — down-motion that misses — is what gives it its skip.)
+(The "&-of-2 to &-of-3" gap, the down-motion that misses, is what gives it its skip.)
 
 ### Exercises (Part 1)
-1. **(10 min)** Metronome at 60. Clap whole, half, quarter, eighth, sixteenth notes — 2 bars each, counting aloud. Then dotted quarters (they land on 1, the & of 2, 4 — feel the offset). Then quarter-note triplets if brave.
+1. **(10 min)** Metronome at 60. Clap whole, half, quarter, eighth, sixteenth notes, 2 bars each, counting aloud. Then dotted quarters (they land on 1, the & of 2, 4; feel the offset). Then quarter-note triplets if brave.
 2. **(10 min)** Strum one chord with the universal pattern, counting aloud, until the count is automatic.
 3. **(10 min)** Write two of your own one-bar strum patterns on the D/U grid above; play them on your Project 2 progressions.
 4. **(10 min)** Meter ID: play/recall "Amazing Grace" (3/4), any AC/DC song (4/4), "House of the Rising Sun" (6/8). Conduct the beats with your strumming hand and say the meter.
 
 ---
 
-## Part 2 (Day 14) — Syncopation, swing, and rhythm as a compositional tool
+## Part 2 (Day 14): Syncopation, swing, and rhythm as a compositional tool
 
 ### Syncopation
 
 **Syncopation = emphasizing where the beat isn't**, accenting the "&"s (offbeats) instead of the numbers. Compare:
 
 ```
-Square:      D   -   D   -   D   -   D   -     (all downbeats — marching band)
-Syncopated:  D   -   -   U   -   U   D   -     (accents on &s — instantly funkier)
+Square:      D   -   D   -   D   -   D   -     (all downbeats, marching band)
+Syncopated:  D   -   -   U   -   U   D   -     (accents on &s, instantly funkier)
 Count:       1   &   2   &   3   &   4   &
 ```
 
-Almost all groove — funk, reggae (which accents *only* the offbeats), ska, R&B — is systematic syncopation. Tie an offbeat note *across* the barline and you get anticipation ("pushing" the chord change half a beat early), the most common rhythm move in pop strumming.
+Almost all groove is systematic syncopation: funk, reggae (which accents *only* the offbeats), ska, R&B. Tie an offbeat note *across* the barline and you get anticipation ("pushing" the chord change half a beat early), the most common rhythm move in pop strumming.
 
 ### Swing vs. straight
 
@@ -75,14 +75,14 @@ Straight eighths divide the beat 50/50. **Swing** divides it long-short (~67/33,
 ### Rhythm in your analyses and compositions
 
 Add to your Project 3 / Final Project vocabulary:
-- **Harmonic rhythm** = how often the chords change (every bar? every 2 beats?). Slowing or speeding harmonic rhythm at a section change is a major dramatic device — choruses often double it.
+- **Harmonic rhythm** = how often the chords change (every bar? every 2 beats?). Slowing or speeding harmonic rhythm at a section change is a major dramatic device; choruses often double it.
 - **One chord per bar is a choice, not a law.** Try giving the V7 only 2 beats before resolving: tension compressed.
 
 ### Exercises (Part 2)
 1. **(10 min)** Metronome at 70: strum quarter notes but accent only beats 2 & 4 (the backbeat). Then accent only the &s. Wobbly is normal; persist.
 2. **(10 min)** Anticipation drill: play C → G changing on beat 1; then change on the & of 4 (half a beat early, tied over). Hear it snap into pop.
 3. **(10 min)** Play your 12-bar blues straight, then shuffled. Commit to the shuffle.
-4. **(15 min)** Take your Final Project draft: choose its meter deliberately, set its harmonic rhythm per section, and add one anticipation and one syncopated accent. Note these in your defense — rhythm choices count as theory choices.
+4. **(15 min)** Take your Final Project draft: choose its meter deliberately, set its harmonic rhythm per section, and add one anticipation and one syncopated accent. Note these in your defense; rhythm choices count as theory choices.
 
 ### Self-check
 1. How many eighth notes fit in one bar of 6/8, and how are they grouped vs. 3/4?

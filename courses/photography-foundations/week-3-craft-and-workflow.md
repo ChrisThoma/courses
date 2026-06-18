@@ -1,4 +1,4 @@
-# Week 3 — Craft & Workflow
+# Week 3: Craft & Workflow
 
 > **This week in one line:** the photograph isn't finished when the shutter clicks. A RAW file is a negative, a faithful but flat record of the light, and the edit is where you develop it into the image you saw. This week you'll build a repeatable digital-darkroom workflow, learn the conventions of the major genres so you can pick a lane, and start the long project of finding a point of view. By the end you'll have a finished portfolio.
 
@@ -6,7 +6,7 @@
 
 ---
 
-# Day 15 — RAW vs. JPEG, Files & the Digital Negative
+# Day 15: RAW vs. JPEG, Files & the Digital Negative
 
 ### Objectives
 - Understand the real difference between RAW and JPEG and when to use each.
@@ -25,22 +25,22 @@
 | White balance | **baked in** | **fully changeable, free** |
 | Recover blown highlights / dark shadows | very little | **often 1–3 stops** |
 | File size | small | large (~2–5×) |
-| Ready to share? | yes | no — must export |
+| Ready to share? | yes | no, must export |
 | Best for | speed, volume, when you nailed it in-camera | quality, control, tricky light, learning |
 
 **The mental model: RAW is a negative, JPEG is a print.** A negative holds all the information and can be printed many ways; a print is one interpretation, fixed. Serious work shoots RAW because the latitude to fix WB, recover highlights, and push shadows is exactly what saves real photos. **RAW + JPEG** gives you a shareable file now *and* the negative for later, which is the default I'd recommend while you're learning.
 
 **The exposure habit RAW rewards:** protect your highlights (don't clip them; they're gone even in RAW), and feel free to keep shadows a touch dark in-camera, since you can lift them later. The histogram (Day 5) is how you watch the highlight edge.
 
-**File management — the boring skill that saves you.** A workflow you'll actually keep:
+**File management: the boring skill that saves you.** A workflow you'll actually keep:
 1. **Import** to one organized location: folders by date or shoot (`2026/2026-06-14_street/`).
 2. **Back up immediately**, the 3-2-1 rule: **3** copies, on **2** kinds of media, **1** off-site (a cloud sync counts). A photo exists only if it exists twice. Cards fail and drives die.
 3. **Cull** (next paragraph), then keep originals untouched.
 4. **Catalog** with a tool (Lightroom, Capture One, darktable, Apple Photos) so you can *find* images by date, rating, keyword.
 
-**Culling — keep the right things.** After a shoot, review and **rate**:
+**Culling: keep the right things.** After a shoot, review and **rate**:
 - Reject (delete) only the technical failures: blinks, total misfocus, accidental shots.
-- **Keep your instructive failures** during this course — the "almost" shots teach more than the keepers.
+- **Keep your instructive failures** during this course; the "almost" shots teach more than the keepers.
 - Flag/star the genuine keepers (aim ruthless: 5–10% is normal). Edit only those.
 - Don't edit while culling; separate the *choosing* from the *developing*.
 
@@ -51,7 +51,7 @@
 
 ### Shoot
 1. **(15 min)** Switch to RAW+JPEG. Shoot a deliberately high-contrast scene (interior with a bright window). You'll recover it on Day 16.
-2. **(20 min)** Shoot ~40 frames of a single subject/scene (a corner of a room, a person, a street). This is your raw material for the week's editing lessons — variety helps.
+2. **(20 min)** Shoot ~40 frames of a single subject/scene (a corner of a room, a person, a street). This is your raw material for the week's editing lessons; variety helps.
 3. **(15 min) Set up your system:** create a dated folder, import today's shoot, confirm a second copy exists (backup drive or cloud). Do a first cull: reject the failures, star 3–5 keepers.
 
 ### Daily drill (start today)
@@ -66,7 +66,7 @@
 
 ---
 
-# Day 16 — Editing Workflow I: Tone
+# Day 16: Editing Workflow I (Tone)
 
 ### Objectives
 - Adopt a fixed, repeatable editing order.
@@ -81,7 +81,7 @@ A repeatable **edit order** keeps you from flailing. Use this every time:
 
 Today is **tone**: the brightness and contrast structure of the image, the foundation everything else sits on. The global tone sliders (names vary slightly by app; these are Lightroom/Camera Raw's, and Capture One/darktable have equivalents):
 
-- **Exposure:** overall brightness. Set this *first* in tone — get the image to the right general lightness.
+- **Exposure:** overall brightness. Set this *first* in tone, getting the image to the right general lightness.
 - **Contrast:** the spread between darks and lights. More = punchier; less = flatter/softer.
 - **Highlights:** the bright areas (not the brightest). Pull **down** to recover detail in skies, windows, bright skin. If one slider rescues a too-bright sky, it's this one.
 - **Shadows:** the dark areas (not the darkest). Push **up** to open up detail in shadows. (Don't overdo it; fully lifted shadows look flat and get noisy.)
@@ -106,9 +106,9 @@ Today is **tone**: the brightness and contrast structure of the image, the found
 
 ### Shoot / Edit (today is mostly editing)
 1. **(10 min)** Shoot 5 new frames with a clear tonal challenge (very bright sky, deep shadow, or low-key mood) to edit.
-2. **(30 min) Tone recovery.** Edit the high-contrast frame in order: crop/straighten, set WB, then tone — Exposure, drop Highlights, lift Shadows, set Whites and Blacks to taste, watching the histogram. Bring the window *and* the room into a balanced image.
+2. **(30 min) Tone recovery.** Edit the high-contrast frame in order: crop/straighten, set WB, then tone (Exposure, drop Highlights, lift Shadows, set Whites and Blacks to taste), watching the histogram. Bring the window *and* the room into a balanced image.
 3. **(15 min) Tone curve.** On a second image, apply a gentle S-curve for contrast. Then try a faded-matte look by lifting the black point. Feel what the curve does that the sliders don't.
-4. ★ **(10 min)** Make a deliberately **low-key** (dark, moody) and a **high-key** (bright, airy) edit of the *same* frame — proving tone is interpretation, not just "correct vs. wrong."
+4. ★ **(10 min)** Make a deliberately **low-key** (dark, moody) and a **high-key** (bright, airy) edit of the *same* frame, proving tone is interpretation, not just "correct vs. wrong."
 
 ### Daily drill
 **Slider-naming, 2 min:** for a flashed problem, name the *first* slider you'd reach for ("blown sky?" → Highlights down; "muddy flat image, no punch?" → Contrast/Blacks or an S-curve; "too dark overall?" → Exposure).
@@ -122,7 +122,7 @@ Today is **tone**: the brightness and contrast structure of the image, the found
 
 ---
 
-# Day 17 — Editing Workflow II: Color, Local Adjustments & Detail
+# Day 17: Editing Workflow II (Color, Local Adjustments & Detail)
 
 ### Objectives
 - Refine white balance and color precisely.
@@ -131,7 +131,7 @@ Today is **tone**: the brightness and contrast structure of the image, the found
 
 ### Lecture
 
-Tone is set (Day 16). Now **color, local work, and detail** — steps 2/4/5/6 of the workflow.
+Tone is set (Day 16). Now **color, local work, and detail**: steps 2/4/5/6 of the workflow.
 
 **White balance, precisely.** You met WB in Day 9; in the editor it's two sliders:
 - **Temperature** (blue ↔ yellow) and **Tint** (green ↔ magenta).
@@ -142,13 +142,13 @@ Tone is set (Day 16). Now **color, local work, and detail** — steps 2/4/5/6 of
 - **HSL** (Hue/Saturation/Luminance per color): the precision tool. Make skies deeper blue (drop blue luminance), tame an over-orange skin tone, mute a distracting color. Per-color control is how pros fine-tune.
 - **Color grading** (tinting shadows/highlights different hues, e.g. warm highlights + cool shadows) sets mood; a teal-shadow/orange-highlight split is the modern "cinematic" look. Subtle is better.
 
-**Local (masked) adjustments — directing the eye.** Global sliders affect everything; **local** adjustments affect only a selected area:
+**Local (masked) adjustments: directing the eye.** Global sliders affect everything; **local** adjustments affect only a selected area:
 - **Radial / brush masks:** brighten a face, darken a corner, add clarity to eyes.
 - **Linear gradient:** darken a bright sky from the top (digital grad-ND).
 - **AI subject/sky masks** (modern editors): select the sky or subject automatically, then adjust just that.
 - **The classic moves:** subtly **brighten the subject** and **darken/desaturate the background and edges** (a gentle **vignette**) to pull the eye exactly where you want. Guiding attention like this is what local edits are *for*.
 
-**Detail — sharpening & noise (do last, at 100% view):**
+**Detail: sharpening & noise (do last, at 100% view):**
 - **Sharpening** enhances edge contrast for crispness. Apply it *modestly*; over-sharpening creates ugly halos and crunch. Use **masking** so you sharpen edges, not smooth skin/sky.
 - **Noise reduction** smooths the grain from high ISO (Day 4). There's a trade-off: too much NR turns detail to plastic mush. Balance against sharpening. Modern **AI denoise** is remarkably good for high-ISO RAW files.
 
@@ -162,7 +162,7 @@ Tone is set (Day 16). Now **color, local work, and detail** — steps 2/4/5/6 of
 > 🟩 **X100VI:** If you shot RAW+JPEG, you can audition Fuji's looks instantly, but for full control, edit the RAF: use the WB eyedropper on a neutral, lift with Vibrance not Saturation, mask the subject to brighten +/- the background, then a touch of sharpening with masking. For B&W, start from the **Acros** profile (its tonality is gorgeous) and refine with the B&W mix. Export sRGB JPEGs at ~2048px for sharing.
 
 ### Look
-- Take a finished-looking photo and identify *where your eye goes first*. Usually it's the brightest, sharpest, most saturated spot. That's what local adjustments control — verify on a pro image that the subject is subtly brighter/sharper than its surroundings.
+- Take a finished-looking photo and identify *where your eye goes first*. Usually it's the brightest, sharpest, most saturated spot. That's what local adjustments control; verify on a pro image that the subject is subtly brighter/sharper than its surroundings.
 
 ### Edit
 1. **(20 min) Color.** On a portrait or colorful scene: set WB with the eyedropper + taste, lift with Vibrance, then use HSL to deepen one color (e.g., sky) and tame another (e.g., over-orange skin).
@@ -174,7 +174,7 @@ Tone is set (Day 16). Now **color, local work, and detail** — steps 2/4/5/6 of
 **Where's-the-eye, 2 min:** on any edited photo, name the brightest/sharpest point and whether it's the intended subject. If not, name the local fix.
 
 ### Self-check
-1. Vibrance vs. Saturation — which protects skin tones, and how?
+1. Vibrance vs. Saturation: which protects skin tones, and how?
 2. What does the WB eyedropper do?
 3. Name two classic local adjustments that direct the viewer's eye.
 4. Why apply sharpening at 100% view and with masking?
@@ -182,7 +182,7 @@ Tone is set (Day 16). Now **color, local work, and detail** — steps 2/4/5/6 of
 
 ---
 
-# Day 18 — Genres & Approaches
+# Day 18: Genres & Approaches
 
 ### Objectives
 - Know the conventions, settings, and mindset of the major genres.
@@ -201,12 +201,12 @@ The fundamentals are universal, but each **genre** has its own conventions, typi
 **Street / documentary: life as it happens.**
 - *Light:* whatever's there; hard light and shadow are friends here.
 - *Settings:* **A or Auto-ISO**, f/5.6–f/8 for depth, fast-enough shutter (1/250+), often **zone focus** for instant capture. Anticipate the moment ("the decisive moment").
-- *Mindset:* be unobtrusive, patient, observant. 35mm equiv. is *the* street focal length — close enough to be present, wide enough for context. **The X100VI is a legendary street camera** for exactly this: small, quiet, quick.
+- *Mindset:* be unobtrusive, patient, observant. 35mm equiv. is *the* street focal length: close enough to be present, wide enough for context. **The X100VI is a legendary street camera** for exactly this: small, quiet, quick.
 
 **Landscape / cityscape: place and scale.**
 - *Light:* golden/blue hour; dramatic weather.
 - *Settings:* small aperture (f/8–f/11) for front-to-back sharpness; low ISO; **tripod** for slow shutters; focus ~1/3 in (hyperfocal). Strong foreground for depth (Day 11).
-- *Mindset:* patience and planning — scout, return for the right light. Composition and layers are everything.
+- *Mindset:* patience and planning: scout, return for the right light. Composition and layers are everything.
 
 **Still life / product / food: total control.**
 - *Light:* one soft source (a window!) + a reflector teaches you light better than anything; control every element.
@@ -238,7 +238,7 @@ The fundamentals are universal, but each **genre** has its own conventions, typi
 
 ---
 
-# Day 19 — Developing a Personal Style & Reading Photographs
+# Day 19: Developing a Personal Style & Reading Photographs
 
 ### Objectives
 - Understand what "style" actually is and how it forms.
@@ -262,12 +262,12 @@ The fundamentals are universal, but each **genre** has its own conventions, typi
 3. **Edit consistently.** A consistent editing/color treatment across a body of work is a huge part of perceived style. Develop a default look and refine it.
 4. **Make projects, not just photos.** A *series* on one subject/idea forces and reveals a point of view far faster than scattered one-offs.
 
-**Reading a photograph critically** — the skill that improves your own work fastest. A repeatable framework, ask in order:
-1. **What is it of?** (Subject — is it clear?)
-2. **What's it *about*?** (Idea/feeling — beyond the literal subject.)
-3. **How does the light work?** (Direction, quality, color — Week 2.)
-4. **How does the composition work?** (Subject placement, balance, lines, depth, what's excluded — Week 2.)
-5. **How do the technical choices serve it?** (Aperture/DoF, shutter/motion, focus, exposure, color/tone — Weeks 1 & 3.)
+**Reading a photograph critically** is the skill that improves your own work fastest. A repeatable framework, ask in order:
+1. **What is it of?** (Subject: is it clear?)
+2. **What's it *about*?** (Idea/feeling, beyond the literal subject.)
+3. **How does the light work?** (Direction, quality, color; Week 2.)
+4. **How does the composition work?** (Subject placement, balance, lines, depth, what's excluded; Week 2.)
+5. **How do the technical choices serve it?** (Aperture/DoF, shutter/motion, focus, exposure, color/tone; Weeks 1 & 3.)
 6. **Does it succeed? Why or why not?** (Does form serve content? What would you change?)
 
 Apply this to **great photos** (to learn what works) and to **your own** (to learn what to fix). The ability to articulate *why* a photo does or doesn't work is what turns random improvement into deliberate improvement. It's Domain 9 of the rubric and the real graduation requirement.
@@ -275,15 +275,15 @@ Apply this to **great photos** (to learn what works) and to **your own** (to lea
 **Critique etiquette (even self-critique):** be specific ("the bright doorway in the top-left pulls my eye off the subject"), tie observations to choices ("a smaller aperture would've kept the background readable as context"), and separate *taste* from *craft* (a photo can be technically flawless and not to your taste, or rough and deeply moving).
 
 ### Look
-- Run the **6-question critical reading** on three photographs you consider great. Write a sentence per question. Then run it on three of *your own* recent frames — honestly. The contrast is your syllabus for what to practice next.
+- Run the **6-question critical reading** on three photographs you consider great. Write a sentence per question. Then run it on three of *your own* recent frames, honestly. The contrast is your syllabus for what to practice next.
 
 ### Shoot / Study
 1. **(20 min) Imitation study.** Pick one photographer whose work you love. Identify their three signature choices (e.g., "soft window light, centered subject, muted desaturated color"). Go make 5 frames deliberately in their style.
-2. **(20 min) Find your patterns.** Gather your best ~30 frames from the course so far. List what recurs — subjects, light, composition, mood. Write one sentence: *"My emerging style is ___."* (It's okay if it's tentative.)
+2. **(20 min) Find your patterns.** Gather your best ~30 frames from the course so far. List what recurs: subjects, light, composition, mood. Write one sentence: *"My emerging style is ___."* (It's okay if it's tentative.)
 3. **(15 min) Self-critique.** Run the 6-question framework on your two best and two weakest frames. For the weak ones, name the single change that would most improve each.
 
 ### Daily drill
-**Two-line critique, 3 min:** on any photo, write one line on what works and one on what you'd change — in craft vocabulary, not "nice" or "meh."
+**Two-line critique, 3 min:** on any photo, write one line on what works and one on what you'd change, in craft vocabulary, not "nice" or "meh."
 
 ### Self-check
 1. What *is* style, in one sentence?
@@ -294,18 +294,18 @@ Apply this to **great photos** (to learn what works) and to **your own** (to lea
 
 ---
 
-# Day 20 — Final Portfolio Workshop + Project 3
+# Day 20: Final Portfolio Workshop + Project 3
 
 A working studio day to build toward your final portfolio. Three things:
 
-### 1. Project 3 — Edit From the Negative
+### 1. Project 3: Edit From the Negative
 Do **Project 3** (`PROJECTS.md`): take one RAW frame through the *complete* 7-step workflow and document your recipe. This certifies Domain 8 (editing). Do it today.
 
-### 2. Plan the Final Portfolio — "Ten Frames"
+### 2. Plan the Final Portfolio: "Ten Frames"
 Your final deliverable (`PROJECTS.md`, due Day 21) is a coherent set of **ten edited photographs** with a point of view. Today:
-- **Choose a theme or thread** (a subject, a place, a mood, a genre from Day 18 — whatever pulls you from Day 19's self-study).
+- **Choose a theme or thread** (a subject, a place, a mood, a genre from Day 18, whatever pulls you from Day 19's self-study).
 - **Audit what you have.** Which existing course frames fit? What gaps must you shoot?
-- **Shoot to fill the gaps** today and tomorrow — deliberately, applying everything: intentional exposure, good light, strong composition, genre-appropriate technique.
+- **Shoot to fill the gaps** today and tomorrow, deliberately, applying everything: intentional exposure, good light, strong composition, genre-appropriate technique.
 - **Aim for coherence:** ten frames that feel like they belong together (consistent editing, a through-line) beat ten unrelated "greatest hits."
 
 ### 3. Shoot (60+ min)
@@ -318,7 +318,7 @@ Go make the portfolio frames you're missing. Treat every frame as graded: decide
 
 ---
 
-# Day 21 — Final Exam + Final Portfolio Due
+# Day 21: Final Exam + Final Portfolio Due
 
 The last day. Three things, in order:
 
@@ -326,7 +326,7 @@ The last day. Three things, in order:
 Cull to your strongest **ten frames**, edit them with a **consistent treatment** (Days 16–17), and export them properly (sRGB JPEGs for sharing). Write the short artist's statement the project requires (theme + what you were going for + how the choices serve it). Grade it against the Final Portfolio rubric in `PROJECTS.md`.
 
 ### 2. Take the Final Exam
-Take the **Final Exam** (`QUIZZES.md`), closed-book, then grade against `ANSWER-KEYS.md`. It's cumulative — exposure, light, composition, color, focus, workflow, and critique. **Pass = 90%.**
+Take the **Final Exam** (`QUIZZES.md`), closed-book, then grade against `ANSWER-KEYS.md`. It's cumulative: exposure, light, composition, color, focus, workflow, and critique. **Pass = 90%.**
 
 ### 3. Final self-assessment & what's next
 - Fill in the **Week 3 (final) column** of the `RUBRIC.md` score sheet across all nine domains. Be honest. Note which domains hit Level 4 and which need ongoing reps (Domains 5, 6, and 9, which are light, composition, and seeing, are *expected* to keep maturing for months; that's the lifelong part).

@@ -13,15 +13,15 @@
       ]
     },
     {
-      "title": "Week 1 — Foundations",
+      "title": "Week 1: Foundations",
       "lessons": [
         { "title": "Lectures 1–5", "path": "week1/lectures.md" },
         { "title": "Quiz 1", "path": "week1/quiz.md" },
-        { "title": "Project 1 — Minimal Harness", "path": "week1/project.md" }
+        { "title": "Project 1: Minimal Harness", "path": "week1/project.md" }
       ]
     },
     {
-      "title": "Week 2 — The Modern Landscape",
+      "title": "Week 2: The Modern Landscape",
       "lessons": [
         { "title": "Lectures 6–10", "path": "week2/lectures.md" },
         { "title": "Quiz 2", "path": "week2/quiz.md" },
@@ -29,11 +29,11 @@
       ]
     },
     {
-      "title": "Week 3 — Mastery",
+      "title": "Week 3: Mastery",
       "lessons": [
         { "title": "Lectures 11–15", "path": "week3/lectures.md" },
         { "title": "Final Exam", "path": "week3/quiz.md" },
-        { "title": "Capstone — prodharness", "path": "week3/capstone.md" }
+        { "title": "Capstone: prodharness", "path": "week3/capstone.md" }
       ]
     }
   ]

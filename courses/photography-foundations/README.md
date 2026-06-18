@@ -1,16 +1,16 @@
-# PHOT-10: Foundations of Photography & the Digital Camera — A 3-Week Intensive
+# PHOT-10: Foundations of Photography & the Digital Camera (A 3-Week Intensive)
 
 **Format:** Self-paced intensive, modeled on a college January-term studio course
 **Time commitment:** ~1.5–2 hours/day, 6 days/week, 3 weeks (one shoot/review day per week)
 **Prerequisites:** You own a digital camera and can turn it on. No prior photography knowledge assumed. No editing software required to begin (we add it in Week 3).
 
-> **Camera note:** This course teaches photography that transfers to *any* camera. But every example, menu path, and control reference is also given for the **Fujifilm X100VI**, so if that's your camera you can follow along control-for-control. If you shoot something else, ignore the green X100VI call-out boxes — the underlying concept is identical.
+> **Camera note:** This course teaches photography that transfers to *any* camera. But every example, menu path, and control reference is also given for the **Fujifilm X100VI**, so if that's your camera you can follow along control-for-control. If you shoot something else, ignore the green X100VI call-out boxes; the underlying concept is identical.
 
 ## What this course is (and isn't)
 
 This course covers **everything you need to make deliberate photographs and nothing more**:
 
-- How a camera turns light into an image — sensor, lens, and the exposure triangle
+- How a camera turns light into an image: sensor, lens, and the exposure triangle
 - Aperture, shutter speed, and ISO, and how to trade them against each other on purpose
 - Focus, depth of field, and getting tack-sharp shots every time
 - How light *behaves* and how to read it, indoors and out
@@ -25,14 +25,14 @@ It deliberately **omits** what beginners rarely need on day one: studio strobe l
 | File | Contents |
 |---|---|
 | [Syllabus](SYLLABUS.md) | Schedule, grading, daily structure, course policies |
-| [Rubric](RUBRIC.md) | The mastery rubric — your definition of "done" |
-| [Week 1 — The Camera & Exposure](week-1-camera-and-exposure.md) | Days 1–7: how a camera sees, the exposure triangle, modes, focus |
-| [Week 2 — Light & Composition](week-2-light-and-composition.md) | Days 8–14: reading light, composition, color & white balance |
-| [Week 3 — Craft & Workflow](week-3-craft-and-workflow.md) | Days 15–21: RAW, editing, genres, building a style |
+| [Rubric](RUBRIC.md) | The mastery rubric: your definition of "done" |
+| [Week 1: The Camera & Exposure](week-1-camera-and-exposure.md) | Days 1–7: how a camera sees, the exposure triangle, modes, focus |
+| [Week 2: Light & Composition](week-2-light-and-composition.md) | Days 8–14: reading light, composition, color & white balance |
+| [Week 3: Craft & Workflow](week-3-craft-and-workflow.md) | Days 15–21: RAW, editing, genres, building a style |
 | [Projects](PROJECTS.md) | The three graded projects + final portfolio spec |
 | [Quizzes](QUIZZES.md) | Weekly quizzes + final exam |
 | [Answer Keys](ANSWER-KEYS.md) | Answer keys for all quizzes and the final exam (no peeking) |
-| [Assignment Menu](DRILLS.md) | The full shooting-drill menu — build your own daily 20-minute practice |
+| [Assignment Menu](DRILLS.md) | The full shooting-drill menu; build your own daily 20-minute practice |
 | [Fujifilm X100VI Field Guide](SUPPLEMENT-x100vi.md) | A concept-by-concept control map for the X100VI |
 
 ## How to use this course
@@ -46,4 +46,4 @@ It deliberately **omits** what beginners rarely need on day one: studio strobe l
 
 ## A note on pace
 
-Three weeks is enough to understand every fundamental and to start using your camera on purpose instead of hoping. The "eye" — that quick, intuitive read of light and composition — takes years, and it never really stops developing. What you get here is the vocabulary, the technical control, and a daily habit, so that all those later years of shooting actually add up to something.
+Three weeks is enough to understand every fundamental and to start using your camera on purpose instead of hoping. The "eye" (that quick, intuitive read of light and composition) takes years, and it never really stops developing. What you get here is the vocabulary, the technical control, and a daily habit, so that all those later years of shooting actually add up to something.

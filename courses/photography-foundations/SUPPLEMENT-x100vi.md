@@ -1,8 +1,8 @@
-# Supplement — Fujifilm X100VI Field Guide
+# Supplement: Fujifilm X100VI Field Guide
 
 This is a concept-by-concept control map for the **Fujifilm X100VI**, the camera this course is tailored to. Everything taught in the lessons is camera-agnostic; this guide just tells you *which dial, ring, or menu* does each thing on the X100VI, plus a few setups that make the camera sing. Keep it open beside the week lessons.
 
-> If you shoot a different camera, you can ignore this file — but the conceptual sidebars (why each setting exists) still apply.
+> If you shoot a different camera, you can ignore this file, but the conceptual sidebars (why each setting exists) still apply.
 
 ---
 
@@ -10,15 +10,15 @@ This is a concept-by-concept control map for the **Fujifilm X100VI**, the camera
 
 - **Sensor:** 40MP APS-C (X-Trans CMOS 5 HR).
 - **Lens:** fixed **23mm f/2** = **35mm-equivalent** field of view. Doesn't zoom, doesn't detach. This is the whole philosophy: one focal length, move your feet, learn to see.
-- **Stabilization:** in-body, ~6 stops — handhold *slow* (but it won't freeze a moving subject; see Day 3).
+- **Stabilization:** in-body, ~6 stops; handhold *slow* (but it won't freeze a moving subject; see Day 3).
 - **Built-in 4-stop ND filter:** toggle in the menu or via a Fn button. Lets you (a) shoot f/2 in bright sun and (b) drag the shutter for daytime motion blur.
-- **Hybrid viewfinder:** flip the front lever to switch between the **OVF** (optical, see-through, with electronic overlays) and the **EVF** (electronic, true exposure preview). Use the **EVF** while learning exposure — it shows the photo's actual brightness before you shoot.
+- **Hybrid viewfinder:** flip the front lever to switch between the **OVF** (optical, see-through, with electronic overlays) and the **EVF** (electronic, true exposure preview). Use the **EVF** while learning exposure; it shows the photo's actual brightness before you shoot.
 - **Leaf shutter:** near-silent; flash syncs at *any* shutter speed.
 - **Tilting LCD:** for waist-level (candid) and overhead shots.
 
 ---
 
-## 2. The physical controls — and how they pick your mode
+## 2. The physical controls and how they pick your mode
 
 The X100VI has **no PASM mode dial.** Instead, three dedicated controls each have an **A** (auto) position, and *which ones are on A* is your mode:
 
@@ -61,17 +61,17 @@ The X100VI has **no PASM mode dial.** Instead, three dedicated controls each hav
 
 ### "Street / everyday" default (set once, shoot all day)
 - **Mode:** Aperture-priority (shutter dial → A), aperture ring → **f/8**.
-- **Auto-ISO:** set a custom Auto-ISO bank — base 125, **max 6400**, **min shutter 1/125** (or 1/250 if you want action-safe). Now you only think about aperture and the moment.
-- **Focus:** S (single) with Face/Eye Detection on — *or* switch to **M + zone focus** (f/8, distance ~2.5–3 m on the DoF scale) for zero-lag capture.
+- **Auto-ISO:** set a custom Auto-ISO bank: base 125, **max 6400**, **min shutter 1/125** (or 1/250 if you want action-safe). Now you only think about aperture and the moment.
+- **Focus:** S (single) with Face/Eye Detection on, *or* switch to **M + zone focus** (f/8, distance ~2.5–3 m on the DoF scale) for zero-lag capture.
 - **Film sim:** **Classic Chrome** (muted, documentary) or **Classic Neg**.
 - **Image quality:** RAW+JPEG so you keep the negative.
-- **Viewfinder:** OVF for street (you see *outside* the frame lines — anticipate subjects entering); EVF when you want exposure preview.
+- **Viewfinder:** OVF for street (you see *outside* the frame lines, so you can anticipate subjects entering); EVF when you want exposure preview.
 
 ### "Portrait" setup
 - **Mode:** Aperture-priority, **f/2–f/4** (f/2 for max blur but watch critical focus; f/2.8–f/4 for sharp + creamy).
 - **ND filter ON** if you're at f/2 in bright sun.
 - **Focus:** S + **Eye Detection**; or single point on the near eye via the joystick.
-- **Light:** window light or open shade or golden hour (Week 2). Mind your *distance* — at 35mm-equiv., shoot environmental/half-body rather than tight headshots to avoid feature distortion.
+- **Light:** window light or open shade or golden hour (Week 2). Mind your *distance*: at 35mm-equiv., shoot environmental/half-body rather than tight headshots to avoid feature distortion.
 - **Film sim:** Astia (soft) or Provia (standard); or RAW for full control.
 
 ### "Landscape" setup
@@ -85,7 +85,7 @@ The X100VI has **no PASM mode dial.** Instead, three dedicated controls each hav
 
 ---
 
-## 5. Film simulations — the X100VI's signature
+## 5. Film simulations: the X100VI's signature
 
 Fujifilm's in-camera color science is a genuine reason to enjoy JPEGs. Quick guide:
 
@@ -108,9 +108,9 @@ Fujifilm's in-camera color science is a genuine reason to enjoy JPEGs. Quick gui
 
 ## 6. Quick habits that make the X100VI great
 
-- **Use the EVF exposure preview while learning** — seeing the brightness before the shutter is the fastest way to internalize Week 1.
+- **Use the EVF exposure preview while learning**: seeing the brightness before the shutter is the fastest way to internalize Week 1.
 - **Master the focus stick** so you place the AF point on the eye without lowering the camera.
-- **Learn zone focusing** (M + f/8 + ~2.5 m) — with no focus lag to wait on, it's about as fast as street shooting gets.
+- **Learn zone focusing** (M + f/8 + ~2.5 m): with no focus lag to wait on, it's about as fast as street shooting gets.
 - **Assign the ND filter and Film Sim to Fn buttons / the Q menu** for fast access.
 - **Embrace the single focal length.** Don't fight the 35mm view; learn it. Once you can tell what your one lens will capture before you raise it to your eye, you compose faster and more deliberately than most zoom shooters ever bother to.
 - **Carry it everywhere.** This camera earns its keep by being small enough to always have on you. The best camera is the one in your hand, and the best practice is daily.

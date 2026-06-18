@@ -1,4 +1,4 @@
-# Syllabus — MUS-21G: Applied Music Theory for Guitar
+# MUS-21G Syllabus: Applied Music Theory for Guitar
 
 ## Course description
 
@@ -9,7 +9,7 @@ A three-week intensive in practical music theory for guitarists. Students learn 
 By the end of this course you will be able to:
 
 1. **Name any note** on any string, any fret, within ~3 seconds.
-2. **Construct and play** the major scale, three minor scales, major/minor pentatonics, the blues scale, and all seven modes — in any key, in multiple positions.
+2. **Construct and play** the major scale, three minor scales, major/minor pentatonics, the blues scale, and all seven modes, in any key, in multiple positions.
 3. **Build any chord** (major, minor, diminished, augmented, sus, all 7th types, common extensions) from its formula, and find at least two voicings for it on the neck.
 4. **Analyze** the key and chord progression of a song using Roman numerals, and identify common devices (cadences, borrowed chords, secondary dominants, key changes).
 5. **Hear** the difference between intervals, chord qualities, and the most common progressions.
@@ -17,7 +17,7 @@ By the end of this course you will be able to:
 
 ## Schedule overview
 
-### Week 1 — Foundations: Notes, Intervals, Scales, Keys
+### Week 1: Foundations (Notes, Intervals, Scales, Keys)
 | Day | Topic |
 |---|---|
 | 1 | The musical alphabet and the fretboard map |
@@ -28,7 +28,7 @@ By the end of this course you will be able to:
 | 6 | **Quiz 1** + Project 1 (Fretboard Atlas) |
 | 7 | Rest / review + Rhythm supplement, Part 1 (note values, meter, counting) |
 
-### Week 2 — Harmony: Chords and Progressions
+### Week 2: Harmony (Chords and Progressions)
 | Day | Topic |
 |---|---|
 | 8 | Triads: building chords from scales |
@@ -39,7 +39,7 @@ By the end of this course you will be able to:
 | 13 | **Quiz 2** + Project 2 (The Songwriter's Toolkit) |
 | 14 | Rest / review + Rhythm supplement, Part 2 (syncopation, swing, harmonic rhythm) |
 
-### Week 3 — Application: Minor, Blues, Modes, and Real Music
+### Week 3: Application (Minor, Blues, Modes, and Real Music)
 | Day | Topic |
 |---|---|
 | 15 | Minor keys: natural, harmonic, melodic; relative & parallel |
@@ -65,13 +65,13 @@ By the end of this course you will be able to:
 |---|---|
 | Quiz 1 (Week 1) | 10% |
 | Quiz 2 (Week 2) | 10% |
-| Project 1 — Fretboard Atlas | 10% |
-| Project 2 — Songwriter's Toolkit | 15% |
-| Project 3 — Song Analysis Portfolio | 15% |
-| Final Project — Original Composition | 25% |
+| Project 1: Fretboard Atlas | 10% |
+| Project 2: Songwriter's Toolkit | 15% |
+| Project 3: Song Analysis Portfolio | 15% |
+| Final Project: Original Composition | 25% |
 | Final Exam | 15% |
 
-Grade yourself against `RUBRIC.md`. **Mastery threshold: 90%.** If you score below 90% on a quiz, re-study that week's material on the rest day before moving on — the course is cumulative and gaps compound.
+Grade yourself against `RUBRIC.md`. **Mastery threshold: 90%.** If you score below 90% on a quiz, re-study that week's material on the rest day before moving on; the course is cumulative and gaps compound.
 
 ## Course policies (yes, even self-taught courses need them)
 
