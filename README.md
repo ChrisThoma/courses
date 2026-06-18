@@ -1,6 +1,6 @@
 # christhoma · Courses
 
-A zero-build static site that renders markdown courses into a clean, navigable web viewer. Hosted on GitHub Pages. No framework, no build step, no dependencies to install — just static files and two CDN scripts (markdown rendering + syntax highlighting).
+A zero-build static site that renders markdown courses into a clean, navigable web viewer. Hosted on GitHub Pages. No framework, no build step, no dependencies to install: just static files and two CDN scripts (markdown rendering + syntax highlighting).
 
 **Live site:** `https://christhoma.github.io/<repo>/` (see Deployment below)
 
@@ -34,7 +34,7 @@ That's the whole authoring loop. Write markdown, describe it in one manifest, pu
 
 ## Manifest formats
 
-**`courses.json`** (hub — lists every course):
+**`courses.json`** (hub, lists every course):
 ```json
 {
   "site": { "title": "christhoma · Courses", "tagline": "…", "author": "christhoma" },
@@ -51,7 +51,7 @@ That's the whole authoring loop. Write markdown, describe it in one manifest, pu
 }
 ```
 
-**`courses/<slug>/course.json`** (one course — its table of contents):
+**`courses/<slug>/course.json`** (one course, its table of contents):
 ```json
 {
   "title": "My Course",
@@ -73,11 +73,11 @@ That's the whole authoring loop. Write markdown, describe it in one manifest, pu
 
 ## Features the engine gives every course for free
 
-- Hash-based routing (`#/<slug>/<section>/<lesson>`) — works on GitHub Pages with no server config and survives refresh/deep-links.
+- Hash-based routing (`#/<slug>/<section>/<lesson>`): works on GitHub Pages with no server config and survives refresh/deep-links.
 - Sidebar nav generated from the manifest, with **per-lesson progress** (visited lessons get a check, stored in `localStorage`).
 - GitHub-flavored markdown: tables, code fences, blockquotes, task lists.
 - Syntax highlighting (highlight.js) and a right-rail **table of contents** with scroll-spy.
-- **Internal `.md` links are auto-rewritten** to in-app routes — your lessons can link to each other with normal relative paths (e.g. `../RESOURCES.md`) and navigation stays in the SPA. External links open in a new tab.
+- **Internal `.md` links are auto-rewritten** to in-app routes: your lessons can link to each other with normal relative paths (e.g. `../RESOURCES.md`) and navigation stays in the SPA. External links open in a new tab.
 - Light/dark theme toggle (persisted), responsive layout with a mobile drawer.
 - Per-course `accent` color pulled from the manifest.
 
@@ -93,11 +93,11 @@ python3 -m http.server 8000
 
 ## Deployment (GitHub Pages)
 
-The `.nojekyll` file is required — it stops GitHub from running Jekyll, which would otherwise mangle the `courses/` markdown. After pushing this repo to GitHub:
+The `.nojekyll` file is required: it stops GitHub from running Jekyll, which would otherwise mangle the `courses/` markdown. After pushing this repo to GitHub:
 
 - **Settings → Pages → Build and deployment → Source: Deploy from a branch → `main` / root.**
 
-Then the site is live at `https://christhoma.github.io/<repo-name>/`. Hash routing and relative paths mean it works identically at a repo subpath or at the user-site root — nothing to configure.
+Then the site is live at `https://christhoma.github.io/<repo-name>/`. Hash routing and relative paths mean it works identically at a repo subpath or at the user-site root: nothing to configure.
 
 See `DEPLOY.md` for the exact commands.
 

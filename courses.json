@@ -9,7 +9,7 @@
       "slug": "agentic-harness-engineering",
       "title": "Agentic Harness Engineering",
       "subtitle": "CS 2960 · A 3-week graduate-style intensive",
-      "description": "Master the architecture of modern AI agent harnesses — the loop, tools, context, security, and evaluation — by building one from scratch and tearing down the production ones.",
+      "description": "Master the architecture of modern AI agent harnesses (the loop, tools, context, security, and evaluation) by building one from scratch and tearing down the production ones.",
       "tags": ["AI Agents", "LLMs", "Systems", "3 weeks"],
       "accent": "#6d5dfc"
     },
@@ -17,7 +17,7 @@
       "slug": "guitar-music-theory",
       "title": "Applied Music Theory for Guitar",
       "subtitle": "MUS-21G · A 3-week intensive",
-      "description": "Master practical music theory entirely on the fretboard — intervals, scales, chord construction, Roman numeral analysis, minor keys, blues, and modes — through daily lectures, drills, quizzes, and composition projects.",
+      "description": "Master practical music theory entirely on the fretboard (intervals, scales, chord construction, Roman numeral analysis, minor keys, blues, and modes) through daily lectures, drills, quizzes, and composition projects.",
       "tags": ["Music Theory", "Guitar", "Ear Training", "3 weeks"],
       "accent": "#d97706"
     },
@@ -25,7 +25,7 @@
       "slug": "photography-foundations",
       "title": "Foundations of Photography & the Digital Camera",
       "subtitle": "PHOT-10 · A 3-week intensive",
-      "description": "Go from Auto to intentional — the exposure triangle, focus, reading and using light, the grammar of composition, color, and a complete RAW editing workflow — through daily lectures, shooting assignments, quizzes, and projects. Tailored to the Fujifilm X100VI.",
+      "description": "Go from Auto to intentional (the exposure triangle, focus, reading and using light, the grammar of composition, color, and a complete RAW editing workflow) through daily lectures, shooting assignments, quizzes, and projects. Tailored to the Fujifilm X100VI.",
       "tags": ["Photography", "Digital Camera", "Fujifilm X100VI", "3 weeks"],
       "accent": "#0ea5e9"
     },
@@ -33,15 +33,15 @@
       "slug": "sampling_course",
       "title": "The Art of Sampling in Ableton Live",
       "subtitle": "MUS-44S · A 3-week production intensive",
-      "description": "Turn any sound into music. A hands-on course in sample-based production in Ableton Live — chopping breaks, multisampling instruments, designing sound by resampling, arranging loops into a finished track, mixing it, and clearing it legally — through daily lectures, labs, quizzes, and three production projects.",
+      "description": "Turn any sound into music. A hands-on course in sample-based production in Ableton Live (chopping breaks, multisampling instruments, designing sound by resampling, arranging loops into a finished track, mixing it, and clearing it legally) through daily lectures, labs, quizzes, and three production projects.",
       "tags": ["Music Production", "Ableton Live", "Sampling", "3 weeks"],
       "accent": "#db2777"
     },
     {
       "slug": "outdoor-garden-care-pittsburgh",
-      "title": "The Home Garden — Pittsburgh",
+      "title": "The Home Garden: Pittsburgh",
       "subtitle": "HORT E-15 · A 3-week intensive",
-      "description": "Build and keep a healthy home garden in Pittsburgh's Zone 6b — reading your site and clay soil, choosing and caring for plants, winning the war on weeds and invasives, and running a year-round maintenance system — through daily lectures, field labs, quizzes, and hands-on projects you can do in any season.",
+      "description": "Build and keep a healthy home garden in Pittsburgh's Zone 6b (reading your site and clay soil, choosing and caring for plants, winning the war on weeds and invasives, and running a year-round maintenance system) through daily lectures, field labs, quizzes, and hands-on projects you can do in any season.",
       "tags": ["Gardening", "Soil & Plants", "Pittsburgh / Zone 6b", "3 weeks"],
       "accent": "#2f9e44"
     },
@@ -49,7 +49,7 @@
       "slug": "clawhammer-course",
       "title": "Clawhammer Banjo: Frailing, Tunes & the Old-Time Tradition",
       "subtitle": "MUS-17 · A 3-week intensive",
-      "description": "Go from never having held a banjo to playing real old-time tunes with a steady, danceable groove — the clawhammer striking hand and bum-ditty, hammer-ons, pull-offs, slides, and drop-thumb, a working repertoire (Cripple Creek, Old Joe Clark, Shady Grove), learning tunes by ear, alternate tunings, and the music's African-to-Appalachian history — through daily lectures, slow practice, quizzes, and recorded projects.",
+      "description": "Go from never having held a banjo to playing real old-time tunes with a steady, danceable groove: the clawhammer striking hand and bum-ditty, hammer-ons, pull-offs, slides, and drop-thumb, a working repertoire (Cripple Creek, Old Joe Clark, Shady Grove), learning tunes by ear, alternate tunings, and the music's African-to-Appalachian history, through daily lectures, slow practice, quizzes, and recorded projects.",
       "tags": ["Banjo", "Old-Time Music", "Clawhammer", "3 weeks"],
       "accent": "#b45309"
     },

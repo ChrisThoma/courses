@@ -1,8 +1,8 @@
 # Deploying to GitHub Pages
 
-This repo is a static site — no build step. GitHub Pages serves it as-is (the `.nojekyll` file disables Jekyll processing so the `courses/` markdown is served untouched).
+This repo is a static site: no build step. GitHub Pages serves it as-is (the `.nojekyll` file disables Jekyll processing so the `courses/` markdown is served untouched).
 
-## Option A — Dedicated project repo (recommended)
+## Option A: Dedicated project repo (recommended)
 
 Lives at `https://christhoma.github.io/courses/`. Keeps your courses separate from anything in your existing user site.
 
@@ -16,9 +16,9 @@ gh api -X POST repos/ChrisThoma/courses/pages -f source.branch=main -f source.pa
 
 Wait ~1 minute, then open: **https://christhoma.github.io/courses/**
 
-## Option B — Your existing user site (`ChrisThoma.github.io`)
+## Option B: Your existing user site (`ChrisThoma.github.io`)
 
-Serves at the root `https://christhoma.github.io/`. ⚠️ This repo already exists and has content — only do this if you want the course hub to *be* your homepage (or you put it in a subfolder). To avoid clobbering, the safest form is a subfolder:
+Serves at the root `https://christhoma.github.io/`. ⚠️ This repo already exists and has content: only do this if you want the course hub to *be* your homepage (or you put it in a subfolder). To avoid clobbering, the safest form is a subfolder:
 
 ```bash
 # clone your existing user site, drop this site into a subfolder, push
@@ -38,7 +38,7 @@ Pages redeploys automatically within a minute.
 
 ## Adding a new course (no code changes)
 
-1. `courses/<new-slug>/` — drop your markdown in.
-2. `courses/<new-slug>/course.json` — define sections → lessons.
+1. `courses/<new-slug>/`: drop your markdown in.
+2. `courses/<new-slug>/course.json`: define sections → lessons.
 3. Add the course to `courses.json`.
 4. Commit and push.
