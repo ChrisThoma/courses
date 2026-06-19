@@ -1,0 +1,49 @@
+{
+  "title": "Sampling & Beatmaking on the SP-404 MK2",
+  "subtitle": "MUS-45H · A 3-week hardware sampling intensive",
+  "description": "Go from never having touched a sampler to making real beats on the Roland SP-404 MK2. A hands-on course in hardware sampling: getting sound in and out, recording and trimming a sample, chopping a break, building a drum kit, programming the pattern sequencer, resampling, the SP's signature effects, and arranging it all into a finished track. Built for the absolute beginner, taught through daily lectures, machine time, quizzes, and three production projects.",
+  "accent": "#0d9488",
+  "sections": [
+    {
+      "title": "Start Here",
+      "lessons": [
+        { "title": "Course Overview & How to Practice", "path": "README.md" },
+        { "title": "Syllabus", "path": "SYLLABUS.md" },
+        { "title": "Mastery Rubric", "path": "RUBRIC.md" },
+        { "title": "Field Guide: The Machine, Shortcuts & Resources", "path": "FIELD-GUIDE.md" }
+      ]
+    },
+    {
+      "title": "Week 1: The Machine & The Sample",
+      "lessons": [
+        { "title": "Days 1–7: Signal Flow, Playing Pads, Recording, Trimming, Pitch, Your First Loop", "path": "week-1-the-machine-and-the-sample.md" }
+      ]
+    },
+    {
+      "title": "Week 2: Chopping & Drums",
+      "lessons": [
+        { "title": "Days 8–14: Chopping, Finger Drumming, Drum Kits, the Sequencer, Groove, Resampling", "path": "week-2-chopping-and-drums.md" }
+      ]
+    },
+    {
+      "title": "Week 3: Sound, Arrangement & The Track",
+      "lessons": [
+        { "title": "Days 15–21: Effects, Bass & Melody, Arrangement, Mixing, Your Finished Track", "path": "week-3-sound-and-arrangement.md" }
+      ]
+    },
+    {
+      "title": "Practice",
+      "lessons": [
+        { "title": "Practice Menu (Drills)", "path": "DRILLS.md" }
+      ]
+    },
+    {
+      "title": "Assessments",
+      "lessons": [
+        { "title": "Projects (1–3 + Final Track)", "path": "PROJECTS.md" },
+        { "title": "Quizzes & Final Exam", "path": "QUIZZES.md" },
+        { "title": "Answer Keys", "path": "ANSWER-KEYS.md" }
+      ]
+    }
+  ]
+}
