@@ -1,0 +1,49 @@
+{
+  "title": "Operating the SP-404 MK2: The Complete Machine Guide",
+  "subtitle": "MUS-40H · A 3-week machine-operation intensive",
+  "description": "Learn to operate the Roland SP-404 MK2 with confidence, end to end. Not a beatmaking course: a complete beginner's tour of the machine itself, how it is built and how you drive it. Navigation and the menu system, every input and output, the pads and performance controls, the four-bus effects engine, the pattern sequencer, resampling, DJ mode, and connecting the SP to a computer over USB audio and MIDI. By the end you can find any function, route any signal, and use every major subsystem, taught through daily lectures, machine time, quizzes, and three hands-on projects.",
+  "accent": "#ea580c",
+  "sections": [
+    {
+      "title": "Start Here",
+      "lessons": [
+        { "title": "Course Overview & How to Use It", "path": "README.md" },
+        { "title": "Syllabus", "path": "SYLLABUS.md" },
+        { "title": "Mastery Rubric", "path": "RUBRIC.md" },
+        { "title": "Machine Reference: Layout, Signal Flow, Shortcuts & Resources", "path": "SUPPLEMENT-machine-reference.md" }
+      ]
+    },
+    {
+      "title": "Week 1: The Machine, Navigation & Signal",
+      "lessons": [
+        { "title": "Days 1–7: Anatomy, Navigation, I/O, Pads, Recording, Editing & Saving", "path": "week-1-the-machine-and-navigation.md" }
+      ]
+    },
+    {
+      "title": "Week 2: The Engines (Effects, Sequencer, Resampling)",
+      "lessons": [
+        { "title": "Days 8–14: The Bus FX Engine, the Pattern Sequencer, the Looper & Resampling", "path": "week-2-the-engines.md" }
+      ]
+    },
+    {
+      "title": "Week 3: The Machine Connected",
+      "lessons": [
+        { "title": "Days 15–21: DJ Mode, USB Audio, MIDI, File Management & Full Operation", "path": "week-3-connected.md" }
+      ]
+    },
+    {
+      "title": "Practice",
+      "lessons": [
+        { "title": "Practice Menu (Drills)", "path": "DRILLS.md" }
+      ]
+    },
+    {
+      "title": "Assessments",
+      "lessons": [
+        { "title": "Projects (1–3 + Final Operator's Demo)", "path": "PROJECTS.md" },
+        { "title": "Quizzes & Final Exam", "path": "QUIZZES.md" },
+        { "title": "Answer Keys", "path": "ANSWER-KEYS.md" }
+      ]
+    }
+  ]
+}
