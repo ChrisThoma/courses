@@ -92,6 +92,14 @@
       "description": "Go from never having run a game to building and running your own Dungeons & Dragons campaign on the 2024 ruleset: the DM's job and the gameplay loop, adjudicating the d20 and the new 2024 actions, running exploration, social, and combat, low-prep adventure design, the 2024 encounter math, worldbuilding only what you use, NPCs and factions, treasure and bastions, rulings over rules, and keeping a campaign alive, through daily lectures, prep labs, quizzes, and three projects that ladder into a playable campaign you run at the table.",
       "tags": ["Dungeons & Dragons", "Game Mastering", "5e 2024", "3 weeks"],
       "accent": "#9333ea"
+    },
+    {
+      "slug": "tascam-424-home-recording",
+      "title": "Home Recording on the Tascam 424 MKIII: Guitar & Bass to Tape",
+      "subtitle": "REC-24 · A 3-week home-recording intensive",
+      "description": "Go from never having recorded to capturing real multitrack guitar and bass songs on a 4-track cassette Portastudio, then finishing them in a computer. Learn the Tascam 424 MKIII end to end: signal flow and gain staging, getting guitar, bass, and pedals in cleanly, recording to tape with dbx, keeping time to a click track, overdubbing, punching in, bouncing tracks, mixing on the built-in board, and transferring out to Ableton Live as a stereo bounce or four stems, through daily lectures, machine time, quizzes, and three recording projects.",
+      "tags": ["Home Recording", "Tascam 424 MKIII", "Guitar & Bass", "3 weeks"],
+      "accent": "#155e75"
     }
   ]
 }
