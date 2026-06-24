@@ -1,0 +1,49 @@
+{
+  "title": "Home Recording on the Tascam 424 MKIII: Guitar & Bass to Tape",
+  "subtitle": "REC-24 · A 3-week home-recording intensive",
+  "description": "Go from never having recorded to capturing real multitrack guitar and bass songs on a 4-track cassette Portastudio, then pulling them into a computer to finish. A hands-on course in the Tascam 424 MKIII: signal flow and gain staging, getting guitar, bass, and pedals into the machine cleanly, recording to tape with dbx, keeping time to a click track, overdubbing, punching in, bouncing tracks to free up space, mixing on the built-in board, and transferring the result to Ableton Live as a stereo bounce or as four separate stems. Taught through daily lectures, machine time at the controls, quizzes, and three recording projects that build into a finished song.",
+  "accent": "#155e75",
+  "sections": [
+    {
+      "title": "Start Here",
+      "lessons": [
+        { "title": "Course Overview & How to Use It", "path": "README.md" },
+        { "title": "Syllabus", "path": "SYLLABUS.md" },
+        { "title": "Mastery Rubric", "path": "RUBRIC.md" },
+        { "title": "Machine Reference: Signal Flow, Connections, dbx & Resources", "path": "SUPPLEMENT-machine-reference.md" }
+      ]
+    },
+    {
+      "title": "Week 1: The Machine & Your First Track",
+      "lessons": [
+        { "title": "Days 1–7: The Machine, Signal Flow, Gain, Pedals In, Recording to Tape", "path": "week-1-the-machine-and-your-first-track.md" }
+      ]
+    },
+    {
+      "title": "Week 2: Multitrack & Time",
+      "lessons": [
+        { "title": "Days 8–14: The Click Track, Overdubbing, Punch-In, Bouncing, Pedals & Tone", "path": "week-2-multitrack-and-time.md" }
+      ]
+    },
+    {
+      "title": "Week 3: Mix, Transfer & Finish",
+      "lessons": [
+        { "title": "Days 15–21: Mixing on the 424, the Mixdown, Transferring to Ableton, Finishing", "path": "week-3-mix-transfer-and-finish.md" }
+      ]
+    },
+    {
+      "title": "Practice",
+      "lessons": [
+        { "title": "Practice Menu (Drills)", "path": "DRILLS.md" }
+      ]
+    },
+    {
+      "title": "Assessments",
+      "lessons": [
+        { "title": "Projects (1–3 + Final Tape-to-DAW Single)", "path": "PROJECTS.md" },
+        { "title": "Quizzes & Final Exam", "path": "QUIZZES.md" },
+        { "title": "Answer Keys", "path": "ANSWER-KEYS.md" }
+      ]
+    }
+  ]
+}
