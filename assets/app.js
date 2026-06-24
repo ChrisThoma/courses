@@ -170,16 +170,20 @@ const App = (() => {
         return;
       }
       if (href.startsWith('#')) return; // in-page anchor
+      const hashAt = href.indexOf('#');
+      const frag = hashAt >= 0 ? href.slice(hashAt) : ''; // keep '#section' to deep-link
       const cleaned = href.split('#')[0].split('?')[0];
       if (cleaned.endsWith('.md')) {
         const resolved = resolveRelative(lesson.path, cleaned);
         const route = lessonRouteForPath(resolved);
-        if (route) a.setAttribute('href', route);
+        if (route) a.setAttribute('href', route + frag);
       }
     });
 
-    // Heading anchors + IDs for the TOC.
-    article.querySelectorAll('h2, h3').forEach((node) => {
+    // Heading anchors + IDs. h1 is included so cross-lesson deep-links to
+    // top-level sections (e.g. a Field Guide "Part N" heading) resolve; the
+    // TOC itself still lists only h2/h3.
+    article.querySelectorAll('h1, h2, h3').forEach((node) => {
       if (!node.id) node.id = slug(node.textContent);
     });
 
@@ -279,6 +283,14 @@ const App = (() => {
       document.documentElement.style.setProperty('--accent', state.course.accent);
   }
 
+  // Scroll to a heading after a fresh lesson render (the rAF lets layout settle).
+  function scrollToAnchor(id) {
+    requestAnimationFrame(() => {
+      const target = document.getElementById(id);
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  }
+
   async function route() {
     const hash = location.hash || '#/';
     if (!hash.startsWith('#/')) {
@@ -289,7 +301,12 @@ const App = (() => {
     }
     state.currentRoute = hash;
 
-    const parts = hash.replace(/^#\/?/, '').split('/').filter(Boolean);
+    // A lesson route can carry a trailing in-page target: #/slug/s/l#section-id
+    const routeStr = hash.replace(/^#\//, '');
+    const hashAt = routeStr.indexOf('#');
+    const targetId = hashAt >= 0 ? routeStr.slice(hashAt + 1) : '';
+    const parts = (hashAt >= 0 ? routeStr.slice(0, hashAt) : routeStr)
+      .split('/').filter(Boolean);
 
     try {
       if (parts.length === 0) return renderHub();
@@ -303,6 +320,7 @@ const App = (() => {
       await loadCourse(slugName);
       if (s === undefined) return renderCourseHome();
       await renderLesson(parseInt(s, 10) || 0, parseInt(l, 10) || 0);
+      if (targetId) scrollToAnchor(targetId);
     } catch (e) {
       el.content.innerHTML = `<div class="error"><h1>Something went wrong</h1>
         <p>${h(e.message)}</p><p><a href="#/">Back to all courses →</a></p></div>`;

@@ -84,6 +84,14 @@
       "description": "Move from simple present-tense sentences to talking about anything, in any time frame. An intermediate course in the structures that unlock fluency: the preterite and imperfect and choosing between them, object pronouns, reflexives, commands, the future and conditional, the perfect tenses, comparisons, por vs. para, and the present subjunctive, through daily lectures, handwritten conjugation and composition, spaced repetition, speaking drills, quizzes, and projects.",
       "tags": ["Spanish", "Grammar", "Conversation", "3 weeks"],
       "accent": "#b91c1c"
+    },
+    {
+      "slug": "dungeon-master-5e-2024",
+      "title": "Dungeon Mastering: Running D&D 5e (2024)",
+      "subtitle": "DM-101 · A 3-week intensive",
+      "description": "Go from never having run a game to building and running your own Dungeons & Dragons campaign on the 2024 ruleset: the DM's job and the gameplay loop, adjudicating the d20 and the new 2024 actions, running exploration, social, and combat, low-prep adventure design, the 2024 encounter math, worldbuilding only what you use, NPCs and factions, treasure and bastions, rulings over rules, and keeping a campaign alive, through daily lectures, prep labs, quizzes, and three projects that ladder into a playable campaign you run at the table.",
+      "tags": ["Dungeons & Dragons", "Game Mastering", "5e 2024", "3 weeks"],
+      "accent": "#9333ea"
     }
   ]
 }

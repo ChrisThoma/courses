@@ -1,0 +1,49 @@
+{
+  "title": "Dungeon Mastering: Running D&D 5e (2024)",
+  "subtitle": "DM-101 · A 3-week intensive",
+  "description": "Go from never having run a game to confidently building and running your own Dungeons & Dragons campaign on the 2024 ruleset: the DM's real job and the gameplay loop, adjudicating the d20 and the new 2024 actions, running the three pillars (exploration, social, combat), low-prep adventure design, the 2024 encounter math, worldbuilding only what you use, NPCs and factions, treasure and magic items, bastions and downtime, running a session live, rulings over rules, and keeping a campaign alive over time. Built through daily lectures, prep labs, quizzes, and three projects that ladder into a playable campaign you run at the table.",
+  "accent": "#9333ea",
+  "sections": [
+    {
+      "title": "Start Here",
+      "lessons": [
+        { "title": "Course Overview & How to Study", "path": "README.md" },
+        { "title": "Syllabus", "path": "SYLLABUS.md" },
+        { "title": "Mastery Rubric", "path": "RUBRIC.md" },
+        { "title": "Field Guide: The DM's Screen & Toolkit", "path": "SUPPLEMENT-dm-toolkit.md" }
+      ]
+    },
+    {
+      "title": "Week 1: How the Game Runs",
+      "lessons": [
+        { "title": "Days 1–7: The Role, the Loop, Adjudication, and the Three Pillars", "path": "week-1-how-the-game-runs.md" }
+      ]
+    },
+    {
+      "title": "Week 2: The Craft",
+      "lessons": [
+        { "title": "Days 8–14: Prep, Encounters, Adventures, Worlds, NPCs & Treasure", "path": "week-2-the-craft.md" }
+      ]
+    },
+    {
+      "title": "Week 3: Running & Sustaining",
+      "lessons": [
+        { "title": "Days 15–21: At the Table, Rulings, the Campaign Over Time, and Session 1", "path": "week-3-running-and-sustaining.md" }
+      ]
+    },
+    {
+      "title": "Practice",
+      "lessons": [
+        { "title": "Practice Menu (DM Drills)", "path": "DRILLS.md" }
+      ]
+    },
+    {
+      "title": "Assessments",
+      "lessons": [
+        { "title": "Projects (1–3 + Final: Run Session 1)", "path": "PROJECTS.md" },
+        { "title": "Quizzes & Final Exam", "path": "QUIZZES.md" },
+        { "title": "Answer Keys", "path": "ANSWER-KEYS.md" }
+      ]
+    }
+  ]
+}
