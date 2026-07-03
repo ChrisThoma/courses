@@ -53,7 +53,7 @@ The other half is **navigation reps**. Fluency with the SP is mostly knowing whe
 
 ## How to use the course
 
-Work one day at a time, in order; each day assumes the last. Budget **45 to 75 minutes**. Read the short lecture *with the machine on*, doing each small example as you hit it, then spend the bulk of the time on that day's machine task. Answer the self-check from memory before you stop, and save your project.
+Work one day at a time, in order; each day assumes the last. Budget **45 to 75 minutes**. Read the short lecture *with the machine on*, doing each small example as you hit it, then spend the bulk of the time on that day's machine task. Answer the self-check from memory before you stop. The SP saves as you go; your job is the weekly backup.
 
 Two things before Day 1: **update your firmware** (Machine Reference, top), and **read the first five sections of the [Machine Reference](SUPPLEMENT-machine-reference.md)**. Everything after assumes you have.
 

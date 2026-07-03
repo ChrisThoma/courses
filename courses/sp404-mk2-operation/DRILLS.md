@@ -13,9 +13,9 @@ Operation is muscle memory and map memory. These drills build the reflexes that 
 
 1. **No notes, no peeking.** A drill you do with the manual open trains the wrong thing. If you cannot do it cold, that *is* the signal of what to practice.
 2. **Read the screen out loud.** Saying what each knob and pad does right now is how the navigation logic sets in.
-3. **Save before and after risky drills** (anything that copies, deletes, or reorganizes). Drills should never cost you real work.
+3. **Back up before risky drills** (anything that copies, deletes, or reorganizes). The machine writes changes as you make them, so the backup is the undo. Drills should never cost you real work.
 4. **Time the slow ones loosely.** "Reach any setting in 10 seconds" is a real target; watch it drop over the weeks.
-5. **End on a clean save.** Always.
+5. **Keep the weekly backup current.** Always.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Course description
 
-A three-week intensive in hardware sampling and beatmaking on the Roland SP-404 MK2, for the absolute beginner who wants to *make beats*, not just read about the gear. Students learn the machine from the ground up (signal flow, playing pads, recording sound at the right level, and saving work safely), then the craft of sampling (trimming, pitching, and chopping a sample into playable pieces), then drums and the pattern sequencer (building a kit, programming a beat, and making it groove). The back half of the course covers resampling, the SP's signature effects, simple bass and melody, arrangement, and a basic mix, ending in a finished track. By the end, students can take a raw sound, turn it into a chopped, sequenced, effected, arranged piece of music, and know a repeatable workflow for making the next one.
+A three-week intensive in hardware sampling and beatmaking on the Roland SP-404 MK2, for the absolute beginner who wants to *make beats*, not just read about the gear. Students learn the machine from the ground up (signal flow, playing pads, recording sound at the right level, and keeping work backed up), then the craft of sampling (trimming, pitching, and chopping a sample into playable pieces), then drums and the pattern sequencer (building a kit, programming a beat, and making it groove). The back half of the course covers resampling, the SP's signature effects, simple bass and melody, arrangement, and a basic mix, ending in a finished track. By the end, students can take a raw sound, turn it into a chopped, sequenced, effected, arranged piece of music, and know a repeatable workflow for making the next one.
 
 This is a **studio (applied production) course**: most of the work is making sound, every day, with the machine in your hands.
 
@@ -10,7 +10,7 @@ This is a **studio (applied production) course**: most of the work is making sou
 
 By the end of this course you will be able to:
 
-1. **Explain how a sampler works** and trace the SP-404 MK2's signal flow from input, through pads and the effects bus, to the output, and **save and back up** a project so work is never lost.
+1. **Explain how a sampler works** and trace the SP-404 MK2's signal flow from input, through pads and the effects bus, to the output, and **back up** your projects so work is never lost.
 2. **Play the pads** fluently across banks, using gate, one-shot, and loop playback, hold, and the sub pad.
 3. **Record a clean sample** from a phone, laptop, turntable, or microphone at a healthy level, using auto-trigger and skip-back sampling.
 4. **Trim a sample** to a tight start and end, set a clean loop, and choose the right play mode for the job.
@@ -26,7 +26,7 @@ By the end of this course you will be able to:
 ### Week 1: The Machine & The Sample
 | Day | Topic |
 |---|---|
-| 1 | Meet the SP-404 MK2: what a sampler is, the layout, signal flow, projects, saving, and the SP story |
+| 1 | Meet the SP-404 MK2: what a sampler is, the layout, signal flow, projects, backup, and the SP story |
 | 2 | Playing the pads: sample mode, the 10 banks, velocity, gate vs one-shot vs loop, hold and the sub pad |
 | 3 | Your first sample: recording from line, USB, and mic, levels and gain, auto-trigger, skip-back sampling |
 | 4 | Trimming: start and end points, looping cleanly, mono vs stereo, removing clicks |
@@ -63,8 +63,8 @@ By the end of this course you will be able to:
 | Power up & warm up | 5 min | Turn on, load your project, the day's quick drill from the Practice Menu (pad reps, a quick sample) |
 | Listen | 5 min | Play a reference beat or a song; listen for the day's idea (the chop, the groove, the effect) |
 | Lecture | 10–15 min | Read the lecture; do each small example at the machine as you read it |
-| Make | 20–40 min | The day's work at the pads: sampling, chopping, sequencing. Save often |
-| Review | 5 min | Answer the self-check from memory; save the project; note what to fix tomorrow |
+| Make | 20–40 min | The day's work at the pads: sampling, chopping, sequencing |
+| Review | 5 min | Answer the self-check from memory; note what to fix tomorrow |
 
 ## Grading
 
@@ -82,7 +82,7 @@ Grade yourself against `RUBRIC.md`. **Mastery threshold: 90%.** The honest gradi
 
 ## Course policies (yes, even a self-taught beatmaking course needs them)
 
-- **Save constantly; back up weekly.** Power loss, a yanked SD card, or a wrong menu choice can erase hours of work. Saving is a reflex, not an afterthought. Copy your SD card to a computer once a week. This is the one policy that protects every other thing you do.
+- **Back up weekly.** The SP saves your work automatically as you go, and that includes your mistakes: a wrong delete is permanent, and internal storage can fail. Back up to an SD card or a computer once a week. This is the one policy that protects every other thing you do.
 - **Make a finished thing, not a perfect thing.** Beginners stall by polishing one eight-bar loop forever. A finished, flawed beat teaches you ten times more than an unfinished perfect one. Get to the end, then make the next one better.
 - **Hands on the pads daily, short and often.** Twenty focused minutes a day beats three hours on Sunday. The reflexes this builds (finding a pad without looking, hearing where a chop lands) need sleep between sessions to stick.
 - **Listen with a sampler's ear all day.** You are not done listening to music; you are listening differently now. Every song is a parts bin. This costs no machine time and trains the most important skill you have.

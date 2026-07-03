@@ -1,6 +1,6 @@
 # Machine Reference: Layout, Signal Flow, Shortcuts & Resources (MUS-40H)
 
-This is the page you come back to all course. Read the first five sections (**The layout**, **The screen and how you navigate**, **Projects & saving**, **Signal flow**, **The shortcuts that matter**) *before Day 1*. The rest is reference you will return to as each topic comes up.
+This is the page you come back to all course. Read the first five sections (**The layout**, **The screen and how you navigate**, **Projects, storage & backup**, **Signal flow**, **The shortcuts that matter**) *before Day 1*. The rest is reference you will return to as each topic comes up.
 
 Button names and menu wording shift slightly between firmware versions. The *logic* below does not. When the exact wording on your screen differs from the course, trust the printed labels on the machine and the [official reference manual](#10-resources-curated-free-trustworthy); the SHIFT key reaches the second label printed on most buttons.
 
@@ -18,7 +18,7 @@ Set the unit down with the screen along the top and the 16 rubber pads filling t
 - **The CTRL knobs.** Dedicated control knobs (**[CTRL 1]**, **[CTRL 2]**, **[CTRL 3]**) sit near the top. Their job changes with context: they tweak effect parameters, set levels in DJ mode, and adjust whatever the screen says they adjust right now. Always glance at the screen to see what a knob is doing.
 - **The mode and transport buttons.** **[REC]** (record/sample), **[PATTERN SELECT]** (the sequencer), **[REMAIN]**, the dedicated **effect buttons** (FILTER+DRIVE, RESONATOR, DELAY, ISOLATOR, DJFX LOOPER, MFX, and more), **[START/END]** and the sample-edit controls, **[SHIFT]** (hold for the second function on a button), and the **[SUB PAD]** (a 17th pad with performance roles).
 - **The pitch/speed knob.** Changes how fast a sample plays back, and therefore its pitch and key.
-- **The back panel.** **POWER** (USB-C bus power or the supplied adapter), **LINE IN** and **MIC IN** (the inputs you sample through), **LINE OUT** and **PHONES** (the outputs), **MIDI IN/OUT**, and the **USB-C** port (audio, MIDI, and file transfer over one cable). The **microSD card** slot holds everything: projects, samples, and patterns.
+- **The back panel.** **POWER** (USB-C bus power, the supplied adapter, or six AA batteries), **LINE IN** and **MIC/GUITAR IN** (the inputs you sample through; a guitar or bass plugs straight into the latter), **LINE OUT** and **PHONES** (the outputs), **MIDI IN/OUT** (3.5mm TRS mini-jacks; an adapter cable reaches 5-pin gear), and the **USB-C** port (audio, MIDI, and file transfer over one cable). The **SD card** slot is for backup and import/export; projects, samples, and patterns live on the machine's internal storage.
 
 > You do not have to memorize this. You need to know each thing exists so the lessons make sense. The pads, the [VALUE] knob, [SHIFT], and [REC] are most of what you touch.
 
@@ -31,21 +31,21 @@ The whole machine is driven by one repeating gesture: **hold or press a function
 - **The [VALUE] knob is the cursor.** Turn to move a highlight or change a number; press to enter a sub-menu or confirm a choice. Most "how do I set X?" questions end at this knob.
 - **[SHIFT] reaches the second label.** A great many buttons have a small word printed above or below them. Hold **[SHIFT]** and press the button to reach that second function. When the manual says "press SHIFT + [something]," this is what it means.
 - **Pads double as menu buttons.** Inside many menus the 16 pads become numbered choices or toggles (this is how DJ mode assigns channels, how you pick a chop, how you confirm a system option). The screen tells you when the pads have switched jobs.
-- **The system / utility menu** holds the global settings: display brightness, auto-off, pad sensitivity and velocity curve, metronome, the USB audio routing, MIDI settings, and the format/backup tools. Reach it with [SHIFT] and the menu/utility function (your firmware's label), then turn [VALUE] to walk the list. You will visit it on Day 2 to set the machine up once, and rarely after.
+- **The system / utility menu** holds the global settings: display brightness, auto-off, pad sensitivity and velocity curve, metronome, the USB audio routing, MIDI settings, and the format/backup tools. Reach it by holding [SHIFT] and pressing **pad 13** (UTILITY), then turn [VALUE] to walk the list. You will visit it on Day 2 to set the machine up once, and rarely after.
 
 > The fastest way to stop feeling lost: when you do not know how to do something, slow down and read the screen out loud. It is almost always telling you which knob does what and which pad to press.
 
 ---
 
-## 3. Projects, the SD card, and saving (the most important page here)
+## 3. Projects, storage & backup (the most important page here)
 
-Everything on the SP-404 MK2 lives on the **microSD card**, organized into **projects**. A project is one self-contained world: its 10 banks of samples, its patterns, its tempo, its settings. A card holds many projects (16 in the working set, more in storage) and you switch between them from the menu.
+Everything you make on the SP-404 MK2 lives on its **internal storage** (about 16 GB), organized into **projects**. A project is one self-contained world: its 10 banks of samples, its patterns, its tempo, its settings. The machine holds **16 projects** and you switch between them from the menu. The **SD card slot** is not where your work lives: a card (sold separately, SDHC/SDXC) is for **backup, restore, import, and export**, and one card holds up to 64 backups. The **SP-404 MK2 app** over USB-C does the same jobs from a computer.
 
 **The golden rules:**
 
-- **Save your project before you power off or pull the card.** The SP holds recent work in memory; an explicit save writes it to the card. The save command is on the menu (hold [SHIFT] and look for the disk/SD function, or use the system menu). Make saving the last thing you do every session and a frequent thing during it.
-- **Never pull the SD card or yank power while the machine is writing.** That is the one reliable way to corrupt a project. Save, wait for it to finish, then power down.
-- **Back up the whole card weekly.** Power off, remove the card, put it in a reader, and copy the entire card folder to your computer (or use the SP-404 MK2 app over USB-C). Cards fail and fill; a backup is the difference between a hiccup and a disaster.
+- **The SP saves as you go.** There is no save command and nothing to remember before power-off: record a sample or edit a pattern and it is already written to internal storage. The flip side is that your *mistakes* are written just as faithfully. A deleted pad is gone for real, so treat the backup as your undo.
+- **Never yank power (or pull the SD card) while the machine is writing.** That is the one reliable way to corrupt data. Power down with the switch and let a busy screen finish.
+- **Back up weekly, and before anything risky.** Put an SD card in the slot and run the backup from the UTILITY menu (hold [SHIFT] and press pad 13), or connect USB-C and copy your projects out with the SP-404 MK2 app. Storage can fail or fill; a backup is the difference between a hiccup and a disaster.
 - **A fresh project per big idea.** Projects are cheap. Starting a new one for each course project keeps your banks uncluttered.
 
 If you remember one thing from this whole reference, it is this section. Lost work is the fastest way to quit.
@@ -60,7 +60,7 @@ Understanding the path audio takes is what turns the SP from a box of mysteries 
 
 ```
   source            into the SP             stored
- (phone / laptop /  →  LINE IN / MIC IN  →  the REC engine  →  a sample
+ (phone / laptop /  →  LINE IN or MIC/GUITAR  →  the REC engine  →  a sample
   turntable / mic       (or USB audio)       (level, INPUT FX?)   on a pad
   / the SP itself)
 ```
@@ -96,7 +96,8 @@ You do not need the full shortcut list (it is long; the [official one](#10-resou
 |---|---|
 | Move through a menu / change a value | Turn **[VALUE]**; press it to enter or confirm |
 | Reach a button's second function | Hold **[SHIFT]**, press the button |
-| Open the system / utility menu | **[SHIFT]** + the menu/utility function, then turn **[VALUE]** |
+| Open the system / utility menu | **[SHIFT]** + **pad 13** (UTILITY), then turn **[VALUE]** |
+| Back up / restore / import / export | **[SHIFT]** + **pad 13** (UTILITY), then the SD-card and export functions |
 | Sample / record | Press **[REC]**, choose source and level, start (manually or by auto-trigger) |
 | Skip-back sample | After hearing something good, grab the last several seconds the SP was buffering |
 | Play a sample | Press its **pad** (in the current bank) |
@@ -160,7 +161,7 @@ The single USB-C port carries three things at once: **power, MIDI, and digital a
 - **Class-compliant USB audio.** The SP-404 MK2 is a class-compliant USB audio device, so a computer (and many phones/tablets) sees it as an audio interface with no driver install. You can stream the SP's output into a DAW as a stereo input, and stream audio from the computer into the SP. A **USB audio routing setting in the Utility menu** decides what the USB sends to the computer (to record the full mix into a DAW, set it to **MIX OUT**; the exact label varies by firmware, so go by the Utility menu's USB audio section).
 - **Class-compliant USB MIDI.** Over the same cable the SP sends and receives MIDI: pad notes, and clock. A DAW or keyboard can play the SP's pads; the SP can play or sync external gear.
 - **MIDI sync.** The SP can be the clock leader or follower. It synchronizes **tempo, measure, and beat** with a DAW or external device, so its sequencer locks to your project's grid. You choose which device leads in the MIDI settings.
-- **The five-pin MIDI IN/OUT** jacks do the same job for hardware that does not speak USB MIDI (a hardware sequencer, a drum machine, a synth).
+- **The MIDI IN/OUT jacks** do the same job for hardware that does not speak USB MIDI (a hardware sequencer, a drum machine, a synth). They are **3.5mm TRS mini-jacks**, not 5-pin DIN sockets; a TRS-to-5-pin MIDI adapter cable connects standard gear.
 
 Week 3 walks each of these through a real setup. For now, know the one cable does power, MIDI, and audio together.
 
@@ -173,7 +174,7 @@ The SP-404 MK2 is the newest of a line, and that line has a *sound* producers ch
 - **1998, Boss SP-202 "Dr. Sample."** The cheap, gritty origin: low fidelity, a few seconds of sampling, a cult following.
 - **2001, SP-303 "Dr. Sample."** Home of the legendary **Vinyl Sim** effect, the lo-fi filter that defined an era. **Madlib** built much of his sound on it.
 - **2005 on, SP-404 / SP-404SX / SP-404A.** The red-and-black boxes that became the standard sampler of the beat scene: **Flying Lotus, Knxwledge, Kaytranada**, and the Los Angeles beat-tape world ran on them.
-- **2022, SP-404 MK2.** The modern overhaul: bigger screen, better pads, a real four-bus effects engine, a step sequencer, DJ mode, USB-C, and a long tail of firmware updates. It keeps the lineage's lo-fi soul (Vinyl Sim and Cassette are right there) while finally being a competent full production and performance tool.
+- **2021, SP-404 MK2.** The modern overhaul: bigger screen, better pads, a real four-bus effects engine, a step sequencer, DJ mode, USB-C, and a long tail of firmware updates. It keeps the lineage's lo-fi soul (Vinyl Sim and Cassette are right there) while finally being a competent full production and performance tool.
 
 When you want to get better, go listen to the people who defined the instrument: Madlib, Flying Lotus, Knxwledge, Kaytranada, J Dilla.
 

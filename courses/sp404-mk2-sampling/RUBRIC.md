@@ -14,8 +14,8 @@ Grade yourself in each domain. **Mastery = Level 4 in every technical domain.** 
 | Level | Criteria |
 |---|---|
 | 1 | Lost in the menus; unsure where sound comes in or goes out |
-| 2 | Can navigate the basics with the manual open; saves only when reminded |
-| 3 | Knows the layout and signal flow; saves and backs up as a habit |
+| 2 | Can navigate the basics with the manual open; backs up only when reminded |
+| 3 | Knows the layout and signal flow; backs up as a habit |
 | 4 | Moves through the machine without thinking; never loses work; reasons about the signal path to solve problems |
 
 **Test:** Trace, from memory, how sound goes from an input to a pad, and from a pad through effects to the output, and explain where resampling fits.

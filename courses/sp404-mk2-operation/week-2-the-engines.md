@@ -182,7 +182,7 @@ Enter a pattern and switch to **TR-REC** (step record). The 16 pads now represen
 1. **(10 min) Step-program a beat.** In TR-REC, place a kick, snare, and hat pattern step by step. Set the pattern length to one bar. Play it back.
 2. **(7 min) Edit and feel.** Toggle one hit off and a new one on without re-recording. Add a little swing and hear the bounce. Vary the velocity of a few hits.
 3. **(5 min) Roll.** Use the sub pad to add a hi-hat or snare roll as a fill at the end of the bar.
-4. **(8 min) Copy and chain.** Copy your pattern to a second pattern slot, change a few hits so it is a variation (call them A and B), then chain them so the machine plays A then B back to back. Play the chain. Save the project.
+4. **(8 min) Copy and chain.** Copy your pattern to a second pattern slot, change a few hits so it is a variation (call them A and B), then chain them so the machine plays A then B back to back. Play the chain.
 
 ### Daily drill
 **Skeleton-then-feel, 4 min:** step-program a bare kick/snare in TR-REC, then switch to real-time and overdub hats live on top. Practicing the handoff between the two recording methods is the real sequencer skill.
@@ -228,7 +228,7 @@ It sounds simple. It is the spine of the whole workflow, for three reasons:
 ### Do
 1. **(8 min) Commit an effect.** Put a Vinyl Sim on a master bus over a loop. Resample the loop to a new pad. Turn the bus effect off, play the new pad: the effect is baked in. You have freed the bus.
 2. **(12 min) Glue a pattern.** Take the beat you sequenced this week. Resample the playing pattern down to a single pad. Now play that one pad: your whole beat, one trigger. Notice how many voices and pads you just freed.
-3. **(7 min) Build on it.** With your beat now on one pad, add a new sound over it. Feel how resampling lets you keep stacking without the machine choking. Save.
+3. **(7 min) Build on it.** With your beat now on one pad, add a new sound over it. Feel how resampling lets you keep stacking without the machine choking.
 
 ### Daily drill
 **Print-it-down, 3 min:** take whatever you are working on and resample it to one pad, then continue from there. Practicing the move until it is automatic changes how you use the whole machine.

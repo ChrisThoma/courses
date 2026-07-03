@@ -26,14 +26,14 @@ How to grade honestly: do the Test with your screen or hands on camera, then wat
 | 3 | Can trace a sound from input through pad settings to output. | Draw the record and playback paths from memory. |
 | 4 Solid | Can place any sound on the four-bus path and predict what each stage does to it. | Given a pad routed to BUS 1 with a master effect on BUS 3, explain exactly what the listener hears and why. |
 
-## 3. Projects, saving & backup
+## 3. Projects, storage & backup
 
 | Level | What it looks like | Test |
 |---|---|---|
-| 1 | Has lost work to a power-off. | (none) |
-| 2 | Saves when reminded. | Save the current project on command. |
-| 3 | Saves reflexively; switches and creates projects. | Create a new project, save, switch back to the old one. |
-| 4 Solid | Saves, switches, and backs up/restores without thinking. | Back up the whole card to a computer and confirm the project opens from the copy. |
+| 1 | Has lost work and does not know why. | (none) |
+| 2 | Backs up when reminded. | Run a backup to an SD card (or export with the app) on command. |
+| 3 | Backs up on schedule; switches and creates projects. | Create a new project, then switch back to the old one, nothing lost. |
+| 4 Solid | Backs up and restores without thinking; knows where work lives. | Back up the machine, show where the restore lives, and explain what auto-save does and does not protect. |
 
 ## 4. Inputs, outputs & levels
 
@@ -106,7 +106,7 @@ How to grade honestly: do the Test with your screen or hands on camera, then wat
 |---|---|
 | 1. Navigation & menus | |
 | 2. Signal flow | |
-| 3. Projects & saving | |
+| 3. Projects, storage & backup | |
 | 4. Inputs, outputs & levels | |
 | 5. Pads & performance | |
 | 6. Recording & editing | |

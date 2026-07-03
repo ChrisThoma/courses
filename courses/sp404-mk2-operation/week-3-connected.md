@@ -91,7 +91,7 @@ Have a computer with any DAW (a free one is fine) and the USB-C cable. Connect t
 # Day 17: MIDI
 
 ### Objectives
-- Understand USB MIDI vs the 5-pin MIDI jacks.
+- Understand USB MIDI vs the TRS MIDI jacks, and which cable to buy.
 - Sync the SP's tempo to (or from) a DAW or device over MIDI clock.
 - Play the SP's pads from an external keyboard or DAW, and control gear from the SP.
 
@@ -100,7 +100,7 @@ Keep the SP connected to the computer by USB. If you own a MIDI keyboard or anot
 
 ### Lecture
 
-MIDI is not audio: it is a stream of **performance and timing messages** ("this note, this hard, now") and a **clock**. The SP speaks MIDI two ways: over **USB** (the same cable as audio) and over the **5-pin MIDI IN/OUT** jacks for hardware that does not do USB MIDI. The SP is class-compliant for MIDI too, so a computer needs no driver.
+MIDI is not audio: it is a stream of **performance and timing messages** ("this note, this hard, now") and a **clock**. The SP speaks MIDI two ways: over **USB** (the same cable as audio) and over the **MIDI IN/OUT jacks** for hardware that does not do USB MIDI. One thing to know before you buy a cable: those jacks are **3.5mm TRS mini-jacks**, not the classic 5-pin DIN sockets, so older gear connects through a TRS-to-5-pin MIDI adapter cable. The SP is class-compliant for MIDI too, so a computer needs no driver.
 
 **Clock sync** is the most useful MIDI feature for a beginner ([Reference §8](SUPPLEMENT-machine-reference.md), [Roland support](https://support.roland.com/hc/en-us/articles/4408205416475-SP-404MK2-Synchronizing-with-an-External-MIDI-Device)). The SP can be the **clock leader** (it sends the tempo and everything else follows) or the **clock follower** (it locks to a DAW's or device's tempo). It synchronizes **tempo, measure, and beat**, so the SP's sequencer plays in lockstep with your DAW's grid. You set which device leads in the MIDI settings, and you choose one leader for the whole setup, never two.
 
@@ -130,33 +130,33 @@ You are learning to *operate* MIDI: sync the clock, and pass notes in one direct
 # Day 18: File Management (the Card, the App & Exporting)
 
 ### Objectives
-- Understand the SD card's structure and the SP-404 MK2 app.
+- Understand where your work lives, and the two tools that move it: the SP-404 MK2 app and the SD card.
 - Import samples from a computer onto the SP.
 - Export projects, patterns, and audio off the SP.
 
 ### Setup (5 min)
-Have the SP-404 MK2 app installed (from Roland's site) and the SP connected by USB, or a card reader ready.
+Have the SP-404 MK2 app installed (from Roland's site), the SP connected by USB, and an SD card in the slot if you own one.
 
 ### Lecture
 
-Everything lives on the **microSD card** as files in a project structure ([Reference §3](SUPPLEMENT-machine-reference.md)). You manage those files two ways: directly with a **card reader** (power off, pull the card, copy on a computer) or, more conveniently, with the **SP-404 MK2 app** over USB-C, which lets you move samples and projects without removing the card.
+Everything you make lives on the SP's **internal storage**, in projects ([Reference §3](SUPPLEMENT-machine-reference.md)). You move things in and out two ways: with the **SP-404 MK2 app** over USB-C (the friendliest way to browse, import, and export), or through an **SD card** in the slot, which the UTILITY menu uses for backup, restore, import, and export. The card is a ferry and a vault, not the machine's home storage.
 
-**Importing samples.** To bring in sounds made elsewhere (a drum kit, a one-shot pack, a loop you bounced from a DAW), use the app (or the card) to put audio files where the SP can load them, then assign them to pads on the machine. This is how you stock the SP with material beyond what you sample live.
+**Importing samples.** To bring in sounds made elsewhere (a drum kit, a one-shot pack, a loop you bounced from a DAW), use the app (or the UTILITY import from an SD card) to bring the audio files in, then assign them to pads on the machine. This is how you stock the SP with material beyond what you sample live.
 
 **Exporting your work.** Three things you will want to get *off* the SP:
 
-- **Whole projects** for backup or to move to another card or machine: copy the project folder via the app or card reader.
+- **Whole projects**, for safekeeping or to move to another MK2: export or back up from the UTILITY menu to an SD card, or use the app.
 - **Audio of a finished beat:** the cleanest route is to **resample** your pattern to one pad (Week 2), then export that sample, or to record the SP into a DAW over USB (Day 16). Either gives you a normal audio file.
 - **Individual samples** you made on the SP, to use in a DAW or share.
 
-**File hygiene.** Name and organize as you go, keep the weekly card backup (Day 1), and never pull the card mid-write. A tidy card is the difference between finding last month's beat in seconds and losing it.
+**File hygiene.** Name and organize as you go, keep the weekly backup (Day 1), and never pull the card or the power mid-write. A tidy library is the difference between finding last month's beat in seconds and losing it.
 
-> The app and the card reader do the same job; the app is just friendlier and does not require power-down. Either way, the principle is the same: the SP's life is files, and you are the librarian.
+> The app and the SD card do the same jobs; the app is friendlier for moving single files, the card backup is the full vault. Either way the principle is the same: the SP's life is files, and you are the librarian.
 
 ### Do
-1. **(10 min) Import.** Using the app or a card reader, import two or three audio files (your own bounced loops, or a free sample pack) onto the SP and assign them to pads.
-2. **(10 min) Export.** Resample one of your beats to a single pad, then export that sample to your computer with the app (or copy it from the card). Confirm it opens and plays on the computer.
-3. **(5 min) Back up.** Do the weekly whole-card backup. Confirm a project opens from the copy.
+1. **(10 min) Import.** Using the app (or an SD card and the UTILITY import), import two or three audio files (your own bounced loops, or a free sample pack) onto the SP and assign them to pads.
+2. **(10 min) Export.** Resample one of your beats to a single pad, then export that sample to your computer with the app (or export it to the SD card and read the card on the computer). Confirm it opens and plays on the computer.
+3. **(5 min) Back up.** Run the weekly backup ([SHIFT] + pad 13, then the backup function). Then find the restore in the same menu and read what it does, so a bad day is not the first time you look for it.
 
 ### Daily drill
 **Round-trip, 3 min:** move one file onto the SP and one file off it. Making import/export routine is what lets your SP work flow in and out of the rest of your music life.
@@ -184,13 +184,13 @@ Power the machine off, then on. Today you do not learn anything new; you wire th
 
 **A complete workflow,** end to end, using everything you have learned:
 
-1. **Start clean.** Power on, load (or create and save) a project, confirm settings.
+1. **Start clean.** Power on, load (or create) a project, confirm settings.
 2. **Get sound in.** Connect a source, set a healthy level, record dry with auto-trigger (Week 1).
 3. **Edit.** Trim, loop, pitch, organize pads (Week 1).
 4. **Shape.** Route to a bus, apply an effect, add a master effect (Week 2).
 5. **Sequence.** Program a pattern in TR-REC, overdub feel live, quantize, swing (Week 2).
 6. **Commit.** Resample the result to a pad to free the engine and glue the beat (Week 2).
-7. **Connect and export.** Record into a DAW over USB, or resample and export the audio, with the card backed up (Week 3).
+7. **Connect and export.** Record into a DAW over USB, or resample and export the audio, with a fresh backup made (Week 3).
 
 That sequence is the SP, operated. Every project you ever make is some path through it.
 
@@ -206,9 +206,9 @@ That sequence is the SP, operated. Every project you ever make is some path thro
 | "Can't add more effects" | The processing limit | Resample to bake one in (Day 12) |
 | DAW hears nothing over USB | USB routing or DAW input not set | Set USB to MIX OUT; select SP as input |
 | Sequencer won't sync | Clock leader/follower or channel | Set one leader, match settings (Day 17) |
-| Lost work | Did not save | Save reflexively; restore from backup |
+| Lost work | Deleted or overwrote it (auto-save keeps no old copy) | Restore from your backup; back up weekly so one exists |
 
-> Almost every "the machine is broken" moment is one of these, and every one is a routing, level, or save issue, not a fault. Knowing the table *is* operating the machine.
+> Almost every "the machine is broken" moment is one of these, and every one is a routing, level, or backup issue, not a fault. Knowing the table *is* operating the machine.
 
 ### Do
 1. **(25 min) Full run.** From a cold start, run the seven-step workflow above end to end and export a short result. No notes. Time yourself loosely; note where you hesitated.

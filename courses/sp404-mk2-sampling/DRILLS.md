@@ -2,7 +2,7 @@
 
 The lessons prescribe a default daily drill, but no single drill fits everyone every day. This is the full menu: **pick one drill per active skill and rotate every few days** so nothing goes stale. Two things need *daily, lifelong* reps: a steady **groove** (C) and your **ear** (F); keep those going forever.
 
-**Building your daily ~30 minutes:** 5 min power up + a quick sample or pad warm-up (A) · 5 min the week's focus skill (B/C/D/E) · 5 min ear/listening (F) · 10–15 min working on an actual beat (G) · always saving as you go, always listening back honestly.
+**Building your daily ~30 minutes:** 5 min power up + a quick sample or pad warm-up (A) · 5 min the week's focus skill (B/C/D/E) · 5 min ear/listening (F) · 10–15 min working on an actual beat (G) · always listening back honestly.
 
 > **The one rule above all drills:** *finish small things; do not polish forever.* A drill done to completion teaches more than a fragment fussed over for an hour. If a drill stalls, the answer is usually **commit (resample) and move on**, not keep tweaking. Deciding is the skill.
 
@@ -14,14 +14,14 @@ The lessons prescribe a default daily drill, but no single drill fits everyone e
 |---|---|---|
 | **A1: Eyes-closed pad-find** | Pick four pads; play them in a pattern without looking | the foundation of finger drumming |
 | **A2: Level-set sprint** | Arm REC, set a healthy level on whatever is playing, disarm, repeat | making good levels a reflex |
-| **A3: Save-and-back-up** | End every session with an explicit save; back up the card weekly | never losing work (the most important habit) |
+| **A3: Weekly backup** | Back up to an SD card or the computer weekly; confirm the backup exists | never losing work (the most important habit) |
 | **A4: Signal-flow recital** | Trace input → pad → bus → output → resample from memory | reasoning about the machine instead of guessing |
 
 ## B. Sampling and prep (start Day 3)
 
 | Drill | How | Best for |
 |---|---|---|
-| **B1: Five clean loops** | Make five usable loops from five sources: record clean, trim tight, loop seamless, pitch, save | the whole sample-prep pipeline |
+| **B1: Five clean loops** | Make five usable loops from five sources: record clean, trim tight, loop seamless, pitch | the whole sample-prep pipeline |
 | **B2: Loop-the-seam** | Set a rhythmic sample looping; nudge the end point until the seam vanishes | hearing a clean loop |
 | **B3: Click hunt** | Find and fix a clicking sample (move the point or add attack/release) | clean edges |
 | **B4: Skip-back catch** | Play a source; grab a great moment after it passes using skip-back | never missing a sound |
@@ -78,7 +78,7 @@ The lessons prescribe a default daily drill, but no single drill fits everyone e
 
 1. **Finish, do not polish.** A completed flawed thing teaches more than a perfect fragment. Get to the end.
 2. **Commit your moves.** When something sounds good, resample it and keep going. Endless undo is not production.
-3. **Save constantly; back up weekly.** The drill you never have to redo is the one whose project you did not lose.
+3. **Back up weekly.** The drill you never have to redo is the one whose project you did not lose.
 4. **Listen back on another speaker.** Your phone and your memory disagree about your beat; the phone is right.
 5. **Listen with a sampler's ear all day.** It is free, it never stops paying off, and it costs no machine time.
 6. **Keep one number.** Log your honest count of finished beats, or clean loops made, or your fastest "loop to beat" time. The line going up is the motivation.

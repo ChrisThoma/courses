@@ -2,7 +2,7 @@
 
 **Format:** Self-paced intensive, modeled on a college January-term studio/production course
 **Time commitment:** ~45–75 min/day, 6 days/week, 3 weeks (one "studio day" per week to catch up and consolidate)
-**Prerequisites:** A Roland SP-404 MK2, the included power supply, a microSD card (one ships in the unit), and headphones or speakers. A way to get sound into it helps: your phone or laptop playing music into the line input, or a USB-C cable to your computer. **No prior music experience, no prior gear, and no music theory required.** If you can tap a steady beat with your finger, you can do this.
+**Prerequisites:** A Roland SP-404 MK2, the included power supply (or six AA batteries), and headphones or speakers. An SD card (sold separately) is worth having for backups; your work itself lives on the machine's internal storage. A way to get sound into it helps: your phone or laptop playing music into the line input, or a USB-C cable to your computer. **No prior music experience, no prior gear, and no music theory required.** If you can tap a steady beat with your finger, you can do this.
 
 > **The promise of this course:** in three weeks you will go from never having touched a sampler to making real beats on the SP-404 MK2. You will know how to get any sound into the machine, chop it, build a drum kit, program a pattern, layer effects, and arrange the whole thing into a finished track you can play for someone. More than the buttons, you will have a daily habit and a way of hearing music that lets you keep teaching yourself for years. This is a *making* course, not a manual. The goal is to finish tracks and have fun doing it.
 
@@ -10,7 +10,7 @@
 
 This course covers **everything a beginner needs to make beats on the SP-404 MK2 and nothing more**:
 
-- How a sampler works, how the SP-404 MK2 is laid out, how its signal flows, and how to save your work so you never lose it
+- How a sampler works, how the SP-404 MK2 is laid out, how its signal flows, and how to back up your work so you never lose it
 - Recording sound into the machine: from a phone, a laptop, a record player, or a microphone, at the right level
 - Trimming a sample: start and end points, looping, and the three ways a pad can play (gate, one-shot, loop)
 - Pitch and speed, and how to find a sample's key by ear without knowing any theory
@@ -22,7 +22,7 @@ This course covers **everything a beginner needs to make beats on the SP-404 MK2
 - **Bass and melody** from samples, simple **arrangement** of patterns into a song, and a basic **mix** that translates
 - Where this machine comes from: the SP lineage, the producers who made it iconic, and the lo-fi sound it is famous for
 
-It deliberately **omits** what a beginner making beats for fun does not need yet: deep music theory, MIDI sequencing of external gear, advanced sound design, mastering chains, and gear rabbit holes. We name those doors and leave them for later.
+It deliberately **omits** what a beginner making beats for fun does not need yet: deep music theory, MIDI sequencing of external gear, advanced sound design, mastering chains, and gear rabbit holes. We name those doors and leave them for later. The machine's other subsystems (DJ mode, USB audio into a DAW, MIDI) get a course of their own: the sister course, [MUS-40H: Operating the SP-404 MK2](#/sp404-mk2-operation).
 
 ## A note on how this instrument is actually learned
 
@@ -45,10 +45,10 @@ The SP-404 MK2 is a *performance* instrument as much as a production tool. Peopl
 
 ## How to use this course
 
-1. Read `SYLLABUS.md` first, then `RUBRIC.md` so you know what "good" looks like. Then read the **Field Guide** sections on the layout, saving, and signal flow before Day 1, and run the firmware update it points you to.
+1. Read `SYLLABUS.md` first, then `RUBRIC.md` so you know what "good" looks like. Then read the **Field Guide** sections on the layout, storage and backup, and signal flow before Day 1, and run the firmware update it points you to.
 2. Each day, work the lesson in order: **Set up the sound, read the lecture, do the work at the machine, then self-check from memory.**
 3. **Always with the machine in front of you and powered on.** A sampler you only read about is trivia. Every concept here is learned by *doing it, listening, and doing it again,* not by understanding it on paper.
-4. **Save constantly, and back up your SD card weekly.** The most painful beginner mistake is losing a project. The Field Guide shows you how. Make it a reflex from Day 1.
+4. **Back up weekly.** The SP saves your work by itself as you go; what it cannot do is survive a storage failure or undo a bad delete. The Field Guide shows you the backup. Make it a habit from Day 1.
 5. **Listen with a sampler's ear, every day.** When you hear a song, find the two seconds you would steal. This is the skill the whole craft rests on, and it costs you nothing to practice all day long.
 6. Take the quizzes closed-book and grade yourself honestly against `ANSWER-KEYS.md`. The "at the machine" portions are where the real grade lives.
 7. Do the projects. They are where the buttons turn into actual *music you can play for someone.*

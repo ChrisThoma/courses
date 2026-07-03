@@ -1,8 +1,8 @@
 # Week 1: The Machine, Navigation & Signal
 
-> **The thesis of this week:** before you can do anything musical, you have to stop being lost. Most beginners quit the SP-404 MK2 not because the music is hard but because the *machine* is opaque: they cannot find functions, they do not know where their sound went, and they lose work. Week 1 fixes exactly that. You will learn the anatomy, learn to navigate any menu, understand how sound flows in and out, set clean levels, play and edit a sample, and make saving a reflex. None of this is beatmaking. All of it is the ground every beat stands on. Spend the week making the machine *transparent*, and the rest of the course is building on rock.
+> **The thesis of this week:** before you can do anything musical, you have to stop being lost. Most beginners quit the SP-404 MK2 not because the music is hard but because the *machine* is opaque: they cannot find functions, they do not know where their sound went, and they lose work. Week 1 fixes exactly that. You will learn the anatomy, learn to navigate any menu, understand how sound flows in and out, set clean levels, play and edit a sample, and make the backup a habit. None of this is beatmaking. All of it is the ground every beat stands on. Spend the week making the machine *transparent*, and the rest of the course is building on rock.
 
-Before Day 1, read the first five sections of the [Machine Reference](SUPPLEMENT-machine-reference.md) and **update your firmware** as it instructs. Throughout, "save your project" means the actual save command, done as a reflex.
+Before Day 1, read the first five sections of the [Machine Reference](SUPPLEMENT-machine-reference.md) and **update your firmware** as it instructs. The SP saves your work automatically as you go; throughout, "back up" means the actual backup from Reference §3, done on schedule.
 
 ---
 
@@ -10,27 +10,27 @@ Before Day 1, read the first five sections of the [Machine Reference](SUPPLEMENT
 
 ### Objectives
 - Identify every major part of the machine and what it is for.
-- Power up, understand that everything lives on the SD card in projects, and load a project.
+- Power up, understand that everything lives on internal storage in projects, and load a project.
 - Confirm your firmware is current.
-- Save a project, and back up the card, and know why both matter.
+- Run a backup, and know why it, not a save button, is what protects your work.
 
 ### Orient (5 min)
-Put the machine in front of you with the screen at the top. Without pressing anything, find with your eyes: the **16 pads**, the **bank buttons** down their left, the **screen** and the **[VALUE] knob**, the **[CTRL] knobs**, **[REC]**, **[SHIFT]**, **[PATTERN SELECT]**, the **pitch/speed knob**, the **[SUB PAD]**, and on the back the **inputs**, **outputs**, **MIDI**, **USB-C**, and the **microSD slot**. Name each one's job out loud. That is the whole physical machine; everything else is software inside it.
+Put the machine in front of you with the screen at the top. Without pressing anything, find with your eyes: the **16 pads**, the **bank buttons** down their left, the **screen** and the **[VALUE] knob**, the **[CTRL] knobs**, **[REC]**, **[SHIFT]**, **[PATTERN SELECT]**, the **pitch/speed knob**, the **[SUB PAD]**, and on the back the **inputs**, **outputs**, **MIDI**, **USB-C**, and the **SD card slot**. Name each one's job out loud. That is the whole physical machine; everything else is software inside it.
 
 ### Lecture
 
 **What the SP-404 MK2 is.** At heart it is a **sampler**: a machine that records short pieces of sound and plays them back from buttons. But the MK2 is more than that. It is also a **four-bus effects processor**, a **pattern sequencer**, a **DJ mixer**, and a **USB audio interface**, all in one box. This course is the tour of all of it. The reason it can feel overwhelming is that one small screen and a handful of buttons have to control five different machines. The good news: they all obey the same navigation logic, which you learn tomorrow.
 
-**Everything lives on the microSD card, organized into projects** ([Reference §3](SUPPLEMENT-machine-reference.md)). A **project** is one self-contained world: 10 banks of 16 pads, its patterns, its tempo, its settings. The card can hold many projects and you switch between them from the menu. When you power on, the machine loads a project and lands in **sample mode** with the pads lit, ready to play. Internalize "the card holds projects, a project holds banks, a bank holds 16 pads" and the storage model is done.
+**Everything lives on the machine's internal storage, organized into projects** ([Reference §3](SUPPLEMENT-machine-reference.md)). A **project** is one self-contained world: 10 banks of 16 pads, its patterns, its tempo, its settings. The machine holds 16 projects and you switch between them from the menu. When you power on, it loads a project and lands in **sample mode** with the pads lit, ready to play. The **SD card slot** is for backup and import/export, not day-to-day storage. Internalize "the machine holds projects, a project holds banks, a bank holds 16 pads" and the storage model is done.
 
 **Firmware is not optional** ([Reference, top](SUPPLEMENT-machine-reference.md)). The MK2 shipped fairly bare and grew into a powerhouse through updates: the step sequencer, most effects, DJ mode, the crossfader, and Serato support all arrived later. The latest system program is **Version 5.52**. If your machine is older, whole lessons in this course will reference features you do not have. Update before Day 2.
 
-**Saving is the habit that keeps you in the hobby.** The SP holds recent work in volatile memory; an explicit **save** writes it to the card. Power off without saving and you lose what you did. Pull the card mid-write and you can corrupt the whole project. So: **save before every power-off, save often during a session, and back up the whole card weekly.** This is the single most important operating habit on the machine, which is why it is Day 1.
+**Backup is the habit that keeps you in the hobby.** The SP **saves your work automatically as you go**; there is no save command to remember. That is friendlier than older samplers and also less forgiving: a bad delete or a mangled edit is written to storage just as surely as a good take, and internal storage can fail. The protection is the **backup**: to an SD card from the UTILITY menu (hold [SHIFT] and press pad 13), or out to a computer with the SP-404 MK2 app. So: **back up weekly, and before anything risky, and never yank power while the machine is writing.** This is the single most important operating habit on the machine, which is why it is Day 1.
 
 ### Do
 1. **(8 min) Power up and tour.** Plug in headphones, power on, let it land in sample mode. Press pads and hear the factory samples. Point to and name each control from the Orient step, out loud, again.
 2. **(10 min) Confirm firmware.** Find the version number in the system menu (you will learn the menu properly tomorrow; today just hunt for it). If it is below 5.52, follow Roland's updater now using the SP-404 MK2 app, before continuing the course.
-3. **(7 min) Save and back up.** Do an explicit save of the project ([Reference §3](SUPPLEMENT-machine-reference.md)). Then power off, remove the card, put it in a computer, and copy the entire card folder somewhere safe. Reinsert. You now have a backup and the beginning of a reflex.
+3. **(7 min) Back up.** Put an SD card in the slot and run a backup from the UTILITY menu ([SHIFT] + pad 13; [Reference §3](SUPPLEMENT-machine-reference.md)), or connect USB-C and copy your projects out with the SP-404 MK2 app. Confirm the backup exists. You now have a safety net and the beginning of a habit.
 
 ### Daily drill (start today)
 **Name-the-control, 2 min:** point at five controls at random and say each one's job in under two seconds. Do it until you never hesitate. Knowing the names cold is what makes the lessons readable.
@@ -38,7 +38,7 @@ Put the machine in front of you with the screen at the top. Without pressing any
 ### Self-check
 1. Name the five "machines" the SP-404 MK2 is in one box.
 2. What holds projects, what does a project hold, and how many pads is that in total?
-3. What does an explicit save actually do, and when must you do it?
+3. How does the SP handle saving, and what does that mean for a bad edit?
 4. What is the one action that can corrupt a project, and how do you avoid it?
 5. Why does the course insist you update firmware before Day 2?
 
@@ -68,7 +68,7 @@ Want to set a pad's play mode? Hold the function, turn [VALUE] to the setting, t
 
 **The screen is a live label for the knobs.** The [VALUE] knob and the three [CTRL] knobs do *different jobs in different contexts*, and the screen always says which. In an effect, [CTRL 1–3] tweak that effect's parameters. In DJ mode they set channel levels. The beginner's mistake is to memorize "knob 2 does X"; the operator's habit is to **glance at the screen and read what the knobs do right now.** Build that glance into a reflex this week.
 
-**[SHIFT] is the second floor.** Most buttons have two jobs: the printed label, and a second label reached by holding [SHIFT] first. When this course or the manual says "[SHIFT] + [something]," hold [SHIFT], then press the button. This is also how you reach the save command, the system menu, copy, delete, and many editing functions.
+**[SHIFT] is the second floor.** Most buttons have two jobs: the printed label, and a second label reached by holding [SHIFT] first. When this course or the manual says "[SHIFT] + [something]," hold [SHIFT], then press the button. This is also how you reach the UTILITY menu ([SHIFT] + pad 13), copy, delete, and many editing functions.
 
 **The system / utility menu** ([Reference §2](SUPPLEMENT-machine-reference.md)) is the machine's settings drawer: display brightness, auto-power-off, pad sensitivity and velocity curve, the metronome, USB audio routing, MIDI settings, and the format/backup tools. You configure it **once** and rarely return. Doing that today removes a pile of small future annoyances (a screen that is too dim, a machine that powers off mid-session, pads that feel too soft or too hard).
 
@@ -76,7 +76,7 @@ Want to set a pad's play mode? Hold the function, turn [VALUE] to the setting, t
 
 ### Do
 1. **(8 min) Gesture reps.** Do the function-then-knob-then-pad gesture ten times on different functions: set a pad's play mode, change its level, change its pitch. You are not trying to make music; you are wearing a groove in the gesture.
-2. **(12 min) Configure the machine.** Open the system/utility menu. Set the **display brightness** comfortably, lengthen or disable **auto-power-off** so it does not quit on you mid-lesson, set the **pad sensitivity / velocity curve** to feel good when you play soft and hard, and find the **metronome** settings. Save.
+2. **(12 min) Configure the machine.** Open the system/utility menu. Set the **display brightness** comfortably, lengthen or disable **auto-power-off** so it does not quit on you mid-lesson, set the **pad sensitivity / velocity curve** to feel good when you play soft and hard, and find the **metronome** settings.
 3. **(8 min) Read-the-screen drill.** Enter three different contexts (a pad's parameters, an effect, the record screen) and for each, say out loud what [VALUE] and [CTRL 1–3] are doing according to the screen. Confirm by turning them.
 
 ### Daily drill
@@ -100,11 +100,11 @@ Want to set a pad's play mode? Hold the function, turn [VALUE] to the setting, t
 - Know when to record in mono vs stereo.
 
 ### Setup (5 min)
-Gather what you have: a **phone or laptop** (a line source), a cable to the SP's **LINE IN**, and, if you own one, a **microphone** for **MIC IN** and **headphones** for **PHONES**. Have a song queued on the phone. You will connect each in turn.
+Gather what you have: a **phone or laptop** (a line source), a cable to the SP's **LINE IN**, and, if you own one, a **microphone** for **MIC/GUITAR IN** and **headphones** for **PHONES**. Have a song queued on the phone. You will connect each in turn.
 
 ### Lecture
 
-**The back panel is your audio interface** ([Reference §1](SUPPLEMENT-machine-reference.md)). Inputs: **LINE IN** (for line-level sources, phones, laptops, mixers, turntables through a phono preamp) and **MIC IN** (for a microphone). Outputs: **LINE OUT** (to speakers, a mixer, or an interface) and **PHONES** (headphones). Plus **USB-C**, which can carry audio in *and* out (Week 3). Using the right jack for the source is the first step of getting clean sound.
+**The back panel is your audio interface** ([Reference §1](SUPPLEMENT-machine-reference.md)). Inputs: **LINE IN** (for line-level sources, phones, laptops, mixers, turntables through a phono preamp) and **MIC/GUITAR IN** (a microphone, or a guitar or bass plugged straight in). Outputs: **LINE OUT** (to speakers, a mixer, or an interface) and **PHONES** (headphones). Plus **USB-C**, which can carry audio in *and* out (Week 3). Using the right jack for the source is the first step of getting clean sound.
 
 **Line level vs mic level** is the concept beginners trip on. A microphone puts out a *very weak* signal that needs a lot of boost; a phone or laptop puts out a much *stronger* line-level signal. Plug a mic into a line input (or set the input wrong) and it will be too quiet; plug a line source into a mic input and it can be too hot and distorted. The SP lets you pick the input and set its gain, so the rule is simple: **match the input to the source, then set the level by the meter, not by guessing.**
 
@@ -117,7 +117,7 @@ Gather what you have: a **phone or laptop** (a line source), a cable to the SP's
 > Gain staging in one sentence: get a strong, clean level at the input, and you never have to fight noise or distortion downstream. Skip it and every later stage inherits the problem.
 
 ### Do
-1. **(8 min) Connect each source.** Plug the phone into LINE IN and confirm you can monitor it on headphones. If you have a mic, plug it into MIC IN and speak; hear it. Notice how much weaker the mic is before you add gain.
+1. **(8 min) Connect each source.** Plug the phone into LINE IN and confirm you can monitor it on headphones. If you have a mic, plug it into MIC/GUITAR IN and speak; hear it. Notice how much weaker the mic is before you add gain.
 2. **(12 min) Level practice.** With the song playing its loudest section, arm the input and set the level so the meter is strong but never clips. Then deliberately set it too low and too high and listen to the difference (thin/noisy vs distorted). Reset it to healthy. Repeat until the meter reads instantly.
 3. **(7 min) Mono/stereo.** Find the mono/stereo setting for recording. Note where it is. Decide a default: mono for single drum hits and voice, stereo for music loops.
 
@@ -195,7 +195,7 @@ Have a line source (phone/laptop) on LINE IN, monitored on headphones, with yest
 Recording is the machine's central act, and you already own the hardest part: setting a healthy level (Day 3). The rest is a repeatable flow ([Reference §4–5](SUPPLEMENT-machine-reference.md)):
 
 1. **Press [REC]** to arm. The screen shows you are about to sample.
-2. **Choose the source:** LINE IN, MIC IN, USB audio, or **RESAMPLE** (the SP's own output, the heart of Week 2). The screen labels the choice.
+2. **Choose the source:** LINE IN, MIC/GUITAR IN, USB audio, or **RESAMPLE** (the SP's own output, the heart of Week 2). The screen labels the choice.
 3. **Set the input level** so the meter is strong but never clips, with the source at its loudest.
 4. **Choose dry or INPUT FX.** For now record **dry**; you can add effects later. Recording with INPUT FX commits them into the sample, which is a deliberate choice, not a default.
 5. **Start recording,** either manually or by **auto-trigger** (the SP waits and begins the instant sound crosses a threshold, so you do not capture dead air at the front).
@@ -245,14 +245,14 @@ Play one of yesterday's raw samples. Hear the junk: silence at the front, a stra
 
 **Pad parameters at a glance.** Beyond play mode (Day 4), each pad carries **pitch/speed** (the knob; faster = higher and shorter, slower = lower and longer), **volume** and **pan**, an **amp envelope** (a touch of attack and release smooths clicks at the edges), and its **bus routing** (Week 2). You do not set all of these every time; know they live on the pad so you can find them.
 
-**Pad management is project hygiene.** You will constantly **copy** a pad (duplicate a sample to another slot or bank to edit a version without losing the original), **move** pads (organize a messy bank), and **delete** pads (clear a slot to reuse it). These are function-then-pad moves ([Reference §5](SUPPLEMENT-machine-reference.md)): hold the copy or delete function, then tap the source and destination pads. There is a limited **undo**; do not rely on it, and save before risky reorganizing.
+**Pad management is project hygiene.** You will constantly **copy** a pad (duplicate a sample to another slot or bank to edit a version without losing the original), **move** pads (organize a messy bank), and **delete** pads (clear a slot to reuse it). These are function-then-pad moves ([Reference §5](SUPPLEMENT-machine-reference.md)): hold the copy or delete function, then tap the source and destination pads. There is a limited **undo**; do not rely on it. The machine writes changes as you make them, so back up before risky reorganizing.
 
 > Clicks at the edges happen when a sample starts or ends mid-waveform. Two fixes you will reuse all course: move the point to a quiet "zero crossing," or add a few milliseconds of attack/release in the amp envelope.
 
 ### Do
 1. **(10 min) Trim and loop.** Take a raw sample: trim the start and end tight so it begins and ends on the sound. Then take a rhythmic sample, set it to loop, and nudge the end point until it loops seamlessly. Kill any edge click with a touch of attack/release.
 2. **(8 min) Pitch and params.** Sweep the pitch knob on a melodic sample and find a setting you like. Open the pad's parameters and locate volume, pan, and the amp envelope.
-3. **(7 min) Organize.** Copy one finished pad to another bank. Move a pad to a tidier position. Delete a junk pad. Save the project.
+3. **(7 min) Organize.** Back up first (deletes are permanent). Then copy one finished pad to another bank, move a pad to a tidier position, and delete a junk pad.
 
 ### Quiz 1
 Take **Quiz 1** now (see [QUIZZES.md](QUIZZES.md)), closed-book, then grade against [ANSWER-KEYS.md](ANSWER-KEYS.md). It covers the machine, navigation, signal flow, I/O and levels, the pads, recording, and editing: Week 1's whole operational core. Below 90%? Re-study the weak spot on tomorrow's studio day.
@@ -271,13 +271,13 @@ Take **Quiz 1** now (see [QUIZZES.md](QUIZZES.md)), closed-book, then grade agai
 Today is consolidation, not new material. "Studio day" means you stop taking in new ideas and make the Week 1 operations solid, then finish something. Three parts.
 
 ### 1. Review the week
-Reread the self-checks for Days 1–6 and answer every one from memory. Anything you fumble, reread that paragraph and do the example at the machine. The operations everything else rests on are **navigation (Day 2)**, **setting a clean level (Day 3)**, and **saving/backup (Day 1)**. Spend the most time wherever you hesitated.
+Reread the self-checks for Days 1–6 and answer every one from memory. Anything you fumble, reread that paragraph and do the example at the machine. The operations everything else rests on are **navigation (Day 2)**, **setting a clean level (Day 3)**, and **backup (Day 1)**. Spend the most time wherever you hesitated.
 
 ### 2. The "cold start" drill (20 min)
-Power off. Power on. Then, without notes, run the full Week 1 chain as fast as you cleanly can: open the system menu and confirm a setting, play across three banks, connect a source and set a healthy level, record a dry sample with auto-trigger, trim it to a clean loop, copy it to another bank, and save. Do it twice. The second run should feel noticeably smoother. That smoothness is the whole point of the week.
+Power off. Power on. Then, without notes, run the full Week 1 chain as fast as you cleanly can: open the system menu and confirm a setting, play across three banks, connect a source and set a healthy level, record a dry sample with auto-trigger, trim it to a clean loop, copy it to another bank, and run a backup. Do it twice. The second run should feel noticeably smoother. That smoothness is the whole point of the week.
 
 ### 3. Project 1: Configured & Mapped
-Do **Project 1** (see [PROJECTS.md](PROJECTS.md)). It asks you to deliver a correctly configured, backed-up machine, a one-page "machine map" you author, and a short screen/hands recording in which you navigate the modes, set a clean level, record and trim a sample, and save, the proof that the machine is no longer opaque to you. Due end of Day 7 (carry into the Week-2 studio day only if you genuinely must).
+Do **Project 1** (see [PROJECTS.md](PROJECTS.md)). It asks you to deliver a correctly configured, backed-up machine, a one-page "machine map" you author, and a short screen/hands recording in which you navigate the modes, set a clean level, record and trim a sample, and back up, the proof that the machine is no longer opaque to you. Due end of Day 7 (carry into the Week-2 studio day only if you genuinely must).
 
 ### Looking ahead
 Week 1 was about removing friction: you can now navigate the machine, get clean sound in and out, play and edit a sample, and you never lose work. The machine is transparent. **Week 2 turns on the engines.** You will learn the four-bus effects system in full, program the pattern sequencer two ways, master the looper, and learn resampling, the move that ties every workflow together. From here the navigation gesture should be reflex, so your attention is free for what each engine does.

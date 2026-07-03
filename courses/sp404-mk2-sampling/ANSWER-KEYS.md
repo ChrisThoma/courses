@@ -9,11 +9,11 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 ### Part A
 1. A machine that **records short pieces of sound and plays them back from buttons (pads).**
 2. **10 banks** (A–J), **16 pads** each.
-3. The **microSD card** (in projects); the habit is **saving** (and backing up the card weekly).
-4. **LINE IN** and **MIC IN** (USB audio also accepted).
+3. The machine's **internal storage** (in projects); the habit is the **weekly backup** (to an SD card or a computer; the SP itself saves as you go).
+4. **LINE IN** and **MIC/GUITAR IN** (USB audio also accepted).
 5. The **effects bus** (the MFX effects).
 6. **Sampling the SP's own output** back into a new sample/pad.
-7. **Save the project.**
+7. The **weekly backup**; never **yank power (or pull the card) while the machine is writing**.
 8. **Vinyl Sim** and **Madlib** (SP-303/404 lineage).
 
 ### Part B
@@ -44,7 +44,7 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 5. It gets **longer** (and lower).
 6. Play them together and **nudge one's pitch until it locks / sounds right** (no theory, by ear).
 7. For **punch and simplicity** (and to avoid phase issues when layering/chopping).
-8. **Extra detail in the chops and a punchier, deeper result** when played back at full speed.
+8. A **thicker, darker, heavier sound** once the sample is pitched back down (and, historically, more music per second of sample memory).
 
 ### Part E
 1. **4 pts:** healthy level (no clip, no noise), tight trim, and a seam you cannot hear over several passes. Deduct for clipping, dead air, or a hiccup.
@@ -105,7 +105,7 @@ Grade honestly. For "name N things" questions, award partial credit per correct 
 ## Final Exam
 
 ### Part A
-1. **Records sound and plays it back from pads.** 2. **10.** 3. **One-shot, gate, loop.** 4. **Healthy level, no clipping.** 5. **Sampling the SP's own output.** 6. **Vinyl Sim.** 7. **2 and 4.** 8. **TR-REC.** 9. **The highs (high frequencies).** 10. **Saving.**
+1. **Records sound and plays it back from pads.** 2. **10.** 3. **One-shot, gate, loop.** 4. **Healthy level, no clipping.** 5. **Sampling the SP's own output.** 6. **Vinyl Sim.** 7. **2 and 4.** 8. **TR-REC.** 9. **The highs (high frequencies).** 10. **Backing up** (the SP saves itself as you go).
 
 ### Part B
 1. **(2)** Press REC, choose the input and **set a healthy level (loud, no clip)**, then start manually or by **auto-trigger**; sample lands on a pad.

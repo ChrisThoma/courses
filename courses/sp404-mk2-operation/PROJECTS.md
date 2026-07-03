@@ -11,23 +11,23 @@ Each project has a **deliverable**, a **points rubric**, and a plain-language **
 **The goal:** prove the machine is no longer opaque, that you can configure it, navigate it, get clean sound in and out, edit, and never lose work.
 
 **Deliverables:**
-1. A correctly **configured machine**: firmware current (5.52 or later), brightness, auto-off, and pad sensitivity set, and a **backed-up card** (show the backup folder on a computer).
+1. A correctly **configured machine**: firmware current (5.52 or later), brightness, auto-off, and pad sensitivity set, and a **backup that exists** (show the backup on the SD card, or the exported copy on a computer).
 2. A **one-page "machine map"** you author: a labeled sketch or list of the controls and what each does, the four-bus signal flow in your own words, and the five shortcuts you use most. This is your cheat sheet; making it is the learning.
-3. A **2–3 minute recording** (screen or hands) in which you: open the system menu and change a setting, play across three banks, connect a source and set a healthy level, record a dry sample with auto-trigger, trim it to a clean loop, copy it to another bank, and save.
+3. A **2–3 minute recording** (screen or hands) in which you: open the system menu and change a setting, play across three banks, connect a source and set a healthy level, record a dry sample with auto-trigger, trim it to a clean loop, copy it to another bank, and run a backup.
 
 **Rubric (20 pts):**
 
 | Criterion | Pts |
 |---|---|
-| Firmware current and card backed up (shown) | 3 |
+| Firmware current and backup shown | 3 |
 | Settings configured sensibly | 2 |
 | Machine map is accurate and genuinely yours | 4 |
 | Navigation in the recording is confident, not hunting | 4 |
 | Healthy recording level (meter strong, no clip) | 3 |
 | Clean trim and seamless loop | 2 |
-| Saved at the end, no lost work | 2 |
+| Backup current at the end, no lost work | 2 |
 
-**Pass bar:** you set the machine up, found everything without long hunting, recorded a clean sample at a good level, looped it cleanly, and saved. The map reflects real understanding, not copied text.
+**Pass bar:** you set the machine up, found everything without long hunting, recorded a clean sample at a good level, looped it cleanly, and backed up. The map reflects real understanding, not copied text.
 
 ---
 
@@ -93,7 +93,7 @@ Each project has a **deliverable**, a **points rubric**, and a plain-language **
 4. **Sequence a pattern** over it (any method) with quantize/swing.
 5. **Resample** to commit and glue.
 6. **Perform a moment**: a DJFX looper sweep, a hold-and-drum, or a DJ-mode blend.
-7. **Export or record the result** off the machine (USB into a DAW, or resample-and-export), and **save** the project.
+7. **Export or record the result** off the machine (USB into a DAW, or resample-and-export), and confirm your **backup** is current.
 
 **Rubric (40 pts):**
 
@@ -107,7 +107,7 @@ Each project has a **deliverable**, a **points rubric**, and a plain-language **
 | Resampling used on purpose | 4 |
 | A live performance moment executed | 3 |
 | Result exported/recorded off the machine | 3 |
-| Saved; no lost work; one continuous take | 2 |
+| Backed up; no lost work; one continuous take | 2 |
 
 **Pass bar (this is the whole course):** in one take, you operated every major subsystem of the SP-404 MK2, navigation, I/O, editing, the four-bus engine, the sequencer, resampling, a performance gesture, and getting the result out, **without getting lost and without the manual.** The music does not have to be good. The *operation* has to be clean. If you can do this, the machine is no longer in your way, and you are ready for the craft (the sister course, [MUS-45H](#/sp404-mk2-sampling)).
 

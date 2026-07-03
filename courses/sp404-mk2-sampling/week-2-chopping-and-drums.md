@@ -2,7 +2,7 @@
 
 > **The thesis of this week:** a loop is a found object; a *beat* is something you build. The two skills that turn one into the other are **chopping** (cutting a sample into playable pieces you can rearrange) and **drums** (a kit and a groove of your own under the sample). Add the **pattern sequencer** to play it back hands-free and **resampling** to commit your moves, and you have the entire beatmaking loop. This is the most important week of the course. Week 1 got sound into the machine; this week you make music out of it. Expect to make a lot of bad beats. That is the job. Each one teaches your ears and your fingers, and good ones start arriving faster than you would believe.
 
-Keep saving as a reflex, and keep listening with a sampler's ear all day. When you hear a song now, ask not just "would I sample this" but "where would I *chop* it."
+Keep your backup current, and keep listening with a sampler's ear all day. When you hear a song now, ask not just "would I sample this" but "where would I *chop* it."
 
 ---
 
@@ -245,7 +245,7 @@ Why it is central:
 ### Do
 1. **(10 min) Resample a chop phrase.** Take a phrase you built from chops (Day 9), play it, and resample the performance into one pad. Now you can trigger the whole phrase with one finger. Chop *that* if you want, and recompose again.
 2. **(10 min) Resample a layered drum.** Stack two samples into one fat kick or snare, resample them to a single pad, and you have a custom drum that takes one pad and one voice.
-3. **(8 min) Commit a loop.** Take a loop, get it sounding how you want (pitch, trim), resample it to a clean pad, and save. Practice the habit of committing and moving on.
+3. **(8 min) Commit a loop.** Take a loop, get it sounding how you want (pitch, trim), and resample it to a clean pad. Practice the habit of committing and moving on.
 
 ### Daily drill
 **Commit-and-continue, 4 min:** take any in-progress sound, make one decision about it, resample it, and build the next thing on top. Training yourself to *decide and commit* instead of tweaking forever is the difference between finishing beats and drowning in options.

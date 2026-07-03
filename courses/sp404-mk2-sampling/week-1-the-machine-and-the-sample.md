@@ -2,7 +2,7 @@
 
 > **The thesis of this week:** everything the SP-404 MK2 does starts with *one sound on one pad*. Before you can chop, sequence, or effect anything, you have to get a clean sample into the machine, trim it so it starts and ends where you want, and play it back in tune and in time. That is the whole craft in miniature. So Week 1 is about the loop from ear to pad: hear something, record it well, trim it, pitch it, play it. Get this solid and the rest of the course is building on rock. Rush it (record everything too quiet, leave sloppy edges on your samples) and every beat you make later will sound amateur for reasons you cannot find. Go slow and listen hard.
 
-Before Day 1, read the [Field Guide](FIELD-GUIDE.md) sections on the layout, saving, and signal flow, and **update your firmware** as it instructs. Throughout the week, "save your project" means the actual save command from the Field Guide, done as a reflex.
+Before Day 1, read the [Field Guide](FIELD-GUIDE.md) sections on the layout, storage and backup, and signal flow, and **update your firmware** as it instructs. The SP saves your work automatically as you go; what it cannot do is undo your mistakes or survive a storage failure. Throughout the course, "back up" means the actual backup from Field Guide §2, done on schedule.
 
 ---
 
@@ -10,8 +10,8 @@ Before Day 1, read the [Field Guide](FIELD-GUIDE.md) sections on the layout, sav
 
 ### Objectives
 - Identify the main parts of the machine and what each input and output is for.
-- Power up, load a project, and understand that everything lives on the SD card.
-- Save a project and know why backing up matters.
+- Power up, load a project, and understand that everything lives on the machine's internal storage.
+- Run a backup and know why it, not a save button, is what protects your work.
 - Know, in one paragraph, what a sampler is and where this one comes from.
 
 ### Listen (5 min)
@@ -21,22 +21,22 @@ Before you touch a button, **listen** to a beat made on this kind of machine. Se
 
 **A sampler is a machine that records short pieces of sound and lets you play them back from buttons.** That is the entire idea. A piano makes its own sound; a sampler plays back *recordings*, which means it can play anything: a drum hit, a horn stab, a word, a vinyl crackle. The SP-404 MK2 records sound onto its 16 pads and lets you trigger, chop, sequence, and mangle those recordings into music. Once you internalize "it is just recordings on buttons," the machine stops being mysterious.
 
-**The layout in brief** (the full tour is in [Field Guide §1](FIELD-GUIDE.md)): 16 velocity-sensitive **pads** are your playing surface; the **bank buttons** beside them give you 10 banks (A through J) of 16 pads each, per project; **REC** records; **PATTERN SELECT** opens the sequencer; the **knob** and **screen** move you through menus; **SHIFT** reaches the second function on many buttons. On the back: **LINE IN** and **MIC IN** to get sound in, **LINE OUT** and **PHONES** to get sound out, **USB-C** for power and computer transfer, and the **microSD card** that holds everything.
+**The layout in brief** (the full tour is in [Field Guide §1](FIELD-GUIDE.md)): 16 velocity-sensitive **pads** are your playing surface; the **bank buttons** beside them give you 10 banks (A through J) of 16 pads each, per project; **REC** records; **PATTERN SELECT** opens the sequencer; the **knob** and **screen** move you through menus; **SHIFT** reaches the second function on many buttons. On the back: **LINE IN** and **MIC/GUITAR IN** to get sound in, **LINE OUT** and **PHONES** to get sound out, **USB-C** for power and computer transfer, and an **SD card** slot for backups. Your work itself lives on the machine's internal storage.
 
-**Everything lives on the SD card, organized into projects.** A **project** is one world: 10 banks of samples, its patterns, its tempo, its settings ([Field Guide §2](FIELD-GUIDE.md)). When you power on, the machine loads a project and lands in **sample mode** with the pads lit, ready to play. The single most important habit you will build this week is **saving**: the machine holds your recent work in memory, and an explicit save writes it to the card so a power-off cannot erase it. Save before you power down, every time, and back up the whole card to a computer weekly. Lost work is the number-one reason beginners quit; do not be a statistic.
+**Everything lives on the machine's internal storage, organized into projects.** A **project** is one world: 10 banks of samples, its patterns, its tempo, its settings ([Field Guide §2](FIELD-GUIDE.md)). When you power on, the machine loads a project and lands in **sample mode** with the pads lit, ready to play. The SP **saves as you go**: record a sample or change a pattern and it is already written, no save button to forget. The catch is that your mistakes are written just as faithfully, and internal storage can still fail or fill. So the single most important habit you will build this week is the **backup**: copy your work out to an SD card or a computer every week. Lost work is the number-one reason beginners quit; do not be a statistic.
 
-**One paragraph of history** (the long version is in [Field Guide §6](FIELD-GUIDE.md)): the SP line began in 1998 as a cheap, gritty "Dr. Sample" box, found its soul in the **SP-303** and its **Vinyl Sim** effect (the lo-fi filter Madlib built a sound on), became the standard sampler of the beat scene through the **SP-404** family (Flying Lotus, Knxwledge, Kaytranada), and arrived in 2022 as the **MK2**: the same lo-fi heart with a modern brain. You are joining a real lineage, and the people who defined it are exactly who you will go study when you want to get better.
+**One paragraph of history** (the long version is in [Field Guide §6](FIELD-GUIDE.md)): the SP line began in 1998 as a cheap, gritty "Dr. Sample" box, found its soul in the **SP-303** and its **Vinyl Sim** effect (the lo-fi filter Madlib built a sound on), became the standard sampler of the beat scene through the **SP-404** family (Flying Lotus, Knxwledge, Kaytranada), and arrived in 2021 as the **MK2**: the same lo-fi heart with a modern brain. You are joining a real lineage, and the people who defined it are exactly who you will go study when you want to get better.
 
 ### Do: today's assignment
 1. **(10 min) Power up and look.** Plug in headphones, power on, and let it land in sample mode. Press a few pads and hear the factory samples. Identify by eye: the pads, the bank buttons, REC, SHIFT, the knob, the pitch knob, and the inputs/outputs on the back. Say each one's job out loud.
 2. **(5 min) Switch banks.** Press the bank buttons and hear how each bank is a different set of 16 pads. Press a bank button a second time to reach the "F–J" banks (it flashes). Now you have felt all 160 pad slots of a project.
-3. **(5 min) Save and back up.** Do an explicit save of the project (Field Guide §2). Then power off, take out the SD card, put it in a computer, and copy the card's folder somewhere safe. Put the card back. You now have a backup and a habit.
+3. **(5 min) Back up.** Run your first backup (Field Guide §2): put an SD card in the slot and use the backup in the UTILITY menu (hold SHIFT and press pad 13), or connect USB-C and copy your projects to a computer with the SP-404 MK2 app. Confirm it landed. You now have a backup and a habit.
 
 ### Self-check
 1. In one sentence, what is a sampler?
 2. How many banks does a project have, and how many pads per bank? So how many pad slots total?
 3. Where does everything you make get stored?
-4. What does "saving" actually do, and when must you do it?
+4. What does the SP do about saving as you work, and what habit actually protects that work?
 5. Which effect and which producer are most associated with the SP sound?
 
 ---
@@ -94,7 +94,7 @@ You set this per pad in its parameters. Get in the habit of asking, for every sa
 - Know what skip-back sampling is.
 
 ### Setup (5 min)
-Get a source ready: the simplest is your **phone or laptop** playing a song, connected to the SP's **LINE IN** with the right cable (a 3.5mm or the appropriate adapter). Or set up a **microphone** in MIC IN. Or connect a **turntable** through a phono preamp into LINE IN. Have something playing that you would enjoy chopping.
+Get a source ready: the simplest is your **phone or laptop** playing a song, connected to the SP's **LINE IN** with the right cable (a 3.5mm or the appropriate adapter). Or set up a **microphone** in MIC/GUITAR IN (a guitar or bass plugs straight in there too). Or connect a **turntable** through a phono preamp into LINE IN. Have something playing that you would enjoy chopping.
 
 ### Lecture
 
@@ -175,7 +175,7 @@ A raw recording almost always has too much on both ends. **Trimming** means sett
 - Change a sample's pitch and speed with the pitch knob.
 - Understand the difference between repitch and time-stretch.
 - Find a sample's key by ear well enough to make two samples fit together.
-- Use the half-speed sampling trick.
+- Know the sped-up sampling trick and its slowed-down inverse.
 
 ### Listen (3 min)
 Listen to a "slowed and reverbed" or "chopped and screwed" track (search either term). Notice how pitching a sample *down* makes it heavier, darker, and slower all at once. That is the most basic and most powerful sample transformation, and it is one knob on your machine.
@@ -195,7 +195,7 @@ The **pitch/speed knob** changes how fast a sample plays back. Like speeding up 
 
 You are not naming notes; you are training the same instinct that tells you a singer is flat. It develops fast with reps, and it is worth more than any chart.
 
-**The half-speed sampling trick** is a classic that costs nothing: sample a source while playing it back at **half speed** (slow the source, or sample then pitch down), then play your sample at full speed. You get extra detail in the chops and a punchier, deeper result. The inverse (sampling fast, playing slow) is the foundation of a lot of vaporwave and slowed styles. Experiment with both.
+**The sped-up sampling trick** is a classic that costs nothing: play the source *faster* than normal while you sample it (a 33 rpm record spun at 45, or a file played fast), then pitch the sample back down to the original speed. The pitch-down thickens and darkens the sound, and back when samplers measured memory in seconds it also squeezed more music into the machine; a whole era of sped-up soul chops was built on this move. The inverse is just as famous: sample at normal speed and pitch down without correcting, which is the foundation of slowed and vaporwave styles. Experiment in both directions.
 
 ### Do
 1. **(8 min) Pitch play.** Take a vocal or melodic sample and sweep the pitch knob from low to high. Find a setting you love. Notice how far down you can go before it gets muddy, and how far up before it gets thin.
@@ -209,7 +209,7 @@ You are not naming notes; you are training the same instinct that tells you a si
 1. What does the pitch/speed knob do, and what happens to length when you pitch down?
 2. What is the difference between repitch and time-stretch, and what is the trade-off?
 3. Describe, in steps, how to match two samples' keys by ear without knowing any note names.
-4. What is the half-speed sampling trick and what does it give you?
+4. What is the sped-up sampling trick, and what does pitching the sample back down do to the sound?
 5. Why do many lo-fi producers prefer repitch even though it ties pitch and tempo together?
 
 ---
@@ -239,7 +239,7 @@ This is the atom of sample-based music. A great many famous beats are, at their 
 ### Do
 1. **(10 min) Hunt.** Sample three or four candidate sections from music you love, at a healthy level. Audition them. Pick the one with the most promise as a loop.
 2. **(20 min) Prepare it.** Trim it tight, set a seamless loop point, kill any clicks, and pitch it to a key and speed that feels good. Take your time; this is the whole exam of the week, applied.
-3. **(5 min) Live with it.** Let it loop for a minute. Does it still sound good, or does a flaw reveal itself on the tenth pass? Fix anything that nags. Save the project.
+3. **(5 min) Live with it.** Let it loop for a minute. Does it still sound good, or does a flaw reveal itself on the tenth pass? Fix anything that nags.
 
 ### Quiz 1
 Take **Quiz 1** now (see `QUIZZES.md`), closed-book. Grade against `ANSWER-KEYS.md`. It covers the machine, signal flow, playing pads, recording, trimming, and pitch: Week 1's whole technical core. If you score below 90%, re-study the weak spot on tomorrow's studio day.
@@ -261,7 +261,7 @@ Today is consolidation, not new material. "Studio day" means you stop taking in 
 Reread the self-checks for Days 1–6 and answer every one from memory. Anything you fumble, reread that lecture's paragraph and do the example at the machine. The two skills everything later rests on are **recording at a healthy level (Day 3)** and **trimming a clean, seamless loop (Day 4)**, so spend the most time there. A beat is only as good as the samples under it.
 
 ### 2. The "five clean loops" drill (20 min)
-Make five usable loops from five different sources, fast. Record clean, trim tight, loop seamless, pitch to taste, save. Do not get precious; the goal is *reps* at the full sample-prep pipeline until it is automatic. Speed and cleanliness here pay off every single day of the rest of the course.
+Make five usable loops from five different sources, fast. Record clean, trim tight, loop seamless, pitch to taste. Do not get precious; the goal is *reps* at the full sample-prep pipeline until it is automatic. Speed and cleanliness here pay off every single day of the rest of the course.
 
 ### 3. Project 1: A Clean, In-Tune Loop
 Do **Project 1** (see `PROJECTS.md`). It asks you to deliver one prepared loop and a short recording of it playing, the proof that Week 1's foundation is solid. It is due end of Day 7 (or carry into the Week-2 studio day if you genuinely need it, but do not let it slide; everything ahead stands on it).

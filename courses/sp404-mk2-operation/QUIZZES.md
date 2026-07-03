@@ -26,7 +26,7 @@ Take Quiz 1 on Day 6, Quiz 2 on Day 13, and the Final Exam on Day 21.
 11. **(10)** From a cold start, open the system menu and change one setting, then return to sample mode. Smoothly, no long hunting.
 12. **(10)** Connect a source and set a healthy recording level on its loudest part (meter strong, no clip).
 13. **(10)** Record a dry sample with auto-trigger and trim it to a seamless loop.
-14. **(10)** Copy that pad to another bank, then save the project.
+14. **(10)** Copy that pad to another bank, then run a backup to an SD card or the app.
 
 ---
 
@@ -75,7 +75,7 @@ Take Quiz 1 on Day 6, Quiz 2 on Day 13, and the Final Exam on Day 21.
 12. **(10)** From a cold start, record a sound in at a healthy level and edit it onto a pad.
 13. **(10)** Route it through the bus engine (one insert, one master effect) and sequence a short pattern over it.
 14. **(10)** Resample the result to one pad.
-15. **(10)** Record the SP into a DAW over USB **or** export a sample to the computer, and save the project.
+15. **(10)** Record the SP into a DAW over USB **or** export a sample to the computer, and confirm your backup is current.
 16. **(5)** Diagnose one fault aloud: name a symptom, its cause, and fix it on the machine.
 
 > The applied parts are the real exam. Anyone can memorize the bus diagram; the course is passed by *doing* the operations cleanly, cold, without the manual. Grade Part B strictly: hesitation, undo, and guessing all cost points.

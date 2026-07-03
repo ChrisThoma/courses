@@ -2,7 +2,7 @@
 
 > **The thesis of this week:** a grooving eight-bar loop is not a song. A track has a *sound* (effects and a sonic identity), it has *parts* beyond drums and a sample (bass, melody, texture), it has *structure* (an intro, a build, a hook, a change), and it has a *mix* (every element audible and balanced so it sounds good on any speaker). This week you take the beatmaking you learned in Week 2 and finish it into music. The danger this week is the opposite of last week's: not "I cannot make anything" but "I keep starting and never finishing." The whole week is aimed at one outcome, a track you complete and would play for a friend. Finishing is a skill, and it is the one this week teaches.
 
-Keep saving and backing up. This is the week your projects start to be worth real time, so protect them.
+Keep the weekly backup current. This is the week your projects start to be worth real time, so protect them.
 
 ---
 

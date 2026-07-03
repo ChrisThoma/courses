@@ -13,7 +13,7 @@ Rules: **closed book, machine allowed only where a question says "at the machine
 4. Name the two audio inputs you can sample through.
 5. In the playback signal path, what sits between a pad's sample and the output?
 6. What is resampling, in one sentence?
-7. What is the single most important thing to do before you power off?
+7. The SP saves your work automatically. What is the one habit that still protects it, and what should you never do while the machine is writing?
 8. Name the effect and the producer most associated with the SP sound.
 
 ### Part B: Playing the pads (8 pts, 1 each)
@@ -44,7 +44,7 @@ Rules: **closed book, machine allowed only where a question says "at the machine
 5. When you pitch a sample down, what happens to its length?
 6. Describe in one line how to match two samples' keys by ear.
 7. Why might you record drums in mono?
-8. What does the half-speed sampling trick give you?
+8. What does the sped-up sampling trick give you?
 
 ### Part E: At the machine (8 pts) *(machine allowed)*
 1. (4) Record a sample at a healthy level, trim it tight, and make it loop seamlessly; self-score on level and seam.
