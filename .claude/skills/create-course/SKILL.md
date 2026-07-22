@@ -1,6 +1,7 @@
 ---
 name: create-course
-description: Use when creating, adding, or scaffolding a new self-paced course for this repo (the christhoma-courses static site), or when substantially editing an existing one. Covers the file structure, the course.json/courses.json manifests, the daily-lesson format, the required de-AI writing voice, fact-checking, review, and the deploy convention. Trigger phrases: "create a course", "add a new course", "make a course on X", "build a course".
+description: Use when creating or substantially editing a course in this repo ("create a course", "add a course on X"). Covers file structure, manifests, lesson format, voice, and review.
+disable-model-invocation: true
 ---
 
 # Creating a course for christhoma-courses

@@ -1,0 +1,49 @@
+{
+  "title": "Making a Hyperpop Song on the SP-404 MK2",
+  "subtitle": "MUS-47H · A 3-week genre production intensive",
+  "description": "Write, produce, and finish a complete hyperpop song entirely on the Roland SP-404 MK2. A genre production course that starts with where the sound came from (PC Music, SOPHIE, 100 gecs), builds its palette on the sampler (hard clipped drums, a distorted 808, supersaw-style synths from sampled notes), then puts your own voice at the center: writing a hook, recording it into the SP, and processing it with Auto Pitch, formant shift, pitch-up doubles, and stacked harmonies, before vocal chops, ear candy, a real pop arrangement, and a loud bright mix finish the song. Taught through daily lectures, reference listening, machine time, quizzes, and three projects that ladder into the final track. Builds on MUS-45H, the beatmaking course.",
+  "accent": "#d946ef",
+  "sections": [
+    {
+      "title": "Start Here",
+      "lessons": [
+        { "title": "Course Overview & How to Practice", "path": "README.md" },
+        { "title": "Syllabus", "path": "SYLLABUS.md" },
+        { "title": "Mastery Rubric", "path": "RUBRIC.md" },
+        { "title": "Field Guide: The Hyperpop Sound on the SP", "path": "FIELD-GUIDE.md" }
+      ]
+    },
+    {
+      "title": "Week 1: The Hyperpop Sound",
+      "lessons": [
+        { "title": "Days 1–7: The Genre, the Machine, Drums, the 808, Synths, Your First Loop", "path": "week-1-the-hyperpop-sound.md" }
+      ]
+    },
+    {
+      "title": "Week 2: The Voice",
+      "lessons": [
+        { "title": "Days 8–14: The Hook, Recording, Auto Pitch, Stacks, Vocal Chops, Ear Candy, the Drop", "path": "week-2-the-voice.md" }
+      ]
+    },
+    {
+      "title": "Week 3: The Song",
+      "lessons": [
+        { "title": "Days 15–21: Pop Structure, Builds, Transitions, Dynamics, the Loud Mix, Your Finished Song", "path": "week-3-the-song.md" }
+      ]
+    },
+    {
+      "title": "Practice",
+      "lessons": [
+        { "title": "Practice Menu (Drills)", "path": "DRILLS.md" }
+      ]
+    },
+    {
+      "title": "Assessments",
+      "lessons": [
+        { "title": "Projects (1–3 + The Song)", "path": "PROJECTS.md" },
+        { "title": "Quizzes & Final Exam", "path": "QUIZZES.md" },
+        { "title": "Answer Keys", "path": "ANSWER-KEYS.md" }
+      ]
+    }
+  ]
+}
