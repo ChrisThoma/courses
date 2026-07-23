@@ -62,6 +62,14 @@
       "accent": "#ea580c"
     },
     {
+      "slug": "nes-chiptune-famitracker",
+      "title": "Chiptune: Writing NES Music on the 2A03",
+      "subtitle": "MUS-8B · A 3-week chiptune composition intensive",
+      "description": "Go from never having opened a tracker to writing, mixing, and exporting a finished NES chiptune that plays on real hardware. Learn the Ricoh 2A03 voice by voice (two pulse channels, the volume-less triangle, the noise generator, DPCM samples), then the techniques composers invented to fit a whole arrangement into five monophonic voices: arpeggio for chords, a second channel for echo, and a drum kit built from hiss. Finishes with groove, transitions, mixing in a non-linear hardware mixer, the Famicom expansion chips, and export to NSF, through daily listening, lectures, tracker work, quizzes, and three projects that ladder into a capstone track.",
+      "tags": ["Chiptune", "FamiTracker", "NES / 2A03", "3 weeks"],
+      "accent": "#65a30d"
+    },
+    {
       "slug": "outdoor-garden-care-pittsburgh",
       "title": "The Home Garden: Pittsburgh",
       "subtitle": "HORT E-15 · A 3-week intensive",

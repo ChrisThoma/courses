@@ -1,0 +1,49 @@
+{
+  "title": "Chiptune: Writing NES Music on the 2A03",
+  "subtitle": "MUS-8B · A 3-week chiptune composition intensive",
+  "description": "Go from never having opened a tracker to writing, mixing, and exporting a finished NES chiptune that plays on real hardware. A composition course taught through the Ricoh 2A03: the two pulse channels and their duty cycles, the volume-less triangle, the noise generator, and DPCM samples, then the techniques a generation of composers invented to fit a whole arrangement into five monophonic voices (arpeggio for chords, a second channel for echo, a drum kit built from hiss). Finishes with groove, transitions, mixing inside a non-linear hardware mixer, a tour of the Famicom expansion chips, and export to NSF. Taught through daily listening, lectures, tracker work, quizzes, and three projects that ladder into a capstone track.",
+  "accent": "#65a30d",
+  "sections": [
+    {
+      "title": "Start Here",
+      "lessons": [
+        { "title": "Course Overview & How to Practice", "path": "README.md" },
+        { "title": "Syllabus", "path": "SYLLABUS.md" },
+        { "title": "Mastery Rubric", "path": "RUBRIC.md" },
+        { "title": "Field Guide: The Chip & the Tracker", "path": "SUPPLEMENT-the-chip-and-the-tracker.md" }
+      ]
+    },
+    {
+      "title": "Week 1: The Chip & Five Voices",
+      "lessons": [
+        { "title": "Days 1–7: The 2A03, the Tracker, Pulse, Instruments, Triangle, Noise", "path": "week-1-the-chip-and-five-voices.md" }
+      ]
+    },
+    {
+      "title": "Week 2: Writing for the Chip",
+      "lessons": [
+        { "title": "Days 8–14: The Voice Budget, Arpeggio, Echo, Pitch Effects, Drums, Song Form", "path": "week-2-writing-for-the-chip.md" }
+      ]
+    },
+    {
+      "title": "Week 3: The Finished Track",
+      "lessons": [
+        { "title": "Days 15–21: Groove, Transitions, Mixing, Expansion Chips, Style Study, Export", "path": "week-3-the-finished-track.md" }
+      ]
+    },
+    {
+      "title": "Practice",
+      "lessons": [
+        { "title": "Practice Menu (Drills)", "path": "DRILLS.md" }
+      ]
+    },
+    {
+      "title": "Assessments",
+      "lessons": [
+        { "title": "Projects (1–3 + Final Capstone Track)", "path": "PROJECTS.md" },
+        { "title": "Quizzes & Final Exam", "path": "QUIZZES.md" },
+        { "title": "Answer Keys", "path": "ANSWER-KEYS.md" }
+      ]
+    }
+  ]
+}
